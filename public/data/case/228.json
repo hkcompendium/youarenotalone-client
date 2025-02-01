@@ -1,0 +1,80 @@
+{
+  "id": "228",
+  "caseNo": null,
+  "incident": "20191026沙田",
+  "defendants": [
+    {
+      "id": "302",
+      "name": "麥",
+      "age": 20,
+      "charges": [
+        {
+          "id": "422",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        },
+        {
+          "id": "423",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有物品意圖摧毀或損壞財產,違反 《刑事罪行條例》(第200章) 第62 "
+        }
+      ]
+    },
+    {
+      "id": "303",
+      "name": "梁",
+      "age": 24,
+      "charges": [
+        {
+          "id": "424",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "襲擊在正當執行職務的警務人員,違反《侵害人身罪條例》(第212章) 第36(b)條"
+        },
+        {
+          "id": "425",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有物品意圖摧毀或損壞財產,違反 《刑事罪行條例》(第200章) 第62 (a) 條 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-19",
+  "sentenceDate": "2020-06-19",
+  "magistrate": "溫紹明",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "D1被控於2019年10月26日，在沙田大會堂沙田婚姻登記處外的公眾地方，管有一支噴漆、兩個打火機、一把扳手、一把鎅刀和剪刀，意圖用以摧毀或損壞財產。\n\nD2被控於2019年年 10 月 26 日晚上十時許，在行人路襲擊警員（用噴漆擲向警員腳部及兩次推警員胸口），以及管有一支噴漆、一個口罩及一對手套。",
+  "verdict": "D1及D2均罪名成立",
+  "verdictReason": "",
+  "sentence": "D1被最終判處120小時社會服務令。D2被最終判處120小時社會服務令。",
+  "sentenceReason": "裁判官判刑時指，D1選擇認罪，過去無任何刑事定罪記錄，而且相當年輕，只有 20 歲約。本案未有涉及使用暴力，而感化官報告中顯示D1一直都是循規蹈矩的學生，只是因社會活動，輕視了法律後果。他又指D1相當有悔意，亦有家人的支持，最終判處120小時社會服務令。\n\nD2社會服務報告正面，襲警罪是嚴重罪行，一般會判處即時監禁，但署理主任裁判官認為D2的行為不嚴重、相對輕微，考慮到被告已還押11天。D2被判控罪1 — 120小時社會服務令及控罪2 — 120小時社會服務令，同期執行。總刑期為120小時社會服務令",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 11,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

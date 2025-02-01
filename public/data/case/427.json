@@ -1,0 +1,74 @@
+{
+  "id": "427",
+  "caseNo": null,
+  "incident": "1.21毀匯豐",
+  "defendants": [
+    {
+      "id": "537",
+      "name": "*",
+      "age": 15,
+      "charges": [
+        {
+          "id": "770",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事損壞"
+        }
+      ]
+    },
+    {
+      "id": "538",
+      "name": "周",
+      "age": 16,
+      "charges": [
+        {
+          "id": "771",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "刑事損壞"
+        },
+        {
+          "id": "772",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "無牌管有無線通訊器具"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-12-16",
+  "trialDateTo": "2021-04-07",
+  "trialLength": null,
+  "verdictDate": "2021-04-07",
+  "sentenceDate": "2021-04-07",
+  "magistrate": "張潔宜 李志豪",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年1月21日，在元朗又新街37-51號滙豐銀行理財易中心，使用噴漆破壞當中的櫃員機5E60和提款機57C1。",
+  "verdict": "D2經審訊裁定刑事損壞罪成",
+  "verdictReason": null,
+  "sentence": "未成年被告D1於2020年12月16日審前覆核時在張潔宜署理主任裁判官席前承認控罪一，在2021年1月8日在張潔宜署理主任裁判官席前被判120小時社會服務令。D2就控罪一判處被告200小時社會服務令；就控罪二判處被告3000元罰款。 ",
+  "sentenceReason": "D2在審訊後定罪，談不上有悔意，上訴庭案例指出太輕的判刑對青少年罪犯有反效果。但考慮被告只有16歲，無刑事定罪紀錄，而青少年罪犯委員會亦富有經驗，他們建議判處被告社會服務令，著重更生，報告內容值得參考。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

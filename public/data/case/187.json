@@ -1,0 +1,83 @@
+{
+  "id": "187",
+  "caseNo": null,
+  "incident": "20200217天水圍",
+  "defendants": [
+    {
+      "id": "228",
+      "name": "魏",
+      "age": 19,
+      "charges": [
+        {
+          "id": "317",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        },
+        {
+          "id": "316",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用，違反《簡易程序治罪條例》(第228 章) 第17 條"
+        }
+      ]
+    },
+    {
+      "id": "229",
+      "name": "梁",
+      "age": 18,
+      "charges": [
+        {
+          "id": "319",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": " 在公眾地方管有攻擊性武器 Possession of offensive weapon in public place   違反《公安條例》(第245章) 第33條"
+        },
+        {
+          "id": "318",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用，違反《簡易程序治罪條例》(第228 章) 第17 條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "攻擊性武器"
+  ],
+  "trialDateFrom": "2020-10-05",
+  "trialDateTo": "2020-11-24",
+  "trialLength": null,
+  "verdictDate": "2020-12-04",
+  "sentenceDate": null,
+  "magistrate": "王證瑜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2020年初，來自中國的武漢肺炎肆虐香港，政府宣佈指定多區診所作檢疫中心，包括天水圍（天業路）診所，惹來居民不滿，紛紛上街抗議。",
+  "verdict": "罪名不成立",
+  "verdictReason": "王官指出本案的關鍵是2位被告是否有意圖使用本案物品。\n\n王官認為PW1-4的證供合情合理，互相支持，裁定他們是誠實可靠的證人。\n\n王官指出控方未能在以下數點達致毫無合理疑點：\n\n·2位被告是否因知道被跟蹤而放下紙袋？\n\n·案發時現場無其他人士經過，無證據指2位被告會把本案物品交予他人。\n\n·無證據指案發前至後有示威及暴力衝突。\n\n·2位被告在放下紙袋前一直是向前行和聊天，無證據指他們會使用物品攻擊別人。\n\n王官認為雖然2位被告的紙袋及背包內的物品可疑，但在有上述疑點下，他認為控方未能在本案達致毫無合理疑點下，裁定2位被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "控罪(1)：2人被控於2020年2月17日在天水圍天業路行人隧道外燈柱AB97622的公眾地方管有3個打火機、打火機機油氣罐、膠水、1袋咖啡過濾紙、2個防毒面具、3條六角匙、剪刀、玻璃瓶及1瓶洗甲水，意圖將其作任何非法用途使用；",
+    "控罪(2)：2人被控於同日同地的公眾地方，無合法權限或合理辯解而攜有一個橡皮筋發射器及89粒鋼珠。"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

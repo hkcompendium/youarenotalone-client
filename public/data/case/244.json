@@ -1,0 +1,55 @@
+{
+  "id": "244",
+  "caseNo": null,
+  "incident": "0908中環",
+  "defendants": [
+    {
+      "id": "298",
+      "name": "陳",
+      "age": 25,
+      "charges": [
+        {
+          "id": "417",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有物品意圖摧毀或損壞財產"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-26",
+  "sentenceDate": null,
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被指於2019年9月8日在中環上亞厘畢道與下亞厘畢道交界保管螺絲批、鎅刀及剪鉗各一把，意圖在無合法辯解情況下使用上述物品，以損壞其他人士的任何財物。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "485",
+  "caseNo": null,
+  "incident": "20200708中環",
+  "defendants": [
+    {
+      "id": "633",
+      "name": "馬",
+      "age": 21,
+      "charges": [
+        {
+          "id": "898",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "樂器造成的噪音煩擾，違反《噪音管制條例》(第400章) 第5(1)(a)條"
+        },
+        {
+          "id": "899",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "擴音器造成的噪音煩擾，違反《噪音管制條例》(第400章) 第5(1)(b)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "樂器造成的噪音煩擾",
+    "擴音器造成的噪音煩擾",
+    "噪音煩擾",
+    "噪音管制條例"
+  ],
+  "trialDateFrom": "2021-02-18",
+  "trialDateTo": "2021-02-18",
+  "trialLength": 1,
+  "verdictDate": "2021-02-23",
+  "sentenceDate": null,
+  "magistrate": "曾慶東",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "有人提出告發，指稱被告於2020年7月8日12:00時至12:50時期間，在皇后大道中近戲院里，使用擴音器彈奏結他表演唱歌（Glory to Hong Kong）而發出噪音，而該噪音對楊宇求而言是其煩擾的根源。",
+  "verdict": "全部罪名不成立",
+  "verdictReason": "經過分析相關證供後，裁定PW1的證供不可靠、存有內在不可能性。PW2的證供則簡單直接，是一名誠實可靠的證人。法庭拒絕接納PW1的證供，接納PW2的證供。\n\n根據PW2的證供，警方曾經到達現場兩次，分別是1227-1237時及1250後。第一次到達現場時聽不到有人唱歌，只見被告為吉他調音。\n\n分析相關證供後，法庭得出幾個可能性：\n1. PW1當天不是在1200時聽到噪音，如果相關時段屬實，PW2在第一次到達現場期間理應也聽到相關噪音。\n2. 如果PW1說接觸警察的時間就是PW2拍攝之後的時間（1303後），那麼PW1在平台聽到噪音的時間必然不會是1200時。\n\n以上的推斷均指出兩位證人的證供之間存有矛盾及內在不可能性。\n\n本案的案發位置，即戲院里，是公眾地方。被告用擴音器的確可能會有噪音。就算有人為被告拍掌等，也不代表聲音造成的煩擾就必定是在合理範圍之內的。\n\n就算這樣，PW1也是唯一可以看到傳票所致的案情，但因為PW1的證供已經被拒絕接納，故法庭不能作出相關推斷。\n\n綜上所述，控方未能一盡舉證責任，裁定被告兩項罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

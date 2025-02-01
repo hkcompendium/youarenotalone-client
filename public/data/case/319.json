@@ -1,0 +1,55 @@
+{
+  "id": "319",
+  "caseNo": null,
+  "incident": "1103沙田",
+  "defendants": [
+    {
+      "id": "403",
+      "name": "林",
+      "age": 22,
+      "charges": [
+        {
+          "id": "569",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "襲擊正在正當執行職務的警務人員，違反《侵害人身條例》(第212章) 第36(b)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-09",
+  "sentenceDate": null,
+  "magistrate": "鄧少雄",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指，2019年 11 月 3 日下午，沙田有未經批准的公眾集結。警員晚上 7 時許跑經沙田港鐵站A1 出口時，被告伸出左腳踢中張的左前小腿一下，警員感到痛楚，遂停下質問被告「點解踢我?」，被告保持緘默。警員事後聲稱小腿感到疼痛，但沒有就醫。被告被指踢中警員小腿一下，被控一項襲警罪。",
+  "verdict": "被告同意案情，控方撤控，被告簽守行為",
+  "verdictReason": "被告承認案情後，裁判官准被告自簽 2,000元、支付1000元堂費、守行為 24 個月內，守行為期間不得干犯同類(使用武力的)罪行。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "擔保金$1,000\n不准離港\n交出所有旅遊證件\n在報稱地址居住\n任何地址更改須在24小時前通知\n每週報到1次",
+  "bailmentCondition": null,
+  "remarks": "匿名令：\n2020年 4 月28 日控方就涉案警署警長身份申請匿名令，辯方明言反對。裁判官下令控辯雙方須於下次再訊前，就匿名事宜提交陳詞大綱，屆時再於庭上作口頭陳詞。\n2020年 6 月9 日控方主動撤回「匿名令」，並公開該名涉事警員姓名。\n\n辯方投訴：\n警員作拘捕時以手掩蓋被告嘴巴，不准他說出自己名字。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

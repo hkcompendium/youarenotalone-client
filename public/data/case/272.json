@@ -1,0 +1,55 @@
+{
+  "id": "272",
+  "caseNo": null,
+  "incident": "1202牛頭角",
+  "defendants": [
+    {
+      "id": "331",
+      "name": "顏",
+      "age": 85,
+      "charges": [
+        {
+          "id": "463",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "普通襲擊"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2021-01-12",
+  "sentenceDate": "2021-01-12",
+  "magistrate": "莫子聰",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於 2019 年 12 月 2 日，女事主遛狗經過東九龍文化中心地盤外，見被告顏學海在撕圍欄上的海報，女事主用電話拍下被撕掉的海報，被告出拳打她頭部2至3下，她驗傷後發現兩邊臉有觸痛和紅腫，被告在警誡下承認襲擊女事主左臉",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "監禁14天，緩刑兩年",
+  "sentenceReason": "考慮被告 85 歲才首次犯案，此前並無案底，接納本案於被告性格不符，及只是一時衝動",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

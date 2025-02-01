@@ -1,0 +1,73 @@
+{
+  "id": "214",
+  "caseNo": null,
+  "incident": "1013觀塘",
+  "defendants": [
+    {
+      "id": "259",
+      "name": "梁",
+      "age": 16,
+      "charges": [
+        {
+          "id": "363",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有攻擊性武器意圖作非法用途，違反《簡易程序治罪條例》(第228章) 第17條 "
+        },
+        {
+          "id": "364",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞，違反 《刑事罪行條例》(第200章) 第60(1)條"
+        },
+        {
+          "id": "365",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "非法集結，違反 《公安條例》(第245章)  第18條"
+        },
+        {
+          "id": "366",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "非法集結時使用蒙面物品，違反《禁止蒙面規例》(第241K章) 第3條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-09-02",
+  "sentenceDate": "2020-09-23",
+  "magistrate": "徐綺薇主任裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年10月13日全城示威，有人於觀塘道路設障及破壞餐廳。警員在觀塘巡邏時，在警車內見到觀塘道舊美沙酮診所，距離警車20-30米，四五十名黑衣人聚集。行人路上有一堆磚頭，十多名示威者向警車扔物品。被告當時深灰衣物包頭，黑色口罩，是其中一個向警車扔物品的人。警車後面被示威者用物品打中，很大聲砰一聲。警員落車沿觀塘道追截，留意到5塊磚頭分散在車道，其後在觀塘行車道迴旋處100米外截停被告，在其背囊內搜出眼罩、手套、護膝、剪刀、五把陶瓷刀及一支雷射筆。該雷射筆屬3B界別，30米內直接接觸可以造成視力受損。另外，警車事後有0.5寸 x 2寸凹陷，維修費需4300元。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "更新中心",
+  "sentenceReason": "裁判官指案情嚴重，須判羈押式刑罰，終判被告進入更生中心，稱改造被告更為適合。被告行為可挑撥示威者情緒，他置身的非法集結亦涉暴力，認同青少年罪犯委員會報告所指出，被告雖有悔意，但不足夠，須判處較大衝擊的刑罰；考慮到被告案發時只有15歲及認罪，判被告入更生中心。\n\n",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

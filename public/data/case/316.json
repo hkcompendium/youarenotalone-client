@@ -1,0 +1,55 @@
+{
+  "id": "316",
+  "caseNo": null,
+  "incident": "1111上水",
+  "defendants": [
+    {
+      "id": "396",
+      "name": "秦",
+      "age": 29,
+      "charges": [
+        {
+          "id": "555",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-08",
+  "sentenceDate": "2020-05-08",
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019 年 11 月 11 日，被告被控於上水百和路與掃管埔跑交界無合法權限或解釋，留下一個塑膠護欄，所佔範圍約一條行車線，對在上述公眾地方的車輛造成阻礙。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "罰款 2 千元，判監 4 星期緩刑 3 年。",
+  "sentenceReason": "被告無律師代表，主動認罪亦無求情說話。署理主任裁判官蘇文隆指，鑑於案發時及被捕過程中沒有暴力發生，被告用來堵路的物品亦非易燃物，沒有危險性，而且被告無案底又主動認罪",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "無律師代表",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "384",
+  "caseNo": null,
+  "incident": "0701金鐘",
+  "defendants": [
+    {
+      "id": "464",
+      "name": "袁",
+      "age": 36,
+      "charges": [
+        {
+          "id": "655",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "非法集結"
+        },
+        {
+          "id": "658",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "襲警"
+        }
+      ]
+    }
+  ],
+  "description": "被告人於7月21日刑滿出獄，8月31日從機場離港。\n\n律政司於8月17日提出刑期覆核 (CAAR6/2020)。上訴庭考慮後，裁定原審裁判官判刑明顯過輕，同意以15個月監禁為量刑起點，認罪扣減至10個月，已服刑完畢等因素再減一個月，改判監九個月，並發出拘捕令。",
+  "tags": [],
+  "trialDateFrom": "2020-06-23",
+  "trialDateTo": "2020-06-23",
+  "trialLength": null,
+  "verdictDate": "2020-06-23",
+  "sentenceDate": "2020-06-23",
+  "magistrate": "林希維",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年 7 月 1 日清晨約 7 時，有逾百名反修例示威者於金鐘一帶聚集，並佔領夏慤道兩條行車線，警方則於警察總部外設立防線，並多次要求示威者離開及不要衝擊警方防線，否則使用武力。惟現場示威者並沒有離去，更將設置的路障推近警方防線，期間身形肥胖的被告站於示威者防線前右方，並曾移動鐵馬靠近警方防線及大聲指罵警方，亦有人向警方投擲磚頭等雜物及設置傘陣。其後，有警員走出防線進行驅散，被告一度跌倒後遭警方制服，即場被捕。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "6星期監禁",
+  "sentenceReason": "此案必定會判以即時監禁，表示被告的兒子在這裡，明白他看到父親離開會有衝擊，但法庭不可以因為兒子在場就偏離職責，表示不希望兒子因為這件事情而影響到其成長，寄語被告在案件徹底完結後要好好禰補離開了家庭期間造成的情況。\n\n參考上訴庭的指引 CAAR 4/2019後，認為此案之案情有其輕微及嚴重的成分。輕微的是涉及的暴力程度低；案中雖沒人受到嚴重傷害，但涉案人數多。\n\n考慮求情及各項因素後，以9星期即時監禁作量刑起點，被告即時認罪可扣減1/3刑期。判處六星期即時監禁。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "於2019年7月1日，在金鐘夏慤道與演藝道交界參與非法集結。"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

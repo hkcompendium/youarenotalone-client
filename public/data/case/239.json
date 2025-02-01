@@ -1,0 +1,61 @@
+{
+  "id": "239",
+  "caseNo": null,
+  "incident": "1027旺角",
+  "defendants": [
+    {
+      "id": "290",
+      "name": "楊",
+      "age": 21,
+      "charges": [
+        {
+          "id": "407",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有適合作非法用途的工具"
+        },
+        {
+          "id": "408",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有適合作非法用途的工具（原傳票案控罪）"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-10-15",
+  "trialDateTo": "2020-10-16",
+  "trialLength": 1,
+  "verdictDate": "2020-11-05",
+  "sentenceDate": "2020-11-05",
+  "magistrate": "鄭念慈",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年10月27晚上11點左右有示威者非法聚集，十字路口有路障，警員去到亞皆老街控制示威者，觀察超過100名示威者。警員追截參與者，彌敦道追向旺角道，要求被告停止，被告繼續逃走 ，用警棍拘捕被告，搜出2士巴拿和1捆索帶",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "160小時社會服務令",
+  "sentenceReason": "被告出身基層，成績優秀，大學畢業後即將成為物理治療師。被告親撰求情信稱，犯案前明顯未學懂「其他人有其他立場、責任和工作」，惟羈留期間有機會與警員交流，了解自己與警方立場的差異，明白自己立場不一定全部正確。裁判官認為，被告悔意不止於犯罪，更明白自己犯罪的原因，相信重犯機會不高。\n\n裁判官指雖然案情有一定嚴重性，但強調判刑除要顧及阻嚇效果，也要顧及被告更生的因素，考慮到被告的悔意及背景，判處160小時社會服務令。",
+  "bailment": "不獲批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

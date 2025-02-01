@@ -1,0 +1,60 @@
+{
+  "id": "447",
+  "caseNo": null,
+  "incident": "0714沙田",
+  "defendants": [
+    {
+      "id": "567",
+      "name": "蔡",
+      "age": 22,
+      "charges": [
+        {
+          "id": "821",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲擊在正當執行職務的警務人員，違反《侵害人身罪條例》(第212章) 第36(b)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "0714沙田",
+    "李志豪裁判官",
+    "襲警",
+    "覆核聆訊"
+  ],
+  "trialDateFrom": "2020-07-06",
+  "trialDateTo": "2020-07-08",
+  "trialLength": 3,
+  "verdictDate": "2020-07-29",
+  "sentenceDate": null,
+  "magistrate": "李志豪",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "D被指於19年7月14日，在沙田新城市廣場襲擊正在執行職務的警務人員。",
+  "verdict": "罪名不成立",
+  "verdictReason": "法庭裁定錄影片段屬於事後後段的情況，片段屬中性，可以支持控辯雙方案情，在缺乏其他證據的情況下，控方案情只能依賴PW1的供詞。\n\n法庭接納辯方對PW1受襲過程的質疑：PW1在庭上作供指稱被告使用雨傘插中PW1，唯書面證供只提及被擊中，裁判官明白事件發生在電光火石間，但認為插中以及擊中是兩個不同的動作，證供可信性成疑。\n\n加上PW1供稱被告人推撞他的事情並沒有片段支持，控方未能證明襲擊前有何身體接觸。而PW1正在追截黑衣人，理應不會與被告人發生衝突，法庭不能排除被告的開脫證供。\n\n法庭裁定被告人罪名不成立。\n\n裁判官批准訟費申請。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "2021年2月22曰，法庭駁回律政司有關訟費覆核的申請，辯方可就訟費作申請。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "律政司向原審裁判官提出訟費覆核申請。",
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

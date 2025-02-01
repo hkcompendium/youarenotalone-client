@@ -1,0 +1,57 @@
+{
+  "id": "164",
+  "caseNo": null,
+  "incident": "20200519觀塘",
+  "defendants": [
+    {
+      "id": "196",
+      "name": "張",
+      "age": 19,
+      "charges": [
+        {
+          "id": "276",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "普通襲擊"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "普通襲擊"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-11-18",
+  "magistrate": "莫子聰",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告今年5月19日下午約6時，在港鐵觀塘站「跳閘」，遭休班警截停。其間港鐵職員表示要票控被告，被告突出手推職員的右肩，並拔腿逃離現場。休班警通知電台，被告終遭另一名警員截停拘捕。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "80 小時社會服務令",
+  "sentenceReason": "裁判官指如被告不喜歡相關交通工具，可以選擇不乘搭，但不應跳閘，及遭揭發後干犯其他罪行。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "(1) 普通襲擊，違反《侵害人身罪條例》(第212章) 第40條"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

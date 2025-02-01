@@ -1,0 +1,74 @@
+{
+  "id": "231",
+  "caseNo": null,
+  "incident": "0930旺角",
+  "defendants": [
+    {
+      "id": "278",
+      "name": "黃",
+      "age": null,
+      "charges": [
+        {
+          "id": "393",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "無牌管有無線電通訊器具，違反《電訊條例》(第106章) 第8條"
+        },
+        {
+          "id": "394",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "無牌管有無線電通訊器具，違反《電訊條例》(第106章) 第8條"
+        }
+      ]
+    },
+    {
+      "id": "279",
+      "name": "劉",
+      "age": null,
+      "charges": [
+        {
+          "id": "395",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "無牌管有無線電通訊器具，違反《電訊條例》(第106章) 第8條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-10-12",
+  "trialDateTo": "2020-10-12",
+  "trialLength": 1,
+  "verdictDate": "2020-10-12",
+  "sentenceDate": "2020-11-09",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，D1(黃)在2019年8月31日於柏麗酒店房間內，無牌管有一個無線電通訊器具。D1及D3(劉)另被控於2019年9月30日，在旺角景亮大廈一單位內，無牌管有無線電通訊器具。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "12個月感化令，繳付堂費$500(從保釋金扣除)",
+  "sentenceReason": "採納報告建議判處12個月感化令。\n",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

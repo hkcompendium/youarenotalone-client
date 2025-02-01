@@ -1,0 +1,55 @@
+{
+  "id": "434",
+  "caseNo": null,
+  "incident": "1019西環",
+  "defendants": [
+    {
+      "id": "548",
+      "name": "雷",
+      "age": 36,
+      "charges": [
+        {
+          "id": "784",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事損壞罪"
+        }
+      ]
+    }
+  ],
+  "description": "於2020年7月3日，被告以1000元自簽守行為12個月，期間不能再損害他人財物。",
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-03",
+  "sentenceDate": null,
+  "magistrate": " 何俊堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年10月19日在西環石山街11號Lexington Hill對面，無合法辯解而損壞一道牆，被控一項刑事毀壞罪。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

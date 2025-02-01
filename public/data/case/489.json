@@ -1,0 +1,61 @@
+{
+  "id": "489",
+  "caseNo": null,
+  "incident": "0630金鐘",
+  "defendants": [
+    {
+      "id": "637",
+      "name": "鄭",
+      "age": 61,
+      "charges": [
+        {
+          "id": "905",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "普通襲擊"
+        },
+        {
+          "id": "906",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "普通襲擊"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "林子勤裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年6月30日，在中環添美道立法會綜合大樓2號公眾人口外襲擊《大公報》記者周峻峯及《HK01》記者陳淑霞。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "150小時社會服務令",
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "623",
+  "caseNo": null,
+  "incident": "20200522將軍澳",
+  "defendants": [
+    {
+      "id": "860",
+      "name": "梁",
+      "age": 18,
+      "charges": [
+        {
+          "id": "1261",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "攻擊性武器"
+  ],
+  "trialDateFrom": "2021-04-14",
+  "trialDateTo": "2021-04-14",
+  "trialLength": 1,
+  "verdictDate": "2021-04-14",
+  "sentenceDate": null,
+  "magistrate": "鍾明新",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2020年5月22日在將軍澳彩明商場266號舖「魚池拾捌」外的公眾地方，攜有攻擊性武器，即一把咭片型摺刀。",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官鍾明新指出，警員李梓陽在辯方盤問時多次表示記不清楚，顯示他對案件細節並不熟悉，也沒有準確觀察到被告的情況。\n\n裁判官表示，涉案物品的用途很廣泛，當天也沒有發生特殊事件，因此缺乏足夠證據證明被告有傷人意圖。然而，考慮到被告自己承認有嫌疑，裁判官決定不批給訟費。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

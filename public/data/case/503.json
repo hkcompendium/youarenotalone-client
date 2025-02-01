@@ -1,0 +1,68 @@
+{
+  "id": "503",
+  "caseNo": null,
+  "incident": "0803旺角",
+  "defendants": [
+    {
+      "id": "657",
+      "name": "李",
+      "age": 22,
+      "charges": [
+        {
+          "id": "934",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "658",
+      "name": "Pioquinto",
+      "age": 36,
+      "charges": [
+        {
+          "id": "935",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "非法集結"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2019-11-26",
+  "sentenceDate": null,
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "在2019年8月3日，在彌敦道及快富街交界非法集結。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "D1向高等法院申請司法覆核，質疑九龍城裁判法院向警方批出搜查令，讓警方可以搜查警察總部內裏物品的方式，檢取、複製、儲存被捕者交出的手機及電腦等資料。李永豪的申請書指出，法庭手令容許警員可無限制地存取被捕人的電子通訊內容，並且可監視來電及通訊，是濫用程序進行大規模監控，而且是在無監管的情況下於警察總部內進行，認為法院和警方違反《基本法》及《香港人權法案條例》。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

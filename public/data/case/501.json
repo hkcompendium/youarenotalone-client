@@ -1,0 +1,68 @@
+{
+  "id": "501",
+  "caseNo": null,
+  "incident": "0930屯門",
+  "defendants": [
+    {
+      "id": "654",
+      "name": "楊",
+      "age": 26,
+      "charges": [
+        {
+          "id": "931",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用，違反《簡易程序治罪條例》第17條"
+        }
+      ]
+    },
+    {
+      "id": "655",
+      "name": "莊",
+      "age": 25,
+      "charges": [
+        {
+          "id": "932",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用，違反《簡易程序治罪條例》第17條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-04",
+  "sentenceDate": null,
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於9月30日在青山公路青山灣段舊咖啡灣泳灘，管有適合作非法用途的工具，即58個裝有液體的氣球、一個容量640毫升並裝有可疑易燃液體的樽、一包麵粉、一罐一公升藍色油漆、七樽油漆、一個115毫升的辣椒油空樽、五樽墨水、一樽40克胡椒粉、四碗混合液體、一個打火機、15個開了孔的網球、20盒火柴、一卷麻繩、一卷強力膠紙、一把剪刀、一盒塑膠手套，以及一把長15厘米但刀片僅長1厘米的美工刀，意圖將其作非法用途使用。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

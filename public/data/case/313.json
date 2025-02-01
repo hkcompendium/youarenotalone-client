@@ -1,0 +1,83 @@
+{
+  "id": "313",
+  "caseNo": null,
+  "incident": "1103元朗",
+  "defendants": [
+    {
+      "id": "449",
+      "name": "關",
+      "age": 25,
+      "charges": [
+        {
+          "id": "633",
+          "verdict": "成立",
+          "plea": null,
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用，違反《簡易程序治罪條例》(第228章) 第17條 "
+        },
+        {
+          "id": "634",
+          "verdict": "成立",
+          "plea": null,
+          "charge": "管有攻擊性武器，違反《公安條例》(第245章)  第33條"
+        }
+      ]
+    },
+    {
+      "id": "450",
+      "name": "林",
+      "age": 20,
+      "charges": [
+        {
+          "id": "635",
+          "verdict": "成立",
+          "plea": null,
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        },
+        {
+          "id": "636",
+          "verdict": "成立",
+          "plea": null,
+          "charge": "未能出示身份證明文件"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-07-07",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於19年11月3日在元朗馬田路朗景臺附近，D1管有6瓶載有高度易燃的有機混合物液體、2罐石汽油、2個打火機、2塊爛布、1個漏斗、1個錘及1支登山杖 [控罪1]；有一把刀和一個屬於3B類別的雷射光束的裝置 [控罪2]\n\nD2則涉於同日同地管有1個錘及1支65cm長登山杖[控罪3]，無法出示身份證明文件[控罪4]。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "D1：第一控罪：十個月即時監禁、第二控罪：四個月即時監禁、同期執行，合共十個月；D2：第三控罪：更生中心、第四控罪：五百元罰款",
+  "sentenceReason": "第一被告現年25歲，單親，無刑事定罪記錄。報告中提到被告十分愛護家人，並已作出深切反省，然而法庭不能忽略案件嚴重性。於本案，被告辯稱帶這些物品為自我防衛，法庭不認同管有6瓶載有高度易燃的有機混合物液體、2罐石汽油、2個打火機、2塊爛布、1個漏斗、1個錘及1支登山杖是用作保護自己，這些更會傷害他人，對他人而言十分危險。而雷射筆更會傷害他人眼睛。因此法庭需要有即時監禁式的懲罰，以讓被告有深刻反省。\n\n控罪一以15個月為量刑起點，認罪後扣減三份一為10個月。控罪二以6個月為量刑起點，認罪後扣減三份一變為4個月。\n兩項控罪與同時發生，因此刑期會同期執行，即合共10個月。\n\n第二被告現年20歲，單親，希望畢業後到日本繼續學習。當日，元朗721事件令被告感到不安，因此帶了案中工具，並仍然堅持到案發現場。法庭認為，被告於這種時候帶這些有一定殺傷力的物品到這個地方，是十分嚴重的。被告的行為需要受到法律懲處，因此法庭不能接納社會服務令報告的建議。\n\n控罪三判被告入更生中心，控罪四則判$500罰款。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "1. 管有適合作非法用途的工具並意圖作非法用途使用 [D1]",
+    "2. 管有攻擊性武器 [D1]",
+    "3. 管有適合作非法用途的工具並意圖作非法用途使用 [D2]",
+    "4. 未能出示身份證明文件 [D2]"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

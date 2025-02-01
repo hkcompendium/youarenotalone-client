@@ -1,0 +1,57 @@
+{
+  "id": "556",
+  "caseNo": null,
+  "incident": "1118旺角",
+  "defendants": [
+    {
+      "id": "727",
+      "name": "李",
+      "age": 26,
+      "charges": [
+        {
+          "id": "1031",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用，違反《簡易程序治罪條例》(第228 章) 第17 條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "管有工具作非法用途"
+  ],
+  "trialDateFrom": "2021-03-10",
+  "trialDateTo": "2021-03-10",
+  "trialLength": null,
+  "verdictDate": "2021-03-10",
+  "sentenceDate": "2021-04-09",
+  "magistrate": "鄭念慈",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年11月18日在旺角東港鐵站往紅磡港鐵站中間路軌明渠內，管有一把21厘米長黃色剪鉗。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "判處240小時社會服務令",
+  "sentenceReason": "求情：\n案發25歲，現年27歲，是地盤測量師，與家人同住。\n是次案件與理大有關，被告得知理大有很多年輕學生被困，所以放工去看需不需要支援，但沒接近暴力衝突的地方。\n第二早，被告在校園找到地方進入路軌，身上搜出的主要是個人物品，例如電腦,電話，至於鎅刀剪刀只是文具。剪鉗是在理大裏拾到，看有沒有需要用的時候，剪鉗可以剪細小物品 。鄭念慈質疑不知有甚麼用的話，為何要撿取，辯方解釋指以備不時之需。\n\n呈上3封求情信：\n第1封由僱主寫，被告品性良好。中學畢業就工作，但沒放棄學業，有去夜校，學業亦算成功，有持續讀下去，亦有將來的夢想。\n第2封由某家人寫，被告品性良好。因為家人身體不好，只能從事微薄工作，所以被告擔任家庭支柱，薪金優先交給家庭，剩下的用作自己學費。\n第3封是自己寫，主要關於有悔意。\n\n法庭有意判處監禁，所以在3月10日將被告還押，在3月24日判刑時因未收到社會服務令報告，批准被告可保釋；4月9日法庭在判刑時表示主要考慮到被告有悔意，背景未算太差下，判處240小時社會服務令。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 14,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

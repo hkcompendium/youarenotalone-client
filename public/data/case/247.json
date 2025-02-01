@@ -1,0 +1,55 @@
+{
+  "id": "247",
+  "caseNo": null,
+  "incident": "1225旺角",
+  "defendants": [
+    {
+      "id": "301",
+      "name": "唐",
+      "age": 17,
+      "charges": [
+        {
+          "id": "421",
+          "verdict": "撤銷控罪",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖損壞財產"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-08-26",
+  "trialDateTo": "2020-08-26",
+  "trialLength": null,
+  "verdictDate": "2020-08-26",
+  "sentenceDate": null,
+  "magistrate": "劉淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指，當晚有警員在旺角朗豪坊附近巡邏，巡至恆生銀行外，看到被告在彌敦道來回行走，並身穿典型示威者裝束，遂上前截查。警員從他的背包內找到一把長 17 厘米的摺刀、兩把 30 厘米的鐵鎚、防毒面罩及護膝等物品。被告在警誡下保持緘默。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "以 1,500 元自簽守行為 12 個月",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

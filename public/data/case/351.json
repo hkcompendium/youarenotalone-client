@@ -1,0 +1,73 @@
+{
+  "id": "351",
+  "caseNo": null,
+  "incident": "1018牛頭角",
+  "defendants": [
+    {
+      "id": "435",
+      "name": "徐",
+      "age": 18,
+      "charges": [
+        {
+          "id": "617",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "非法集結"
+        },
+        {
+          "id": "618",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "在身處非法集結時使用蒙面物品"
+        },
+        {
+          "id": "1054",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方打鬥 "
+        },
+        {
+          "id": "1055",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "普通襲擊"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-07-16",
+  "trialDateTo": "2020-07-16",
+  "trialLength": 1,
+  "verdictDate": "2020-07-16",
+  "sentenceDate": "2020-08-27",
+  "magistrate": "梁少玲",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年10月18日，在香港九龍秀茂坪牛頭角道297號玉蓮臺地下外與一名不知名男子參與非法打鬥，以及襲擊男子吳耀華。",
+  "verdict": "公眾地方打鬥罪名成立；普通襲擊罪名不成立",
+  "verdictReason": "普通襲擊罪：表證不成立\n被告與較年長男子發生爭執，PW1見被告兩次右腳提起，上前蚊住被告，引致被告與他一同跌倒，亦休克2至3秒，中間沒有任何事情發生。\nPW2見到被告與較年長男子爭執，勸交男子上前箍頸，見到被告人上半身向左前移動，PW2用「郁一郁、西一西」等字眼都沒有提及批踭。\n裁判官指片段上只見到PW1用手箍被告頸，並沒有見到被告批踭。由於控方證人證供未能支持控方案情，因此，控罪4 表證不成立",
+  "sentence": "裁判官判處12個月感化令，需遵守以下附加條件：(1) 規管工作居住地點；(2) 接受心理治療；(3) 參加社區工作；(4) 宵禁 (法庭接受部分辯方陳詞，延後宵禁時間) 0000-0600",
+  "sentenceReason": "裁判官認為控罪並非十分輕微，有一定嚴重性。案情指被告與拍攝示威者的另一男子起爭執，被告惡言相向，要求男子展示並意圖搶去男子手機，更一度試圖踢向男子，顯示被告有使用一定程度武力。法庭認為武力程度超越合理反應與程度，守行為命令並不能反映案件嚴重性。\n\n與此同時，法庭亦需考慮被告背景。被告案發時剛成年，沒有案底。考慮辯方呈交坊間非政府組織 (NGO)撰寫的報告，顯示被告在學業及與人相處有困難，加上專注力狀況可能為本案成因之一。法庭為被告索取的感化報告正面，顯示被告願意與家人溝通，家人亦接受。被告運動表現出色，甚至可以成為港隊代表。但無論如何，最重要是多方面可以顯示被告有反省，亦願意接受法律後果，具正面態度。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "辯方曾於庭上投訴被告被捕後於警署內被帶至一間暗房，遭人毆打約 10 分鐘，但他無法辨認毆打者的身份。據悉，被告遭毆打後需送院治理，留醫 4日。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

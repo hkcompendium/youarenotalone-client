@@ -1,0 +1,80 @@
+{
+  "id": "608",
+  "caseNo": null,
+  "incident": "1013旺角",
+  "defendants": [
+    {
+      "id": "840",
+      "name": "Nahyan",
+      "age": 17,
+      "charges": [
+        {
+          "id": "1239",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞，違反《刑事罪行條例》(第200章) 第60條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "孟加拉裔手足",
+    "交通燈"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-30",
+  "sentenceDate": "2020-07-14",
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年10月13日在九龍登打士街近彌敦道交界，無合法辯解而損壞屬於運輸署的交通燈，意圖損壞該財產或罔顧該財產會否被損壞。\n他的行為被傳媒拍低，警方 4 日後在其住所外拘捕他。他在警誡下承認犯案，並指自己「頑皮，是個愚蠢的決定，希望自己從沒做過」。",
+  "verdict": "罪名成立\n賠償機電工程署$10,409\n押後2週索取勞敎中心、更新中心、感化報告\n\n押後至7月14下午14:30九龍城一庭判刑\n還押候判",
+  "verdictReason": null,
+  "sentence": "判以18個月居家感化令，住報稱地址，每半年向感化官報告一次。賠償機電工程署$10,409",
+  "sentenceReason": "法庭索取勞敎中心、更新中心、感化報告後，滿意報告結果，判以18個月居家感化令，住報稱地址，每半年向感化官報告一次。\n\n\n",
+  "bailment": "批准",
+  "bailmentRemarks": "被影到，當晚在回住所後被補。承認愚蠢犯案，後悔不應。\n\n認罪\n\n求情：\n衝動犯案，冇預謀現場執鐵通犯案\n警誡第一時間認罪\n冇同類案底\n\n青少年中心（此前保釋條件禁止回家）的社工，學校社工丶英文老師求請信\n\n罪名成立\n賠償機電工程署$10,409\n押後2週索取勞敎中心、更新中心、感化報告",
+  "bailmentCondition": "可上課但不可回家，須住在青少年中心",
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "3278",
+        "content": "#九龍城裁判法院第十二庭\n#嚴舜儀主任裁判官\n#1013旺角 #判刑\n\n孟加拉手足（17）\n\n判刑：\n滿意報告結果，判以18個月居家感化令，住報稱地址，每半年向感化官報告一次\n\n嚴官：Don't disappointed me\n\n直播員按：超級細聲，同英文差，對唔住",
+        "url": "https://t.me/youarenotalonehk_live/6932",
+        "source": "法庭文字直播台",
+        "datetime": "2020-07-14T07:09:37.000Z"
+      },
+      {
+        "id": "3057",
+        "content": "#九龍城裁判法院第十三庭\n#嚴舜儀主任裁判官 #提堂\nREZA 孟加拉裔手足 (17) #1013旺角\n\n控罪：刑事損壞\n他被控於2019年10月13日在九龍登打士街近彌敦道交界，無合法辯解而損壞屬於運輸署的交通燈，意圖損壞該財產或罔顧該財產會否被損壞。\n\n被影到，當晚在回住所後被補。承認愚蠢犯案，後悔不應。\n\n認罪\n\n求情：\n衝動犯案，冇預謀現場執鐵通犯案\n警誡第一時間認罪\n冇同類案底\n\n青少年中心（此前保釋條件禁止回家）的社工，學校社工丶英文老師求請信\n\n罪名成立\n賠償機電工程署$10,409\n押後2週索取勞敎中心、更新中心、感化報告\n\n押後至7月14下午14:30九龍城一庭判刑\n還押候判",
+        "url": "https://t.me/youarenotalonehk_live/6529",
+        "source": "法庭文字直播台",
+        "datetime": "2020-06-30T04:56:29.000Z"
+      },
+      {
+        "id": "1025",
+        "content": "#九龍城 16-12-2019 14 [tel:16-12-2019 14]：30 (2586)\nREZA\n刑事損壞\n提堂\n\n延長保釋，2月10日過堂聆訊。保釋期內在父親公司返工，并在寄宿機構內遙距學習凖備下年DSE\n\n背景\n孟加拉裔被告(17) - 刑事損壞 #1013旺角 以鐵通打破一支交通燈及零件，過程被傳媒拍到；可上課但不可回家，須住在青少年中心",
+        "url": "https://t.me/youarenotalonehk_live/2376",
+        "source": "法庭文字直播台",
+        "datetime": "2019-12-16T06:58:12.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "603",
+  "caseNo": null,
+  "incident": "0315金鐘",
+  "defendants": [
+    {
+      "id": "816",
+      "name": "林",
+      "age": 24,
+      "charges": [
+        {
+          "id": "1205",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "普通襲擊，違反《侵害人身條例》(第212章) 第40條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "闖政總"
+  ],
+  "trialDateFrom": "2020-07-15",
+  "trialDateTo": "2020-07-15",
+  "trialLength": 1,
+  "verdictDate": "2020-07-15",
+  "sentenceDate": null,
+  "magistrate": "何俊堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "聲稱被撞的政府外判保安員，駐守政府總部2年，他供稱當日收到上司通知指有示威者會到場，怕他們會衝入，因此他守在政府總部東翼大堂閘機防止有人衝入。保安員稱目睹被告衝進東翼大堂，但忘記其身形以及在哪邊門衝入。保安看到被告在與其相距3米的位置衝入，於是在被告衝到閘機之前，上前將他捉住，並稱：「被佢撞一撞，我就跌低左。」控方問及保安員被撞擊的力度及跌倒方向時，梁卻稱：「形容唔到，唔記得左」，又否認是自己失平衡跌倒。\n\n後來控方再度查問下，保安員才改稱是自己捉住被告背包，然後兩人一同跌倒，而被告則面向著自己並壓在其心口。閉路電視片段亦顯示兩人跌倒後，保安員壓住被告。\n\n保安員供稱被壓後「有少少痛，唔舒服，痛一陣就無」，而臀部則被自己右褲袋的電話壓至痛楚。控方追問哪一部位痛時，保安員回答：「呢度又痛，嗰度又痛。」在跌低後，保安員稱被告掙扎，「意識想繼續衝，所以抆住佢。」",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官在裁決時指，閉路電視片段顯示保安主動由原位衝前攔截正衝入的被告，未有看到被告有撞擊動作，而兩人拉扯後被告跌倒，不排除保安失平衡跌在其身上，保安的臀部亦沒有碰到地面，片段與保安口供有很大程度出入。另外保安未能形容被告身形及撞擊力度，又稱事發時間距離至今很久，未能記起細節，因此何官拒絕接納其證供。裁判官在續指，由於未能證明保安跌倒是由被告導致，因此裁定罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "被控於2019年3月15日，在香港添馬添美道2號政府總部東翼地下公眾入口大堂內，襲擊保安。"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "3303",
+        "content": "#東區裁判法院第七庭\n#何俊堯裁判官\n#0315金鐘 #審訊\n\n林朗彥 (眾志主席)\n\n控罪：普通襲擊\n被控於2019年3月15日，在添馬添美道2號政府總部東翼地下公眾入口大堂內，襲擊男子梁炳森。\n\n請參閱資訊台新聞\nhttps://t.me/youarenotalonehk_info/3608 [https://t.me/youarenotalonehk_info/3608]\n\n罪名不成立",
+        "url": "https://t.me/youarenotalonehk_live/6974",
+        "source": "法庭文字直播台",
+        "datetime": "2020-07-15T05:03:07.000Z"
+      }
+    ]
+  }
+}

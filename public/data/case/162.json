@@ -1,0 +1,65 @@
+{
+  "id": "162",
+  "caseNo": null,
+  "incident": "0922太子",
+  "defendants": [
+    {
+      "id": "195",
+      "name": "陳",
+      "age": 49,
+      "charges": [
+        {
+          "id": "274",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器 "
+        },
+        {
+          "id": "275",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "抗拒在正當執行職務的警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "雷射筆",
+    "#攻擊性武器",
+    "拒捕"
+  ],
+  "trialDateFrom": "2020-12-09",
+  "trialDateTo": "2020-12-10",
+  "trialLength": 2,
+  "verdictDate": "2021-01-04",
+  "sentenceDate": null,
+  "magistrate": "施祖堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "大批市民 2019 年 9 月 22 日在旺角警署外聚集，其中一名運輸工被指管有鐳射裝置。警員向被告宣佈拘捕及警誡時，被告突然情緒激動，並斥「收皮啦，死黑警」，並用身體「揈開」警員。",
+  "verdict": "罪名不成立",
+  "verdictReason": "庭上並沒有任何直接證供，故只能依賴環境證供作推論。觀乎現場情況，除一名男子在警署外塗鴉外，沒有證供顯示出當時有示威，或針對警方的活動，反而現場有不少途人經過，故單憑在被告身上搜出鐳射筆，難以推斷其傷人意圖。\n\n被告出言侮辱有可能發生，但被告當時必然意會到自己單人匹馬置身警署內部，同時被 3 警押解，根本沒有任何機會逃脫，警員所述的場面及經過不合理，拒絕接納其有關追捕以及在大堂調查的證供。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "於2019 年 9 月 22 日在港鐵太子站外的公眾地方，非法管有一支發出鐳射光束的裝置，同日在太子站 C1 出口抗拒警員執行職務。"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "verified",
+  "references": {
+    "nodes": []
+  }
+}

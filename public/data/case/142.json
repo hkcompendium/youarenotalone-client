@@ -1,0 +1,55 @@
+{
+  "id": "142",
+  "caseNo": null,
+  "incident": "1225旺角",
+  "defendants": [
+    {
+      "id": "166",
+      "name": "李",
+      "age": 17,
+      "charges": [
+        {
+          "id": "233",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "無牌管有無線電通訊器具，違反《電訊條例》(第106章) 第8條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-25",
+  "sentenceDate": "2020-08-25",
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年12月25日，在旺角介乎彌敦道與砵蘭街的豉油街，無牌管有兩部對講機。",
+  "verdict": "撤回控罪",
+  "verdictReason": null,
+  "sentence": "1000元自簽守行為24個月",
+  "sentenceReason": "被告同意案情，裁判官裁定以簽保守行為方式處理。以1000元自簽守行為24個月，期間不得干犯無牌管有通訊設備等罪行，並需維持社會安寧。關於訟費，裁判官決定可著情處理，被告需繳交300元訟費，在擔保金中扣除。\n",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "400",
+  "caseNo": null,
+  "incident": "20200126旺角",
+  "defendants": [
+    {
+      "id": "488",
+      "name": "顧",
+      "age": 23,
+      "charges": [
+        {
+          "id": "693",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有違禁武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-05-21",
+  "trialDateTo": "2020-05-21",
+  "trialLength": null,
+  "verdictDate": "2020-05-21",
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2020年 1 月 26 日晚上約 9 時半，有兩名警員正在旺角調查一宗發生在山東街及砵蘭街的襲擊案。被告戴著口罩行至現場，見到警方後即走開。警員遂追截被告，被告跑入一間餐廳，並在門口丟下口罩及斜孭袋，警員最終在餐廳廚房將他截查。警方在該斜孭袋內搜獲一支伸縮棍、黑色手套及電筒，被告承認該斜孭袋為他屬有。在警誡下，被告表示涉案伸縮棍購自台灣，因為現時本港襲擊事件經常發生，故買來用於自衛。（節錄自立場新聞）",
+  "verdict": "罪名不成立",
+  "verdictReason": null,
+  "sentence": "自簽$2000及守行為24個月。",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "保釋條件：\n保釋金$10000\n人事擔保$10000\n居住於報稱地址\n離港限制\n交出旅遊證件\n每星期報到1次\n宵禁2300-0600\n禁足令",
+  "bailmentCondition": null,
+  "remarks": "被告投訴指被捕後在警車內去警署途中被防暴警不斷打後腦。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "2365",
+        "content": "#西九龍裁判法院第八庭\n#羅德泉主任裁判官\n#20200126旺角 #提堂\n\n顧（23）\n\n控罪：管有違禁武器\n\n案情：\n//被指於旺角奶路臣街11號地下外，管有一枝伸縮棍//\n（摘自《立場新聞》2020.1.26）\n\n被告警誡下承認台灣買伸縮棍作自衞用途，因為襲擊事件太多。\n\n控方申請證物1,2,3,5充公，證物4（電筒）歸還\n\n控方撤回控罪\n無需答辨，自簽$2000及守行為24個月",
+        "url": "https://t.me/youarenotalonehk_live/5297",
+        "source": "法庭文字直播台",
+        "datetime": "2020-05-21T08:59:12.000Z"
+      },
+      {
+        "id": "1868",
+        "content": "#西九龍裁判法院第三庭\n#羅德泉主任裁判官\n#20200126旺角 #提堂\n\n顧（23）\n\n控罪：管有違禁武器\n\n案情：\n//被指於旺角奶路臣街11號地下外，管有一枝伸縮棍//\n（摘自《立場新聞》2020.1.26）\n\n押後至2020年5月21日待控方問律政司有關控罪合適性的意見。\n\n期間以原有條件繼續保釋 [https://t.me/youarenotalonehk_live/3375]",
+        "url": "https://t.me/youarenotalonehk_live/4364",
+        "source": "法庭文字直播台",
+        "datetime": "2020-04-23T02:31:28.000Z"
+      },
+      {
+        "id": "1486",
+        "content": "#西九龍裁判法院4樓1庭 #緊急聆訊\n#羅德泉署理總裁判官 #新案件\n\n顧(23) - 管有違禁武器 #20200120太子\n\n控方申請毋須答辯，並押後至10/3 西九龍法院一庭 0930，期間反對保釋。被告被指藏有伸縮警棍，控方呈上CCTV截圖，並指由被告斜孭袋暗格搜出伸縮警棍。\n\n投訴指被捕後在警車內去警署途中被防暴警不斷打後腦\n\n⭕️保釋申請獲批⭕️\n保釋金 10000\n人事擔保 10000\n居住於報稱地址\n離港限制\n交出旅遊證件\n每星期報到1次\n宵禁2300-0600\n禁足令",
+        "url": "https://t.me/youarenotalonehk_live/3375",
+        "source": "法庭文字直播台",
+        "datetime": "2020-01-28T03:16:58.000Z"
+      }
+    ]
+  }
+}

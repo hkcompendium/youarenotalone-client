@@ -1,0 +1,59 @@
+{
+  "id": "607",
+  "caseNo": null,
+  "incident": "20200831旺角",
+  "defendants": [
+    {
+      "id": "839",
+      "name": "陳",
+      "age": 17,
+      "charges": [
+        {
+          "id": "1238",
+          "verdict": "其他",
+          "plea": "簽保守行為",
+          "charge": "公眾地方內擾亂秩序行為，違反《公安條例》(第245章) 第17B條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "撤銷控罪",
+    "20200831旺角",
+    "嚴舜儀主任裁判官"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2021-01-08",
+  "sentenceDate": null,
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "D被控於2020年8月31日，在西洋菜南街近弼街的馬路上阻礙交通，並將4個錐形交通路標踢到馬路上，意圖激使他人破壞社會安寧或導致社會安寧破壞。",
+  "verdict": null,
+  "verdictReason": "$2000守行為24個月，$300訟費由擔保金扣除。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

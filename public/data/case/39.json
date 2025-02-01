@@ -1,0 +1,73 @@
+{
+  "id": "39",
+  "caseNo": null,
+  "incident": "0828上水",
+  "defendants": [
+    {
+      "id": "41",
+      "name": "黃",
+      "age": 34,
+      "charges": [
+        {
+          "id": "46",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        },
+        {
+          "id": "47",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有違禁武器，違反《武器條例》(第217章) 第4條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "0828上水",
+    "伸縮棍",
+    "鐵蓮花"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2020-10-19",
+  "sentenceDate": "2020-10-19",
+  "magistrate": "莊靜慧",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，被告於2019年8月28日在上水天平邨天美樓地下管有攻擊性武器，包括１支伸縮棍，違反《公安條例》(第245章) 第33條，並於翌日在其住所內管有違禁武器，包括２個鐵蓮花，違反《武器條例》(第217章) 第4條。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "２項控罪分別判處８個月和２個月監禁，同期執行",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "高等法院於2021年1月28日批准保釋等候上訴，條件如下：現金$70,000、不得離港並交出所有旅遊證件，及每週報到１次。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "1062",
+        "content": "#九龍城裁判法院第一庭\n黃xx（提堂）\n2項管有違禁武器 2項管有攻擊性武器  \n原有條件保釋，押後至1月17 上午答辯\n\nBackground\n黃(34) - 2項管有攻擊性武器、2項管有違禁武器伸縮警棍、摺刀、鐵蓮花、抓刀 #0828上水\n天平村天平樓　#未知犯案動機",
+        "url": "https://t.me/youarenotalonehk_live/2446",
+        "source": "法庭文字直播台",
+        "datetime": "2019-12-20T02:26:37.000Z"
+      }
+    ]
+  }
+}

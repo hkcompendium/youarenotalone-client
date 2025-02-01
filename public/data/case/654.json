@@ -1,0 +1,60 @@
+{
+  "id": "654",
+  "caseNo": null,
+  "incident": "0728上環",
+  "defendants": [
+    {
+      "id": "917",
+      "name": "陳",
+      "age": 24,
+      "charges": [
+        {
+          "id": "1359",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "大陸人",
+    "內地人",
+    "陸生",
+    "港大內地生"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2019-11-07",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指出，當日警方於中聯辦附近布防，被告穿反光衣走近防綫，並要求穿越。警員對被告搜身，搜出1支伸縮棍棒，被告警誡下稱伸縮棍棒用作自衞，又因擔心遇襲，故身反光衣假扮記者。\n\n",
+  "verdict": null,
+  "verdictReason": "",
+  "sentence": "6星期監禁",
+  "sentenceReason": "主任裁判官考慮到被告管有的伸縮棍是用作自衛，從未展示或使用，故無任何證據證明陳是參與暴動之一員，雖然報告建議判處勞教所，但如採納勞教所報告的建議，會令陳失去一段相當長時間的自由，未必合符比例，因陳承認控罪故獲三分之一刑期扣減，最終判處監禁6星期，不得緩刑。\n",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "2019年7月28日中上環爆發嚴重警民衝突，共49人被捕，其中一名香港大學二年級內地學生聲稱怕被襲，故穿黃色反光背心「扮記者」，並遭搜出一支伸縮棍，當場被捕。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": "被告被捕消息傳到中國後，隨即被起底是瀋陽人，到港大就讀音樂系主修鋼琴，並在深圳兼課教琴。他曾在社群媒體上發表「批評中國的激進言論」。當時遭許多愛國網友嗆聲，要他今後別回大陸。\n\n8月27日，被告在微博發表聲明否認參與暴動，並稱721元朗襲擊事件發生後，因擔心自身安危，才買伸縮棍防身。當晚因為地鐵停駛提前下車，不知有示威而步行前往該地區，還主動找警方詢問路線，並未停留在現場參與示威，不料因為伸縮棍涉及違規被拘留。",
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

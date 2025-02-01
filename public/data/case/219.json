@@ -1,0 +1,67 @@
+{
+  "id": "219",
+  "caseNo": null,
+  "incident": "1102灣仔",
+  "defendants": [
+    {
+      "id": "265",
+      "name": "陳",
+      "age": 25,
+      "charges": [
+        {
+          "id": "375",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有攻擊性武器或適合作非法用途的工具"
+        },
+        {
+          "id": "376",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "無牌管有無線電通訊器具"
+        },
+        {
+          "id": "377",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有任何物品意圖摧毀或損壞財物"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-08-13",
+  "trialDateTo": "2020-08-14",
+  "trialLength": 1,
+  "verdictDate": "2020-08-14",
+  "sentenceDate": null,
+  "magistrate": "何俊堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告去年11月2日於港仔港鐵A1出口外，管有一部電磨機、兩個圓磨機刀片、兩個錘子、四支螺絲批、兩支鉗、一支士巴拿、一個電鑽和一支撬棍、及無牌管有或使用一套無線電收發器。",
+  "verdict": "罪名不成立",
+  "verdictReason": "就無牌管有無線電通訊器具罪，由於兩證人庭上均沒有提及對講機，裁判官裁定該罪表證不成立。\n\n就無牌管有無線電通訊器具及管有任何物品意圖摧毀或損壞財物兩罪，裁判官裁定該罪表證成立，被告不自辯，裁判官隨即裁決指，兩名警員就關鍵事項的證供有出入，包括警員李家駿供稱被告當時是手持涉案的 Fox 袋，但警員嚴凱華則表示Fox 袋是於被告背囊內跌出。另外，兩警員就著背心的便衣人士到場協助的時間亦有出入，李指對方於嚴在場時仍沒有離開，但嚴則指當時對方並不在場。\n\n李家駿又供稱於制服被告過程中，被告橙色背囊的黑色套飛脫，加上情況混亂，故警方沒有檢取，但他承認看不到飛脫的過程，裁判官表示對此感到懷疑。李另又供稱他當時曾在旁觀看其同僚快速搜查該 Fox 袋，但表示他只記得袋內有紅色手柄螺絲批，記不清袋內的其他物件，但該袋內亦有涉案的電鑽，錘子等，令人質疑事發經過是否如他所述般發生，法庭認為兩警員的證供有出入及不理想，不能放心依賴兩人證供，最終裁定控方未能舉證毫無合理疑點，裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "490",
+  "caseNo": null,
+  "incident": "0625上水",
+  "defendants": [
+    {
+      "id": "638",
+      "name": "鍾志華",
+      "age": 62,
+      "charges": [
+        {
+          "id": "907",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "普通襲擊，違反《侵害人身罪條例》(第212章) 第40條"
+        },
+        {
+          "id": "908",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "襲擊警務人員，違反《警隊條例》 (第232章)  第63條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "非反送中",
+    "普通襲擊",
+    "襲警"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-05-16",
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於2019年6月25日在上水天平邨天明樓外醉酒鬧事，與數名途人因政見問題爭執，期間涉攬著一名廖姓男子並向他吐口水，二人扭打在一起並雙雙倒地，被告起身後踢向廖的腹部及拳擊他的眼。警方到場後，被告不停追問警長莫兆強的編號，期間突然打莫的面，造成1厘米的裂傷，遂被在場警員制服拘捕。其後在羈留病房疑遭3名警員用私刑虐待，更被控襲擊致造成身體傷害和襲警兩罪。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "即時監禁6個月",
+  "sentenceReason": "經過考慮被告對受害人的揮拳次數等因素後，裁判官認為本案是同類案件中最嚴重的事件。若更嚴重，控方可考慮控告傷人等罪名，因此在這級別，會以該控罪刑罰上限處置。由於兩項罪名發生時間及目標不同，因此會以分期執行處理。\n兩項控罪判刑起點分別三個月及六個月，考慮被告認罪扣減三分一刑期，即兩個月及四個月，合共六個月監禁。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "非反送中案件",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "辯方不服刑罰上訴得直，即時獲釋。",
+  "appealJudgementUrl": "https://legalref.judiciary.hk/lrs/common/ju/ju_frame.jsp?DIS=130256&currpage=T",
+  "bailmentAppeal": "辯方隨即提出以5000港元保釋以待上訴，但被駁回。",
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

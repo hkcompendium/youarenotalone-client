@@ -1,0 +1,65 @@
+{
+  "id": "74",
+  "caseNo": null,
+  "incident": "20200202天水圍",
+  "defendants": [
+    {
+      "id": "82",
+      "name": "鄧 ",
+      "age": null,
+      "charges": [
+        {
+          "id": "99",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "刑事毀壞，違反《刑事罪行條例》(第200章) 第60條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "20200202天水圍"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-10-14",
+  "sentenceDate": "2020-10-14",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "在2020年2月先2日凌晨1點25分，在元朗天水圍天恩路一支燈柱上，用油漆掃寫上「五大訴求，缺一不可」。",
+  "verdict": "撤銷控罪",
+  "verdictReason": null,
+  "sentence": "被告支付600元作清潔費、500元堂費，及以1000元自簽守行為",
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "4992",
+        "content": "#屯門裁判法院第一庭\n#張潔宜署理主任裁判官\n#20200202天水圍 #提堂\n\n鄧\n\n控罪：刑事損壞\n\n案情：在2020年2月先2日凌晨1點25分，在元朗天水圍天恩路一支燈柱上，用油漆掃寫上「五大訴求，缺一不可」。\n\n控辯雙方同意案情\n\n被告支付600元作清潔費、500元堂費，及以1000元自簽守行為\n控方撤回控罪\n\n感謝臨時直播員",
+        "url": "https://t.me/youarenotalonehk_live/10236",
+        "source": "法庭文字直播台",
+        "datetime": "2020-10-14T02:35:16.000Z"
+      }
+    ]
+  }
+}

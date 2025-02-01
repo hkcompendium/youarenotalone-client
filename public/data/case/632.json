@@ -1,0 +1,58 @@
+{
+  "id": "632",
+  "caseNo": null,
+  "incident": "20200105上水",
+  "defendants": [
+    {
+      "id": "870",
+      "name": "吳",
+      "age": 20,
+      "charges": [
+        {
+          "id": "1276",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有攻擊性武器:𠝹刀"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "20200105上水",
+    "成功申請訟費"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-03-20",
+  "sentenceDate": null,
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於1月5日在粉嶺港鐵站B出口外之行人天橋管有攻擊性武器，即一把𠝹刀，意圖將其作非法使用。",
+  "verdict": "控方以定罪機會微為由申請撤控，裁判官批准。裁判官亦批准辯方訟費申請27000元。",
+  "verdictReason": "辯方提出訟費申請，控方反對申請，指當日集會有不反對通知書，被告於粉嶺站外被截查，衣著疑似示威人士，𠝹刀亦可作傷人用途。辯方回應指當時衣著為白色衣服，手套亦非戴上而於背囊中，當時穿著黑色風褸及黑色鞋。\n\n辯方亦引述拘捕被告的警員指當時被告形跡可疑，見到警員時加快步伐向火車站行走。辯方指出此等只為推斷。\n\n裁判官詢問控方是否有證據指被告有預謀於遊行中使用界刀，控方指沒有。同時裁判官亦建議辯方可提出被告攜帶𠝹刀的用途。辯方指不能單純以𠝹刀推斷是否為接下來示威用途。被告警誡下保持緘默，控方只為一廂情願斷言案情，現時撤控為控方責任。\n\n裁判官判決指控方需負責任。辯方提出訟費申請27000元，控方爭議其中7500元，包括講解撤控程序及是日律師費。\n\n裁判官判決指控方需負擔全部責任，批准辯方申請訟費27000元。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

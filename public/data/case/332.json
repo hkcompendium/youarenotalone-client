@@ -1,0 +1,57 @@
+{
+  "id": "332",
+  "caseNo": null,
+  "incident": "1007將軍澳",
+  "defendants": [
+    {
+      "id": "415",
+      "name": "吳",
+      "age": 22,
+      "charges": [
+        {
+          "id": "586",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "襲擊警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1007將軍澳"
+  ],
+  "trialDateFrom": "2020-04-07",
+  "trialDateTo": "2020-07-08",
+  "trialLength": null,
+  "verdictDate": "2020-07-08",
+  "sentenceDate": null,
+  "magistrate": " 徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指，案發當日警方接報指將軍澳皇冠假日酒店外有人打架，警方到場後發現附近有約 200 名示威者聚集及投擲硬物，警長  與同僚下車掃蕩，被告將軍澳唐德街博愛醫院八十週年鄧英喜中學外滑倒被捕，期間被告曾推撞警長胸部及拳打對方胸部。警長事後求醫，證實胸壁發紅，但不獲病假。被告於口頭警誡下一度表示，因警察靠近才推開對方，其後又指「我都唔記得有無推佢」。",
+  "verdict": "以 2,000 元自簽守行為兩年，另須支付 1,000 元堂費，控方撤銷控罪",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "現金$1,000\n居於報稱地址\n每週一次報到",
+  "bailmentCondition": null,
+  "remarks": "控方申請將受襲警員匿名為警長A，惟署理主任裁判官徐綺薇拒絕批出匿名令。法庭拒絕接納匿名令申請後，控方將「警長A」改為「黃成輝」。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

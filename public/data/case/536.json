@@ -1,0 +1,77 @@
+{
+  "id": "536",
+  "caseNo": null,
+  "incident": "1118葵涌",
+  "defendants": [
+    {
+      "id": "700",
+      "name": "冼",
+      "age": 18,
+      "charges": [
+        {
+          "id": "997",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    },
+    {
+      "id": "701",
+      "name": "湯",
+      "age": 21,
+      "charges": [
+        {
+          "id": "998",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        },
+        {
+          "id": "999",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "無牌管有無線電通訊器具  "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "對講機",
+    "腐蝕性液體"
+  ],
+  "trialDateFrom": "2021-03-22",
+  "trialDateTo": "2021-03-24",
+  "trialLength": 3,
+  "verdictDate": "2021-04-15",
+  "sentenceDate": null,
+  "magistrate": "黃士翔",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於 2019年11月18日在葵涌葵馥苑附近管有攻擊性武器，即各一瓶高濃度腐蝕性液體，樽外用紗布包裹着一片懷疑漂白錠",
+  "verdict": "罪名不成立",
+  "verdictReason": "警員吳太盛及警長林金池的證供多處矛盾，及後到場的警員聆訊時供稱曾問男生：「背囊係咪你㗎？」男生答：「係嘅，係我嘅。」黃官質疑先不論這是沒警誡的查問，警員記事冊及證人供詞沒記錄對話，法庭若依賴有關招認定罪不穩妥。由於無法證實物件是從被告身上搜出，裁判官黃士翔裁定年輕男女管有攻擊性武器等三罪不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "２人在11月20日首次在西九龍裁判法院上庭，被羅德泉主任裁判官拒絕保釋申請；11月28日保釋覆核亦被羅德泉主任裁判官拒絕；湯在12月6日向高等法院原訟庭彭寶琴法官申請保釋被拒；冼在12月16日向高等法院原訟庭李素蘭法官申請保釋被拒；２人還押54天後，終在1月13日在控方不反對保釋的情況下，獲准以$5,000保釋，期間不得離港及須每週報到２次，並須禁足葵馥苑。\n",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 54,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

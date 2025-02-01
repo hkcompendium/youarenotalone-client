@@ -1,0 +1,60 @@
+{
+  "id": "257",
+  "caseNo": null,
+  "incident": "0729元朗",
+  "defendants": [
+    {
+      "id": "315",
+      "name": "劉",
+      "age": 23,
+      "charges": [
+        {
+          "id": "438",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#屯門裁判法院第七庭",
+    "#葉啓亮裁判官",
+    "#0729元朗",
+    "#審訊"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 4,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "葉啓亮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年7月29日，在港鐵元朗站H出口樓梯間的公眾地方，管有一包30粒波子及一個自製發射器",
+  "verdict": "罪名成立",
+  "verdictReason": "辯方爭議被告的招認證供，即她在警誡曾稱「波子係自衛用，鎅刀放喺袋唔記得執出嚟，其他嘢係用嚟自衛」，又指在警署時冷氣溫度低及經痛，取索止痛藥及毛氈被拒等。葉官則裁定被告的供詞屬自願，納為呈堂證供。\n\n葉官認為控方證人誠實可靠，無自相矛盾之處。對於辯方指警員在作供期間，偷偷翻閱記事冊，法庭認為警員首次上庭作供，此舉或屬無心之失，而到庭上作供非記憶力測試，警員的供詞亦無更改，作供一致，接納其供詞。\n\n辯方求情指，被告對於有無辜市民，在元朗721白衣人施襲事件中被打致頭破血流感到心痛，但警察竟然沒有支援，此後一星期她仍未能消化情緒，故當她聽聞或有同類事件再發生後，才帶備防護裝備到現場。被告對未有執袋習慣感到後悔，否則她應可分辨到那些物品是攻擊性武器，她承諾不會重蹈覆轍。\n\n",
+  "sentence": "監禁六個月",
+  "sentenceReason": "",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "申請保釋等候上訴，因信任PW2方面有斟酌之處",
+  "appealJudgementUrl": null,
+  "bailmentAppeal": "擔保金20,000元 不可離港 交出所有旅遊證件 在報稱地址居住 每週報到1次",
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "389",
+  "caseNo": null,
+  "incident": "1114灣仔",
+  "defendants": [
+    {
+      "id": "471",
+      "name": "謝",
+      "age": 27,
+      "charges": [
+        {
+          "id": "665",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "襲擊警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "香淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於搭乘地鐵時，在出閘期間涉嫌瓹閘，被一名休班警員17785發現及上前阻止，期間被告與休班警員17785發生激烈衝突，被告為逃脫涉口咬該休班警員17785，休班警員17785據稱被咬至甩皮。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "監禁14日",
+  "sentenceReason": "判刑：\n裁判官衡量精神科醫生及心理學家醫療報告，以及多方考慮因素後，決定不以緩刑處理，判予被告一個有期徒刑\n\n求情理由：\n在兩個禮拜還押期間，被告十分後悔\n被告因個人成長經歷引致情緒病\n父母、男朋友、朋友都有給予被告支援，並到庭支持\n經由專業心理學家及精神科醫生醫療評估後撰寫的報告，顯示被告重犯機會不大\n被告過往並無定罪記錄，加上被告坦白認罪，節省法庭時間\n\n判刑：\n經求情後，量刑起點為21日 認罪後扣減三份一刑期\n總刑期為 14日 監禁",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

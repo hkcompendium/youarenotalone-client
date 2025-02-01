@@ -1,0 +1,57 @@
+{
+  "id": "149",
+  "caseNo": null,
+  "incident": "1031旺角",
+  "defendants": [
+    {
+      "id": "173",
+      "name": "盧",
+      "age": 24,
+      "charges": [
+        {
+          "id": "241",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "雷射筆"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-09-09",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於19年10月31日於洗衣街近山東街管有一個能發出雷射光束的裝置 (第3B類激光產品; 國際電工會輸出率 68.6MW; 如果在二十米內直接擊中可對眼睛造成損毀)，該雷射筆於被告褲袋搜出。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "160小時社會服務令",
+  "sentenceReason": "上一堂索取社會服務令及背景報告，感化官建議判處81-160小時社會服務令。\n\n感化官指家庭融洽；上司稱讚被告工作並有意考慮俾被告升職，與同事關係亦融洽。被告將現場人士給予雷射筆，接過便收落褲袋。被告事後感到後悔，承諾改過並不會再犯，以後會奉公守法。明白到不應用非法方式表達訴求。感化官認為被告有正當職業，相信不會再犯。",
+  "bailment": "批准",
+  "bailmentRemarks": "以原有現金保釋，不得離港，交出旅遊證件，居於指定地址，每周往警署報到一次，每晚 11 時至早上 6 時宵禁 ，及不得接觸控方證人。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

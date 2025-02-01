@@ -1,0 +1,97 @@
+{
+  "id": "304",
+  "caseNo": null,
+  "incident": "電話滋擾",
+  "defendants": [
+    {
+      "id": "379",
+      "name": "吳",
+      "age": 32,
+      "charges": [
+        {
+          "id": "535",
+          "verdict": null,
+          "plea": "否認控罪",
+          "charge": "不斷打電話"
+        }
+      ]
+    },
+    {
+      "id": "689",
+      "name": "楊",
+      "age": 32,
+      "charges": [
+        {
+          "id": "975",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "不斷打電話"
+        }
+      ]
+    },
+    {
+      "id": "690",
+      "name": "黎",
+      "age": 27,
+      "charges": [
+        {
+          "id": "976",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "不斷打電話"
+        }
+      ]
+    },
+    {
+      "id": "691",
+      "name": "莫",
+      "age": 32,
+      "charges": [
+        {
+          "id": "977",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "不斷打電話"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "簽保守行為",
+    "Bind Over"
+  ],
+  "trialDateFrom": "2020-12-11",
+  "trialDateTo": "2020-12-11",
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指，今年5月27日上午 5 時，警方執行了一項維持公眾秩序行動，為方便溝通，警員開設了 Whatsapp 群組以分享資訊。當日早上，有市民在地鐵上拍攝了一名便衣警員的手機屏幕，並上傳到網上論壇，該相片顯示上述 Whatsapp 群組成員的電話號碼，包括涉案兩名女警。二人隨即收到多通不明來電，更有人以她們的電話號碼登記借貸、保險、美容療程等，以及在 Whatsapp 上她們傳送侮辱及恐嚇的訊息。\n\n兩名女警擔心自身與家人安全，故報警求助。經警方調查後，發現D2以自己名下的電話號碼在當日早上 9 時 51 分至 10 時 10 分，19 分鐘內 7 次致電給女偵緝警長 55519 ，每通電話維持 3 - 4 秒。其後，D2於 9 月 1 日被捕，在警誡下保持緘默，其手機被撿取以作搜證。\n\n經調查後發現，D3的電話號碼登記人為其母，她在 32 小時內打了 8 個電個給女偵緝警長 55519 ；D4的電話號碼則於自己名下登記，他於 12 小時內打了 8 個電話給女偵緝高級警員 56170。每個電話只維持幾秒。（摘自立場新聞）",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "D2, D3, D4 12個月感化",
+  "sentenceReason": "D3,D4：\nD4的代表律師在庭上求情時指，被告受社交媒體影響，對社會事件存「無力感」而犯罪，惟遭裁判官劉綺雲駁斥，不能因個人情緒傷害他人，「不滿警方處理手法，先至犯案我都可以理解」。\n\n劉官續指，二人致電警員滋擾的次數少，每個電話亦僅得幾秒時，但仍對事主造成很大影響，直言「做得非常錯」，惟考慮到情節不算嚴重，而且二人認罪、有悔意，其背景及報告亦正面，考慮到同案D2早前認罪後亦獲判感化12個月，遂將3人刑期看齊，期間二人須按感化官指示工作和居住、參與社區計劃或活動，以及與感化官合作。\n",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "D2於2020年11月20日認罪，同年12月11日裁決\nD3, D4於2021年1月15日認罪，同年2月4日裁決\n\nD1無相關報道（理應於2021年3月24日開審）\nD2沒律師代表，認罪自辯",
+  "internalRemarks": null,
+  "charges": [
+    "D1, D2, D3被控於今年 5 月 27 日，在香港無合理因由而不斷打電話，旨在對女偵緝警長 55519 造成煩擾；D1, D4於同日，在香港無合理因由而不斷打電話，旨在對女偵緝高級警員 56170 造成煩擾。"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

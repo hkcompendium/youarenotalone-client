@@ -1,0 +1,55 @@
+{
+  "id": "98",
+  "caseNo": null,
+  "incident": "20200101灣仔",
+  "defendants": [
+    {
+      "id": "108",
+      "name": "廖",
+      "age": 23,
+      "charges": [
+        {
+          "id": "147",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "阻撓在正當執行職務的警務人員，違反《侵害人身條例》(第212章) 第36(b)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-26",
+  "sentenceDate": null,
+  "magistrate": "崔美霞",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "D3被控在2020年 1 月 1 日，在香港灣仔軒尼詩道 71 號至 85 號的滙豐銀行分行之外，阻礙警員 A 執行公務。",
+  "verdict": "撤銷控罪",
+  "verdictReason": "D3獲撤銷控罪。\n裁判官最終批准D3的訟費申請。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "被告准以現金保釋外出，其間須居於報稱地址、不准離港、每週到警署報到2次，並須守宵禁令。(from news article)",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

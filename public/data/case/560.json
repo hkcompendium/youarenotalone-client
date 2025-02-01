@@ -1,0 +1,57 @@
+{
+  "id": "560",
+  "caseNo": null,
+  "incident": "1110屯門",
+  "defendants": [
+    {
+      "id": "729",
+      "name": "吳",
+      "age": 17,
+      "charges": [
+        {
+          "id": "1033",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有物品意圖損壞財產，違反 《刑事罪行條例》(第200章) 第62 (a) 條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "管有物品意圖損壞財產"
+  ],
+  "trialDateFrom": "2021-03-17",
+  "trialDateTo": "2021-03-17",
+  "trialLength": 1,
+  "verdictDate": "2021-03-17",
+  "sentenceDate": null,
+  "magistrate": "施祖堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年11月10日在屯門鄉事會路文娛中心無合理辯解下管有一支噴漆，意圖損壞財產。",
+  "verdict": "",
+  "verdictReason": "控方指可以簽保守行為處理",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

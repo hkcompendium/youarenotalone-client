@@ -1,0 +1,60 @@
+{
+  "id": "378",
+  "caseNo": null,
+  "incident": "20200221觀塘",
+  "defendants": [
+    {
+      "id": "503",
+      "name": "林",
+      "age": 18,
+      "charges": [
+        {
+          "id": "723",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "20200221觀塘 ",
+    "攻擊性武器"
+  ],
+  "trialDateFrom": "2021-03-12",
+  "trialDateTo": "2021-03-12",
+  "trialLength": 1,
+  "verdictDate": "2021-03-12",
+  "sentenceDate": "2021-03-26",
+  "magistrate": "莫子聰",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "違反香港法例第245章《公安條例》第33(1)及(2)條：\n被控於2020年2月21日，在觀塘巧明街的公眾地方，無合法權限或合理辯解而攜有攻擊性武器，即一支伸縮棍。\n\n控方案情摘要：\n在2020年2月21日12:30時，有人報案指在觀塘商業區有一群反政府及目的是反逃犯條例的示威者進行「和你shop」。大約13:05時，PW1即觀塘警區特遣隊警署警長梁國斌和隊員，包括PW2觀塘警區活動管理組警員7935截停大約60人包括被告，思疑他們參與前述示威及在觀塘巧明街100號城東誌安盛金融​大樓外（簡稱上址）非法集結。\n\n其後PW3東九龍衝鋒隊警員17563奉召往上址協助，發現被告身上有一個黑色背包（證物1），並以一個黑色面罩（證物8）遮面。經搜查後，從證物1內搜出一支黑色伸縮棍（證物2）、一個黑色棍套（證物3）、一頂黑色帽（證物4）、一副黑色安全護目鏡（證物5）及一個橙色索繩袋（證物6），並從證物6內發現一對黑色手套（證物7）。於是，PW3以管有攻擊性武器拘捕被告，並檢取證物1至8；即時提醒警誡（證物10至11）下被告保持緘默。\n\nPW5政府化驗所法證事務部刑事科學及品質管理科物理組化驗師吳嘉豪博士對證物2進行化驗，發現證物2在收縮狀態時約19釐米，在伸展狀態時長49釐米，經引力或離心力或重力的操作下，內管及中段管可以完全伸展。\n\n被告於2020年8月13日被起訴獲保釋外出，並於2020年8月20日在觀塘裁判法院第一庭出席答辯。",
+  "verdict": "罪名成立",
+  "verdictReason": "被告認罪，明白及同意案情。",
+  "sentence": "勞教中心",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "",
+    "",
+    ""
+  ],
+  "custodyLength": 0,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

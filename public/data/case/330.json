@@ -1,0 +1,57 @@
+{
+  "id": "330",
+  "caseNo": null,
+  "incident": "1103黃大仙",
+  "defendants": [
+    {
+      "id": "413",
+      "name": "莫",
+      "age": 19,
+      "charges": [
+        {
+          "id": "584",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有物品意圖損壞財產,違反 《刑事罪行條例》(第200章) 第62 (a) 條 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1103黃大仙"
+  ],
+  "trialDateFrom": "2020-07-09",
+  "trialDateTo": "2020-07-09",
+  "trialLength": null,
+  "verdictDate": "2020-07-09",
+  "sentenceDate": null,
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指，2019年11月3日 8 時 34 分，身穿黑色上衣、黑色短褲及黑色鞋子的被告一見警員就走開，巡邏警員見此認為被告可疑，於是截停被告。被告當時稱約了朋友打籃球，但警員在其背包內搜左有一支士巴拿、一個黑色口罩、一對黑色手套及四瓶生理鹽水。及後，警員將他拘捕，被告在警誡下保持緘默。",
+  "verdict": "自簽$2000擔保金，守行為24個月，付訟費$300，控方充公証物，撤銷起訴。",
+  "verdictReason": "",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

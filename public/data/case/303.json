@@ -1,0 +1,64 @@
+{
+  "id": "303",
+  "caseNo": null,
+  "incident": "0915灣仔",
+  "defendants": [
+    {
+      "id": "378",
+      "name": "陳",
+      "age": 23,
+      "charges": [
+        {
+          "id": "533",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖摧毀或損壞財產"
+        },
+        {
+          "id": "534",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "無牌管有無線電器具"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#管有物品意圖損壞財產罪 ",
+    " #無線電"
+  ],
+  "trialDateFrom": "2020-09-14",
+  "trialDateTo": "2020-10-20",
+  "trialLength": 4,
+  "verdictDate": "2020-11-24",
+  "sentenceDate": null,
+  "magistrate": "崔美霞",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "(1) 管有物品意圖摧毀或損壞財產\n於2019年9月15日在灣仔莊士敦道近太源街一帶，保管或控制一把信用卡形摺刀、一把萬用刀、一罐噴漆、三束膠索帶及一盒火柴，意圖在無合法辯解的情況下使用或導致他人使用或准許他人使用該物品 ,以摧毀或損壞屬於另一人的財產\n\n(2) 無牌管有無線電器具\n另於同日同地無牌管有一部無線電通訊收發器",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官崔美霞指，沒有證據證明被告與港鐵站出口的縱火案有關，控方亦不能證明被告有意圖使用身上的物品來摧毀財產，相反有辯方證人指，涉案的摺刀及萬用刀等，是被告兼職工作時用來裝嵌電腦硬碟。由於警員承認追截被告時曾有兩秒視線受阻，故無法肯定最初疑製作汽油彈的人便是被告。因辯方質疑涉案收發器的證物鏈的連鎖性，而控方未有就此舉證，故裁定罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "243",
+  "caseNo": null,
+  "incident": "20200528大圍",
+  "defendants": [
+    {
+      "id": "297",
+      "name": "曾",
+      "age": 20,
+      "charges": [
+        {
+          "id": "415",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事毁壞"
+        },
+        {
+          "id": "416",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "普通襲擊"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-27",
+  "sentenceDate": null,
+  "magistrate": "溫紹明",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2020年5月28日16:15，有6名新民黨義工在大圍站外請求公眾簽名支持國安法，其中包括PW1及PW2。被告走近、踢橫額，致其損毀。PW1捉住被告，阻撓他離開，兩人倒地，被告遂咬證人右前臂。PW2目睹事情經過，尾隨被告並報警。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "6",
+  "caseNo": null,
+  "incident": "1020旺角",
+  "defendants": [
+    {
+      "id": "6",
+      "name": "呂",
+      "age": 19,
+      "charges": [
+        {
+          "id": "6",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1020旺角"
+  ],
+  "trialDateFrom": "2020-10-15",
+  "trialDateTo": "2020-10-16",
+  "trialLength": 2,
+  "verdictDate": "2020-11-03",
+  "sentenceDate": null,
+  "magistrate": "張天雁",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年10月20日，警員目測約100名示威者在旺角彌敦道聚集。他與隊員在亞皆老街與彌敦道交界向油麻地方向推進，示威者見狀立即四散。\n\n警員看到被告於行車線分隔花槽內跳進南行行車線，遂上前將被告按在地上，及後於被告背囊內發現一支伸縮棍，隨即將被告拘捕。",
+  "verdict": "罪名不成立",
+  "verdictReason": "本案主要依賴警員及PW2的證供。由於伍警員承認沒有證據顯示被告曾參與任何非法活動，而被告是單獨走近防線，加上控方證人自相矛盾，證供不合情理，在對被告有利的環境證據及個人背景，法庭認為有合理疑點，裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": "",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

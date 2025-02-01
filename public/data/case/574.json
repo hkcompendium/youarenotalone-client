@@ -1,0 +1,57 @@
+{
+  "id": "574",
+  "caseNo": null,
+  "incident": "1027旺角",
+  "defendants": [
+    {
+      "id": "765",
+      "name": "梁",
+      "age": 31,
+      "charges": [
+        {
+          "id": "1086",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "抗拒警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "襲警"
+  ],
+  "trialDateFrom": "2021-01-25",
+  "trialDateTo": "2021-01-26",
+  "trialLength": 2,
+  "verdictDate": "2021-03-08",
+  "sentenceDate": "2021-03-19",
+  "magistrate": "黃士翔",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年10月27日在旺角彌敦道近奶路臣街交界，抗拒執行職責的警員A。",
+  "verdict": "罪名成立",
+  "verdictReason": "裁判官不認同辯方形容被告只是將手放在地上，認為影片顯示被告明顯是想用手撐起身。裁判官認為，即使警員A及B的證供即使有些微矛盾，但亦是講出同一事件的發生經過，接受他們是誠實可靠的證人。裁判官裁定警員有足夠理由懷疑被告涉嫌非法集結，被告逃跑及反抗，警方沒有使用不合理武力，而是正當執行職務，被告罪成。",
+  "sentence": "5星期即時監禁",
+  "sentenceReason": "被告初次被警員截停時已反抗，當他冷靜下來後，警員再嘗試制服他，但他再反抗，令警員受傷。黃官不同意辯方所指，被告在無預謀及電光石火之下犯案，指他不只推了警員一下，是在長時間下三度掙扎。黃官表示，考慮到當時的社會氣氛，案發時有很多市民圍觀及指罵警員，被告卻一再掙扎，隨時影響市民情緒，繼而激發衝突。以判囚六周為量刑起點",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

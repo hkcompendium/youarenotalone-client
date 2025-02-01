@@ -1,0 +1,57 @@
+{
+  "id": "577",
+  "caseNo": null,
+  "incident": "20200609中環",
+  "defendants": [
+    {
+      "id": "771",
+      "name": "簡",
+      "age": 20,
+      "charges": [
+        {
+          "id": "1093",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "在公眾地方造成阻礙"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2021-02-19",
+  "sentenceDate": "2021-03-19",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於去年6月9日在中環畢打街與德輔道中交界無合法權限或解釋，留下一個警察交通雪糕筒，所佔範圍約一平方米，可能對在上述地方的車輛造成不便。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "18個月感化；500元訟費",
+  "sentenceReason": "辯方求情指被告中學時為民安隊成員，積極服務社會。被告的家庭一直給予支持，其父母今有到庭。而家人亦從小鼓勵被告參與社會服務，他在中學時參加民安隊，另外又多次在課外活動中獲獎。\n\n主任裁判官錢禮接納感化報告建議，判處180小時社會服務令，期間被告須接受心理輔導，另在保釋金扣除500元訟費。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

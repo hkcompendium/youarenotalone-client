@@ -1,0 +1,55 @@
+{
+  "id": "367",
+  "caseNo": null,
+  "incident": "1211荃灣",
+  "defendants": [
+    {
+      "id": "456",
+      "name": "黃",
+      "age": 43,
+      "charges": [
+        {
+          "id": "643",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-01-03",
+  "sentenceDate": "2020-01-03",
+  "magistrate": "梁少玲",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於去年 12 月 11 日晚上約 7 時半，警員 1477 與警員在和宜合道巡邏，發現被告於上址以箱頭筆在一個水馬上寫上「畜生（牲）」二字，警員遂拘捕被告，被告在警誡下認罪。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "罰款2000元及賠償香港政府277元清潔費",
+  "sentenceReason": "辯方律師求情指出，被告已婚和育有3名年幼子女，只是一時衝動以非法途徑表達意見，望法庭考慮他坦白認罪，可予以輕判。\n\n裁判官梁少玲表示，比起其他刑事損壞案，本案的性質不算嚴重，考慮到被告的良好家庭背景，遂判被告罰款2000元。梁官同時應控方申請，下令被告向港府賠償277元，作為水馬的清潔費。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

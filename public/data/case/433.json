@@ -1,0 +1,55 @@
+{
+  "id": "433",
+  "caseNo": null,
+  "incident": "1113將軍澳",
+  "defendants": [
+    {
+      "id": "547",
+      "name": "鄧",
+      "age": 17,
+      "charges": [
+        {
+          "id": "783",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙罪"
+        }
+      ]
+    }
+  ],
+  "description": "2020年7月6日，被告獲准自簽2000港元、守行為12個月，並須付500港元堂費。",
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-06",
+  "sentenceDate": null,
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年11月13日早上7時53分，於寶順路及翠嶺路交界以雜物及雪糕筒堵路，面積約10米x20米，警員證人D1 隨後制服被告，於搜身時背囊內有手機、替換衣服、一罐噴漆及一張上有「不割席、不篤灰」的標語，警誡下他表示「阿sir，我都係貪玩先同其他人出嚟堵路阻塞交通啫，比次機會啦」。",
+  "verdict": "N/A",
+  "verdictReason": null,
+  "sentence": "N/A",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "229",
+  "caseNo": null,
+  "incident": "1111柴灣",
+  "defendants": [
+    {
+      "id": "273",
+      "name": "羅",
+      "age": 21,
+      "charges": [
+        {
+          "id": "386",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有攻擊性武器並意圖作非法用途使用，違反《簡易程序治罪條例》(第228章) 第17條 "
+        },
+        {
+          "id": "387",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有攻擊性武器，違反《公安條例》(第245章)  第33條"
+        }
+      ]
+    },
+    {
+      "id": "274",
+      "name": "李",
+      "age": 20,
+      "charges": [
+        {
+          "id": "388",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有物品意圖損毀財產,違反 《刑事罪行條例》(第200章) 第62 (a) 條 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "簽保守行為",
+    "撤控"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2020-08-21",
+  "sentenceDate": "2020-09-04",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "第一被告被控於2019年 11月11日在柴灣茵翠街悅翠苑附近涼亭內管有一支雷射筆、2包膠索帶、一支六角匙及一支噴漆。第一被告原本另被控一項管有攻擊性武器罪，即一枝鐳射筆，早前獲控方撤銷該控罪。第二被告被控於柴灣茵翠街悅翠苑附近涼亭內保管 34 條索帶。",
+  "verdict": "第一被告對控罪認罪",
+  "verdictReason": "第二被告簽保守行為一年",
+  "sentence": "第一被告被判 18 個月感化",
+  "sentenceReason": "裁判官指第一被告被告主動認罪，承擔責任，而且還押至今已 2 星期，體會到失去自由的滋味，因此接受感化官的建議，判處被告18個月感化。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 14,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

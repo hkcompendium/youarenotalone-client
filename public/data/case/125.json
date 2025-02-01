@@ -1,0 +1,60 @@
+{
+  "id": "125",
+  "caseNo": null,
+  "incident": "1118理大",
+  "defendants": [
+    {
+      "id": "137",
+      "name": "黃",
+      "age": 31,
+      "charges": [
+        {
+          "id": "194",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "無牌管有彈藥違反  《火器及彈藥條例》(第238章) 第13條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#嚴舜儀主任裁判官",
+    "#1118理大",
+    "#傳票案件",
+    "#撤銷控罪"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-23",
+  "sentenceDate": null,
+  "magistrate": " 嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告為記者，在2019年11月18日0125在紅磡站D出口附近停泊車輛，被搜查時在車上發現2粒已使用的多發性煙霧彈。被告指在理大範圍發現煙霧彈，打算檢驗該煙霧彈有否有毒物質。經政府化驗師及警方武器專家檢驗後，因該煙霧彈為不可重用，彈內已沒有彈藥，亦沒有威脅。",
+  "verdict": "撤回控罪。",
+  "verdictReason": "被告自簽2000元守行為24個月。須付300元訟費，所有證物充公。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

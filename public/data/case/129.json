@@ -1,0 +1,83 @@
+{
+  "id": "129",
+  "caseNo": null,
+  "incident": "1202旺角",
+  "defendants": [
+    {
+      "id": "141",
+      "name": "*",
+      "age": 16,
+      "charges": [
+        {
+          "id": "198",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方造成阻礙"
+        },
+        {
+          "id": "199",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "無合法辯解而摧毀或損壞屬於他人的財產，意圖摧毀或損壞該財產或罔顧該財產是否會被摧毀或損壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-30",
+  "sentenceDate": "2020-07-30",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控在2019年12月2日於旺角彌敦道與亞皆老街交界路中心放置路障，意圖對公眾地方人車造成阻礙、並破壞一支交通燈。",
+  "verdict": "",
+  "verdictReason": null,
+  "sentence": "24月感化令、$4000賠償令",
+  "sentenceReason": "採納青少年罪犯評估專案小組的建議",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "3577",
+        "content": "#西九龍裁判法院第一庭\n#羅德泉主任裁判官\n#1202旺角 #判刑\n\n尼泊爾裔手足(16)\n控罪：\n(1)在公眾地方造成阻礙\n指他於12月2日在旺角彌敦道與亞皆老街交界，於路中心放置路障，意圖對公眾地方人車造成阻礙\n\n(2) 刑事損壞\n指其於同日同地損壞一個屬於香港特區政府的交通燈。\n\n求情：辯方引述報告，勞教中心不適合，更生中心及感化令適合，感化官建議被告遵守18個月的感化令，而青少年罪犯評估專案小組建議被告遵守24個月的感化令\n\n被告年輕、初犯，亦盡早承認控罪，希望法庭判處感化令\n\n判刑理由：法庭採納青少年罪犯評估專案小組的建議，判處被告人24個月的感化令\n\n總刑期：24個月感化令，期間須遵守宵禁令並按感化官指示參與課程\n\n賠償令：4000",
+        "url": "https://t.me/youarenotalonehk_live/7552",
+        "source": "法庭文字直播台",
+        "datetime": "2020-07-30T04:29:29.000Z"
+      },
+      {
+        "id": "3216",
+        "content": "#西九龍裁判法院第一庭\n#羅德泉主任裁判官\n#1202旺角 #提堂\n\n尼泊爾裔手足(16)\n控罪：\n(1)在公眾地方造成阻礙 - 認罪❗️\n指他於12月2日在旺角彌敦道與亞皆老街交界，於路中心放置路障，意圖對公眾地方人車造成阻礙\n\n(2) 刑事毀壞 - 認罪❗️\n指其於同日同地損壞一個屬於香港特區政府的交通燈。\n\n控方申請賠償$4,000予EMSD (機電工程署)，以及申請在庭上播放事發當日片段，讓裁判官審視案情之嚴重性。\n\n案件押後以索取一系列報告(感化報告、社會服務令報告、更生中心報告、勞教中心報告、教導所報告和青少年罪犯評估報告)，被告期間需還押，案件押後至7月30日於西九龍裁判法院判刑。",
+        "url": "https://t.me/youarenotalonehk_live/6798",
+        "source": "法庭文字直播台",
+        "datetime": "2020-07-09T04:36:34.000Z"
+      },
+      {
+        "id": "1816",
+        "content": "#西九龍裁判法院第三庭\n#羅德泉主任裁判官\n尼泊爾裔手足(16)（#1202旺角 在公眾地方作出擾亂秩序行為、刑事損壞:涉設置路障；損壞交通燈）\n\n修訂控罪(1)\n\n1）在公眾地方作出擾亂秩序的行為（原本）修訂為\n第228章《簡易程序治罪條例》第4A條\n在公眾地方造成阻礙\n\n指他於12月2日在旺角彌敦道與亞皆老街交界，於路中心放置路障，意圖對公眾地方人車造成阻礙\n\n\n2）刑事毀壞\n指其於同日同地損壞一個屬於香港特區政府的交通燈。\n\n❗️原條件保釋\n（被告12月3日獲准保釋，須守宵禁令及禁足令旺角港鐵站一帶）\n\n押後至5月28日西九龍裁判法院第三庭再訊",
+        "url": "https://t.me/youarenotalonehk_live/4254",
+        "source": "法庭文字直播台",
+        "datetime": "2020-04-17T07:54:21.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "253",
+  "caseNo": null,
+  "incident": "1111紅磡",
+  "defendants": [
+    {
+      "id": "309",
+      "name": "李",
+      "age": 22,
+      "charges": [
+        {
+          "id": "431",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#1111紅磡",
+    "#嚴舜儀主任裁判官",
+    "#撤銷控罪"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-10",
+  "sentenceDate": "2020-07-10",
+  "magistrate": "嚴舜儀主任裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年11月11日在蕪湖街與馬頭圍道交界馬路上有人堵路，黑衣人擺放一堆竹枝在機利士南路對上述地址車輛造成阻礙。路過的士乘客影到被告并報警。警誡下保持緘默",
+  "verdict": null,
+  "verdictReason": "簽保2000元守行為24個月\n300元訟費\n控方撤回控罪",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

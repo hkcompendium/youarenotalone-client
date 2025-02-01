@@ -1,0 +1,57 @@
+{
+  "id": "514",
+  "caseNo": null,
+  "incident": "20200510佐敦",
+  "defendants": [
+    {
+      "id": "671",
+      "name": "鄧",
+      "age": 20,
+      "charges": [
+        {
+          "id": "949",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有物品意圖損壞財產，違反 《刑事罪行條例》(第200章) 第62(a)條 "
+        }
+      ]
+    }
+  ],
+  "description": "",
+  "tags": [
+    "#20200510佐敦"
+  ],
+  "trialDateFrom": "2021-01-21",
+  "trialDateTo": "2021-01-21",
+  "trialLength": null,
+  "verdictDate": "2021-01-21",
+  "sentenceDate": "2021-02-03",
+  "magistrate": "葉啟亮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年5月10日，在油麻地廟街239號百福舖外管有2支紅色噴漆，意圖損壞公眾地方街道。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "社會服務令160小時",
+  "sentenceReason": "被告的感化報告及社會服務令報告內容正面，報告建議被告接受中等程度的社會服務令，裁判官接納報告建議，決定給予被告一次機會。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "499",
+  "caseNo": null,
+  "incident": "20200101灣仔",
+  "defendants": [
+    {
+      "id": "652",
+      "name": "廖",
+      "age": 23,
+      "charges": [
+        {
+          "id": "925",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "阻礙公職人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-26",
+  "sentenceDate": null,
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年1月1日，在香港灣仔軒尼詩道71號至85號的滙豐銀行分行之外，阻礙警員A執行公務。",
+  "verdict": "罪名不成立",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

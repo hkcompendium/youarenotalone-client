@@ -1,0 +1,57 @@
+{
+  "id": "250",
+  "caseNo": null,
+  "incident": "20191111黃大仙",
+  "defendants": [
+    {
+      "id": "306",
+      "name": "李",
+      "age": 22,
+      "charges": [
+        {
+          "id": "428",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": " 在公眾地方造成阻礙, 違反《簡易程序治罪條例》(第228章) 第4A條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "撤控"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控罪指被告於2019年11月11日在紅磡蕪湖街及馬頭圍道交界之馬路上放置一堆竹枝阻礙車輛。案情指於2019年11月11日早上7時許，有途人乘的士前往紅磡，至案發地點見有人以竹枝、垃圾桶及其他物料作路障堵路，並看見被告脫下帽子及口罩，途人遂拍下被告照片，及至看見有巡警經過時報警求助。警員將被告截停拘捕，警誡下被告說：「大佬，我係路過、睇住㗎咋。」",
+  "verdict": "控方同意撤銷控罪，被告獲准以自簽2,000元、守行為24個月結案，另須付300元堂費。",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

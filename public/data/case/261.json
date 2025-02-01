@@ -1,0 +1,74 @@
+{
+  "id": "261",
+  "caseNo": null,
+  "incident": "20191117尖沙咀",
+  "defendants": [
+    {
+      "id": "318",
+      "name": "羅",
+      "age": 23,
+      "charges": [
+        {
+          "id": "441",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有違禁武器，違反《武器條例》(第217章) 第4條"
+        },
+        {
+          "id": "442",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有攻擊性武器，違反《公安條例》(第245章)  第33條"
+        },
+        {
+          "id": "443",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "理大圍城",
+    "伸縮警棍",
+    "鋸刀",
+    "摺刀",
+    "彈叉",
+    "鋼珠"
+  ],
+  "trialDateFrom": "2020-03-31",
+  "trialDateTo": "2020-03-31",
+  "trialLength": 1,
+  "verdictDate": "2020-03-31",
+  "sentenceDate": "2020-04-14",
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年11月17日在尖沙咀科學館道近麼地道，管有違禁武器，即一支重力操作鋼棒(伸縮警棍)；並管有攻擊性武器，即一把鋸刀及一把摺刀；以及在該處公眾地方管有攻擊性武器，即一支彈叉及208粒鋼珠。",
+  "verdict": "三項罪名成立",
+  "verdictReason": null,
+  "sentence": "同期執行，入獄十個月",
+  "sentenceReason": "被告醫學上不適合旁教中心，態度有禮合作，對懲敎官坦誠， 愛運動校隊沒不良記錄， 約束自己行為，還押期間沒犯規條， 後悔衝動，深刻反省，明白承擔法律責任， 重犯機會低。\n\n\n勞教中心報告認為被告的體能不適合該中心的訓練，涉案武器可於近、中、遠距離使用，雖然被告稱現場有人把武器交給他，但不管他出於什麼意圖而接受並管有，一旦使用便會危害他人的安全。不過，法庭亦考慮到他當時正離開現場，案中無證據指他曾使用涉案武器。\n\n除了被告認罪外，裁判官亦想及被告年輕，並信納他還柙期間有真誠悔改，最終判處10個月監禁。她又籲被告珍惜機會，不要再犯事。由於控罪嚴重，本住立法精神，必懲罰。伸縮棍起量刑為9個月、折刀鋸刀1量刑為2個月起及彈杈同208鋼珠量刑為18個月，被告認罪獲得1/3扣減. 即6個月丶8個月丶控罪3額外扣減（考慮年紀同幾個月反省接納真誠改過）當10個月。扣減已還押近五個月可見日子可出獄。\n\n三項罪名成立， 認罪1/3扣減後分別為6個月、8個月及10個月，同期執行三項罪名即10個月。",
+  "bailment": "不獲批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 149,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

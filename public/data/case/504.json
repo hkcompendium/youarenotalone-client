@@ -1,0 +1,55 @@
+{
+  "id": "504",
+  "caseNo": null,
+  "incident": "0531中環",
+  "defendants": [
+    {
+      "id": "659",
+      "name": "譚",
+      "age": 48,
+      "charges": [
+        {
+          "id": "936",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "普通襲擊"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-18",
+  "sentenceDate": "2020-08-18",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年5月31日，在香港中環民光街中環10號碼頭襲擊石房有。案情指當日上址有民主歌聲獻中環活動，活動結束後被告於十號碼頭外收拾器材，期間於被告持不同政見的事主石房有及友人走近並有所衝突，雙方以粗口互相指罵，被告與石有身體接觸，並用左腳踢了石的右腿一下，令石的右腿泛紅及疼痛。被告警誡下保持緘默。\n\n",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "罰款3000元",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

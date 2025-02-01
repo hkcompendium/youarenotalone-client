@@ -1,0 +1,58 @@
+{
+  "id": "526",
+  "caseNo": null,
+  "incident": "0714沙田",
+  "defendants": [
+    {
+      "id": "682",
+      "name": "錢",
+      "age": 58,
+      "charges": [
+        {
+          "id": "962",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "阻差辦公，違反《侵害人身罪條例》(第212章)  第36條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#0714沙田",
+    "阻差辦公"
+  ],
+  "trialDateFrom": "2020-11-05",
+  "trialDateTo": "2020-12-27",
+  "trialLength": 3,
+  "verdictDate": "2021-01-18",
+  "sentenceDate": null,
+  "magistrate": "彭亮廷",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控在2019年7月14日，大約在晚上九時，在沙田中心12號海天堂門外，阻礙正在執行職務的警務人員。\n\n",
+  "verdict": "罪名不成立",
+  "verdictReason": "被告與其他市民要求警方開路，是合理及簡單的訴求，惟督察沒有理解。裁判官質疑高層指揮官不能協調驅散行動，導致市民無所適從。裁判官引用譚立輝一案作案例，指督察沒有理解市民，強行要求市民離開，更不知爲何舉起「停止衝擊，否則使用武力」的紅旗。現場沒有人衝擊，如果督察有去了解市民的訴求，安排市民離開，便不會發生事件。\n\n警方舉起紅旗一分鐘後被告坐在地上，裁判官不接納被告是因爲疲倦而坐下，認爲被告是刻意的。對於被告是否構成阻礙，要看構成阻礙的元素。控方引述之案例不符合本案案情。裁判官引述另一宗終審庭案例，指出被告舉動並不構成阻礙，片段所見警員能順利前行，被告只是坐在地上，沒有橫臥地上阻擋警員去路，沒有向警員叫囂，沒有手舞足蹈，並非沒有合理辯解 。裁判官不認為被告的行爲足以構成阻礙，裁定被告罪名不成立。\n\n辯方申請訟費，指被告沒有自招嫌疑，裁判官裁定被告只是技術性脫罪，有自招嫌疑，拒絕辯方訟費申請。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

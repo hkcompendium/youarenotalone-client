@@ -1,0 +1,55 @@
+{
+  "id": "277",
+  "caseNo": null,
+  "incident": "05082019西營盤",
+  "defendants": [
+    {
+      "id": "335",
+      "name": "楊",
+      "age": 29,
+      "charges": [
+        {
+          "id": "467",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞，違反《刑事罪行條例》(第200章) 第60條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2019-12-04",
+  "magistrate": "香淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年8月5日在西營盤的加記餐廳，非法損壞屬於X的加記餐廳，和以黑色油漆塗污前門。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "120小時社區服務令",
+  "sentenceReason": "被告在庭上承認因政治立場不同，一時衝動而犯案，但主審裁判官香淑嫻隨即反問被告如果是一時衝動，為何會帶備黑漆到現場。香官又稱，考慮案件性質，加上被告早前已經有一次刑事毁壞案底，判處感化令不足以顯示其嚴重性，最終判處被告120小時社會服務令。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "法庭文字直播台並沒有紀錄此案。案件資料來自HK01和明報的報導。但由於缺乏報導，裁決日期不詳。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

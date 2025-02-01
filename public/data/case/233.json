@@ -1,0 +1,55 @@
+{
+  "id": "233",
+  "caseNo": null,
+  "incident": "1111觀塘",
+  "defendants": [
+    {
+      "id": "280",
+      "name": "陳",
+      "age": 19,
+      "charges": [
+        {
+          "id": "396",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有物品意圖摧毀或損壞財產，違反《刑事罪行條例》(第200章) 第62條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-20",
+  "sentenceDate": null,
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於11月11日，在啟田道及鯉魚門道交界，管有一支黑色噴漆及一支11.5厘米長的士巴拿，意圖損壞他人財產。",
+  "verdict": "撤銷控罪",
+  "verdictReason": "被告同意以下案情，及簽保守行為：被告於2019年11月初於啟田道啟田商場外每晚都有抗爭者的非法集會，而且亦有阻路。2019年11月11日，啟田商場外及距900米外、鯉魚門道啟田道交界迴旋處皆有抗爭者設立路障，亦有人使用噴漆於牆上噴上標語等。 當晚11時14分，PW1 警員奉命進行「高姿態」巡邏，至鯉魚門道啟田道交界迴旋處見到被告閃縮、四處張望。PW1截停搜查被告，於被告背囊內發現一支噴漆及一把長11.5厘米板手，該等物品常被抗爭人士使用。警誡下被告保持緘默，現場沒有CCTV片段。\n\n控方確認同意以簽保守行為處理，但要求簽保期限為兩年。裁判官正式頒令被告自簽$2000，守行為24個月，期間不得干犯任何相類控罪。需繳付堂費$1000，由擔保金扣除。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "被告獲准以1,000元現金保釋外出，惟須每周一次向警方報到、居於報稱地址、不准離港兼守宵禁。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

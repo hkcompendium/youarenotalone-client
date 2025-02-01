@@ -1,0 +1,93 @@
+{
+  "id": "32",
+  "caseNo": null,
+  "incident": "1001深水埗",
+  "defendants": [
+    {
+      "id": "34",
+      "name": "林",
+      "age": 30,
+      "charges": [
+        {
+          "id": "38",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1001深水埗"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-11-11",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年10月1日，在福榮街218號「甜一刻」內，無合法權限或合理辯解，管有一支伸縮棍",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "160小時的社會服務令",
+  "sentenceReason": "社會服務令報告內容正面\n81-160小時社會服務令\n被告人願意履行",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "5610",
+        "content": "#西九龍裁判法院第一庭\n#羅德泉主任裁判官\n#判刑 #1001深水埗\n\n林(30)\n\n控罪：管有 #攻擊性武器\n\n被控於19年10月1日，在福榮街218號「甜一刻」內，無合法權限或合理辯解，管有一支伸縮棍\n\n開庭\n\n判處160小時的社會服務令\n\n。。。。。。。。。。。。。。。\n\n社會服務令報告內容正面\n81-160小時社會服務令\n被告人願意履行\n\n官：今天看報告判刑，上次10月22日法庭有些地方向控方澄清6點：\n\n1.同意案情中並沒有提及第一哪些是什麼人，\n2.那些一袋袋東西用作什麼用途\n3.被告會使用哪一袋東西\n4.被告會如何進一步處理一袋袋東西\n5.被告打算如何使用本案證物\n6.案件涉及非法集結暴動\n\n同意案情沒有提及以上六點。判刑綜合考慮\n\n判處被告160小時的社會服務令。\n\n服務主任監督下做 160小時工作，認真做達到主任滿意。不要低估相關嚴重性，服務令嚴重性等同坐監。",
+        "url": "https://t.me/youarenotalonehk_live/11209",
+        "source": "法庭文字直播台",
+        "datetime": "2020-11-11T02:21:01.000Z"
+      },
+      {
+        "id": "4943",
+        "content": "#西九龍裁判法院第一庭\n#羅德泉主任裁判官\n#審前覆核\n#1001深水埗\n\n林(30)\n\n控罪：\n管有攻擊性武器\n\n詳情：\n被控於19年10月1日，在福榮街218號「甜一刻」內，無合法權限或合理辯解，管有一支伸縮棍\n\n控方將傳召2名證人，辯方暫時不會傳召證人。控方暫時毋須依賴錄像片段，沒有警誡供詞。\n\n案件排期至11月3至5日時西九龍裁判法院審訊，期間維持保釋。\n\n感謝臨時直播員",
+        "url": "https://t.me/youarenotalonehk_live/10145",
+        "source": "法庭文字直播台",
+        "datetime": "2020-10-09T03:29:37.000Z"
+      },
+      {
+        "id": "3540",
+        "content": "#西九龍裁判法院第一庭\n#羅德泉主任裁判官\n林(30) #提堂（#1001深水埗 管有攻擊性武器）\n\n2019年10月1日於深水埗福利街136號甜一刻外管有一支伸縮棍，接合時長23cm，延伸時長50cm。\n\n是日答辯，被告不認罪‼️\n\n控方有四名證人，商討後只會傳召PW1-2。辯方透露仍未收妥未被使用文件表及證人口供。\n\n案件押後至 9/10 0930",
+        "url": "https://t.me/youarenotalonehk_live/7503",
+        "source": "法庭文字直播台",
+        "datetime": "2020-07-29T02:58:34.000Z"
+      },
+      {
+        "id": "2993",
+        "content": "#西九龍裁判法院第一庭\n#羅德泉主任裁判官\n#1001深水埗 #提堂\n\n林(30)（管有攻擊性武器）\n\n辯方申請押後至7月29日，因為有約干控方文件辯方仍未收到，相信7月29日會是合適時間，應該可以準備好答辯。\n\n被告以原有條件擔保，押後至7月29日於西九龍裁判法院再訊。",
+        "url": "https://t.me/youarenotalonehk_live/6412",
+        "source": "法庭文字直播台",
+        "datetime": "2020-06-26T02:18:45.000Z"
+      },
+      {
+        "id": "2369",
+        "content": "#西九龍裁判法院第三庭 #羅德泉主任裁判官\n林(30) #答辯（#1001深水埗 管有攻擊性武器）\n\n控方呈上修訂控罪案情撮要，辯方指未有任何化驗資料，要求押後至26/6。\n\n控方增加保釋條件的要求遭否決，被告以原有條件繼續保釋。\n\n案件押後至26/6 0930 西九龍法院第一庭再訊。",
+        "url": "https://t.me/youarenotalonehk_live/5310",
+        "source": "法庭文字直播台",
+        "datetime": "2020-05-22T02:24:24.000Z"
+      }
+    ]
+  }
+}

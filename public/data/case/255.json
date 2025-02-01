@@ -1,0 +1,59 @@
+{
+  "id": "255",
+  "caseNo": null,
+  "incident": "1111藍田",
+  "defendants": [
+    {
+      "id": "312",
+      "name": "羅",
+      "age": 24,
+      "charges": [
+        {
+          "id": "435",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#觀塘裁判法院第一庭",
+    "#徐綺薇主任裁判官",
+    "#1111藍田"
+  ],
+  "trialDateFrom": "2020-07-22",
+  "trialDateTo": "2020-07-22",
+  "trialLength": null,
+  "verdictDate": "2020-07-22",
+  "sentenceDate": "2020-08-17",
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指，2019年11月11日被告在九龍藍田鯉魚門道30號藍田救護站對面，與其他不知明人士以垃圾桶、磚頭及其他雜物阻礙行人及車輛使用道路，導致鯉魚門道左一二線及左三線的一半受阻，被告被追截150米後被捕。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "80小時社會服務令",
+  "sentenceReason": "辯方指報告正面，提及被告背景、反省等，希望可接納感化報告建議短時間社會服務令。\n\n求情理由：\n。24歲\n。與家人一同居住\n。家人工作背景 （母親是便利店員工，胞姐從事小生意，父親患病，一家主要依靠儲蓄生活，被告亦須承擔家庭開銷）\n。4封求情信（自己、姐姐、僱主、體育老師）總括而言被告有樂於助人、禮貌、友善、可靠等正面評論\n。中一至中六的成績表顯示獲49次優點\n。參與活動獲優異成績\n。深感後悔",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

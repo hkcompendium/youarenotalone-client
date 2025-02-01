@@ -1,0 +1,201 @@
+@import "../../styles/mixin.scss";
+
+.eventRoot {
+  // border: 2px solid transparent;
+  background-color: var(--left-panel-content-background);
+  padding: 12px 16px;
+  padding-left: 100px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  text-align: left;
+  padding-top: 16px;
+  @include mobile {
+    padding: 12px 12px;
+    padding-top: 16px;
+  }
+  &.deleted {
+    opacity: 0.5;
+    pointer-events: none;
+  }
+  &.active {
+    // border-color: var(--left-panel-border);
+    box-shadow: 0px 0px 1px 2px var(--left-panel-border);
+  }
+  &.noBg {
+    padding-left: 16px;
+  }
+}
+.bgImage {
+  div {
+    position: absolute;
+    top: 00px;
+    left: 0px;
+    width: 120px;
+    height: 100%;
+    background-position: top center;
+    background-size: cover;
+    @include mobile {
+      opacity: 0.2;
+    }
+    // border-radius: 100px;
+    &::before {
+      content: "";
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      background: linear-gradient(90deg, rgba(255,255,255,0) 25%, var(--left-panel-content-background) 85%);    }
+  }
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.incident {
+  z-index: 2;
+  position: absolute;
+  top: -6px;
+  left: 8px;
+  padding: 2px 5px;
+  background: var(--left-panel-border);
+  color: #fff;
+  border-bottom-right-radius: 2px;
+  border-radius: 2px;
+  input {
+    color: #fff;
+  }
+}
+.caseNo {
+  position: absolute;
+  top: -6px;
+  right: 8px;
+  padding: 2px 5px;
+  background: var(--left-panel-border);
+  color: #fff;
+  border-bottom-right-radius: 2px;
+  border-radius: 2px;
+  input {
+    color: #fff;
+  }
+}
+.btnOverlay {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  top: 0;
+
+}
+.left {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: stretch;
+  flex: 1;
+}
+.right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.description {
+  height: 32px;
+  overflow: hidden;
+  display: -webkit-box;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  --max-lines: 2;
+  margin-top: 4px;
+  text-align: left;
+  word-break:break-all;
+
+}
+.type {
+  text-align: right;
+}
+.brief {
+  margin-top: 4px;
+  display: flex;
+  flex-direction: row;
+  span {
+    text-align: left;
+  }
+  .type {
+    text-align: left;
+    width: 50px;
+    flex: 50px;
+    margin-right: 8px;
+  }
+}
+
+.tags {
+  display: flex;
+  flex-direction: row;
+  margin-top: 8px;
+  flex-wrap: wrap;
+  width: 100%;
+
+  .tag {
+    display: inline-block;
+    text-align: left;
+    margin-right: 10px;
+    color: var(--tag);
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+.avatarGroup {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.avatarSubGroup {
+  display: flex;
+  flex-direction: row;
+  margin-top: 8px;
+  div {
+    margin-left: 2px;
+  }
+}
+
+.datetime {
+  &:hover {
+    text-decoration: underline;
+  }
+  &[disabled] {
+    text-decoration: none;
+  }
+}
+// .bg10 {
+//   background: linear-gradient(225deg, rgb(213, 213, 213) 22%, var(--left-panel-content-background) 22%, var(--left-panel-content-background) 100%);
+// }
+// .bg20 {
+//   background: linear-gradient(225deg, rgb(230, 247, 255) 22%, var(--left-panel-content-background) 22%, var(--left-panel-content-background) 100%);
+// }
+// .bg30 {
+//   background: linear-gradient(225deg, rgb(255, 188, 188) 22%, var(--left-panel-content-background) 22%, var(--left-panel-content-background) 100%);
+// }
+// .bg40 {
+//   background: linear-gradient(225deg, rgb(220, 245, 255) 22%, var(--left-panel-content-background) 22%, var(--left-panel-content-background) 100%);
+// }
+// .bg50 {
+//   background: linear-gradient(225deg, rgb(183, 227, 254) 22%, var(--left-panel-content-background) 22%, var(--left-panel-content-background) 100%);
+// }
+// .bg60 {
+//   background: linear-gradient(225deg, rgb(162, 224, 177) 22%, var(--left-panel-content-background) 22%, var(--left-panel-content-background) 100%);
+// }
+// .bg70 {
+//   background: linear-gradient(225deg, rgb(162, 224, 177) 22%, var(--left-panel-content-background) 22%, var(--left-panel-content-background) 100%);
+// }

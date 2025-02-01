@@ -1,0 +1,55 @@
+{
+  "id": "103",
+  "caseNo": null,
+  "incident": "20200119中環",
+  "defendants": [
+    {
+      "id": "113",
+      "name": "溫",
+      "age": 17,
+      "charges": [
+        {
+          "id": "154",
+          "verdict": null,
+          "plea": "簽保守行為",
+          "charge": "管有物品意圖摧毀或損壞財產"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-09-07",
+  "sentenceDate": "2020-09-07",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2020年1月19日(參加獲批准的「香港人權及民主法案祈禱會」)在金鐘道與樂禮街交界、近夏慤花園保管一樽黑色噴漆",
+  "verdict": "控方同意撤控，改以簽保守行為方式處理。",
+  "verdictReason": null,
+  "sentence": "自簽1,000元、守行為12個月，另須付堂費500元，其間不得再干犯任何相關罪行。",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

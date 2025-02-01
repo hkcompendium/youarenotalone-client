@@ -1,0 +1,106 @@
+{
+  "id": "344",
+  "caseNo": null,
+  "incident": "0915天后",
+  "defendants": [
+    {
+      "id": "426",
+      "name": "李",
+      "age": 23,
+      "charges": [
+        {
+          "id": "597",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毁壞"
+        },
+        {
+          "id": "598",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "進入及乘坐交通工具而沒有繳交車費罪名"
+        },
+        {
+          "id": "599",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有物品意圖損壞財產罪"
+        },
+        {
+          "id": "600",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "損壞鐵路處所、列車、機械裝置和裝備控 (交替控罪)"
+        }
+      ]
+    },
+    {
+      "id": "427",
+      "name": "許",
+      "age": 22,
+      "charges": [
+        {
+          "id": "601",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毁壞"
+        },
+        {
+          "id": "602",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "進入及乘坐交通工具而沒有繳交車費罪名"
+        },
+        {
+          "id": "603",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有物品意圖損壞財產罪"
+        },
+        {
+          "id": "604",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "損壞鐵路處所、列車、機械裝置和裝備控 (交替控罪)"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-07-20",
+  "magistrate": "香淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年9月15日，在天后站內損壞三台售票機及一台八達通增值機(控罪一)\n\n於2019年9月15日不符合有關條件及沒有合理辯解下進入已付費車費區域。(控罪三及四)\n\n案發當日傍晚 7 時許，有警員目擊三名被告聚集於天后地鐵站的三部售票機及八達通增值機附近商討，其後第一被告以士巴拿破壞售票機，許用膠水封住售票機的入鈔口，第二被告則於附近徘徊，三人會合並通過一部已損壞的入閘機進入港鐵離去。警方要求增援，於九龍灣站截停及拘捕三人，並於第一被告身上搜尋涉案的士巴拿，三人警誡下保持緘默。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "200 小時社會服務令及罰款 500 元",
+  "sentenceReason": "第一被告的代表律師求情時稱，早前為被告索取的背景、社會服務令及勞教中心報告，顯示被告背景正面，因健康問題不適合判入勞教中心；許嘉喬的代表律師同樣稱許不適合判入勞教中心，又稱其父母擔心兒子將來，他亦承諾不再犯事。兩名辯方律師均希望裁判官接納社會服務令報告建議。\n\n裁判官香淑嫻稱，刑事毀壞並非一件小事情，特別是在兩被告一同犯案的情況下，不過考慮到兩被告及時認罪、已全數賠償港鐵損失、已還押14天的因素，決定判處社會服務令。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "控罪一：刑事毀壞(D1-D2)",
+    "控罪二：進入及乘坐交通工具而沒有繳付車費(D1)",
+    "控罪三：進入及乘坐交通工具而沒有繳付車費(D2)"
+  ],
+  "custodyLength": 14,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

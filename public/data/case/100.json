@@ -1,0 +1,73 @@
+{
+  "id": "100",
+  "caseNo": null,
+  "incident": "1111中環 ",
+  "defendants": [
+    {
+      "id": "111",
+      "name": "馮",
+      "age": 21,
+      "charges": [
+        {
+          "id": "152",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#1111中環 "
+  ],
+  "trialDateFrom": "2020-01-08",
+  "trialDateTo": "2020-04-22",
+  "trialLength": 2,
+  "verdictDate": "2020-04-22",
+  "sentenceDate": null,
+  "magistrate": " 何俊堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情顯示，被告於2019年11月11日,在閣麟街美輪樓外管有一個鐵槌，因形跡可疑遭警方截查而拘控。",
+  "verdict": "自簽$1,000守行為12個月,控罪獲撤銷。",
+  "verdictReason": "控方今接納辯方提議，以簽保守行為方式處理，裁判官何俊堯最終批准被告自簽1,000元，守行為1年，控罪獲撤銷。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "工作轉變原因申請宵禁令由0000-0700改至2300-0600獲批。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "被控於2019年11月11日，在閣麟街美輪樓外管有一個鐵槌。",
+    "原被控管有攻擊性武器（鐵鎚），及後修訂控罪管有適合作非法用途的工具並意圖作非法用途使用（1個鐵鎚）。"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "1864",
+        "content": "#東區裁判法院第七庭 #何俊堯裁判官\n#1111中環 #提堂\n馮(21)\n管有非法用途工具（鐵鎚）\n\n控罪：被控於2019年11月11日，在閣麟街美輪樓外管有一個鐵槌\n\n自簽$1,000守行為12個月",
+        "url": "https://t.me/youarenotalonehk_live/4356",
+        "source": "法庭文字直播台",
+        "datetime": "2020-04-22T09:00:15.000Z"
+      },
+      {
+        "id": "1285",
+        "content": "#東區裁判法院第一庭\n#1111中環 #提堂 - 香淑嫻裁判官\n\n馮(21)\n管有攻擊性武器（鐵鎚）\n\n修訂控罪(1) 管有適合作非法用途的工具並意圖作非法用途使用（1個鐵鎚）\n\n控方已取得法律意見\n辯方希望法庭紀錄在案11月22日發信要求警方交文件，12月17日才得到警方回覆表示會盡快，但至今仍未收到文件\n\n工作轉變原因申請宵禁令由0000-0700改至2300-0600獲批⭕️\n\n案件押後至3月18日1430東區法院第一庭再訊",
+        "url": "https://t.me/youarenotalonehk_live/2864",
+        "source": "法庭文字直播台",
+        "datetime": "2020-01-08T07:39:38.000Z"
+      }
+    ]
+  }
+}

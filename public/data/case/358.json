@@ -1,0 +1,77 @@
+{
+  "id": "358",
+  "caseNo": null,
+  "incident": "0906旺角",
+  "defendants": [
+    {
+      "id": "445",
+      "name": "容",
+      "age": 30,
+      "charges": [
+        {
+          "id": "629",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毁壞，違反《刑事罪行條例》(第200章)第60(1)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-13",
+  "sentenceDate": "2020-05-13",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年9月6日在旺角港鐵站近E出口大堂內，無合法辯解下損壞屬於香港鐵路有限公司的6部出入閘機、8部售票機、一部電視螢幕、一條扶手電梯、一部閉路電視、一枝光管及天花，價值共26萬7千元的財產。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "監禁8個月",
+  "sentenceReason": "被告有8次刑事紀錄，均與盜竊和暴力有關。案件明顯是有規模、有組織的破壞，涉及多人犯案，破壞項目眾多，財物價值大，單是被告一人已破壞近20多萬，相當嚴重。以監禁一年為量刑起點，考慮被告認罪，扣減三分一刑期，沒有其他減刑因素，判處即時監禁8個月。",
+  "bailment": "不獲批准",
+  "bailmentRemarks": "保釋期間私了太古斬人漢，保釋被撤回。",
+  "bailmentCondition": null,
+  "remarks": "辯方律師投訴時稱，被告今年9月11日在警署進行錄影會面前，被4名警員在茶水間毆打，最後被迫為錄影會面簽名作實。被告錄影前亦要求索取律師名單，但遭警員拒絕，最終在缺乏律師協助下錄口供，裁判官羅德泉將投訴記錄在案。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 188,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "2243",
+        "content": "#西九龍裁判法院第三庭\n#羅德泉主任裁判官\n#0906旺角 #答辯\n\n容b\n\n控罪：刑事損壞 (違反刑事罪行條例 第60(1)條) — 認罪‍♂\n\n案情：被指於19年9月6日，在旺角港鐵站近E出口大堂內，無合法辯解下損壞屬於香港鐵路有限公司的6部出入閘機、8部售票機、一部電視螢幕、一條扶手電梯、一部閉路電視、一枝光管及天花，價值共26萬7千元的財產。\n\n過去有數次刑事定罪紀錄\n\n求情：\n1. 即使被告有破產令，仍願意向港鐵賠償\n\n2. 悔意：被告指即使有不滿也不應該損壞他人財產，應該及早聽從父母勸喻，亦表示日後不會參與暴力示威\n\n判刑：\n裁判官指是次為有規模、有組織性犯案，受到破壞的物件十分多，價值亦十分高，案件性質嚴重\n\n量刑起點為1年，認罪後扣減1/3，總刑期為8個月",
+        "url": "https://t.me/youarenotalonehk_live/5065",
+        "source": "法庭文字直播台",
+        "datetime": "2020-05-13T08:33:13.000Z"
+      },
+      {
+        "id": "1779",
+        "content": "#西九龍裁判法院第三庭\n#羅德泉主任裁判官\n#0906旺角\n\n容b\n\n控罪：刑事損壞 (違反刑事罪行條例 第60(1)條)\n\n案情：被指於19年9月6日，在旺角港鐵站近E出口大堂內，無合法辯解下損壞屬於香港鐵路有限公司的6部出入閘機、8部售票機、一部電視螢幕、一條扶手電梯、一部閉路電視、一枝光管及天花，價值共26萬7千元的財產。\n\n沒有保釋申請，期間交由懲教看管\n\n案件押後至5月13日1430西九龍裁判法院第三庭進行答辯",
+        "url": "https://t.me/youarenotalonehk_live/4188",
+        "source": "法庭文字直播台",
+        "datetime": "2020-04-15T07:07:01.000Z"
+      },
+      {
+        "id": "1065",
+        "content": "#高等法院5樓7庭 #申請保釋\n\n2. 10:30 am - 容(29)已還押42天 - 刑事損壞 #0906旺角 手持棍棒擊打港鐵財產；保釋期間私了太古斬人漢，保釋被撤回\n\n拒絕擔保",
+        "url": "https://t.me/youarenotalonehk_live/2451",
+        "source": "法庭文字直播台",
+        "datetime": "2019-12-20T03:35:27.000Z"
+      }
+    ]
+  }
+}

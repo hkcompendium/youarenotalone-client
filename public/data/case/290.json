@@ -1,0 +1,79 @@
+{
+  "id": "290",
+  "caseNo": null,
+  "incident": "0930葵涌",
+  "defendants": [
+    {
+      "id": "353",
+      "name": "梁",
+      "age": 26,
+      "charges": [
+        {
+          "id": "493",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "管有違禁武器"
+        },
+        {
+          "id": "494",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "管有違禁武器"
+        },
+        {
+          "id": "495",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "管有攻擊性武器"
+        },
+        {
+          "id": "496",
+          "verdict": null,
+          "plea": null,
+          "charge": "無牌管有無線電通訊器具"
+        },
+        {
+          "id": "497",
+          "verdict": null,
+          "plea": null,
+          "charge": "無牌管有無線電通訊器具"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-08-07",
+  "trialDateTo": "2020-09-23",
+  "trialLength": 2,
+  "verdictDate": "2020-11-12",
+  "sentenceDate": "2020-11-27",
+  "magistrate": "崔美霞",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年9月30日在荃灣梨木樹邨葵樹樓某單位，管有一批違禁及攻擊性武器，即1個指節套(控罪一) 、1枝重力操作鋼棒(控罪二) 、2支彈叉、1個彈射器，以及3袋鋼珠及玻璃珠(控罪三)以及未有牌照下管有兩部無線電通訊器具(控罪四及五)",
+  "verdict": "罪名成立",
+  "verdictReason": "崔官亦指，被告所在的房間面積不大，警員搜出的頭盔、豬嘴、眼罩等物品共有40多項，也有一定體積，手銬及彈叉等物品的性質亦明顯，故此被告不知道涉案物品在其房內的說法，並不可能，他對該些物品不知情之說也不成立。基於以上分析，崔官認為涉案物品是在被告所在的房間搜出，被告具有該些物品的控制權，知悉它們的性質，亦有意圖在有需要時使用，被告案發時確實管有該些用品。",
+  "sentence": "控罪(1)3個月監禁；控罪(2)5個月監禁；控罪(3)11個月監禁；控罪(4)罰款$4,000；控罪(5)罰款$2,000元  全部刑期同期執行",
+  "sentenceReason": "裁判官判刑時指，警員是從被告的房間搜出指節套及伸縮棍等違禁物品，兩者均會對人造成傷害。涉案彈叉若配合彈珠，可射穿木靶，射程非常遠，具嚴重殺傷力。警方亦於被告家中搜出為數不少的金屬彈珠及玻璃珠，兩者均可配合彈叉使用，可造成永久傷殘，故判囚11個月。另外兩項無牌管有無線電通訊器具罪，則判罰款 6,000 元。\n\n ",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "248",
+  "caseNo": null,
+  "incident": "20191111旺角",
+  "defendants": [
+    {
+      "id": "304",
+      "name": "陳",
+      "age": 19,
+      "charges": [
+        {
+          "id": "426",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有物品意圖損壞財產罪,違反 《刑事罪行條例》(第200章) 第62 (a) 條 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-29",
+  "sentenceDate": "2021-03-01",
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年 11 月 11 日於旺角亞皆老街與彌敦道一帶，管有物品意圖損壞財產，即保管兩支黑色噴漆。同意案情指，案發當日午夜，有警員於亞皆老街向彌敦道一帶進行拘捕行動及追捕示威者，被告於奶路臣街附近被制服，並被搜出兩罐黑色噴漆、手套、鹽水、呼吸器及一本《堵路指南》，他警誡下保持緘默。",
+  "verdict": "被告獲撤控，改以自簽 2,000 元、守行為兩年。",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

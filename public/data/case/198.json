@@ -1,0 +1,61 @@
+{
+  "id": "198",
+  "caseNo": null,
+  "incident": "1111沙田",
+  "defendants": [
+    {
+      "id": "242",
+      "name": "譚",
+      "age": 17,
+      "charges": [
+        {
+          "id": "335",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+        },
+        {
+          "id": "336",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有適合作非法用途的工具，違反《簡易程序治罪條例》(第228 章) 第17 條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-09-01",
+  "sentenceDate": "2020-09-01",
+  "magistrate": "溫紹明",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控一項在公眾地方造成阻礙，以及一名有適合作非法用途的工具並意圖作非法用途使用，控罪指他於去年 11 月 11 日在沙田獅子山隧道公路近燈柱 DE1118，與 30 多名不知人士，無合法權限或解釋而陳列鐵欄、雪糕筒及磚塊，所佔範圍約 24 平方米，對在上述公眾地方的車輛造成阻礙；以及管有合適作非法用途的工具，即一支士巴拿，意圖將其作非法使用。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "12個月感化令",
+  "sentenceReason": "裁判官認為被告只有17歲，有表達悔意及深切思考，家人亦支持他改過。被告在案件中沒有預謀，而此事已令被告有刑事紀錄，具阻嚇力。另外，被告在案件中沒有使用暴力，加上感化報告正面，希望給予被告改過自新的機會。裁判官接納感化官建議，就兩項控罪判處12個月感化令，同期執行。被告須在工作及居住上跟隨感化官指示，及參與由感化官安排被告改過自新的活動。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

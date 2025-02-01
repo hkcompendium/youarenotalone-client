@@ -1,0 +1,66 @@
+{
+  "id": "263",
+  "caseNo": null,
+  "incident": "0921屯門",
+  "defendants": [
+    {
+      "id": "320",
+      "name": "鄧",
+      "age": 21,
+      "charges": [
+        {
+          "id": "445",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "侮辱國旗 (Chap. not available in this offence)"
+        },
+        {
+          "id": "449",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "管有工具意圖作非法用途，違反《簡易程序治罪條例》(第228章) 第17條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#張潔宜署理主任裁判官",
+    "#0921屯門",
+    "#覆核聆訊",
+    "#撤控"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-01-09",
+  "sentenceDate": "2020-04-15",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告在9月21日連同兩名不知名人士行近被扯下的屯門大會堂平台旗杆懸掛的國旗，其後以火熗及紙巾在旗的不同位置點燃，再踐踏焚燒中的國旗，2分鐘後離開。",
+  "verdict": "第一控罪： 罪名成立。 第二控罪：控方不提證供起訴，裁判官宣佈撤回第二控罪。",
+  "verdictReason": null,
+  "sentence": "240小時社會服務令（控方覆核刑期。10.7.2020 改判5星期監禁）",
+  "sentenceReason": "由於當時律政司正向上訴庭就侮辱國旗罪申請刑期覆核，控方向裁判官申請押後判刑，裁判官以對被告不公為由拒絕申請。\n\n考慮被告同意案情並坦白認罪，承諾不會再犯，無刑事定罪記錄。老闆及前中學老師都在求情信中表示被告勤奮好學、盡責，是一名好員工，好學生。相信被告一時衝動犯下本案，接納感化官建議，判處240小時社會服務令，希望被告能深切反省。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "**律政司覆核刑期，改判入獄五周**\n\n律政司認為刑罰過輕，遂根據《裁判官條例》 第104條向原審裁判官覆核她的決定。\n\n2020年7月10日覆核聆訊日，被告已服刑：48/240小時社會服務令。\n\n就覆核刑期，裁判官作出裁決：\n//終審法院已在香港特別行政區訴吳恭劭及另一人 (1999) 2 HKCFAR 469第483頁E行，闡明侮辱國旗罪的立法目的//\n\n//法庭就《國旗及國徽條例》第7條的罪行量刑時；必須緊記該條文旨在全面保護國旗免遭侮辱，以維護象徵國家尊嚴、統一及領土完整之國旗的合法利益。這利益至為重要，觸及香港特別行政區的憲制根基。法庭必須確保判刑充分反映法律維護這重大合法利益的用意, 包括考慮判處具阻嚇性的刑罰。\n\n基於第7條的上述立法目的和控訴要旨，法庭量刑時必須審視被告人的行為對國旗造成、帶來或引致的侮辱程度。被告人對國旗的侮辱愈惡劣，對第7條所保護的合法利益貶損就愈大，他要面對的判刑，包括懲處方式和刑期（若是即時監禁），就會愈嚴厲。//\n\n\n裁判官接納判刑時沒有全面考慮上訴庭的加刑因素，被告的案情嚴重，嚴重貶損了國旗所代表的國家尊嚴，被告人有很重的罪責\n\n本案有以下加刑因素：\n1. 案發時有約40人圍觀，被告在群眾面前連同他人犯案，是有機會挑動其他人情緒\n2. 被告與其他人夥同犯罪\n3. 被告以不同手段侮辱國旗\n4. 焚燒國旗危害人身及財產的安全\n5. 被告得知國旗屬於政府財產\n\n裁判官認為本案應判處阻嚇性刑罰，接受社會服務令是明顯上不足，即時監禁是唯一的選擇，批准律政司覆核，撤銷社會服務令\n\n裁判官認為適當的量刑起點為9星期，認罪扣減1/3後為6星期，由於被告已履行48小時社會服務令，再扣減1星期，總刑期為5星期監禁。\n\n參考：\nhttps://www.inmediahk.net/node/1072800\nCAAR4/2019\nhttps://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=127563&QS=%2B&TP=JU\n",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "控方覆核刑期",
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

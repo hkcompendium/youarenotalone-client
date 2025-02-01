@@ -1,0 +1,72 @@
+{
+  "id": "55",
+  "caseNo": null,
+  "incident": "20200529深水埗 ",
+  "defendants": [
+    {
+      "id": "63",
+      "name": "李",
+      "age": 31,
+      "charges": [
+        {
+          "id": "78",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "在公眾地方打鬥"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "20200529深水埗 "
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "林子勤",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "第二被告被控於2020年5月29日，在深水埗元州街162號外在上述公眾地方參與非法打鬥。",
+  "verdict": "撤銷控罪",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": "裁判官認為被告沒有自招嫌疑，批出訟費",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "被告為區議員劉家衡的秘書，擺街站反對港區國安法期間，遭政見不同的男子以煙蒂燙傷，事後兩人同被控在公眾地方打鬥罪。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "5516",
+        "content": "#西九龍裁判法院第十九庭\n#林子勤裁判官\n李(31) #提堂 (#20200529深水埗 在公眾地方打鬥)\n\n控罪撤回\n有訟費申請\n\n同案第一被告藍人尹載道仍面對另一項普通襲擊控罪，押後至12月30日西九一庭再訊。\n———————————————\nD1 尹載道（49）\nD2 李（31）深水埗區議員劉家衡的秘書\n\n控罪一：在公眾地方參與非法打鬥\n\nD1D2被控於2020年5月29日，在深水埗元州街162號外在上述公眾地方參與非法打鬥。\n\n\n控罪二：普通襲擊\n\nD2 尹載道被控於同日同地襲擊一余姓女子。",
+        "url": "https://t.me/youarenotalonehk_live/11056",
+        "source": "法庭文字直播台",
+        "datetime": "2020-11-06T03:27:44.000Z"
+      },
+      {
+        "id": "5513",
+        "content": "#西九龍裁判法院第十九庭\n#林子勤裁判官\n李(31) #提堂 (#20200529深水埗 在公眾地方打鬥)\n\n控罪撤回\n有訟費申請\n\n同案第一被告藍人尹載道仍面對一項普通襲擊，押後至12月30日西九一庭再訊。",
+        "url": "https://t.me/youarenotalonehk_live/11052",
+        "source": "法庭文字直播台",
+        "datetime": "2020-11-06T03:04:58.000Z"
+      }
+    ]
+  }
+}

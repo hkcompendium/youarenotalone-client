@@ -1,0 +1,94 @@
+{
+  "id": "242",
+  "caseNo": null,
+  "incident": "20200111旺角",
+  "defendants": [
+    {
+      "id": "293",
+      "name": "＊",
+      "age": 15,
+      "charges": [
+        {
+          "id": "411",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事毀壞"
+        }
+      ]
+    },
+    {
+      "id": "294",
+      "name": "＊",
+      "age": 15,
+      "charges": [
+        {
+          "id": "412",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事毀壞"
+        }
+      ]
+    },
+    {
+      "id": "295",
+      "name": "林",
+      "age": 18,
+      "charges": [
+        {
+          "id": "413",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事毀壞"
+        }
+      ]
+    },
+    {
+      "id": "296",
+      "name": "譚",
+      "age": 16,
+      "charges": [
+        {
+          "id": "414",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事毀壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-26",
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於2020年1月11日，在香港九龍旺角旺角道的行人天橋上損壞屬於香港政府的財物(在地上噴上示威標語及在燈柱上張貼海報)。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "保釋期間不得踏足涉案天橋，並須每晚9時起宵禁。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

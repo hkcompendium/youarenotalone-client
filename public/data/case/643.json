@@ -1,0 +1,58 @@
+{
+  "id": "643",
+  "caseNo": null,
+  "incident": "20200701銅鑼灣",
+  "defendants": [
+    {
+      "id": "902",
+      "name": "周",
+      "age": 64,
+      "charges": [
+        {
+          "id": "1324",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "20200701銅鑼灣",
+    "阻街"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2021-05-24",
+  "sentenceDate": "2021-05-24",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指在2020年7月1日下午4時許，有警員於怡和街看守警車，當時有約100人在該地叫口號及辱罵警員，被告站在樂聲大廈外的行人道中間，將一個1米高的交通圓筒拋至行人過路處中間後離開，最終在香港富豪酒店外被截停及拘捕。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "3星期即時監禁",
+  "sentenceReason": "裁判官以監禁4.5星期作為量刑起點，由於被告認罪，扣減至3星期監禁。裁判官指被告所拋出的交通圓筒沒有擊中任何人，也沒有導致任何人受傷，可是法庭考慮涉及公共秩序案件的判刑時，不單只局限於被告一個人的作為的實質影響，亦不能莫視其行為的潛在風險。案發時很多人的情緒高漲，被告當時只不過是一個過路人，也受到現場氣氛所影響，其行為會再影響其他人的情緒，不能忽視所帶來的潛在風險。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

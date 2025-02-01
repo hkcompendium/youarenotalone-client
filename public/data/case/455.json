@@ -1,0 +1,58 @@
+{
+  "id": "455",
+  "caseNo": null,
+  "incident": "展示721標語",
+  "defendants": [
+    {
+      "id": "581",
+      "name": "呂",
+      "age": 38,
+      "charges": [
+        {
+          "id": "837",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "未經特准展示資料以作廣告"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "展示721標語",
+    "屯門裁判法院"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-12-31",
+  "sentenceDate": "2020-12-31",
+  "magistrate": "李志豪",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被票控「未經特准展示資料以作廣告」。案情指，於2020年3月21日，被告在元朗地鐵站G1出口高舉「毋忘七二一」 紙牌，逗了約15分鐘。後來港鐵職員上前阻止，指被告違反了港鐵附例，被告其後在確認有該條文存在後，順從地交出身份證作登記並離開。",
+  "verdict": "罪名成立",
+  "verdictReason": "裁判官裁決時引述被告說法，指被告自言當時沒有發出聲音，亦沒有將紙牌放在地上或張貼，行為僅屬表達個人意見，亦是《基本法》下容許的自由。裁判官則認為，被告手持寫有字句的紙牌站立，舉動明顯為令人得知及提醒路過人士，並非沒有展示，而涉案地點明顯屬港鐵範圍，故裁定被告罪成。",
+  "sentence": "罰款1,000元",
+  "sentenceReason": "",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "未經特准展示資料以作廣告"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

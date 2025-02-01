@@ -1,0 +1,57 @@
+{
+  "id": "621",
+  "caseNo": null,
+  "incident": "20200108將軍澳",
+  "defendants": [
+    {
+      "id": "858",
+      "name": "葉",
+      "age": 29,
+      "charges": [
+        {
+          "id": "1259",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲擊在正當執行職務的警務人員，違反《侵害人身罪條例》(第212章) 第36(b)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "襲警"
+  ],
+  "trialDateFrom": "2021-03-22",
+  "trialDateTo": "2021-03-22",
+  "trialLength": 1,
+  "verdictDate": "2021-03-23",
+  "sentenceDate": null,
+  "magistrate": "莫子聰",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2020年1月8日在將軍澳唐明街尚德邨尚真樓外，襲擊在正當執行職務的警務人員，即警員17311。 ",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官莫子聰今裁決時指，呈堂影片未能拍到首次襲擊事件。若根據警員供稱，被告力度實不足以令警員後退半步，莫官認為警員證供有疑點。\n\n莫官亦親自套上被告圓藤盾，同意如辯方陳詞所指，圓藤盾之大是「包」著被告整個右手前臂，若如警員所稱被告右手批踭，圓藤盾理應會擊中警員胸口，而非警員供稱在右肩擦過，認為警員證供有潛在不可能，裁定被告襲警罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

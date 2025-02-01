@@ -1,0 +1,57 @@
+{
+  "id": "202",
+  "caseNo": null,
+  "incident": "20200527旺角",
+  "defendants": [
+    {
+      "id": "247",
+      "name": "蘇",
+      "age": 23,
+      "charges": [
+        {
+          "id": "345",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    " 阻街"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-12-10",
+  "sentenceDate": "2020-12-31",
+  "magistrate": "羅德泉主任裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年5月27日，在山東街洗衣街交界，無合法權限或解釋而留下一個交通錐，在公眾地方造成阻礙",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "160小時社會服務令",
+  "sentenceReason": "上次押後索取背景及社會服務令報告，感化官對被告評價正面，為人勤力且表現良好，工作表示被受高度肯定，指被告坦白承認控罪有悔意，節省法庭時間，值得再給予一次機會，報告建議社會服務令。裁判官接納申請，判處160小時社會服務令。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

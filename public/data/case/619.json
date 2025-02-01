@@ -1,0 +1,65 @@
+{
+  "id": "619",
+  "caseNo": null,
+  "incident": "1031中環",
+  "defendants": [
+    {
+      "id": "856",
+      "name": "鍾",
+      "age": 24,
+      "charges": [
+        {
+          "id": "1256",
+          "verdict": "撤銷控罪",
+          "plea": "否認控罪",
+          "charge": "管有攻擊性武器"
+        },
+        {
+          "id": "1257",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "參與非法集結"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "何俊堯裁判官",
+    "上訴後加刑",
+    "萬聖節"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-04",
+  "sentenceDate": "2020-06-18",
+  "magistrate": " 何俊堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年10月31日萬聖節當晚，在蘭桂芳有「哈囉喂狗官面具夜」活動抗議《禁蒙面法》，警方於晚上封鎖蘭桂坊。\n\n被告被控於 2019年10月31日，在中環擺花街9號至13號外，管有攻擊性武器即一條黑色可組合的木棍，意圖將其用作非法用途使用，及參與公安條例中所定之非法集結而拘捕。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "⁃ 120小時社會服務令，需聽從感化官指示 ⁃ 居住在報稱住址（更改住址須24小時前通知警方）",
+  "sentenceReason": "裁判官：判刑需考慮案情的嚴重程度，當晚示威現場約400到500人，規模不算小，但只是叫口號等行動，性質相對溫和。當晚亦沒有大型的暴力，整個示威活動中也沒有人士受傷或財物損失，但法庭仍需維護公眾秩序而判處。\n\n判處無薪社會服務令能幫助年輕人自我更新，及具阻嚇性懲罰，又能補償社會大眾，亦不是輕的懲罰。\n\n感化官報告正面，感化主任指被告背景良好，又願意承擔責任，判處社會服務令提高守法意識，因此法庭接納感化主任向法庭作出的建議，並作出判決。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "律師司不滿判刑，申請覆核。2020年11月19日，經過聆訊，法庭裁定律政司的覆核理據成立，並即時改判被告入獄3個月(CAAR 4/2020)。\n",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "控方向上訴法庭提出刑期覆核申請 CAAR 4/2020",
+  "appealJudgementUrl": "https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=132229&QS=%28%E9%8D%BE%E5%98%89%E8%B1%AA%29&TP=JU",
+  "bailmentAppeal": null,
+  "complaints": "https://www.judiciary.hk/zh/about_us/complaints_responses/responses_20201008.html\n\nhttps://www.doj.gov.hk/tc/notable_judgments/pdf/CAAR_4_2020c.pdf",
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

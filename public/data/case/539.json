@@ -1,0 +1,57 @@
+{
+  "id": "539",
+  "caseNo": null,
+  "incident": "1102香港仔",
+  "defendants": [
+    {
+      "id": "705",
+      "name": "招",
+      "age": 22,
+      "charges": [
+        {
+          "id": "1004",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1102香港仔"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-29",
+  "sentenceDate": null,
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指被告於2019年11月2日，在香港仔南風道與黃竹坑道交界，站立在行車道上張開雙手阻礙交通，同日被警員拘捕。",
+  "verdict": "控方撤回控罪，被告自簽 $1000 ，守行為12個月，需繳交$500 堂費 (從擔保金扣除)",
+  "verdictReason": "涉案現場沒有閉路電視，證物不足以起訴，控方以證據不足撤回控罪。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "311",
+  "caseNo": null,
+  "incident": "1112銅鑼灣",
+  "defendants": [
+    {
+      "id": "390",
+      "name": "黃",
+      "age": 17,
+      "charges": [
+        {
+          "id": "549",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-03",
+  "sentenceDate": "2020-07-03",
+  "magistrate": "何俊堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年11月12日，在銅鑼灣崇光百貨外留下垃圾桶、膠圍欄及不同雜物。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "簽保守行為",
+  "sentenceReason": "-需付1000元\n-簽守行為12個月",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

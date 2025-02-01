@@ -1,0 +1,57 @@
+{
+  "id": "275",
+  "caseNo": null,
+  "incident": "0915銅鑼灣",
+  "defendants": [
+    {
+      "id": "333",
+      "name": "羅",
+      "age": 20,
+      "charges": [
+        {
+          "id": "465",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "襲擊警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "襲警"
+  ],
+  "trialDateFrom": "2020-10-28",
+  "trialDateTo": "2020-11-03",
+  "trialLength": 4,
+  "verdictDate": "2020-11-17",
+  "sentenceDate": "2020-12-01",
+  "magistrate": "鄭紀航",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年9月15日在軒尼斯道銅鑼灣站C出口外，襲擊正在執行職務的高級警司區永樑。",
+  "verdict": "罪名成立",
+  "verdictReason": "裁判官鄭紀航裁決時指，區永樑的證供與其傷勢之間沒有不脗合之處，是誠實可靠的證人，會全盤接納區的證供。辯方曾質疑區未能描述制服被告的實質經過，惟鄭官指案發現場情況混亂、糾纏只有約20秒，區未能形容詳細情況、有多少人協助制服以及制服經過，也是無可厚非。辯方亦質疑，影片拍得有警員揮動警棍，而區卻供稱不同意有10個警員都揮棍，說法與影片不符。惟鄭官指，影片可見有一名警員以警棍向下拍打兩下，但是最終是否有拍打下去，是看不清楚，因此不認為區的說法與影片不脗合。",
+  "sentence": "更生中心",
+  "sentenceReason": "鄭紀航其後判刑指，判刑須具阻嚇性，及要公開譴責被告行為，並指法庭須保護警方執法時不受違法行為阻撓。裁判官又指被告經審訊後遭裁定罪成，顯示他沒有悔意，須判處羈留式刑罰，考慮到報告指被告的社會心理功能，不適宜判處勞教中心，最終判其入更生中心。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "違反香港法例第232章《警隊條例》第63條"
+  ],
+  "custodyLength": null,
+  "appeal": "定罪及刑期上訴",
+  "appealJudgementUrl": null,
+  "bailmentAppeal": "在更生中心服刑1個多月後，在2021年1月6日獲准在等候上訴期間保釋 (HCMA385/2020)",
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

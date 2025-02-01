@@ -1,0 +1,55 @@
+{
+  "id": "506",
+  "caseNo": null,
+  "incident": "20200101將軍澳",
+  "defendants": [
+    {
+      "id": "661",
+      "name": "郭",
+      "age": 37,
+      "charges": [
+        {
+          "id": "939",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-09",
+  "sentenceDate": "2020-07-23",
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2020年1月1日，在將軍澳景林邨景楠樓10樓與11樓梯間的公眾地方，無合理辯解，管有攻擊性武器，即兩個發出鐳射光束的裝置。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "100小時社會服務令",
+  "sentenceReason": "考慮到被告的感化及社會服務令報告，當中顯示被告有家人支持及有悔意。",
+  "bailment": "批准",
+  "bailmentRemarks": "擔保金：1,000\n報到：每週1次\n居住報稱地址\n不得離港",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "428",
+  "caseNo": null,
+  "incident": "5.28國安法街站       ",
+  "defendants": [
+    {
+      "id": "539",
+      "name": "黃",
+      "age": 35,
+      "charges": [
+        {
+          "id": "773",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2021-02-10",
+  "trialDateTo": "2021-02-10",
+  "trialLength": null,
+  "verdictDate": "2021-02-10",
+  "sentenceDate": "2021-02-10",
+  "magistrate": "水佳麗",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2020年5月28日，當日PW1 黃姓女士跟其他義工，於天瑞邨停車場外進行支持港版國安法立法的街站。目擊者周姓前議員見到被告在對面馬路準備過馬路，大喊著粗口等字眼，在路邊擺放支持港版國安法立法街站的義工們亦以粗口作回應。\n\n被告過馬路後到街站後的花槽檢起一個爛椅椅背。在路邊擺放支持港版國安法立法街站的女義工們隨即走開。途人李姓男子嘗試截停被告然而失敗。PW1 認為被告情緒激動。在路邊擺放支持港版國安法立法街站的陳姓女義工及羅姓女義工成功制服被告。陳姓女義工使用手機拍攝當時狀況並且報警。PW5（警員17906）到場後拘捕被告。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "監禁 15 星期",
+  "sentenceReason": "國安法對市民來說是新鮮事物，被告過分反應，使用錯誤方式表達意見，實屬不智。若案中有人受傷，法庭會毫不猶豫判以嚴峻刑期。惟考慮本案無人受傷，倒是被告受傷，加上其良好背景，裁判官將量刑起點訂在 20 星期，被告認罪可扣減 25% 刑期，終判監禁 15 星期。",
+  "bailment": "批准",
+  "bailmentRemarks": "被告獲准以現金500元保釋，期間不得離開香港，每星期到警署報到1次。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "被告被控違反香港法例第245章公安條例第33(1)及(2)條。被告被控於2020年5月28日，在香港新界元朗天水圍天瑞路9號天瑞停車場外的公眾地方無合法權限或合理辯解，而攜有攻擊性武器，即一塊破椅椅背。"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

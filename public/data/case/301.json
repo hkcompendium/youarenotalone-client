@@ -1,0 +1,57 @@
+{
+  "id": "301",
+  "caseNo": null,
+  "incident": "0921屯門",
+  "defendants": [
+    {
+      "id": "376",
+      "name": "*",
+      "age": 13,
+      "charges": [
+        {
+          "id": "530",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "侮辱國旗"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#未成年"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2019-11-22",
+  "sentenceDate": "2019-12-13",
+  "magistrate": "水佳麗",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年9月21日，在屯門大會堂外和兩名不明人士，公開和故意以焚燒方式侮辱國旗。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "12個月感化 ，其間晚上7時半至翌日早上7時宵禁，除非有家人陪同或獲感化官批准，另須參與復康及小組活動",
+  "sentenceReason": "裁判官說，這種侮辱自己國家的行為，在任何地方也不被接受。現時很多人不尊重自己國家，升國旗、播國歌時會發噓聲，法庭需判以阻嚇刑罰，否則會令人覺得是小事。\n",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "侮辱國旗"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

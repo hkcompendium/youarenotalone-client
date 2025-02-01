@@ -1,0 +1,57 @@
+{
+  "id": "552",
+  "caseNo": null,
+  "incident": "20200315沙田",
+  "defendants": [
+    {
+      "id": "717",
+      "name": "張",
+      "age": null,
+      "charges": [
+        {
+          "id": "1020",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事損壞，違反 《刑事罪行條例》(第200章) 第60(1)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "刑事損壞"
+  ],
+  "trialDateFrom": "2021-03-02",
+  "trialDateTo": "2021-03-02",
+  "trialLength": 1,
+  "verdictDate": "2021-03-02",
+  "sentenceDate": "2021-03-23",
+  "magistrate": "溫紹明",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "在2020年3月15日，在沙田火炭行人隧道噴漆，寫上「若要人不知，暗角禮貌啲」。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "罰款$5,600；判處社會服務令80小時",
+  "sentenceReason": "被告沒有定罪記錄，認罪，有悔意，於同類案件中不算最嚴重，故認同報告社會服務令是合適的。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "找不到相關新聞",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

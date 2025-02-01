@@ -1,0 +1,57 @@
+{
+  "id": "102",
+  "caseNo": null,
+  "incident": "20200119中環",
+  "defendants": [
+    {
+      "id": "114",
+      "name": "林",
+      "age": 26,
+      "charges": [
+        {
+          "id": "155",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#20200119中環"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2020-04-21",
+  "sentenceDate": null,
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指被告於2020年 1 月 19 日，在中環畢打街環球大廈外管有 一個黑色背包內有一個銀色板手、一個黃黑色鎚仔、兩塊防彈插板、一個黑色鏡套、一個白色手套、 一對黑色手套、一個防毒面罩連兩個濾芯、一副黑色護目鏡、一頂黑色帽、一個白色口罩及兩枝生理鹽水，意圖將其作非法用途使用，被控一項管有適合作非法用途的工具並意圖作非法用途使用罪。",
+  "verdict": "撤回控罪，批准申請訟費。",
+  "verdictReason": "控方指諮詢法律意見後認為證據不足，決定撤控。\n\n但指被告自招嫌疑，在警誡下承認正準備去參與遮打花園集會，打算用證物8豬嘴及證物9眼罩自衛(防tg)\n\n控方引用噪音管制條例，質疑被告聲稱星期日開工而有士巴拿，鎚不合理。而被告作為建築工人，不應有盾牌在身，故反對辯方申請訟費。\n\n辯方指盾牌是工地保護裝備之一，在燒桿時保護自己，如頭盔一樣。而拘捕時無被警員查問其用途，顯示警員不認為盾牌可疑。\n\n主任裁判官錢禮則指，警方於案發現場並無就被告管有防彈插板進行詢問，顯示警方當時並未對防彈插板產生懷疑，被告並無自招嫌疑，故法庭不信納控方說法，最終批准其訟費申請，被告可取回$1000訟費。\n\n因控方無法在毫無合理疑點下，證明被告管有物品的意圖，證物1-12歸還予被告。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": "被告認為今次是遭濫捕，當日在現場已向防暴警員表示自己從事工程工作，有警員亦從他身上找到其建造業安全訓練證書，並請示較高級防暴警員指「阿sir，真係有張咁嘅卡喎」，惟對方表示「唔理，拉返去先」。",
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

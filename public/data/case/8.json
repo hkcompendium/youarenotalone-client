@@ -1,0 +1,65 @@
+{
+  "id": "8",
+  "caseNo": null,
+  "incident": "20200523元朗",
+  "defendants": [
+    {
+      "id": "8",
+      "name": "李",
+      "age": 35,
+      "charges": [
+        {
+          "id": "8",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "普通襲擊，違反《侵害人身條例》(第212章) 第40條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "20200523元朗"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "周浩鼎（下稱PW1）於當日1430以嘉賓身份於朗屏西鐵站 B2 出口的一個街站，以呼籲人們支持國安法。稍後，持不同政見的一方衝進人群，PW1的議員助理用手機拍下過程，期間被告推了PW1 左邊肩膀一下，被告其後逃去。\n\n警方經調查後，得知被告住址在附近，某日便到該處進行突擊搜查，並找到被告當日穿着的衣著。被告辯稱當日只是希望上前查詢有關國安法的問題，然而有影片拍到被告有推PW1，並非只是上前查詢。",
+  "verdict": "撤銷控罪",
+  "verdictReason": null,
+  "sentence": "被告同意案情，裁判官以 $1000簽保守行為處理案件，為期十二個月，期間不能再犯與暴力相關罪名。",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "5421",
+        "content": "#屯門裁判法院第一庭\n#張潔宜署理主任裁判官\n#20200523元朗 #答辯\n\n李（35）\n\n控罪：普通襲擊\n\n被告被控於今年 5 月 23 日，在朗屏西鐵站 B2 出口外的行人天橋襲擊男子周浩鼎。（立場報道）\n\n控方表示會以簽保守行為方式處理事件。\n\n當日案情\n周浩鼎（下稱PW1）於當日1430以嘉賓身份於朗屏西鐵站 B2 出口的一個街站，以呼籲人們支持國安法。稍後，持不同政見的一方衝進人群，PW1的議員助理用手機拍下過程，期間被告推了PW1 左邊肩膀一下，被告其後逃去。\n警方經調查後，得知被告住址在附近，某日便到該處進行突擊搜查，並找到被告當日穿着的衣著。被告辯稱當日只是希望上前查詢有關國安法的問題，然而有影片拍到被告有推PW1，並非只是上前查詢。\n\n被告同意案情，裁判官以 $1000簽保守行為處理案件，為期十二個月，期間不能再犯與暴力相關罪名。\n\n相關控罪撤回",
+        "url": "https://t.me/youarenotalonehk_live/10919",
+        "source": "法庭文字直播台",
+        "datetime": "2020-11-03T08:08:58.000Z"
+      }
+    ]
+  }
+}

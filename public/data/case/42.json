@@ -1,0 +1,65 @@
+{
+  "id": "42",
+  "caseNo": null,
+  "incident": "1103紅磡",
+  "defendants": [
+    {
+      "id": "44",
+      "name": "傅",
+      "age": 20,
+      "charges": [
+        {
+          "id": "50",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "無牌管有無線電通訊器具，違反《電訊條例》(第106章) 第8條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1103紅磡"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "張天雁",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "同意的案情指，2019年11月3日，晚上約11時30分，警方在旺角見到有20名蒙面示威者由亞皆老街轉入渡船街，懷疑他們參與非法集結便下警車追截，被告逃跑期間被摔倒在地，及後遭制服。警員帶被告返紅磡警署後搜身，搜出對講機、黑色頭盔、護目罩及豬嘴。",
+  "verdict": "撤銷控罪",
+  "verdictReason": null,
+  "sentence": "簽保守行為12個月，自簽$500\n證物9充公",
+  "sentenceReason": "控方表示同意以簽保守行為方式處理。裁判官張天雁經考慮後，准被告自簽500港元，守行為12個月，被告獲撤銷控罪。\n",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "4560",
+        "content": "#九龍城裁判法院第一庭\n#張天雁裁判官 #提堂 #1103紅磡\n\n傅（20）\n\n控罪：無牌管有無線電通訊器具\n\n案情：2019年11月3日在九龍紅磡警署內，沒有行政長官會同行政會議或電訊管理局局長批給或設立的牌照而管有對講機。\n（摘自蘋果）\n\n⭕️ 守行為12個月，自簽$500\n證物1-8、10-23歸還，證物9充公\n\n（感謝臨時直播員）",
+        "url": "https://t.me/youarenotalonehk_live/9476",
+        "source": "法庭文字直播台",
+        "datetime": "2020-09-16T07:10:02.000Z"
+      }
+    ]
+  }
+}

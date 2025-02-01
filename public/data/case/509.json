@@ -1,0 +1,60 @@
+{
+  "id": "509",
+  "caseNo": null,
+  "incident": "20200119中環",
+  "defendants": [
+    {
+      "id": "665",
+      "name": "黃",
+      "age": 24,
+      "charges": [
+        {
+          "id": "943",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器， 違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "鄧少雄裁判官",
+    "管有攻擊性武器",
+    "在公眾地方管有攻擊性武器",
+    "20200119中環"
+  ],
+  "trialDateFrom": "2021-02-18",
+  "trialDateTo": "2021-02-19",
+  "trialLength": 2,
+  "verdictDate": "2021-02-19",
+  "sentenceDate": null,
+  "magistrate": "鄧少雄",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2020年1月19日在中環遮打道港鐵站J出口，涉嫌管有攻擊性武器意圖傷害他人身體，即一塊磚頭。",
+  "verdict": "罪名不成立",
+  "verdictReason": "本案控罪主要考慮被告是否有意使用該磚頭傷害其他人。\n\n本席對被告作供辯解被磚頭絆倒而執起手持一兩分鐘打算放終審法院牆外有懷疑，因最方便處理是放在一傍，但又不能否定其說法。另外法庭對穿戴一隻工業手套保暖也不理解，因工業手套主要作用保護雙手。\n\n法庭細看呈堂片段P4，雖然收音未如理想但部份被告同PW1對話內容仍可聽到重點如：\n「你識得廣東話」\n「攞返舊磚放返上去」\n「呢度有cam 可以睇到」(片中亦見被告説話時頭部向建築物高處望，而片段中終審法院近窗口外牆上見有空位及已放了一磚頭)，上述片段顯示與庭上口供吻合，而被告由終審法院外行埋去石牆與其辯解打算放去安住位置吻合。\n\n針對被告是否有意用磚頭傷人，根據PW2口供第一眼見被告相距很近，當時垂下左手持磚，在警員右方接近而且有穿上工業手套行為令人生疑，見到穿防暴裝備PW2不可能不知道是警察，沒有逃跑或舉起手作任何動作並不為奇，但結括而言控方未能就有意圖使用磚頭傷害他人提供充足證據舉證\n",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "以1000元保釋，須遵守不得離港及每星期到警署報到一次等條件。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

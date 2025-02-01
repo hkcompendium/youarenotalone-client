@@ -1,0 +1,58 @@
+{
+  "id": "527",
+  "caseNo": null,
+  "incident": "1224沙田",
+  "defendants": [
+    {
+      "id": "683",
+      "name": "黃",
+      "age": 38,
+      "charges": [
+        {
+          "id": "963",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#1224沙田",
+    "在公眾地方管有攻擊性武器"
+  ],
+  "trialDateFrom": "2020-12-28",
+  "trialDateTo": "2020-12-29",
+  "trialLength": 2,
+  "verdictDate": "2021-01-13",
+  "sentenceDate": null,
+  "magistrate": "溫紹明",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控在2019年12月24日，在新城市廣場一期近大會堂廣場附近的公眾地方，管有一支能發出鐳射光束的裝置，即一支雷射筆。",
+  "verdict": "罪名不成立",
+  "verdictReason": "被告沒有案底，犯案機會不大。被告口供有疑點，亦有可能是真的。\n\n裁判官指，涉案警員對於現場人流和同僚分布的觀察不理想，他先供稱當時百步梯上人流稀疏，只得6至7名市民在被告前方，而附近沒有其他警員。但盤問時，卻改稱百步梯上有10至20人，下方亦有數十名警員在巡邏。\n\n裁判官指，難以相信被告在警方重重包圍下，還會用雷射筆照射警員。況且當時正值晚上，附近只得街燈，警員和被告又相距35米，他要從百步梯下方往上走，既要注意途人，又要留意梯級，應難以專注於被告身上。當日被告衣着打扮極之普通，身上亦無穿戴防具，警方搜到的只是美工鉸剪，並不鋒利。警方沒有對雷射筆檢驗DNA，沒有檢驗指紋，並無其他證據作推論，故裁定被告罪名不成立。\n\n辯方申請訟費，控方反對。裁判官裁定被告沒有自招嫌疑，裁決不是技術性脫罪，被告行為不算合作，但有機會是雙方誤會，被告被截停後沒有嘗試逃走，裁判官裁定辯方獲得訟費。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "保釋金 5000\n居住於報稱地址\n每星期報到1次",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

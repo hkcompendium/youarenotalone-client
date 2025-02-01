@@ -1,0 +1,55 @@
+{
+  "id": "413",
+  "caseNo": null,
+  "incident": "1112大圍",
+  "defendants": [
+    {
+      "id": "512",
+      "name": "李",
+      "age": 23,
+      "charges": [
+        {
+          "id": "733",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-06-02",
+  "trialDateTo": "2020-06-02",
+  "trialLength": 1,
+  "verdictDate": "2020-06-02",
+  "sentenceDate": "2020-06-17",
+  "magistrate": "鄧少雄",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控罪指，被告於2019年 11 月 12 日在大圍成運路近 BE4317 燈柱的公眾地方，攜有用藍色布及牛皮膠紙包裹的汽油彈、一把剪刀、一個點火器及三柄士巴拿。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "監禁30星期",
+  "sentenceReason": "第一項控罪罪行嚴重，故以12個月為量刑起點。但由於之前一直未有正式答辯直至上一堂才答辯認罪，會當被告是第一時間認罪，所以會扣足三分一刑期，即8個月(32星期)。案情指當日一行只有6人，而被告的一支汽油彈只打算用作燃燒雜物。\n\n經過考慮，亦顧及到被告家庭情況，酌情扣減2星期，即最後判處監禁30星期。",
+  "bailment": "不獲批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 200,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "365",
+  "caseNo": null,
+  "incident": "1113將軍澳",
+  "defendants": [
+    {
+      "id": "453",
+      "name": "孫",
+      "age": 17,
+      "charges": [
+        {
+          "id": "639",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有物品意圖損壞財產"
+        },
+        {
+          "id": "640",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "噴漆",
+    "眼罩",
+    "口罩",
+    "遮"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-06",
+  "sentenceDate": "2020-07-27",
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "早上0753時於寶順路及翠嶺路交界有10名示威者以雜物及雪糕筒堵路，面積約10米x20米，警員證人D1-D4 隨後制服被告，於搜身時背囊內有手機、一罐噴漆、一頂帽、一個膠袋、眼罩、3M口罩及一把遮。",
+  "verdict": "控罪1罪名成立；控罪2獲撤控",
+  "verdictReason": "辯方早前去信律政司，希望可以簽保守行為形式處理。控方是日提出要求，指如被告承認管有物品意圖損壞財產，可無條件撤回傳票控罪。",
+  "sentence": "60小時社會服務令",
+  "sentenceReason": "辯方指已向被告解釋感化報告及社會服務令報告，指報告大致正面。\n\n裁判官指第七段有提及被告得到家人及老師支持，感化令不適合，感化官建議判處短時間社會服務令。加上辯方呈交的求情信數量，裁判官確信被告會獲得足夠的監管及指導。裁判官指若有違反條件，將考慮索取非禁閉刑罰。\n",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "沒有相關媒體報導",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

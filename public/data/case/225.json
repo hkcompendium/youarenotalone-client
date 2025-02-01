@@ -1,0 +1,61 @@
+{
+  "id": "225",
+  "caseNo": null,
+  "incident": "1113將軍澳",
+  "defendants": [
+    {
+      "id": "271",
+      "name": "張",
+      "age": 21,
+      "charges": [
+        {
+          "id": "383",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "在公眾地方造成阻礙"
+        },
+        {
+          "id": "384",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "管有攻擊性武器罪"
+        }
+      ]
+    }
+  ],
+  "description": "控方撤銷控罪，並以簽保守行為方式處理本案。被告承認案情，自簽2000元，並承諾守行為12個月，期間不得干犯與公眾阻礙、非法集結或暴動的罪行，亦需繳付堂費1000元。",
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-04-28",
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案發當日早上約7時半，有一隊警員巡經將軍澳隧道往九龍方向入口，發現被告孤身一人正在將一輛共享單車移往公路上製造路障，其時路面上已有數輛單車擋路，令馬路上出現約50米車龍。警員立即落車追捕並將被告制服，被捕後被告一直保持緘默。",
+  "verdict": "",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

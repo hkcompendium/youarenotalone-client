@@ -1,0 +1,81 @@
+{
+  "id": "274",
+  "caseNo": null,
+  "incident": "0727元朗",
+  "defendants": [
+    {
+      "id": "397",
+      "name": "朱",
+      "age": 18,
+      "charges": [
+        {
+          "id": "556",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器,違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    },
+    {
+      "id": "480",
+      "name": "廖",
+      "age": 19,
+      "charges": [
+        {
+          "id": "680",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "在公眾地方管有攻擊性武器,違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    },
+    {
+      "id": "481",
+      "name": "翁",
+      "age": 25,
+      "charges": [
+        {
+          "id": "681",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器,違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-04-24",
+  "sentenceDate": "2020-05-08",
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "第一被告被控在2019年7月27日在元朗朗樂街管有1把氣槍連充氣罐、1個已上膛的彈匣、2個未上膛的彈匣和1包BB彈。\n\n第二被告被控在2019年7月27日在元朗朗樂街管有1枝丫叉、1袋鐵珠及1把摺合式萬用刀。\n\n第三被告被控在2019年7月27日管有一把摺合式萬用刀。\n\n第四被告被控在2019年7月27日，在元朗朗樂路管有一支伸縮警棍及一支雷射指示筆\n\n\n\n",
+  "verdict": "罪名成立",
+  "verdictReason": "第三被告獲控方撤控後申請取回訟費，裁判官批准訟費申請",
+  "sentence": "第一被告被判處入勞教中心，第二被告被判處即時監禁 8 個月，第四被告被判處即時監禁 8 個月",
+  "sentenceReason": "案發時元朗有人集結示威，三名被告在示威地點附近出現，遭警方截查並搜出涉案物品。針對第二被告及第四被告，雖然辯方案情強調涉案物品未被使用，但法庭不能忽視武器對公眾的危害，因此裁判官決定以 12 個月為量刑始點，考慮兩人主動認罪獲減刑，二人分別被判即時監禁 8 個月。至於第一被告，蘇官指由於年紀較輕，判處他入勞教中心，希望他能在中心有深刻反省、操揀，好好珍惜機會以改過自身。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "第二被告不服刑罰上訴，被駁回",
+  "appealJudgementUrl": "https://www.hklii.hk/tc/cases/hkcfi/2020/1808",
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,32 @@
+.inputRoot {
+  border: 1px var(--left-panel-border) solid;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  background-color: var(--left-panel-content-background);
+  height: 28px;
+  border-radius: 2px;
+  overflow: hidden;
+  label {
+    background-color: rgb(236, 239, 255);
+    min-width: 100px;
+    text-align: center;
+    color: #000;
+    font-weight: 400;
+    border-right: 1px var(--left-panel-border) solid;
+    // border-left: 1px var(--left-panel-border) solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0d0f1d;
+    color: #fff;
+    span {
+      font-size: 14px;
+      -webkit-font-smoothing: auto;
+    }
+  }
+  input {
+    flex: 1;
+    padding: 2px 8px;
+  }
+}

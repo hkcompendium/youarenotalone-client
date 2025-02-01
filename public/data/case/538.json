@@ -1,0 +1,57 @@
+{
+  "id": "538",
+  "caseNo": null,
+  "incident": "1102銅鑼灣",
+  "defendants": [
+    {
+      "id": "704",
+      "name": "梁",
+      "age": 18,
+      "charges": [
+        {
+          "id": "1003",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有攻擊性武器或適合作非法用途的工具"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1102銅鑼灣"
+  ],
+  "trialDateFrom": "2020-04-29",
+  "trialDateTo": "2020-06-15",
+  "trialLength": null,
+  "verdictDate": "2020-06-15",
+  "sentenceDate": null,
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於2019年11月2日，在銅鑼灣軒尼詩道及杜老誌道一帶，管有一支木棒，意圖作非法用途使用。",
+  "verdict": "控方申請撤回控罪，被告自簽$2000保守行為24個月。",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "保釋條件如下：\n擔保金$1,000\n在報稱地址居住\n任何地址更改須在24小時前通知\n每週報到1次",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

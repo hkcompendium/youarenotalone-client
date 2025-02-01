@@ -1,0 +1,109 @@
+{
+  "id": "130",
+  "caseNo": null,
+  "incident": "1209將軍澳",
+  "defendants": [
+    {
+      "id": "142",
+      "name": "趙",
+      "age": 16,
+      "charges": [
+        {
+          "id": "200",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    },
+    {
+      "id": "143",
+      "name": "關",
+      "age": 17,
+      "charges": [
+        {
+          "id": "201",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    },
+    {
+      "id": "144",
+      "name": "吳",
+      "age": 16,
+      "charges": [
+        {
+          "id": "202",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    },
+    {
+      "id": "145",
+      "name": "余",
+      "age": 17,
+      "charges": [
+        {
+          "id": "203",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-30",
+  "sentenceDate": "2020-07-30",
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年12月9日，在將軍澳寶康路廣明苑巴士站外，無合法權限或辯解而留下垃圾桶及沙發，對人或車輛造成妨礙、不便或危害。",
+  "verdict": null,
+  "verdictReason": "控方撤回控罪",
+  "sentence": "$2000 保守行為12個月、不可再干犯「在公眾地方造成阻礙」罪",
+  "sentenceReason": "",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "3583",
+        "content": "#觀塘裁判法院第一庭\n#徐綺薇主任裁判官\n#1209將軍澳 #提堂\n\nD1趙(16)\nD2關(17)\nD3吳(16)\nD4余(17)\n\n控罪：在公眾地方造成阻礙\n第228章《簡易程序治罪條例》第4A條\n被控於2019年12月9日，與其他不知名人士在將軍澳寶康路廣明苑巴士站外，無合法權限或辯解而留下垃圾桶及沙發，對人或車輛造成妨礙、不便或危害\n\n背景：12月9日有人發起大三罷行動。事隔半年，４人在6月3日首次提堂，獲准以500元現金保釋。\n\n４人同意案情\n控方撤回控罪\n\n自簽2,000元\n守行為12個月\n不可再干犯「在公眾地方造成阻礙」罪\n每人須交1,000元堂費",
+        "url": "https://t.me/youarenotalonehk_live/7566",
+        "source": "法庭文字直播台",
+        "datetime": "2020-07-30T06:50:25.000Z"
+      },
+      {
+        "id": "2538",
+        "content": "#觀塘裁判法院第一庭 #徐綺薇署理主任裁判官 #新案件\n趙,關,吳,余 (16-17)\n控罪： #1209將軍澳 公眾地方造成阻礙：寶康路近寶明苑巴士站外留下垃圾桶及拖把\n\n控方可答辯，辯方申請押後八星期。\n\n保釋條件：\n保釋金 500元\n\n案件押後至7月30日1430 觀塘裁判法院第一庭",
+        "url": "https://t.me/youarenotalonehk_live/5624",
+        "source": "法庭文字直播台",
+        "datetime": "2020-06-03T06:36:51.000Z"
+      }
+    ]
+  }
+}

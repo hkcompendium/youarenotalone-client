@@ -1,0 +1,57 @@
+{
+  "id": "16",
+  "caseNo": null,
+  "incident": "20200308大埔 ",
+  "defendants": [
+    {
+      "id": "16",
+      "name": "*",
+      "age": 14,
+      "charges": [
+        {
+          "id": "16",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "20200308大埔 "
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-10-27",
+  "sentenceDate": null,
+  "magistrate": "蘇文隆主任裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2020年3月有市民反對政府將大埔賽馬會普通科門診診所列為指定診所，同月8日在區內發起遊行，惟遭警方腰斬驅散。當日下午約4時，警方發現一名被告在安祥路交通燈下，將雪糕筒拋出路面，途經車輛需避開。當日他被捕時，警方在其背包內發現寫有「光復香港，時代革命」旗幟及桿枝，被告警誡下保持緘默。",
+  "verdict": "撤銷控罪",
+  "verdictReason": null,
+  "sentence": "控辯雙方同意以自簽守行為形式處理案情，自簽2,000元、守行為2年，期間不得干犯同類型案件。",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": "宵禁 23:00-06:00 不得離港",
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

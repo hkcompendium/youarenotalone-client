@@ -1,0 +1,57 @@
+{
+  "id": "205",
+  "caseNo": null,
+  "incident": "0929金鐘",
+  "defendants": [
+    {
+      "id": "250",
+      "name": "許",
+      "age": 50,
+      "charges": [
+        {
+          "id": "351",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "阻撓在正當執行職務的警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "阻差辦公"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2020-12-16",
+  "sentenceDate": null,
+  "magistrate": "鍾明新裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，被告於2019年9月29日，在金鐘金鐘道行車道近樂禮道，故意阻撓依法執行職務之警務人員",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官稱，涉案警員證供與片段有關鍵出入，例如他聲稱第一眼看見被告的位置與片段不符；他聲稱展開雙手攔截被告，而被告不理會並繼續向前行的情況，片段亦沒有顯示。裁判官因此裁定警員作供不可靠，不給予任何比重。\n\n就涉案警員兩次跌倒，裁判官認為他第一次跌倒是因被告絆倒石壆失平衡，再撞到他才跌倒；第二次跌倒則是因為有警員拍低被告舉高的手，觸碰到警員，他才跌倒，認為兩次跌倒均屬意外。\n\n裁判官續稱，案發時間只有10秒，難以發生阻撓行為，再者被告在事發前一直態度合作，跟隨警員指示離開，認為她沒有作出阻撓警察的行為，裁定她罪名不成立。\n\n辯方向法庭申請訟費，控方以警員之證供指被告有自招嫌疑，反對申請。裁判官指不採納PW1之證人供詞，在控方沒有其他反對理由下，批准辯方堂費申請。\n",
+  "sentence": null,
+  "sentenceReason": "",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "故意阻撓依法執行職務之警務人員，違反香港法例第212章 《侵害人身罪條例》 第36條"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "459",
+  "caseNo": null,
+  "incident": "824觀塘",
+  "defendants": [
+    {
+      "id": "586",
+      "name": "張",
+      "age": 33,
+      "charges": [
+        {
+          "id": "842",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "暴動罪"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "觀塘裁判法院",
+    "824觀塘",
+    "撤銷控罪"
+  ],
+  "trialDateFrom": "2019-08-27",
+  "trialDateTo": "2020-02-21",
+  "trialLength": null,
+  "verdictDate": "2020-02-21",
+  "sentenceDate": "2020-02-21",
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年8月24日在偉業街附近參與暴動。",
+  "verdict": "控方申請撤回被告的控罪",
+  "verdictReason": "控方指，被告案發時身處示威人群當中，有人向警方掟水樽和石塊，被告則多次叫囂和指罵警方，行為招致嫌疑。\n辯方則指，被告被捕的位置距離合法遊行的路線只有「幾步之遙」，加上他身上沒有任何頭盔、防具或口罩，僅身穿恤衫和皮鞋。",
+  "sentence": "獲批訟費",
+  "sentenceReason": "控方申請撤回兩被告的控罪，並反對兩名被告的訟費申請，指二人是「自招嫌疑」，因被告當天「全副武裝」出現，包括戴有防毒面具、頭盔、手套等，警方驅散示威者時，被告與其他示威者仍然未離去。控方又指，當天有示威者向警方掟樽及石頭，而另一被告則身處其中。\n\n辯方反駁指， 控方經調查後決定撤控，亦未有改控其也較輕的控罪， 顯示控方亦認為沒有合理定罪的機會，但同時指被告「自招嫌疑」，實屬自相矛盾。辯方稱，當日附近正舉行有獲發不反對通知書的公眾遊行， 而警方常在合法遊行中使用武力及放催淚彈，所以被告帶備有防禦性質的裝備亦屬合理，另一被告當天更是沒有口罩等裝備。\n裁判官最終接納辯方陳詞，批出訟費。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "暴動罪"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

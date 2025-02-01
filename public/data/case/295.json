@@ -1,0 +1,57 @@
+{
+  "id": "295",
+  "caseNo": null,
+  "incident": "04112019中環",
+  "defendants": [
+    {
+      "id": "360",
+      "name": "NUNAN",
+      "age": 32,
+      "charges": [
+        {
+          "id": "504",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞，違反《刑事罪行條例》(第200章) 第60條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "外藉人士"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2019-12-17",
+  "sentenceDate": "2019-12-17",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年11月4日在中環荷李活道186至190號荷李活大樓外，被告無合法辯解而損壞屬於張嘉恩的四張宣傳橫額。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "罰款2000元及賠償240元給事主。",
+  "sentenceReason": "辯方求情時稱她自1994年在香港定居，現擔任兼職教師，每星期賺取約2000元，其母因癌症正接受化療。裁判官錢禮指其行為是無法容忍。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "法庭文字直播台並無此案紀錄。案件資料來自蘋果日報和HK01的報導。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

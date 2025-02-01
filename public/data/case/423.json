@@ -1,0 +1,55 @@
+{
+  "id": "423",
+  "caseNo": null,
+  "incident": "20200119金鐘",
+  "defendants": [
+    {
+      "id": "530",
+      "name": "何",
+      "age": 63,
+      "charges": [
+        {
+          "id": "757",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": " 在公眾地方內擾亂秩序行為"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-12-30",
+  "trialDateTo": "2020-12-30",
+  "trialLength": null,
+  "verdictDate": "2020-12-30",
+  "sentenceDate": "2021-01-14",
+  "magistrate": "劉綺雲",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2020年1月19日遮打花園有獲批准集會，有大量人羣往金鐘方向行走，被告被控在港鐵金鐘站B出口作出喧嘩或擾亂秩序的行為，或使用恐嚇性、辱罵性或侮辱性的言詞(以揚聲器多次表示要「殺晒全香港嘅警察」、「剁成肉醬」)，或派發或展示任何載有此等言詞的文稿，意圖激使他人破壞社會安寧，或其上述行為相當可能會導致社會安寧破壞。被告於2020年1月23日在家中被拘捕。",
+  "verdict": "罪名成立",
+  "verdictReason": "被告叫喊的次數及利用揚聲器叫喊，旨在擴大目標人群，煽動他人不滿警察和仇警。被告犯案歷時 10 分鐘，不算長但絕不短，而且金鐘地鐵站出口不斷有人加入叫喊相關說話。\n\n當日有公眾集會，警方人數不少，被告行為嚴重危害警察安全；加上人流中會有支持警察的人士，被告煽動他人不守法，鼓勵他人訴諸暴力，令他人傷害警察或異己。\n\n涉案地點為地鐵站，若有暴力事件發生，或有人會逃走，將事件延伸至月台、列車，影響列車服務，令更多人無辜受牽連，影響更為深遠，被告的行為對公眾安全有實質的即時風險。雖然本案無出現人命傷亡或財物損失，但實屬僥倖。",
+  "sentence": "監禁 5 個月",
+  "sentenceReason": "應判處即時監禁以收阻嚇作用，以 6 個月為量刑起點屬合適。留意到被告在國內出生，經過文革，不滿國內政權，視香港警察為國內政權代表。而被告過往案底涉及暴力，心理專家認為針對暴力被告有重犯風險，但指出毋須心理跟進治療，加上被告有意移民，因此認為他的重犯機會不高，酌情扣減 1 個月刑期，最終判囚 5 個月。",
+  "bailment": "不獲批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "辯方正就定罪及刑期上訴",
+  "appealJudgementUrl": null,
+  "bailmentAppeal": "2020年12月30日於劉綺雲裁判官席前申請保釋等候上訴不獲批。 2021年2月10日於杜麗冰法官席前申請保釋等候上訴不獲批。2021年3月11日於陳慶偉法官席前申請保釋等候上訴不獲批。",
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

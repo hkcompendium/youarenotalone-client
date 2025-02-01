@@ -1,0 +1,55 @@
+{
+  "id": "364",
+  "caseNo": null,
+  "incident": "1112九龍灣",
+  "defendants": [
+    {
+      "id": "452",
+      "name": "鄺",
+      "age": 39,
+      "charges": [
+        {
+          "id": "638",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲擊或抗拒執行職責的警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-06-22",
+  "trialDateTo": "2020-07-07",
+  "trialLength": 2,
+  "verdictDate": "2020-07-07",
+  "sentenceDate": null,
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年11月12日在牛頭角觀塘道近往港鐵九龍灣站之行人天橋的行人路上，襲擊警員16007謝進鴻。\n",
+  "verdict": "罪名不成立",
+  "verdictReason": "特別事項: 被告招認的自願性爭議\n\n裁判官不信納pw2證供，相較之下被告作供較合理，故裁定被告於特別事項爭議下為誠實可靠證人，相反pw2作供時多次以「唔記得」、「唔清楚」答問題，所以被裁定不可信。\n\n一般事項：\n裁判官裁定pw1 證供前後矛盾，不能信納pw1證供。\n\n由於控方未能毫無合理疑點情況下證明被告干犯所有控罪書所列的控罪元素，裁判官宣判被告罪名不成立",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "申請訟費獲批",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

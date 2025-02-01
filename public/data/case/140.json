@@ -1,0 +1,57 @@
+{
+  "id": "140",
+  "caseNo": null,
+  "incident": "20200101灣仔",
+  "defendants": [
+    {
+      "id": "164",
+      "name": "許",
+      "age": 19,
+      "charges": [
+        {
+          "id": "231",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "管有工具意圖作非法用途，違反《簡易程序治罪條例》(第228 章) 第17 條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "士巴拿"
+  ],
+  "trialDateFrom": "2020-07-16",
+  "trialDateTo": "2020-07-24",
+  "trialLength": 2,
+  "verdictDate": "2020-08-11",
+  "sentenceDate": "2020-08-25",
+  "magistrate": "崔美霞",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2020年1 月 1 日下午 1 時 40 分，在灣仔告士打道 80 號外遭警員截查後搜查其背包，當中搜出兩支士巴拿。",
+  "verdict": "罪名成立",
+  "verdictReason": "裁判官今裁決時指，不接納被告供稱他遭警員威嚇下作出招認，並指如果被告當時遭警員威嚇，應該會全程配合警方的問話，而非選擇性地回答問題及使用緘默權。另外，被告稱他當日於大埔前往港島，是打算購買維修單車零件，但卻沒有事先了解相關店鋪有否營業的說法亦有違常理，裁判官最終裁定被告有明顯意圖以涉案士巴拿破壞他人財物，裁定他罪名成立。",
+  "sentence": "220小時社會服務令",
+  "sentenceReason": "崔官判刑時指，案件的嚴重性在於被告用士巴拿拆鐵欄堵路，法庭須判以阻嚇性刑罰。惟該等案件沒有量刑指引，而且考慮到被告個別情況，早前遇交通意外撞斷四條肋骨，需要接受治療，被告仍需覆診，現正在康復中，法庭認為感化官建議的社會服務令判刑適合。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "辯方早前曾反對將被告的招認供詞呈堂，指有警員曾威嚇被告作出招認，包括大聲兇惡地問被告「你個兩支士巴拿係唔係拎嚟拆鐵欄呀？」，若不招認「捉你入黑房雞姦完再打」；被告則供稱表示他當時十分害怕，「嚇到六神無主」，故在警方為他錄取口供途中作出招認，惟兩警員作供時均否認曾威嚇被告。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "513",
+  "caseNo": null,
+  "incident": "20200205天水圍",
+  "defendants": [
+    {
+      "id": "669",
+      "name": "陳",
+      "age": 19,
+      "charges": [
+        {
+          "id": "947",
+          "verdict": "成立",
+          "plea": null,
+          "charge": "參與非法集結"
+        }
+      ]
+    },
+    {
+      "id": "670",
+      "name": "陳",
+      "age": 23,
+      "charges": [
+        {
+          "id": "948",
+          "verdict": "成立",
+          "plea": null,
+          "charge": "參與非法集結"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-12-24",
+  "trialDateTo": "2020-12-28",
+  "trialLength": 2,
+  "verdictDate": "2021-01-21",
+  "sentenceDate": "2021-02-05",
+  "magistrate": "王證瑜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年2月5日，在天水圍天瑞路往天華邨方向的馬路，參與非法集結。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "監禁7星期",
+  "sentenceReason": "考慮被告與家人關係良好，報告建議首被告接所中度時數的(81至160小時)社會服務令，各院舍報告的建議，適合性次序：勞教中心 > 更生中心 > 教導所\n\n王證瑜裁判官認為本案嚴重程度，遠不及辯方所提出的鐘嘉豪案 CAAR4/2020 及庾家駒案 CAAR5/2020，所以先排除判處以月計即時監禁的可能。\n\n王官指本案並非獨立與社會整體無關，並不是「即係舉個例，佢唔係因私人恩怨而非法集結㗎嘛」。而本案背景與鐘嘉豪案及庾家駒案相似，都是涉及反修例運動。因此判刑時要考慮阻嚇性，除了防止被告重犯，亦要以儆效尤阻止公眾仿效。 當然阻嚇性唔係話要去到6個月喇，亦都會因案情嚴重性作出相應嘅考慮。\n\n考慮一但判入勞教中心的實質刑期可能比即時監禁長，王證瑜裁判官以8星期即時監禁為量刑起點， 法庭考慮兩位被告的背景、求情及有親友支持酌情扣減一星期刑期。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

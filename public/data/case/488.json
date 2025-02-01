@@ -1,0 +1,55 @@
+{
+  "id": "488",
+  "caseNo": null,
+  "incident": "星火同盟",
+  "defendants": [
+    {
+      "id": "636",
+      "name": "劉",
+      "age": 26,
+      "charges": [
+        {
+          "id": "904",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "危險藥物的販運"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-10-12",
+  "trialDateTo": "2020-10-12",
+  "trialLength": 1,
+  "verdictDate": "2020-10-12",
+  "sentenceDate": "2020-10-12",
+  "magistrate": "吳志程暫委裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控罪指她於2020年2月11日在九龍石硤尾南山邨停車場2樓廁所外，非法販運危險藥物即一張港幣10元折疊後內有0.17克的粉末含0.14克氯胺酮、3個膠袋合共0.89克的粉末內含0.76 克氯胺酮、3個膠袋合共0.54克的固體內含0.42克可卡因。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "即時監禁15個月",
+  "sentenceReason": "裁判官表示罪行嚴重，須判以具阻嚇性刑罰，即時監禁是唯一合適判刑。惟考慮到毒品為被告自用而且數量不多(所販運的氯胺酮及可卡因的數量均少於1克)，被告又坦白認罪。遂將量刑起點定於20個月監禁，考慮到被告認罪酌量減刑至15個月。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "326",
+  "caseNo": null,
+  "incident": "1111黃大仙",
+  "defendants": [
+    {
+      "id": "533",
+      "name": "葉",
+      "age": 19,
+      "charges": [
+        {
+          "id": "762",
+          "verdict": "其他",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+        }
+      ]
+    },
+    {
+      "id": "534",
+      "name": "黃",
+      "age": 18,
+      "charges": [
+        {
+          "id": "763",
+          "verdict": "其他",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#1111黃大仙",
+    "#嚴舜儀主任裁判官",
+    "#撤銷控罪"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-24",
+  "sentenceDate": null,
+  "magistrate": " 嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年11月11日網絡上有人號召堵塞主要幹線及罷工，名為黎明行動。於當日0735時，龍翔道新光中心外天橋有警員巡邏，留意到橋下龍翔道路面有10-15名示威者正設立路障，警員因而警告並追截。其後截查其中兩人，D1 穿著黑色衣物，戴一對灰色手套、灰口罩及一頂棒球帽，背囊中被搜出一支食用油。D2 身穿黑色衣物，戴黑口罩，背囊中被搜出3對手套、1個口罩及一頂棒球帽。",
+  "verdict": "兩被告需自簽2000元，守行為24個月，期間不得干犯有關公眾地方造成阻礙的控罪。各被告需繳付堂費300元，控方撤回控罪。",
+  "verdictReason": "",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "不見有媒體報導判決日（24.7.2020) 的情況。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

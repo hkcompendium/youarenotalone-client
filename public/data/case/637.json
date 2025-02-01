@@ -1,0 +1,66 @@
+{
+  "id": "637",
+  "caseNo": null,
+  "incident": "0924九龍塘",
+  "defendants": [
+    {
+      "id": "893",
+      "name": "劉",
+      "age": 20,
+      "charges": [
+        {
+          "id": "1313",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "故意阻撓在正當執行職務的警務人員"
+        },
+        {
+          "id": "1314",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "未能出示身分證明文件"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "阻差辦公",
+    "未能出示有效身份證明",
+    "0924九龍塘",
+    "跳閘"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-01-14",
+  "sentenceDate": null,
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指在2019年9月24日早上，一名便衣警員見被告在九龍塘港鐵站跳閘以逃避支付車費，警員至天橋位截停被告並表露身份，要求他出示身份證，但被拒絕。警員作出口頭警告，並把被告帶返港鐵閘閘口，再要求他出示身份證，他再拒絕，警員作出第二次口頭警告後將其拘捕，他在押解往警署途中，終同意出示身份證。",
+  "verdict": "被告同意案情，控方撤控，被告簽守行為",
+  "verdictReason": "在2019年12月5日，被告獲撤回故意阻撓在正當執行職務的警務人員控罪。\n\n在2020年1月14日，被告獲撤銷未能出示身分證明文件控罪，准以12,000 元簽保、守行為 1年。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

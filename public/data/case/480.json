@@ -1,0 +1,55 @@
+{
+  "id": "480",
+  "caseNo": null,
+  "incident": "20200701銅鑼灣",
+  "defendants": [
+    {
+      "id": "625",
+      "name": "阮",
+      "age": 48,
+      "charges": [
+        {
+          "id": "889",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方作出擾亂秩序的行為"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2021-02-09",
+  "trialDateTo": "2021-02-09",
+  "trialLength": 1,
+  "verdictDate": "2021-03-02",
+  "sentenceDate": "2021-03-02",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年7月1日，在銅鑼灣時代廣場外的露天廣場，作出擾亂秩序的行為，意圖激使他人破壞社會安寧，或其上述行為相當可能會導致社會安寧受到破壞，即向正執行職務的警長430及警員9055掟出一個水樽。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "18個月感化令",
+  "sentenceReason": "法庭納感化報告建議，判處被告感化令，但就由建議的12個月提升至18個月。 \n\n被告需於未來18個月需按照感化官指示居住及工作、接受心理及精神治療、參加有關更生的社區計劃，期間亦不得干犯任何罪行，另需支付$500堂費 , 將於保釋金中扣除。 \n\n被告需於5月25日 0930 於觀塘裁判法院 第一庭作進度報告跟進。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "控罪原為：企圖襲擊在正當執行職務的警務人員，經商討後在2021年2月9日修改為：在公眾地方作出擾亂秩序的行為",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

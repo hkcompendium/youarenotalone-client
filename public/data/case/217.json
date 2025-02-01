@@ -1,0 +1,61 @@
+{
+  "id": "217",
+  "caseNo": null,
+  "incident": "1102銅鑼灣",
+  "defendants": [
+    {
+      "id": "263",
+      "name": "張",
+      "age": 60,
+      "charges": [
+        {
+          "id": "371",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "未能在規定下出示身分證明文件"
+        },
+        {
+          "id": "372",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在禁止吸煙區內吸煙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-07-07",
+  "trialDateTo": "2020-07-27",
+  "trialLength": 2,
+  "verdictDate": "2020-07-27",
+  "sentenceDate": "2020-07-27",
+  "magistrate": "黃向戎",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於19年11月2日在銅鑼灣近告士打道維園近8A閘口，未能在規定下出示身分證明文件，及在禁止吸煙區內吸煙",
+  "verdict": "罪名成立",
+  "verdictReason": "裁判官裁決指出，縱使被告案發要求便衣警展示警員編號不果，並聲稱不知該人為警員，惟當時便衣警員戴有頭盔、眼罩及印有中英雙語「警察/POLICE」字樣圖盾，裁定該些裝備能證明便衣警的職能及身分，亦屬法律定義下「制服」。另外，此外，裁判官指出被告案發曾稱呼便衣警「阿sir」，又問「告我乜嘢？」，更說「拉我囉」，均顯示被告知悉對方為警員。裁判官因此不接納被告稱有合理懷疑警員為假冒的說法。",
+  "sentence": "控罪一罰款港幣1,500元，控罪二罰款500元，合共2,000元",
+  "sentenceReason": "",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

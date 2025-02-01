@@ -1,0 +1,90 @@
+{
+  "id": "175",
+  "caseNo": null,
+  "incident": "1209旺角",
+  "defendants": [
+    {
+      "id": "213",
+      "name": "曾",
+      "age": 17,
+      "charges": [
+        {
+          "id": "295",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    },
+    {
+      "id": "214",
+      "name": "陳",
+      "age": 17,
+      "charges": [
+        {
+          "id": "296",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    },
+    {
+      "id": "215",
+      "name": "杜",
+      "age": 20,
+      "charges": [
+        {
+          "id": "297",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方造成阻礙"
+        },
+        {
+          "id": "298",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有攻擊性武器或作非法用途的工具 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "阻街"
+  ],
+  "trialDateFrom": "2021-01-20",
+  "trialDateTo": "2021-01-21",
+  "trialLength": 2,
+  "verdictDate": "2021-01-21",
+  "sentenceDate": "2021-02-04",
+  "magistrate": "鍾明新",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於 2019 年 12 月 9 日，在旺角洗衣街與山東街交界附近，無合理權限或解釋，與其他不知名人士陳列木板、道路標筒及其他物件，對上述公眾地方的人或車輛造成阻礙、不便或危害。\n\nD3另被控一項管有攻擊性武器或非法用途的工具，指他同日在旺角豉油街 25 - 31 號外管有一枝扳手。",
+  "verdict": "D1罪名不成立，D2罪名成立，D3罪名成立",
+  "verdictReason": "片段顯示男被告(D1)由始至終都身處行人路上，控方沒有足夠證據證明他曾堵路或協助堵路，故裁定其罪名不成立。\n\n警員一直緊盯女被告(D2），片段顯示警員下車後追截三秒便拘捕女被告，加上她當日所背著的背囊款式獨特，顏色搶眼和鮮艷，因此認為警員不會拉錯人。因此，鍾官裁定女被告便是案發影片顯示的堵路者，她將卡板及雜物放在道路上，目的是阻礙交通，令車輛不能行駛，故其在公眾地方造成阻礙罪成。",
+  "sentence": "D2：200小時社會服務令，D3：160小時社會服務令",
+  "sentenceReason": "D2：裁判官考慮到她有悔意，犯錯時只得17歲，判處200小時社會服務令。\n\nD3：被告沒有刑事定罪紀錄；當時沒有造成道路全塞，仍有車輛可以通過，屬危險性低。明白被告當時一時衝動，其後作出反省，相信被告沒有重犯風險。另外阻礙的時段不長，亦沒有堵塞主要幹道。故接納感化官建議，判以160小時社會服務令。\n",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "",
+  "internalRemarks": null,
+  "charges": [
+    "(1) [D1][D2] 在公眾地方造成阻礙。違反香港法例第228章《簡易程序治罪條例》第4A條",
+    "(2) [D3] 管有攻擊性武器或作非法用途的工具。違反《簡易程序治罪條例》(第228章) 第17條"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

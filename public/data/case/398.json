@@ -1,0 +1,70 @@
+{
+  "id": "398",
+  "caseNo": null,
+  "incident": "1111沙田",
+  "defendants": [
+    {
+      "id": "487",
+      "name": "蘇",
+      "age": 21,
+      "charges": [
+        {
+          "id": "692",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-05-21",
+  "trialDateTo": "2020-05-21",
+  "trialLength": null,
+  "verdictDate": "2020-05-21",
+  "sentenceDate": null,
+  "magistrate": "鄧少雄",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於於2020年11月11日源禾路與鄉事會路交界放置一個黃色物體。",
+  "verdict": "罪名不成立",
+  "verdictReason": null,
+  "sentence": "以$1500簽保守行為18個月，其間不得干犯任何暴力及阻礙交通的行為。",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "保釋條件：\n保釋金 $1,000\n不准離港\n住報稱地址\n住所更改須於24小時前向所屬警署申請\n交出所有旅遊證件\n警署報到：一星期一次",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "2360",
+        "content": "#沙田裁判法院第一庭\n#鄧少雄署理主任裁判官\n#1111沙田 #提堂\n\n蘇(21)\n\n控罪：在公眾地方造成阻礙\n\n案情：於2020年11月11日，源禾路與鄉事會路交界，放置一個yellow object。\n\n撤 銷 起 訴 決 定\n- 守行為十八個月\n\n補充：\n以$1500 簽保守行為十八個月\n其間不得干犯任何暴力及阻礙交通的行為\n\n謝謝臨記ss",
+        "url": "https://t.me/youarenotalonehk_live/5289",
+        "source": "法庭文字直播台",
+        "datetime": "2020-05-21T07:19:30.000Z"
+      },
+      {
+        "id": "2099",
+        "content": "#沙田裁判法院第八庭\n#鄧少雄署理主任裁判官\n#新案件 #1111沙田\n\n蘇\n\n控罪：在公眾地方造成阻礙\n\n案情：於2020年11月11日，源禾路與鄉事會路交界，放置一個yellow object。\n\n⭕⭕保釋獲批⭕⭕\n\n保釋條件\n保釋金 $1,000\n不准離港\n住報稱地址\n（住所更改須於24小時前向所屬警署申請）\n交出所有旅遊證件\n警署報到：一星期一次\n\n押後至2020年5月21日1430沙田裁判法院第一庭以提訊",
+        "url": "https://t.me/youarenotalonehk_live/4817",
+        "source": "法庭文字直播台",
+        "datetime": "2020-05-07T07:40:52.000Z"
+      }
+    ]
+  }
+}

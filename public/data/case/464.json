@@ -1,0 +1,141 @@
+{
+  "id": "464",
+  "caseNo": null,
+  "incident": "1110荃灣",
+  "defendants": [
+    {
+      "id": "601",
+      "name": "潘",
+      "age": 17,
+      "charges": [
+        {
+          "id": "857",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        },
+        {
+          "id": "858",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "602",
+      "name": "謝",
+      "age": 19,
+      "charges": [
+        {
+          "id": "859",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "603",
+      "name": "胡",
+      "age": 19,
+      "charges": [
+        {
+          "id": "860",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "604",
+      "name": "邱",
+      "age": 20,
+      "charges": [
+        {
+          "id": "861",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "605",
+      "name": "文",
+      "age": 26,
+      "charges": [
+        {
+          "id": "862",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "606",
+      "name": "麥",
+      "age": 16,
+      "charges": [
+        {
+          "id": "863",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "607",
+      "name": "15歲學生",
+      "age": 15,
+      "charges": [
+        {
+          "id": "864",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "非法集結"
+        }
+      ]
+    }
+  ],
+  "description": "同案其餘被告則不認罪，他們的案件於2021年2月1日進行預審。",
+  "tags": [
+    "1110荃灣"
+  ],
+  "trialDateFrom": "2021-06-29",
+  "trialDateTo": "2021-09-06",
+  "trialLength": 8,
+  "verdictDate": "2021-09-06",
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指，2019年11月10日多名示威者集結在荃灣大減道及西樓角路文界，並且堵路，警員進行驅散時，目睹\u0002D1逃往公園，又見到D1未能通過障礙物，並取出長鐵通，及後將D1拘捕。",
+  "verdict": "",
+  "verdictReason": "",
+  "sentence": "D1被判入更生中心",
+  "sentenceReason": "裁判官表示，《公安條例》下管有攻擊性武器罪的判刑選項有限，考慮被告年紀尚輕，不宜判監，因此採納報告建議，判被告入更生中心。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "簽保守行為\n上星期五經控辯雙方討論，提出如果各被告同意控方案情，可以簽保守行為處理\n\n辯方律師表示D2-D7同意案情，並以簽保守行為處理\n控方讀出案情後，D2-D7逐一同意案情\n\nD2-D7 自簽2000元，守行為36個月\n期間不得干犯與非法集結相關控罪",
+  "internalRemarks": null,
+  "charges": [
+    "公眾地方管有攻擊性武器和參與非法集結"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

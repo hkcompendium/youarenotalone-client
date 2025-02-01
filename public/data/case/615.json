@@ -1,0 +1,59 @@
+{
+  "id": "615",
+  "caseNo": null,
+  "incident": "20200701銅鑼灣",
+  "defendants": [
+    {
+      "id": "849",
+      "name": "曾",
+      "age": 22,
+      "charges": [
+        {
+          "id": "1249",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖摧毀或損壞財產"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "管有物品意圖損壞財產",
+    "鐵筆",
+    "剪鉗"
+  ],
+  "trialDateFrom": "2021-06-22",
+  "trialDateTo": "2021-06-22",
+  "trialLength": 1,
+  "verdictDate": "2021-07-16",
+  "sentenceDate": "2021-07-30",
+  "magistrate": "王證瑜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年7月1日在香港銅鑼灣白沙道4號外，保管或控制一枝鐵筆、一把剪鉗，意圖在無合法辯解的情況下使用該些物件以損壞屬於另一人的財產。 \n",
+  "verdict": "罪名成立",
+  "verdictReason": "PW1庭上作供指被告和2名男子見到警員後，一同調頭急步走。在Pol.154中只有描述另外2人調頭，惟沒有提及被告。在另外2人身上無有搜出可疑物品，唯獨被告藏有。PW1庭上解釋「唔記得咗記錄埋被告都有調頭走」令其證供不太通順。經法庭考慮後，PW1證供有疑點，不會接納此部分的描述。相反，其他部分的證供合情合理，沒有受辯方的重大爭議。\n\n法庭不接納被告證供，理由如下：\n當日下午1時許，被告跟PW1講「鐵筆、剪鉗係屋企裝修用」，但卻不知道要裝修什麼。這是不可信且不可靠。\n\n在晚上8:27-8:43的會面記錄中，被告表示鐵筆是換地磚維修之用、剪鉗則是賣給地盤工人。會面證供與現場版本不一致。\n\n被告有2對勞工手套，解釋因自己從事運輸工作。但案發當天被告無需工作，解釋不合理。\n\n被告是必定管有涉案物品，分別長46cm的鐵筆，及48cm的剪鉗。控辯雙方同意法庭為2對手套進行「司法認知」：當日有人群在銅鑼灣聚集及遊行，而案件沒有提供相反證據，因此唯一合理推論則是被告會在人群中使用物品，以損壞他人的財產。 ",
+  "sentence": "6星期即時監禁",
+  "sentenceReason": "法庭已考慮控罪、案情、被告背景、沒有刑事定罪記錄及辯方陳詞，重申就此控罪閉禁式刑罰是無可避免的。因為他的年齡，法庭必須先索取青少年中心報告，然而並不適合，所以法庭亦不會考慮。本案案情絕非輕微，被告管有的物品會做成不輕微的損毀。本案是在審訊後被定罪，法庭以6星期為量刑起點，沒有任何扣減，故判處6星期即時監禁。",
+  "bailment": "不獲批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "被控於2020年7月1日在香港銅鑼灣白沙道4號外，保管或控制一枝鐵筆、一把剪鉗，意圖在無合法辯解的情況下使用該些物件以損壞屬於另一人的財產。 "
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

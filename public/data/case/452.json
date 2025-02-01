@@ -1,0 +1,58 @@
+{
+  "id": "452",
+  "caseNo": null,
+  "incident": "20200122天水圍",
+  "defendants": [
+    {
+      "id": "572",
+      "name": "黎",
+      "age": 17,
+      "charges": [
+        {
+          "id": "826",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "串謀損毀財產"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#交通燈",
+    "#串謀損毀財產"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2021-03-12",
+  "magistrate": "水佳麗",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年1月22日在天水圍天瑞路燈柱DD0546B，與其他不知名的人串謀無合法辯解而損毀屬於機電工程署的財產，即一組交通燈。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "12個月感化，其間須遵守宵禁，並且接受精神及心理治療。",
+  "sentenceReason": "水官指出，知道被告對政府有意見，惟被告選擇破壞公共設施，即使未有落手進行破壞，只幫手「睇水」，仍影響一衆市民。水官更謂：「汽車於十字路口完全冇交通燈號可依，危害生命非常危險，行為相當不要得。」\n\n水官續指，明白被告無意破壞，且有真誠悔意，並已停止參與社交媒體而專注學業，被告行為也許出於衝動。水官向被告謂「妳再承受唔起太多嘅衝動」，最後訓斥被告謂：「法庭再冇太多空間去寛待妳，希望妳吸取教訓。」",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "違反香港法例第200章 《刑事罪行條例》 第159A 條 串謀罪、第159C條、及第60(1)條 摧毀或損壞財產"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "338",
+  "caseNo": null,
+  "incident": "20200101旺角",
+  "defendants": [
+    {
+      "id": "422",
+      "name": "李",
+      "age": 21,
+      "charges": [
+        {
+          "id": "593",
+          "verdict": "撤銷控罪",
+          "plea": "否認控罪",
+          "charge": "抗拒警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-04-07",
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2020年1月1日，警方掃蕩煙廠街時截停被告，於花園街被制服時反抗。背囊內發現黑色衣服、鞋、頭盔、手套及膠袋。",
+  "verdict": "撤銷控罪",
+  "verdictReason": "(訟費申請)\n控方反對辯方訟費申請，指被告並非居住旺角一帶，當晚不應在旺角出現。被告當時穿黑衣，衣著與其中一名警方正緝捕的在逃者吻合，其後更從其身上搜出黑口罩、黑短褲、安全帽等物品。\n\n法庭認為即使被告當日在旺角出現，控方仍沒證據證明他與附近的非法活動有關，故批准被告的訟費申請。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "",
+  "bailmentCondition": "保釋金$2000\n每星期報到1次\n居於報稱地址\n不得離港\n交出旅遊證件\n禁足令（旺角 旺角道至登打士街、上海街至洗衣街）",
+  "remarks": "辯方於提堂時投訴指被告遭警員遭奚落及施行酷刑，包括兔仔跳、叫撐警口號及蒙頭打20下。律師向警署投訴被值日官無視。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "1733",
+        "content": "#西九龍裁判法院第三庭\n#羅德泉主任裁判官\n\n1540 開庭\n\n#20200101旺角\n李(21)\n控罪：\n抗拒警務人員\n\n撤回控罪並獲批訟費",
+        "url": "https://t.me/youarenotalonehk_live/4094",
+        "source": "法庭文字直播台",
+        "datetime": "2020-04-07T07:40:34.000Z"
+      },
+      {
+        "id": "1208",
+        "content": "#西九龍裁判法院第一庭 #新案件\n\n李 未知控罪8/1 或出院後較早\n\n李 - 抗拒警務人員 #0101旺角 控方案情指警方掃蕩煙廠街時截停被告，於花園街被制服時反抗。背囊內發現黑色衣服、鞋、頭盔、手套及膠袋。\n已出院，控方申請押後至27/3，控方不反對保釋\n辯方反對押後十二星期，指拒捕案4星期足夠調查。\n辯方指警方當時奉命調查煙廠街跑出的黑色、橙色、灰色衣物男子，並非被告。\n辯方投訴指於旺角遭奚落及酷刑，包括兔仔跳、叫撐警口號及蒙頭打20下。律師向警署投訴被值日官無視。\n\n押後至27/3，條件如下：\n保釋金2000\n每星期報到1次\n居於報稱地址\n不得離港\n交出旅遊證件\n禁足令（旺角 旺角道至登打士街、上海街至洗衣街）",
+        "url": "https://t.me/youarenotalonehk_live/2706",
+        "source": "法庭文字直播台",
+        "datetime": "2020-01-03T07:51:23.000Z"
+      }
+    ]
+  }
+}

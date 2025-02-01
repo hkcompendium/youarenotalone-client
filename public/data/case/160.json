@@ -1,0 +1,83 @@
+{
+  "id": "160",
+  "caseNo": null,
+  "incident": "1225旺角",
+  "defendants": [
+    {
+      "id": "188",
+      "name": "*",
+      "age": 15,
+      "charges": [
+        {
+          "id": "264",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方作出擾亂秩序行為，違反 《公安條例》(第245章) 第17B條"
+        }
+      ]
+    },
+    {
+      "id": "189",
+      "name": "林",
+      "age": 16,
+      "charges": [
+        {
+          "id": "265",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方作出擾亂秩序行為，違反 《公安條例》(第245章) 第17B條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-07",
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於2019年12月25日於旺角彌敦道607號外地下的公眾地方，與其他不知名人士作出喧嘩或擾亂性行為，或使用恐嚇性，辱罵性的言詞，而上述行為相當可能會導致社會安寧破壞。案發當日有警員將警車停泊在巴士站，導致巴士未能進站，D1及D2欲乘巴士回家不果，出言辱罵警員。",
+  "verdict": "",
+  "verdictReason": null,
+  "sentence": "D1、2各簽港幣1,000元保守行為24個月",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "1. 2000元保釋\n2. 不可離港\n3. 晚上9時至翌晨6時的宵禁令\n4. 除轉乘交通工具或與律師商討外，禁足案發範圍\n5. 交出旅遊證件\n6. 每周往警署報到一次\n7. 居於報稱地址\n",
+  "bailmentCondition": "除轉乘交通工具或與律師商討外，禁足案發範圍",
+  "remarks": "D1曾違反宵禁令",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "3743",
+        "content": "#西九龍裁判法院第一庭\n#羅德泉主任裁判法院\n#1225旺角\n#提堂\n\n*,林(15-16)\n\n控罪：\n在公眾地方作出擾亂秩序的行為\n\n背景：\n被控於19年12月25日於旺角彌敦道607號外地下在公眾地方與其他不知名人士作出喧嘩或擾亂性行為，或使用恐嚇性，辱罵性的言詞，以其行上述為相當可能會導致社會安寧破壞\n\nD1 同意案情\nD2 同意案情\n\n控方撤回指控\nD1、2均以簽保守行為為期24個月處理，自簽$1000，條件為需要保持公眾安寧，行為良好，不可涉及同類型罪行及刑事損壞",
+        "url": "https://t.me/youarenotalonehk_live/7889",
+        "source": "法庭文字直播台",
+        "datetime": "2020-08-07T04:31:38.000Z"
+      },
+      {
+        "id": "3071",
+        "content": "#西九龍裁判法院第一庭\n#羅德泉主任裁判官\n#違反保釋條件 #宵禁令\n#1225旺角\n\nD1: * (15)\n\n控罪：\n在公眾地方作出擾亂秩序的行為\n\n詳細：\n被控於19年12月25日於旺角彌敦道607號外地下在公眾地方與其他不知名人士作出喧嘩或擾亂性行為，或使用恐嚇性，辱罵性的言詞，以其行上述為相當可能會導致社會安寧破壞\n\n上回保釋條件如下：\n。$2000\n。不得離港\n。交出旅遊證件\n。每週警署報到１次\n。宵禁令21-18\n。禁足令\n\n辯方就D1違反宵禁令一事解釋，羅官表示不追究。\n\n案件8月7日西九龍裁判法院再訊，期間維持原有條件保釋。",
+        "url": "https://t.me/youarenotalonehk_live/6555",
+        "source": "法庭文字直播台",
+        "datetime": "2020-06-30T08:21:21.000Z"
+      }
+    ]
+  }
+}

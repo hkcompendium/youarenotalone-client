@@ -1,0 +1,60 @@
+{
+  "id": "456",
+  "caseNo": null,
+  "incident": "1001屯門",
+  "defendants": [
+    {
+      "id": "582",
+      "name": "馬",
+      "age": 23,
+      "charges": [
+        {
+          "id": "838",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖損壞財產"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "屯門裁判法院第八庭",
+    "梁雅忻裁判官",
+    "管有物品意圖損壞財產罪",
+    "1001屯門"
+  ],
+  "trialDateFrom": "2020-05-12",
+  "trialDateTo": "2020-12-28",
+  "trialLength": null,
+  "verdictDate": "2020-12-11",
+  "sentenceDate": "2020-12-28",
+  "magistrate": "梁雅忻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控一項管有物品意圖摧毀財產罪，指他於2019年 10 月 1 日在屯門杯渡路管有一樽 355 毫升打火機汽油、兩個打火機及兩個士巴拿，意圖在沒有合法辯解下使用該物品，以損毀他人財物。",
+  "verdict": "罪名成立",
+  "verdictReason": "裁判官裁決時指，警員作供清晰、盤問下沒有動搖，中肯地交代案發過程，例如形容被告步伐正常，亦仔細描述現場環境，沒有誇大事實，裁定為誠實可靠證人。辯方指案發地點與示威現場即市中心一帶，距離 1 至 2 公里；裁判官不同意，指兩個地點距離不遠。她指警員從被告背包搜出打火機汽油及兩個打火機，而汽油是易燃液體，可為火機補充燃料。\n\n裁判官續指，被告距離示威現場不遠，可利用以上物品損壞財物，例如能用火機縱火及焚燒雜物，士巴拿則用來拆螺絲及鐵欄。辯方指案發地點有途人經過，惟裁判官認為被告在封鎖線 30 米停留 5 分鐘，又不時探頭看警方，認為他與一般途人不同。她指被告背包有護目鏡、防毒面具等物品，雖屬一般保護裝備，但考慮整體性，能肯定被告在案發位置，有意圖使用上述物品損壞財物，被告亦無合理辯解，裁定罪名成立。",
+  "sentence": "判入勞教中心",
+  "sentenceReason": "裁判官判刑時指，被告經審訊後被定罪，但在與感化官會面時仍否認控罪，堅稱當日㩦帶涉案物品為工作需要，但難以明白其工作時為何會用到。而且被告當日亦帶有防毒面具、眼罩及行山杖等物品，故被告辯稱工作需要實在難以讓人信服。\n\n另雖然被告被捕時，現場無發生暴力或違法事件，但判刑須考慮到阻嚇性。在考慮到被告的年紀及背景後，認為其生活習慣比較鬆散，遂認為勞教中心為適合被告的刑罰。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "管有物品意圖損壞財產"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

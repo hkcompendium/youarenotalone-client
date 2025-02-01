@@ -1,0 +1,65 @@
+{
+  "id": "73",
+  "caseNo": null,
+  "incident": "1111上水",
+  "defendants": [
+    {
+      "id": "81",
+      "name": "黃",
+      "age": 25,
+      "charges": [
+        {
+          "id": "98",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1111上水"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2020-09-21",
+  "sentenceDate": "2020-09-21",
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控罪指，他於去年 11 月 11 日在上水彩園路留下一個膠欄杆。案情透露，案發當日，有示威者應網上號召於多區堵路。早上 7 時 40 分，兩警員在上水彩園路見到有 10 名示威者堵路，其中被告將一個膠欄杆擲在地上，警員追截拘捕被告，並在其背包內搜出2個面罩、一對手套、膠水及膠紙等物品。",
+  "verdict": "罪名成立",
+  "verdictReason": "裁判官指案情較輕",
+  "sentence": "罰款 5千元，監禁 4 周緩刑 3 年",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "4658",
+        "content": "#粉嶺裁判法院第一庭\n#蘇文隆主任裁判官\n\n黃(24) #提堂 (#1111上水 在公眾地方造成阻礙)\n\n❗️被告認罪❗️\n\n求情：\n被告沒有任何刑事紀錄。\n被告25歲，私人補習教師，與家人同住。被告初犯，受當時社會氣氛影響，已十分後悔，表示不會再犯罪。\n求情信中，教授表示被告大學期間一直樂於幫助別人，會幫少數族裔補習，也是一個準時的人。\n\n辯方表示被告基於初犯及願意認罪，可見其誠意，希望法庭能判非監禁形式。\n\n法庭表示由於案情不算嚴重，宣布罪名成立。\n❗️判處罰款5000，從保釋金扣除；4星期監禁，緩刑3年，期間不得干犯任何罪行。❗️",
+        "url": "https://t.me/youarenotalonehk_live/9652",
+        "source": "法庭文字直播台",
+        "datetime": "2020-09-21T07:19:01.000Z"
+      }
+    ]
+  }
+}

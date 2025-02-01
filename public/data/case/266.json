@@ -1,0 +1,55 @@
+{
+  "id": "266",
+  "caseNo": null,
+  "incident": "1031旺角",
+  "defendants": [
+    {
+      "id": "324",
+      "name": "李",
+      "age": 22,
+      "charges": [
+        {
+          "id": "456",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-04",
+  "sentenceDate": "2020-05-18",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年10月31日在太子雅蘭里和鴉蘭街交界，被警員在後巷發現相信屬於被告人的背囊，內藏有5支汽油彈，而被捕時身上只有海報和電話",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "監禁12個月",
+  "sentenceReason": null,
+  "bailment": "不獲批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

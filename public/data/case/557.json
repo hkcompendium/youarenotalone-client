@@ -1,0 +1,60 @@
+{
+  "id": "557",
+  "caseNo": null,
+  "incident": "0809青山",
+  "defendants": [
+    {
+      "id": "726",
+      "name": "張",
+      "age": 37,
+      "charges": [
+        {
+          "id": "1030",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "",
+    "張潔宜",
+    "刑事毀壞",
+    "青山警署"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-30",
+  "sentenceDate": "2019-09-13",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方指控被告於昨凌晨近一時到屯門青山警署叫囂，警員走出警署見到被告大叫：「死黑警！」其後從背包拿出一件長七厘米闊七厘米的汽車零件擲向警署外牆，被告被警誡下承認犯案並稱因憎恨警察而擲物。警方從被告處搜出一條廿五厘米長的水管、三個金屬引擎及另外十一件汽車零件。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "80小時社會服務令",
+  "sentenceReason": "被告從示威報道中得悉警員的執法表現，感到不滿且忍耐不住，不能控制情緒而犯下本案。裁判官認為案件嚴重，被告即使不滿警隊執法表現，亦不應以此方法來表達，直指被告的行為某程度上是挑戰警方及法治。\n\n裁判官最後考慮到被告有穩定職業，沒有證據顯示有預謀犯案亦有悔意，而警署外牆損毀程度不算嚴重，遂接納報告建議，判被告履行社會服務令。",
+  "bailment": "批准",
+  "bailmentRemarks": "被告獲准以1000元現金保釋，期間不得離港，居於報稱地址，需於凌晨一時至早上七時遵守宵禁令，並於一周兩天到屯門警署報到。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

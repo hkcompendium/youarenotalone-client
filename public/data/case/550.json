@@ -1,0 +1,57 @@
+{
+  "id": "550",
+  "caseNo": null,
+  "incident": "0609銅鑼灣",
+  "defendants": [
+    {
+      "id": "716",
+      "name": "謝",
+      "age": 25,
+      "charges": [
+        {
+          "id": "1019",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "襲擊在正當執行職務之警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "襲警"
+  ],
+  "trialDateFrom": "2020-12-11",
+  "trialDateTo": "2021-03-15",
+  "trialLength": 3,
+  "verdictDate": "2021-04-29",
+  "sentenceDate": "2021-05-17",
+  "magistrate": "劉綺雲",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年6月9日，在香港香港島軒尼詩道與堅拿道西交界襲擊正當執行職務的警務人員，即警長34376伍兆康（用右肩撞警長胸口）。",
+  "verdict": "罪名成立",
+  "verdictReason": "劉官續指，被告稱聽到有警員叫人返回行人路，但當時正在拾眼鏡，故不肯定警員是否對他說，但被問及聲音距離時被告卻沒有交代清楚。劉官指被告回答問題時應直截了當，不應迴避，因此認為他沒有交代真相。劉官又指，若被告當時只是彎腰拾眼鏡，並沒有逃走反抗的話，警長根本無需雙手捉住被告雙臂拉低他，更令自己亦跌低如此危險，因此被告所說的並非真相。劉官最後認為被告蓄意撞向警長令其受傷，故裁定他罪成。\n",
+  "sentence": "6個月即時監禁",
+  "sentenceReason": "劉官指當時多人起哄要求警方開路，被告蓄意襲警，攤開雙手大叫「出嚟！出嚟」，目的必然是着警方開路，並非一時衝動。劉官又指，被告所為會鼓勵他人仿效，造成漣漪效應，嚴重破壞社會秩序及公眾安全，且她沒有悔意，故以入獄七個月為量刑起點，考慮她對社會貢獻良多，減刑一個月。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": "申請保釋等候上訴被拒",
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "581",
+  "caseNo": null,
+  "incident": "20200722青衣",
+  "defendants": [
+    {
+      "id": "776",
+      "name": "黃",
+      "age": 19,
+      "charges": [
+        {
+          "id": "1107",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事損壞，違反 《刑事罪行條例》(第200章) 第60(1)條"
+        }
+      ]
+    },
+    {
+      "id": "777",
+      "name": "黃",
+      "age": 22,
+      "charges": [
+        {
+          "id": "1108",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事損壞，違反 《刑事罪行條例》(第200章) 第60(1)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "刑事損壞"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2021-05-06",
+  "magistrate": "劉淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年7月22日，在青衣青敬路33號近青衣城青衣北橋橋墩無合法辯解而損壞屬於路政署的三條橋墩，意圖損壞該財產或罔顧該財產是否會被損壞。\n\n案發當日凌晨2時，警員在青衣北橋巡邏時，發現兩名被告在橋墩噴上「721、831」、「國安法 X」及「Free HK」字句。D1即場被捕，D2則逃離現場。警方循閉路鏡頭尋獲D2，於翌日拘捕他，D1另有招認。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "D1: 24個月感化令；D2: 以$1,500簽保守行為24個月",
+  "sentenceReason": "D2原否認控罪，排期在4月12日開審，劉淑嫻裁判官批准D2以$1,500簽保守行為24個月。\n\nD1代表律師指，D1已全數賠償$4,057.7。已向D1解釋報告，D1同意報告內容。報告內容正面，D1已深切反省，感到後悔。D1坦白承認案情，明白後果，承諾法庭將來會奉公守法，希望能判處非監禁式刑罰，願意接受感化。報告建議為期12個月的感化令。\n\n裁判官判刑時指，案情嚴重之處在於被告噴上反政府標語，是破壞社會安寧的行為，會鼓吹其他人犯法，因此要將感化官建議的12個月感化提升至24個月，並要求D1在居住、學習、工作及交朋結友要得感化官批准，並須按感化官指示參與小組或活動。\n\n判刑：24個月感化令",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

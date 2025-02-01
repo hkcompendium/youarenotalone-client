@@ -1,0 +1,59 @@
+{
+  "id": "510",
+  "caseNo": null,
+  "incident": "1225旺角",
+  "defendants": [
+    {
+      "id": "666",
+      "name": "李",
+      "age": 42,
+      "charges": [
+        {
+          "id": "944",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲擊警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "張天雁裁判官",
+    "襲警",
+    "1225旺角"
+  ],
+  "trialDateFrom": "2021-01-22",
+  "trialDateTo": "2021-01-22",
+  "trialLength": 1,
+  "verdictDate": "2021-02-08",
+  "sentenceDate": null,
+  "magistrate": "張天雁",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年12月25日，在旺角砵蘭街近山東街交界，襲擊警員黃梓峰。\n",
+  "verdict": "罪名不成立",
+  "verdictReason": "以下是簡短裁決理由：\n\n-法庭對PW1在作供時指自己150cm高感不能相信，並質疑PW1是否對距離判斷有所偏差還是説出不誠實答案，故不能肯定地採納他的證供。\n\n-法庭對PW2不能看到事發經過感到難以理解。因若PW1的證供屬實，與PW1相差1個身位的PW2理應看到動作。除外，只有被告與警方互罵，視線理應集中在被告。法庭亦認為PW2指他看到被告情緒激動，企圖衝向警方，但為何會看不到被告踼腿的動作？\n\n-法庭認為被告證供直接清𥇦，有電話紀錄支持她證供，雖然有部分證供有疑點，但不能排除她證供的可能性。\n\n總結以上，法庭表示控方未能舉證至毫無合理疑點，故裁定被告人罪名不成立",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

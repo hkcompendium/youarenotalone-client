@@ -1,0 +1,57 @@
+{
+  "id": "559",
+  "caseNo": null,
+  "incident": "1027油麻地",
+  "defendants": [
+    {
+      "id": "728",
+      "name": "陳",
+      "age": 19,
+      "charges": [
+        {
+          "id": "1032",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有物品意圖摧毀或損壞財產，違反 《刑事罪行條例》(第200章) 第62 (a) 條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "管有物品意圖損壞財產"
+  ],
+  "trialDateFrom": "2021-03-02",
+  "trialDateTo": "2021-03-02",
+  "trialLength": 1,
+  "verdictDate": "2021-03-02",
+  "sentenceDate": "2021-03-23",
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年10月27日，在油麻地廣華醫院內保管或控制1支尖銳的遠足杖、1把錘子和1把萬用刀連鉗子，意圖在無合法辯解的情況下使用或導致他人使用或准許他人使用上述物品，以摧毀或損壞屬於另一人的財產",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "判處9個月監禁",
+  "sentenceReason": "4項報告，包括社會服務令，感化報告，更生中心報告，勞教中心報告皆表示被告不適合。\n\n青少年罪犯報告：根據被告的身體狀況，建議法庭判決監禁式刑罰。\n\n判刑理由\n案情嚴重，本次案發地點為醫院，醫院是讓市民獲得救治的地方。雖然於本案中沒有設施被破壞，但假若有破壞必定會帶來不可估計的風險。廣華醫院同時有急症室的服務，若被破壞必定影響甚廣。\n\n雖然被告沒有定罪記錄，和認罪，但由於案情嚴重，以15個月量刑起點，求情扣減1個月，認罪扣減1/3，判處9個月即時監禁。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 22,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

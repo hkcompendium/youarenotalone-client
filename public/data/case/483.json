@@ -1,0 +1,60 @@
+{
+  "id": "483",
+  "caseNo": null,
+  "incident": "0830葵涌",
+  "defendants": [
+    {
+      "id": "630",
+      "name": "王",
+      "age": 24,
+      "charges": [
+        {
+          "id": "894",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有攻擊性武器，違反《簡易程序治罪條例》(第228章) 第17條 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "林子勤裁判官",
+    "0830葵涌",
+    "管有攻擊性武器",
+    "雷射筆"
+  ],
+  "trialDateFrom": "2020-09-17",
+  "trialDateTo": "2020-09-18",
+  "trialLength": 2,
+  "verdictDate": "2020-09-25",
+  "sentenceDate": null,
+  "magistrate": "林子勤",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於 2019 年 8 月 30 日，在葵涌新葵芳花園外管有一支雷射筆，意圖作非法用途使用。",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官林子勤裁決時稱，拘捕女警忘記即時施行警誡，認為女警做法有違查問規則，對被告不公平，早前剔除被告所作的招認。控方在本案須證明被告使用雷射筆，是否有傷人意圖。本案沒有直接證供，法庭須就物品性質及狀況、周遭環境、被告是否收藏及被質問的反應，作出推論。\n\n裁判官表示雷射筆是常見文具，涉案雷射筆亦非改裝。雖然專家證人指出雷射筆能夠傷人，但局限於傷害眼睛，以及在特定距離 40 米內才造成傷害。事主表示當時被雷射筆射中一秒，光源距離約 50 米，盤問下更稱相距 60 至 70 米，在「一剎那」被射中。\n\n相距數十米   官：難推論有傷人意圖\n\n事主乘坐的衝鋒車經改裝，車身設有鐵絲網，外面的人無法看到車內情況，質疑被告如何瞄準坐在中間車位的事主，用雷射筆對他作出傷害。裁判官直言：「被告是否有傷人意圖，推論相當困難。」至警員下車截查被告，她仍是手執雷射筆、沒有逃走，與故意傷人的推論不相符。\n\n裁判官又指雷射筆會用於示威現場，但案發當日附近沒有示威。被告與男友當時在葵涌警署附近，不會得知事主與同袍回到警署候命，可見事件是沒有預謀。另外，被告住址亦在案發地點附近，當時她並非穿着示威裝束，與一般「OL」無異，拘捕女警更提及當時被告手執午餐器具。\n\n官：被告自招嫌疑  拒准訟費申請\n\n事主稱被雷射筆射中雙眼後，亦未能描述被告動作，到下車截查兩人時，發現被告正與男友擁抱，兩人亦背對警署。裁判官認為被告解釋雷射筆目的合理，在盤問下沒有動搖，控方未能在毫無合理疑點下舉證，裁定罪名不成立。控方將涉案手袋及雷射筆歸還被告，反對辯方訟費申請。裁判官指，被告的雷射筆當時不論有意或無意射中警員、自招嫌疑，拒絕辯方訟費申請。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

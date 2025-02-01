@@ -1,0 +1,92 @@
+{
+  "id": "385",
+  "caseNo": null,
+  "incident": "1111上水",
+  "defendants": [
+    {
+      "id": "756",
+      "name": "羅",
+      "age": 16,
+      "charges": [
+        {
+          "id": "1073",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具"
+        }
+      ]
+    },
+    {
+      "id": "757",
+      "name": "劉",
+      "age": 18,
+      "charges": [
+        {
+          "id": "1074",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "管有適合作非法用途的工具"
+        },
+        {
+          "id": "1075",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有物品意圖損壞財產"
+        }
+      ]
+    },
+    {
+      "id": "758",
+      "name": "劉",
+      "age": 20,
+      "charges": [
+        {
+          "id": "1076",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "蘇文隆",
+    "判刑",
+    "管有物品意圖損壞財產",
+    "1111上水"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "蘇文隆、陳炳宙",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "(1)管有適合作非法用途的工具(D1)：\n於2019年 11 月 11 日在上水符興街石湖墟遊樂場傷殘人士廁所外，管有適合作非法用途的工具，即一包索帶。\n\n(2)管有適合作非法用途的工具(D2)：\n於同日同地管有士巴拿\n\n(3)管有適合作非法用途的工具(D3)：\n於同日同地管有士巴拿\n\n(4)管有物品意圖損壞財產(D4)：\n於同日同地管有一支噴漆，意圖損壞他人財產\n\n早上 7 時，警員在龍琛路巡邏時，目睹被告正跑往符興街，遂上前追截，但一度失去他們的蹤影。及後，警員發現殘廁被反鎖，要求在廁內的人開門不果，便指示清潔工協助開鎖，在廁所內發現並拘捕 3 人，隨後在他們身上搜出涉案物品，包括士巴拿、護目鏡、防毒面具、及生理鹽水等。警誡下，3人均保持緘默。",
+  "verdict": "D1、D3：撤銷控罪；D2：罪名成立",
+  "verdictReason": null,
+  "sentence": "D1：自簽 2,000 元、守行為兩年；D2：感化24個月；D3：自簽 2000 元、守行為 3 年",
+  "sentenceReason": "D2：\n辯方引述感化官及青少年罪犯委員會建議，分別指被告適宜判處感化令18和24個月，希望基於沒有刑事定罪紀錄、坦白認罪和有悔意，被告能在開放式刑罰中改過自新。又引述更生中心報告指被告有躁鬱症，需要6個月覆診1次，不宜進入更生中心。再引述醫療報告指被告患有抑鬱症，需要接受精神科和心理科治療，而早前因壓力吸食過大麻一次，未來亦願意接受尿檢。蘇官遂接納報告建議，判處被告感化24個月，並於來年5月5日檢視進度報告。\n\nD3：\n獲控方同意，以簽保守行為方式處理，惟裁判官陳炳宙一度反對，質疑控方做法過於寬大，「蠢嘅就一早認罪，聰明嘅堅持到最後一樣可以獲得簽保」，更要求檢查青年與患癌母的親子證明，母親語帶顫抖地哭訴，「醫生話我得一年命！」裁判官最終考慮到其母命不久矣、情況特殊，批准青年自簽 2000 元、守行為 3 年，並提醒他日後小心做人，切勿辜負母親。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "控方於2020年11月10日被告答辯時撤回對D1的控罪；當日D2於庭上認罪，還押3星期候判，於2020年12月1日判刑。D3則於2021年1月15日被撤銷控罪。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "230",
+  "caseNo": null,
+  "incident": "1111鴨脷洲",
+  "defendants": [
+    {
+      "id": "277",
+      "name": "袁",
+      "age": 21,
+      "charges": [
+        {
+          "id": "392",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-05",
+  "sentenceDate": "2020-06-29",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於2019年11月11日早上在鴨脷洲橋道近鴨脷洲徑交界和三名不知名人士留下垃圾、垃圾桶、塑膠圍欄及交通圓筒等，佔地面積約6米乘3米，對該處車輛及地方造成阻礙。",
+  "verdict": "",
+  "verdictReason": null,
+  "sentence": " 社會服務令160小時，$1000堂費從擔保金扣除",
+  "sentenceReason": "裁判官接受感化報告，及感化官的建議。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

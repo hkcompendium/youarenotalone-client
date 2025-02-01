@@ -1,0 +1,59 @@
+{
+  "id": "439",
+  "caseNo": null,
+  "incident": "0829沙田",
+  "defendants": [
+    {
+      "id": "559",
+      "name": "何",
+      "age": 22,
+      "charges": [
+        {
+          "id": "801",
+          "verdict": "其他",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#溫紹明署理主任裁判官",
+    "#0829沙田",
+    "#撤銷控罪"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-28",
+  "sentenceDate": null,
+  "magistrate": "溫紹明",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控罪指被告於2019年8月29日在沙田新界蘇浙公學外管有攻擊性武器，即一支雷射筆，意圖將其作非法用途使用。控方案情指當晚有數十名示威者圍堵沙田警署，並以雷射筆照入警署。其後示威者散去，警方在街上截查被告，在其身上搜出雷射筆，將其拘捕。據知警署外錄影片段拍到疑似被告衣著的男子，曾以雷射筆照向警署。",
+  "verdict": "控方同意以自簽$2000，守行為12個月處理，撤回控罪，證物1-35充公。另外需付$500堂費，從保釋金扣除。",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

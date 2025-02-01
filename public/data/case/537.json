@@ -1,0 +1,57 @@
+{
+  "id": "537",
+  "caseNo": null,
+  "incident": "1111沙田",
+  "defendants": [
+    {
+      "id": "703",
+      "name": "趙",
+      "age": 18,
+      "charges": [
+        {
+          "id": "1002",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1111沙田"
+  ],
+  "trialDateFrom": "2020-05-07",
+  "trialDateTo": "2020-06-19",
+  "trialLength": null,
+  "verdictDate": "2020-06-19",
+  "sentenceDate": null,
+  "magistrate": "溫紹明",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於2019年11月11日在沙田源禾路與沙田鄉事會路交界放置一個黃色欄杆，佔據約15平方呎路面，對上述公眾地方的車輛造成阻礙。",
+  "verdict": "控方撤回控罪，被告需自簽2000元，守行為12個月，需繳付堂費1000元，於擔保金中扣除。",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

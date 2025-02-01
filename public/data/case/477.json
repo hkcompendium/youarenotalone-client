@@ -1,0 +1,55 @@
+{
+  "id": "477",
+  "caseNo": null,
+  "incident": "20200524銅鑼灣",
+  "defendants": [
+    {
+      "id": "623",
+      "name": "李",
+      "age": 45,
+      "charges": [
+        {
+          "id": "887",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方作出擾亂秩序的行為"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2021-02-05",
+  "trialDateTo": "2021-02-05",
+  "trialLength": 1,
+  "verdictDate": "2021-03-05",
+  "sentenceDate": "2021-03-05",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年5月24日，在銅鑼灣告士打道作出喧嘩或擾亂秩序的行為，或使用恐嚇性、辱罵性或侮辱性的言詞，或派發或展示任何載有此等言詞的文稿，意圖激使他人破壞社會安寧，或其上述行為相當可能會導致社會安寧破壞。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "12個月感化令",
+  "sentenceReason": "當日案發地40-50名示威者有集結，有示威者作出搗亂行為,有人堵路縱火等，警方設立防線。\n被告把空啤酒罐扔去路上，當時有交通運輸中，有人拍掌歡呼，其後警方拘捕被告。\n羅德泉指會考慮控罪基礎，會考慮被告意圖，但辯方說法令他考慮到案發背景，控方亦沒質疑辯方說法，所以法庭會用辯方說法作基礎，指如果採用不同說法，判刑會有很大分別。\n此事是單一事件，被告並非有預謀或意圖去犯案，不是參與集結人士，因此不可與集結人士一併而論 。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "在公眾地方作出擾亂秩序的行為"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

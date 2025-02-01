@@ -1,0 +1,61 @@
+{
+  "id": "498",
+  "caseNo": null,
+  "incident": "0803黃大仙",
+  "defendants": [
+    {
+      "id": "651",
+      "name": "嚴",
+      "age": 20,
+      "charges": [
+        {
+          "id": "923",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲擊警務人員"
+        },
+        {
+          "id": "924",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲擊警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-08-20",
+  "trialDateTo": "2020-08-20",
+  "trialLength": 1,
+  "verdictDate": "2020-08-25",
+  "sentenceDate": null,
+  "magistrate": "梁少玲",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於19年8月3日在黃大仙港鐵站B出口襲擊警長58291徐兆雄，後被加控同日同地襲擊另一名警員19058麥永祥。",
+  "verdict": "罪名不成立",
+  "verdictReason": "從呈堂嘅影片可見，被告要求警長58791出示委任證時，站姿筆直，距離只有一隻手臂長度。但隨後被告背後突然出現一隻手從上而下伸出，令被告向前跌低，並係鏡頭中消失。雖然片段未見被告有否撲向警長，但被告一直手持電話拍攝前方，難以突然襲擊警長。\n\n另外，係警員19058證供有矛盾之處，即是係控方主問時從沒有無提及被告身後有人伸手，但直到辯方盤問時，表示不否認片段中所見嘅手係屬於佢嘅，以及對個個黑影除左係手諗唔到會係咩表示同意，認為警員19058沒有說出事實的全部。\n\n基於本案舉證責任在於控方需要排除所有合理疑點，控方未能排除被告只是被警員19058所推跌才導致撲向警長58791，因此裁定被告襲警罪不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "被告因事件致左手骨折。\n\n他在庭外表示，當時倒地後被警方壓住，便感到有人「鋤」其左手，事後要住院數天及進行物理治療，現亦「間唔中會痛」，不能拿重物，正與律師商討考慮向警方索償。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

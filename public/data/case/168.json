@@ -1,0 +1,57 @@
+{
+  "id": "168",
+  "caseNo": null,
+  "incident": "1103旺角",
+  "defendants": [
+    {
+      "id": "200",
+      "name": "張",
+      "age": 22,
+      "charges": [
+        {
+          "id": "280",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "襲擊執行職責的警務人員，違反《警隊條例》(第232章)第63條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "襲擊警務人員"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2020-12-07",
+  "sentenceDate": "2020-12-21",
+  "magistrate": "梁嘉琪",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "市民2019年11月3日發起於七區進行「香港人反警暴七區緊急行街」行動，包括旺角麥花臣球場。其後，警方闖入多區商場大舉搜捕市民。\n\n2020年11月3日2320時，控方證人1（警員18082）及控方證人2（女警員X），接報彌敦道有人聚集及堵塞道路，前往驅散。2320時，警員到達廣華醫院外，有100名蒙面及深色衣著的示威者，於彌敦道及山東街交界聚集，經警方警告仍停留，並以雷射筆掃射警員。 \n\n翌日0008時，在場警員分為2批，1批從奶路臣街向砵蘭街掃蕩，1批從山東街向砵蘭街掃蕩。控方證人1及2於奶路臣街砵蘭街交界，看見其他警員自山東街方向靠近，而被告在示威群眾中跑向亞皆老街。2名控方證人喊出警察身份，嘗試拘捕被告，被告推控方證人2的右肩，令其跌在地上。 \n\n控方證人1後在E1出口附近拘捕被告；經驗傷後，控方證人2的臀部有觸痛，但未有骨折。被告在警誡下保持緘默。 ",
+  "verdict": "罪名成立",
+  "verdictReason": "被告認罪，同意案情，裁定罪名成立。",
+  "sentence": "即時監禁4星期3天",
+  "sentenceReason": "梁官考慮以下幾點： \n\n被告認罪\n被告曾不認罪，法庭亦定下審期；但審訊前，辯方已預早通知法庭及控方，被告將會認罪，在這方面會給予被告有利考慮。 \n\n控罪性質\n本案被告被控襲警，此類型案件的被告，通常會被判罰即時監禁。加上被告襲警手法與其他案例雷同，梁官認為本案判刑需有阻嚇性，以反映案件的性質及嚴重性。 \n\n類似案例\n上訴庭最近就幾宗相似案件作出裁決，需引為參照。 \n\n案情\n被襲擊的警員無嚴重傷勢。 \n\n被告年紀\n案發時被告已年滿21歲。 \n\n綜合以上條件，梁官認為任何形式的刑罰皆有可能。\n\n判刑時考慮被告過往犯罪紀錄、年齡、案發現場整體環境、案發時間等因素。\n早前已索取勞教中心報告，由於身體狀況不建議勞教。\n被告在答辯前認罪，獲得1/4刑期扣減。\n判刑以6星期為量刑起點，扣減1/4後為監禁4星期3天。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "被控於2019年11月3日於九龍旺角砵蘭街朗豪坊，襲擊執行職責的警務人員，即女警員X。"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

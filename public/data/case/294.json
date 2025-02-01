@@ -1,0 +1,57 @@
+{
+  "id": "294",
+  "caseNo": null,
+  "incident": "2109旺角",
+  "defendants": [
+    {
+      "id": "359",
+      "name": "陳",
+      "age": 54,
+      "charges": [
+        {
+          "id": "503",
+          "verdict": "撤銷控罪",
+          "plea": "否認控罪",
+          "charge": "襲擊正在正當執行職務的警務人員，違反《侵害人身條例》(第212章) 第36(b)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "撤銷控罪"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2019-11-30",
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於9月21日在旺角西洋菜南街與弼街交界襲擊執行職責的警署警長",
+  "verdict": null,
+  "verdictReason": "控方支付訟費，若雙方在兩個月內未能就金額達成共識，可到區域法院申請訟費評定",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "法庭文字直播台未有此案的紀錄。案件資料取自HK01、蘋果日報、立場新聞和明報(加西網）的報道。\n\n「據悉，涉案警長錄口供時稱被告打了他一拳，但控方除此以外沒有其他證據，因此決定撤控。另有傳媒影片拍攝到事發經過，顯示有警員跑向被告並搶去其帽，被告被包圍後攤開雙手，其後被警長拘捕。⋯警長供稱被他拳打，有妨礙司法公正之嫌，他說有律師建議向警方提出私人檢控，但⋯（他）暫不考慮建議。 ⋯」摘自明報http://www.mingpaocanada.com/van/htm/News/20191130/HK-gaa3_r.htm",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

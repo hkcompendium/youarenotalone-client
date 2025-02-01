@@ -1,0 +1,55 @@
+{
+  "id": "566",
+  "caseNo": null,
+  "incident": "1111牛頭角",
+  "defendants": [
+    {
+      "id": "737",
+      "name": "黃",
+      "age": 16,
+      "charges": [
+        {
+          "id": "1042",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-04-20",
+  "sentenceDate": null,
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年11月11日早上約7時半，警員在牛頭角觀塘道西行巡邏時，發現20至30名穿黑衣的人用垃圾筒和欄杆堵塞西行線，有警員目睹被告身處草叢，彎低身執拾東西。警方其後落車追捕，截停跑得較慢的被告。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

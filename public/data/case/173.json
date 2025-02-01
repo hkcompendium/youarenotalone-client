@@ -1,0 +1,57 @@
+{
+  "id": "173",
+  "caseNo": null,
+  "incident": "0908銅鑼灣 ",
+  "defendants": [
+    {
+      "id": "212",
+      "name": "陳",
+      "age": 27,
+      "charges": [
+        {
+          "id": "294",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲擊在正當執行職務的警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "襲警"
+  ],
+  "trialDateFrom": "2021-01-07",
+  "trialDateTo": "2021-02-10",
+  "trialLength": 2,
+  "verdictDate": "2021-02-10",
+  "sentenceDate": null,
+  "magistrate": "鄧少雄",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年9月8日在銅鑼灣港鐵站F1出口外，襲擊在正當執行職務的警員",
+  "verdict": "罪名不成立，批准辯方訟費申請",
+  "verdictReason": "第二控方證人稱從後撲向被告，雙手分別捉住被告左右腰間的衣物，而且2人均向前跑。因此難以理解被告如何可以「四肢朝天背向地跌下」 而非「面朝地仆下」。在盤問時牠聲稱「不知被告如何轉了身」當時警員與被告近距離接觸，理應全副精神集中在被告身上，因此不可能見唔到被告如何180°轉身。\n\n案發時渣甸坊並非示威現場，而且當時被告著拖鞋，很難想像被告會著拖鞋參與示威。不能單憑被告身上的外科用口罩、面具、泳鏡，推論被告有作出違法行為的打算。因此被告沒有自招嫌疑，批准辯方訟費申請。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "",
+  "internalRemarks": null,
+  "charges": [
+    "(1) 襲擊在正當執行職務的警務人員，違反香港法例第212章《侵害人身罪條例》第36(b)條"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

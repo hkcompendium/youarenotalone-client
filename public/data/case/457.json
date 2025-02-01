@@ -1,0 +1,58 @@
+{
+  "id": "457",
+  "caseNo": null,
+  "incident": "0907沙田",
+  "defendants": [
+    {
+      "id": "584",
+      "name": "王",
+      "age": 22,
+      "charges": [
+        {
+          "id": "840",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲擊警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#襲警"
+  ],
+  "trialDateFrom": "2020-12-01",
+  "trialDateTo": "2021-01-29",
+  "trialLength": 3,
+  "verdictDate": "2021-03-03",
+  "sentenceDate": null,
+  "magistrate": "崔美霞",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年9月7日在港鐵沙田站B出口外襲擊執行職責的警務人員，即警員鄧浩濱。\n",
+  "verdict": "罪名不成立，批准訟費申請",
+  "verdictReason": "\n崔官質疑鄧的觀察不準確，主要證供存有關鍵性矛盾和不可能性。由於控方舉證未能達至毫無疑點舉證，故裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "襲擊警務人員。違反香港法例第232章 《警隊條例》第63條。",
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

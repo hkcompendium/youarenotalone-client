@@ -1,0 +1,92 @@
+{
+  "id": "354",
+  "caseNo": null,
+  "incident": "1012旺角",
+  "defendants": [
+    {
+      "id": "438",
+      "name": "陳",
+      "age": 20,
+      "charges": [
+        {
+          "id": "622",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "非法集結"
+        },
+        {
+          "id": "1098",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        },
+        {
+          "id": "1099",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "在身處非法集結時使用蒙面物品"
+        }
+      ]
+    },
+    {
+      "id": "775",
+      "name": "李",
+      "age": 32,
+      "charges": [
+        {
+          "id": "1100",
+          "verdict": null,
+          "plea": null,
+          "charge": "非法集結"
+        },
+        {
+          "id": "1101",
+          "verdict": null,
+          "plea": null,
+          "charge": "在公眾地方管有攻擊性武器"
+        },
+        {
+          "id": "1102",
+          "verdict": null,
+          "plea": null,
+          "charge": "在身處非法集結時使用蒙面物品"
+        }
+      ]
+    }
+  ],
+  "description": "法庭正就D2是否不適宜答辯的裁斷進行聆訊，下次聆訊日期為2021年6月11日。",
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-12-23",
+  "sentenceDate": "2020-01-06",
+  "magistrate": "鍾明新",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控罪指兩名被告於2019年10月12日在旺角警署外的公眾地方參與非法集結；並於身處非法集結時各使用口罩和頭罩及圍巾；以及於同日同地管有鐳射筆。",
+  "verdict": "D1非法集結罪及管有攻擊性武器罪罪名成立",
+  "verdictReason": null,
+  "sentence": "D1：(非法集結)監禁四個月、(管有攻擊性武器)監禁四個月，其中兩個月分期執行，即共監禁六個月。",
+  "sentenceReason": "D1與100名示威者在旺角警署附近高呼反政府及反警察口號，又用鐳射筆照向警署，令有警員眼睛感到痛楚。D1知悉鐳射筆能令眼睛受到傷害。雖然辯方求情指D1患有強迫症，需長期到精神科接受診治，智商屬邊緣弱智水平，但引用律政司司長訴黃之鋒[2017] 5 HKC 116的上訴庭案例，懲罰必須有阻嚇作用，不會考慮被告背景，即使犯案者表明會堅守道德，但也不是可向他人施以暴力的藉口。\n\n考慮D1背景與上訴庭的判詞，兩項控罪均以監禁6個月為量刑起點，認罪後扣減三分之一刑期，兩項控罪本應是分期執行，但考慮到本案案情，D1干犯非法集結時使用「管有攻擊性武器」罪相關的鐳射筆，因此「管有攻擊性武器」罪的其中2個月刑期須分期執行，總刑期6個月。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 142,
+  "appeal": "",
+  "appealJudgementUrl": "",
+  "bailmentAppeal": "",
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

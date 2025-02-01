@@ -1,0 +1,58 @@
+{
+  "id": "515",
+  "caseNo": null,
+  "incident": "20200308將軍澳",
+  "defendants": [
+    {
+      "id": "672",
+      "name": "張",
+      "age": 29,
+      "charges": [
+        {
+          "id": "950",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#20200308將軍澳",
+    "悼念周梓樂"
+  ],
+  "trialDateFrom": "2021-01-18",
+  "trialDateTo": "2021-01-18",
+  "trialLength": 1,
+  "verdictDate": "2021-01-18",
+  "sentenceDate": "2021-02-01",
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2020年3月8日晚上，數百名市民在將軍澳唐明街2號尚德邨悼念周梓樂。警方暴力驅散期間，被告從尚德公共交通總站逃跑，一名警員追截張後，指追截期間從他手中掉出一支雷射裝置，內附電池。被告被控沒有合法權限或合理辯解而攜有攻擊性武器，即1個能發射雷射光束的裝置。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "即時監禁3個月3星期",
+  "sentenceReason": "被告過往沒有刑事紀錄。然而本案中的雷射筆功率屬最高級別，所構成的風險比一般的大，加上考慮到被告的年齡，監禁式刑罰是無可避免。被告原先選擇不認罪，原本案件定於2021年1月28日開審，因此被告將只獲扣減四分之一的刑期。\n\n以5個月為量刑起點，安排審期後認罪扣減四分一，判處即時監禁3個月3星期。\n\n裁判官考慮過背景報告及求情信，亦考慮辯方呈上的案例HCMA101/2020中的各項法律原則，公安條例一般需要保障公眾安全及具有防範性，判刑要有足夠阻嚇力。本案涉及一支第四級雷射筆，被告人被截停前，現場有大約200人聚集，拒絕散去，氣氛緊張，持續大約20分鐘。被告人在警方驅散時被捕，期間有反抗，需要由另一個警員協助扣上手銬。雖然沒有證據顯示被告人曾經使用過雷射筆，但由被告人手持雷射筆推斷，被告可能曾經使用過或準備使用。此舉不但有機會傷及他人，更可能挑動現場情緒。\n\n考慮到被告十分孝順，相信被告人在每天與雙親15分鐘見面時間都非常自責及後悔沒有考慮後果。雖然曾經不認罪，但決定認罪後盡早寫信通知法庭。慶幸在今次事件中沒有人受傷，被告當時亦沒有其他裝備。",
+  "bailment": "批准",
+  "bailmentRemarks": "現金$1,000\n不得離港\n住在報稱地址\n每週報到1次\n宵禁2300-0600",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

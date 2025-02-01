@@ -1,0 +1,78 @@
+{
+  "id": "153",
+  "caseNo": null,
+  "incident": "1113土瓜灣",
+  "defendants": [
+    {
+      "id": "180",
+      "name": "張",
+      "age": 20,
+      "charges": [
+        {
+          "id": "253",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": " 管有適合作非法用途的工具並意圖作非法用途使用，違反《簡易程序治罪條例》(第228 章) 第17 條"
+        },
+        {
+          "id": "254",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "無牌管有無線電通訊器具，違反《電訊條例》(第106章) 第8條"
+        }
+      ]
+    },
+    {
+      "id": "181",
+      "name": "楊",
+      "age": 20,
+      "charges": [
+        {
+          "id": "255",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2020-12-09",
+  "sentenceDate": "2020-12-09",
+  "magistrate": "嚴舜儀主任裁判官/葉啟亮裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "D1:在紅磡土瓜灣遊樂場內近兒童遊樂區管有8把六角匙，管有4部無線電收發機\nD2:無合法權限或解釋，將水馬放在東九龍走廊近新山道之馬路上\n",
+  "verdict": "D1控罪一罪名不成立；控罪二罪名成立；D2撒銷控罪，簽保守行為",
+  "verdictReason": null,
+  "sentence": "控罪二罰款4000元",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "控罪一︰ 管有適合作非法用途的工具並意圖作非法用途使用，違反《簡易程序治罪條例》(第228 章) 第17 條（D1）",
+    "",
+    "控罪二︰在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條（D2）",
+    "",
+    "控罪三︰無牌管有無線電通訊器具，違反《電訊條例》(第106章) 第8條（D1）"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

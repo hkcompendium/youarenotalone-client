@@ -1,0 +1,55 @@
+{
+  "id": "300",
+  "caseNo": null,
+  "incident": "1027尖沙咀",
+  "defendants": [
+    {
+      "id": "375",
+      "name": "何",
+      "age": 37,
+      "charges": [
+        {
+          "id": "529",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": " 管有物品意圖摧毀或損壞財產"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-11-26",
+  "trialDateTo": "2020-11-26",
+  "trialLength": 1,
+  "verdictDate": "2020-11-26",
+  "sentenceDate": null,
+  "magistrate": "鄭念慈",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年10月27日在尖沙咀柏麗購物大道外管有4支士巴拿，意圖在無合法辯解的情況下用該物品摧毀其他人的物品。\n\n",
+  "verdict": "罪名不成立",
+  "verdictReason": "丈夫供稱，案發前打算報考俗稱「大工」的熟練技工牌照，於是從街市買入涉案士巴拿，並將它們放進被告的背包內。案發當天，他原本打算陪同女兒到尖沙嘴某商場購買懷舊玩具，然後到練習場地練搭棚，以備戰考試，惟一家三口在前往商場途中被警員截查。鄭官裁決時直指辯方說法牽強，如辯方不傳召證人，會接納控方案情而作出推論。鄭官指出，憑藉被告等人被搜出的工具、他們均身穿黑色衣褲等情況來看，可推想被告等人案發時是要前往示威。\n\n但鄭官表示，辯方傳召證人作供，也有被告丈夫案發前報考搭棚考試的單據等證物。警員亦搜出被告藏有搭棚用的尼龍索帶「篾仔」，鄭官認同這並非一般示威者所常用物品。鄭官認為無法排除辯方說法的可能性，基於疑點利益歸於被告，裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

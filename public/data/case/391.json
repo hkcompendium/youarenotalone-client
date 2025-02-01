@@ -1,0 +1,55 @@
+{
+  "id": "391",
+  "caseNo": null,
+  "incident": "0831旺角",
+  "defendants": [
+    {
+      "id": "473",
+      "name": "黃",
+      "age": 52,
+      "charges": [
+        {
+          "id": "667",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "阻礙公職人員執行職務"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-06",
+  "sentenceDate": null,
+  "magistrate": "彭亮廷",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年8月31日下午時分，喺旺角山東街舉行了一個集會。約1620時，集會經已到尾聲。\n警員正打算離開，期間被告被見到喺山東街與彌敦道路口同不同政見人士爭執。\n\n於是，第一控方證人及第二控方證人上前調停。 第二控方證人開始拎出錄影工具進行錄影，在第二控方證人拎出拍攝工具時，被告情緒激動，詢問第二證人「做咩影佢」、「都無權影佢」。第二證人向被告指出錄影是職責。\n\n正當第二被告離開現場時，被告從後跟隨第二控方證人，在第二證人登上警車時，被告阻撓並要求第二控方證人提供警員編號。被告嘗試登上警車，繼續質問第二證人。被告並叫警員拘捕自己，謂「拉我上車」，並用手抓住部分警員，唔俾警員上車。被告及後站立在警車側門，並用身體擋住車前，企圖阻止車輛開出。\n一號證人要求被告離開，並給予警告被告。被告拒絕同控方一號證人合作。\n\n及後群眾開始在彌敦道及行車道聚集。\n第一以及第三控方證人因此未能如期離開，並給予被告第二次警告，以及以警誡去拘捕被告。\n\n證物三號係由警員帶嘅錄影機拍攝到的證物。\n四號證物由時報拍攝牽涉到的情況。",
+  "verdict": "撤銷控罪",
+  "verdictReason": "裁判官批准控方申請\n被告以自簽守行為及撤回控罪為最終判決\n自簽金為$1500\n需要守行為，為期18個月。\n在守行為期間被告需要保持社會安寧，不得干犯任何有機會對社會嘅暴力，都不得干犯任何對人嘅暴力。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

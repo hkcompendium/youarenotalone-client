@@ -1,0 +1,78 @@
+{
+  "id": "553",
+  "caseNo": null,
+  "incident": "1005銅鑼灣",
+  "defendants": [
+    {
+      "id": "718",
+      "name": "黃",
+      "age": 23,
+      "charges": [
+        {
+          "id": "1021",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "明知而參與未經批准的集結，違反 《公安條例》(第245章) 第17A條"
+        },
+        {
+          "id": "1022",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "身處非法集結時使用蒙面物品，違反《禁止蒙面規例》(第241K章) 第3條"
+        }
+      ]
+    },
+    {
+      "id": "719",
+      "name": "古",
+      "age": 70,
+      "charges": [
+        {
+          "id": "1023",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "明知而參與未經批准的集結，違反 《公安條例》(第245章) 第17A條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "未經批准集結",
+    "蒙面法"
+  ],
+  "trialDateFrom": "2021-03-23",
+  "trialDateTo": "2021-03-24",
+  "trialLength": 2,
+  "verdictDate": "2021-04-13",
+  "sentenceDate": "2021-04-13",
+  "magistrate": "鄧少雄",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "二人被控於2019年10月5日，於香港與其他不詳人士明知而參與未經批准的集結（反對蒙面法大遊行）；D1被控於同日在金鐘道，身處非法集結時，無合法權限或合理辯解而使用相當可能阻止識辨身分的蒙面物品，即一個掛耳式口罩。",
+  "verdict": "兩項罪名成立",
+  "verdictReason": "D1認罪\nD2沒有代表律師，自辯時表示他承認非法集結，亦同意控方所有案情，但他不認罪",
+  "sentence": "D1監禁4個月，D2監禁5個月",
+  "sentenceReason": "控罪(1)參考周庭2020年一案(HCMA 374/2020)非法集結量刑以12個月起點。然而本案人數、時間及行為遠不及該案，但鄧官同時指D1當日接受訪問是標誌性人物；D2則拿著直幡，是帶領性人物。本案法庭會以6個月作量刑起點，D1認罪減去三份一即判處4個月。D2在審訊中沒有爭議案情扣減一個月。D1控罪(2)以15日監禁作量刑起點，扣減三份一後與控罪(1)同期執行。\n\n鄧官勸喻D2考慮清楚，寫下對自己有利或對控方不利的想法，惟D2表示「不用考慮」、「不用可憐我」。",
+  "bailment": "批准",
+  "bailmentRemarks": "控方表示以原有條件擔保，但由於兩人就另案服刑，故需還押看管。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "(1) 明知而參與未經批准的集結 (D1, D2)",
+    "(2) 在身處非法集結時使用蒙面物品 (D1)"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

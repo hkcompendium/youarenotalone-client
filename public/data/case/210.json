@@ -1,0 +1,57 @@
+{
+  "id": "210",
+  "caseNo": null,
+  "incident": "20200830北角",
+  "defendants": [
+    {
+      "id": "275",
+      "name": "李",
+      "age": 38,
+      "charges": [
+        {
+          "id": "389",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事損壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "刑事損壞"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-11-25",
+  "sentenceDate": "2020-12-16",
+  "magistrate": "錢禮主任裁判官 ",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，被告於2020年8月30日，在北角港鐵站用筆在牆壁上塗鴉。警誡下被告承認因貪玩而犯案。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "18個月感化令",
+  "sentenceReason": "裁判官接納感化官建議，判處被告18個月感化令，其間按感化官指示工作和居住，接受精神或心理治療，並參與有助更生的活動，3個月後須上庭報告感化進度。另被告須付1000元堂費。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "刑事損壞，違反 《刑事罪行條例》(第200章) 第60條"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

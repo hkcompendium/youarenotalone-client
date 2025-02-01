@@ -1,0 +1,57 @@
+{
+  "id": "288",
+  "caseNo": null,
+  "incident": "1110旺角",
+  "defendants": [
+    {
+      "id": "351",
+      "name": "鄭",
+      "age": 34,
+      "charges": [
+        {
+          "id": "489",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "攻擊性武器"
+  ],
+  "trialDateFrom": "2020-10-08",
+  "trialDateTo": "2020-11-20",
+  "trialLength": 6,
+  "verdictDate": "2020-11-27",
+  "sentenceDate": "2020-11-27",
+  "magistrate": "鄭念慈",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年11月10日，在旺角彌敦道和亞皆老街一帶的公眾地方，管有一個能發出雷射光束的裝置。",
+  "verdict": "罪名成立",
+  "verdictReason": "鄭官讀得好好好細聲，恕直播員未能作詳細裁決直播\n\n《立場新聞》\n裁決指，案發時已是深夜，而被告翌日要上班，沒可能因打算釣墨魚而攜帶雷射筆，又指被告當晚身穿黑色衣着到旺角吃糖水，做法「瓜田李下」。",
+  "sentence": "判處監禁6個月",
+  "sentenceReason": "《香港快訊》\n他認為本案控罪性質嚴重，指出雷射筆光束可傷害眼睛，而被告沒使用雷射筆，並不足以構成減刑原因，最終判處被告入獄6個月。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "申請保釋等候上訴獲批",
+  "appealJudgementUrl": null,
+  "bailmentAppeal": "保釋條件： -$50000 保釋金 -警署報到四日 -不得離開香港 -需交出旅遊證件 -宵禁2300-0600 -報稱地址居住",
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

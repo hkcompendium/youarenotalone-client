@@ -1,0 +1,71 @@
+{
+  "id": "112",
+  "caseNo": null,
+  "incident": "1224旺角",
+  "defendants": [
+    {
+      "id": "125",
+      "name": "劉",
+      "age": 20,
+      "charges": [
+        {
+          "id": "176",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        },
+        {
+          "id": "177",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "無牌管有無線通訊器具"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1224旺角"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2020-11-20",
+  "sentenceDate": "2020-11-20",
+  "magistrate": "張天雁",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年12月24日在旺角亞皆老街與康樂街交界的（1）公眾地方管有攻擊性武器，即一個能發出雷射光束的裝置；及（2）無牌管有無線電通訊器具，即一部對講機。\n\n2019年12月24日晚上9:50分，警員在朗豪坊一帶見五百名示威者用物件阻礙道路，破壞社會安寧。第一控方證人亞皆老街見到四五百名示威者叫政治口號和粗口，路面有垃圾沙包阻礙，警清理路障以及警告示威者散去。\n\n警方至亞皆老街與康樂街交界見四五十名示威者亞皆老街與康樂街交界集結，並向警方扔水樽等物品；警方隨即拘捕及制服被告。被告被捕時身穿黑色衫褲、黑色運動鞋及戴黑色袖。被告背囊搜出一支雷射裝置、四隻手套、一對講機、一副白色袖。被告警誡之下保持沈默。",
+  "verdict": null,
+  "verdictReason": "控方指沒有證據顯示被告為亞皆老街與康樂街交界集結的示威者，亦無證據顯示被告向警方投擲水樽。\n\n控罪一獲控方不提證供起訴，撤銷控罪；控罪二認罪。",
+  "sentence": "罪款五千元",
+  "sentenceReason": "沒證據顯示被告使用案中對講機，而被告原本沒有案底，今日認罪，同類案件均判罰款",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "8044",
+        "content": "#九龍城裁判法院第七庭\n#張天雁裁判官\n#審訊\n#1224旺角\n\n劉(20)\n\n承上：\nhttps://t.me/youarenotalonehk_live/8925 [https://t.me/youarenotalonehk_live/8925]\n\n控罪：\n1)在公眾地方 #管有攻擊性武器 》❌不認罪❌\n2)無牌管有 #無線電 通訊器具 》早前已認罪\n\n案情：\n被控於 2019 年 12 月 24 日在旺角亞皆老街與康樂街交界的公眾地方管有攻擊性武器，即一個能發出雷射光束的裝置\n\n控辯雙方商議後，控罪一獲控方不提證供起訴，撤銷控罪；控罪二罪款五千元。",
+        "url": "https://t.me/youarenotalonehk_live/11449",
+        "source": "法庭文字直播台",
+        "datetime": "2020-11-20T02:11:05.000Z"
+      }
+    ]
+  }
+}

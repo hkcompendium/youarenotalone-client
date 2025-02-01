@@ -1,0 +1,66 @@
+{
+  "id": "345",
+  "caseNo": null,
+  "incident": "20200417油麻地",
+  "defendants": [
+    {
+      "id": "428",
+      "name": "韓",
+      "age": 24,
+      "charges": [
+        {
+          "id": "605",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事損壞"
+        },
+        {
+          "id": "606",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "襲擊導致他人身體受傷"
+        }
+      ]
+    }
+  ],
+  "description": "求情\n庭上有親朋戚友，有家人強烈支持。被告想要追隨夢想成為一個建築學員，上司亦有到場支持。今年2月22日英國一間大學剛錄取被告為建築碩士學生，9月開學入讀，希望法庭給予他一個機會。\n本案同剛才的政治案件不同，涉案不牽涉社會事件的日子時間，只是一時衝動下所犯。被告品學兼優。\n\n辯方求情強調指本案同政治案件無關，沒有受到高漲的社會氣氛影響，希望法官在判刑原則和法理上有所區別。\n\n被告就所發生的事，對自己在社會上的前景感到憂慮。從影片中見到被告平靜地入閘，有人無預兆下從後熊抱，由於事出突然，被告在無心理準備下作出錯誤反應。\n\n辯方律師亦指被告認罪有誠意，見到爸爸流下男兒淚亦感後悔。被告亦有光明的前途，辯方指其素描作品冊只完成一半，若法庭能判以非監禁刑罰，被告可以完成另一半。辯方呈上案例，指出即使案例中施襲者得悉對方身份是保安或小販管理隊，過往仍多判以社會服務令，所以希望法庭考慮社會服務令或緩刑。\n\n被告願意作出控方提出的港鐵清理費賠償，亦願意就警方受傷作出賠償。",
+  "tags": [
+    "刑事損壞",
+    "襲擊導致他人身體受傷",
+    "梁嘉琪",
+    "#20200417油麻地"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2021-03-09",
+  "magistrate": "梁嘉琪",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "刑事損壞\n於2020年4月17日，一名建築系畢業男生，去年4月在港鐵油麻地站外牆塗上「POPO」等字眼，港鐵清潔費則為三千元\n\n襲擊導致他人身體受傷\n2020年4月17日，控方第一證人跟隨被告行到油麻地地鐵站12號閘機，從後拉住被告，被告打第一控方證人6下。受襲警前額有瘀傷。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "200小時社會服務令",
+  "sentenceReason": "法庭考慮到有警員受傷和控罪的性質嚴重，認為建議不能接受，應考慮中到高程度的時數。法庭亦考慮到辯方呈上上訴庭的案例，被告良好的背景和求情，所以判處200小時社會服務令。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "要賠償$3000給黨鐵\n證物1油性筆充公",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

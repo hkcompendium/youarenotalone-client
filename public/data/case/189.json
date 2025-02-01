@@ -1,0 +1,70 @@
+{
+  "id": "189",
+  "caseNo": null,
+  "incident": "20200122旺角",
+  "defendants": [
+    {
+      "id": "230",
+      "name": "林",
+      "age": 19,
+      "charges": [
+        {
+          "id": "320",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-23",
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控在被指於2020年1月22日在旺角奶路臣街至洗衣街交界，陳列垃圾桶及鐵欄杆，在公眾地方造成阻礙。2021年1月21日晚上約11時，有人群於旺角一帶聚集並放置路障，包括垃圾桶及磚頭等雜物。於翌日凌晨零時左右，警員在隱藏警車內巡邏時發現戴著黑色口罩及黑色鴨舌帽的被告，與其他身分不詳人士一起，在行人路拖著垃圾桶及鐵欄等上馬路並癱瘓交通，有3輛的士及1輛私家車因而受阻，被告在警誡下承認搬雜物目的為阻礙交通。",
+  "verdict": "",
+  "verdictReason": null,
+  "sentence": "簽港幣1,000元保守行為24個月",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "保釋條件如下：\n擔保金：$2000\n宵禁：22:00-06:00\n禁足：洗衣街染布房街至上海街及登打士街一帶 乘坐交通工具經過除外\n居住在報稱地址 如搬屋需要24小時前通知\n交出所有旅遊證件\n不得離港\n每星期需要到警署報到",
+  "bailmentCondition": " 除乘坐交通工具經過外，禁足洗衣街、染布房街至上海街及登打士街一帶",
+  "remarks": "原控罪為「在公眾地方作出擾亂秩序的行為」(違反 《公安條例》(第245章) 第17B條)，指被告於2020年1月22日在旺角洗衣街62號得寶大廈外的公眾地方，作出擾亂秩序的行為，即將垃圾桶及鐵欄杆由行人路拖住行車路上，造成交通癱瘓。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "1825",
+        "content": "#西九龍裁判法院第四庭\n#劉綺雲裁判官 #20200122旺角\n\n林(19) #提堂\n控罪：在公眾地方作出擾亂秩序行為\n\n被告以原有條件擔保\n\n押後至6月23日 0930 西九龍裁判法院第一庭再訊",
+        "url": "https://t.me/youarenotalonehk_live/4285",
+        "source": "法庭文字直播台",
+        "datetime": "2020-04-21T03:57:11.000Z"
+      },
+      {
+        "id": "1452",
+        "content": "#西九龍裁判法院第一庭 #新案提堂 #20200122旺角\n#羅德泉主任裁判官\n\n林\n\n控罪：公眾地方內擾亂秩序行為 (違反公安條例 第17B條)\n\n案情：被指於2020年1月22日在旺角洗衣街以鐵欄及垃圾桶堵路\n\n控方要求押後至2月22日等待進一步調查，控方不反對保釋，但要求嚴重保釋條件。\n\n被告警誡供詞承認堵路\n\n保釋條件如下：\n擔保金：$2000\n宵禁：22:00-06:00\n禁足：洗衣街染布房街至上海街及彌敦道一帶 乘坐交通工具經過除外\n居住在報稱地址 如搬屋需要24小時前通知\n交出所有旅遊證件\n不得離港\n每星期需要到警署報到\n\n\n案件押後至2020年2月20日聆訊\n\n感謝見習直播員",
+        "url": "https://t.me/youarenotalonehk_live/3247",
+        "source": "法庭文字直播台",
+        "datetime": "2020-01-23T04:44:05.000Z"
+      }
+    ]
+  }
+}

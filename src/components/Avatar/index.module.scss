@@ -1,0 +1,40 @@
+$color: #ccc;
+.avatarRoot {
+  position: relative;
+  padding-right: 6px;
+  padding-bottom: 1px;
+}
+.icon {
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  border-radius: 100px;
+  background-color: $color;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &.small {
+    width: 26px;
+    height: 26px;
+  }
+}
+.label {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 16px;
+  height: 16px;
+  border-radius: 100px;
+  border: $color 1px solid;
+  color: #999;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  small {
+    font-size: 10px;
+  }
+}

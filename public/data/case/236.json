@@ -1,0 +1,55 @@
+{
+  "id": "236",
+  "caseNo": null,
+  "incident": "0915將軍澳",
+  "defendants": [
+    {
+      "id": "283",
+      "name": "余",
+      "age": 16,
+      "charges": [
+        {
+          "id": "399",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "無牌管有無線通訊器具，違反《電訊條例》(第106章) 第8條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-20",
+  "sentenceDate": null,
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於2019年9月15日在將軍澳港鐵站外，被指未經當局批准之下管有無線通訊器具。",
+  "verdict": null,
+  "verdictReason": "案情：2019年9月15日下午港島區有人號召一個未授權的遊行，警方早前已發出反對通知書。下午7時45分，PW1正執行巡邏時發現兩名男子跑離現場，形跡可疑因而截停搜查。於背囊內發現一對講機，亦有口罩、頭盔、護眼罩、防毒面罩、濾罐、多於一條索帶、急救用品等。警誡下被告聲稱對講機用於聯絡朋友、其餘物品用於遊行時保護自己與協助他人。對講機其後送至通訊事務管理局檢驗，發現其操作正常但未有登記。\n\nD2同意案情，裁判官正式頒令D2自簽2000元，守行為12個月，期間需奉公守法，不得干犯有關無牌管有無線電類的控罪。堂費1000元由擔保金扣除。\n\n證物處理方面，P29 (對講機)充公，P28、P30-P48 交還被告。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "被告准以 2,000 元保釋，及須每日凌晨零時至六時宵禁，期間須居於報稱地址。",
+  "bailmentCondition": null,
+  "remarks": "同案原有兩被告，余姓被告為D2。辯方指兩被告同時向律政司申請以其他方式處理，D2申請獲批，D1遭拒絕。\n\nD1案件分拆至少年法庭正式處理答辯。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

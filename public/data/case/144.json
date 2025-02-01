@@ -1,0 +1,55 @@
+{
+  "id": "144",
+  "caseNo": null,
+  "incident": "0901紅磡",
+  "defendants": [
+    {
+      "id": "168",
+      "name": "鄧",
+      "age": 30,
+      "charges": [
+        {
+          "id": "235",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有違禁武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-24",
+  "sentenceDate": "2020-06-24",
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於去年9月1日，在紅磡德民街27號G號舖外管有一根伸縮棍。案發當日警方接報有人於港鐵黃埔站作破壞，於晚上近11時派員前往現場調查，其間見到蒙面、身穿深色上衣的被告，警方上前截停被告並在其身上搜出藍口罩、黑手套、「自拍神棍」等物品，並於其車上檢獲涉案伸縮棍。\n\n",
+  "verdict": "撤回控罪",
+  "verdictReason": null,
+  "sentence": "自簽2000元、守行為18個月",
+  "sentenceReason": "被告自簽2000元、守行為18個月，其間不得干犯同類罪行。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

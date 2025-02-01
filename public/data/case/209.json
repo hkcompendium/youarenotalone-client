@@ -1,0 +1,58 @@
+{
+  "id": "209",
+  "caseNo": null,
+  "incident": "20200105上水",
+  "defendants": [
+    {
+      "id": "254",
+      "name": "聶",
+      "age": 28,
+      "charges": [
+        {
+          "id": "355",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "襲擊在正當執行職務之警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "襲警"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-12-30",
+  "sentenceDate": "2020-12-30",
+  "magistrate": "蘇文隆主任裁判官 ",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，被告於2020年1月5日，在上水中心2樓樓梯踢向高級偵緝警員49515。案發當日上水有不反對通知書的遊行活動。大約4點後，有一名20、30歲的中國男子出現，有20人圍著該名男子，有人說「打死個大陸仔」，並有人試圖用雨傘遮掩。其後，閉路電視拍攝到3個人拳打腳踢該名男子，其後便衣警員出現在二樓的樓梯中，被告用腳踢向警員，但警員沒有跌倒並回頭拘捕被告，2名街外證人目睹了案發經過。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "4個月即時監禁",
+  "sentenceReason": "裁判官表示，縱使被告出腳時不小心，警員沒有跌倒受傷，且能迅速回頭拘捕被告。但被告從後出腳，行為鬼祟，並有機會令警員跌倒。此外，根據事實證供反映當時現場混亂，一旦警員跌倒，且地下的人數眾多，其他人會蜂湧而上，混亂之間可能會對警員造成更大的傷害。因此，法庭表示以6個月的監禁作量刑起點，認罪扣減三分一，即判處4個月即時監禁。\n\n辯方即時表示會上訴刑期，申請上訴期間保釋，控方不反對，法庭批准保釋。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "襲擊在正當執行職務之警務人員，違反《侵害人身罪條例》(第212章) 第36(b)條",
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": "會上訴刑期，申請上訴期間保釋，法庭批准。",
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

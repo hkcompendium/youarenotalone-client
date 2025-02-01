@@ -1,0 +1,57 @@
+{
+  "id": "333",
+  "caseNo": null,
+  "incident": "0911天水圍",
+  "defendants": [
+    {
+      "id": "416",
+      "name": "盧",
+      "age": 21,
+      "charges": [
+        {
+          "id": "587",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "不誠實地意圖欺騙而取用電腦，違反《刑事罪行條例》(第200章) 第161條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "0911天水圍"
+  ],
+  "trialDateFrom": "2020-05-20",
+  "trialDateTo": "2020-07-08",
+  "trialLength": null,
+  "verdictDate": "2020-07-08",
+  "sentenceDate": null,
+  "magistrate": "蘇惠德",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指，被告利用被起底警員的個人資料，於網上申請一筆共 60 萬港元的貸款，財務公司隨後致電警員核實申請始揭發事件。",
+  "verdict": "批准被告自簽二千元及守行為24 個月，控方撤回控罪",
+  "verdictReason": null,
+  "sentence": "",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "保釋金$3000\n不得離港\n交出旅遊證件\n居住於報稱地址\n每星期報到1次\n不得直接或間接接觸控方證人pw2",
+  "bailmentCondition": null,
+  "remarks": "相關證物亦被沒收。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

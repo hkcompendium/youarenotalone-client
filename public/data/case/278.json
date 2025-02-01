@@ -1,0 +1,69 @@
+{
+  "id": "278",
+  "caseNo": null,
+  "incident": "1113將軍澳",
+  "defendants": [
+    {
+      "id": "336",
+      "name": "成",
+      "age": null,
+      "charges": [
+        {
+          "id": "468",
+          "verdict": null,
+          "plea": null,
+          "charge": "裁判官正式命令被告自簽2000元，守行為12個月，期間需奉公守法，不得干犯有關阻礙公眾地方的，亦需繳付堂費1000元。"
+        }
+      ]
+    }
+  ],
+  "description": "裁判官正式命令被告自簽2000元，守行為12個月，期間需奉公守法，不得干犯有關阻礙公眾地方的控罪，亦需繳付堂費1000元。",
+  "tags": [
+    "觀塘裁判法院第一庭",
+    "徐綺薇主任裁判官",
+    "傳票案件",
+    "疑似手足",
+    "1113將軍澳"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年 #1113將軍澳 PW1-4於警車上巡邏至翠嶺路及寶順路交界，發現一群示威人士使用雪糕筒及雜物阻塞道路，因而落車追截，人群四散。最後PW1截停拘捕被告，於搜身時發現背囊內有電話、帽、豬嘴、濾罐、急救用品、口罩、手套、手袖等。警誡下被告指「行動並非傷害他人，只係想政府正視問題」，其後錄影會面時被告保持緘默。",
+  "verdict": "",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "裁判官正式命令被告自簽2000元，守行為12個月，期間需奉公守法，不得干犯有關阻礙公眾地方的，亦需繳付堂費1000元。"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "3979",
+        "content": "#觀塘裁判法院第一庭\n#徐綺薇主任裁判官\n成 #傳票案件 #疑似手足 手足已FC (在公眾地方造成阻礙)\n\n1459 開庭\n\n控方同意以簽保守行為處理。\n\n案情: 於2019年 #1113將軍澳 PW1-4於警車上巡邏至翠嶺路及寶順路交界，發現一群示威人士使用雪糕筒及雜物阻塞道路，因而落車追截，人群四散。最後PW1截停拘捕被告，於搜身時發現背囊內有電話、帽、豬嘴、濾罐、急救用品、口罩、手套、手袖等。警誡下被告指「行動並非傷害他人，只係想政府正視問題」，其後錄影會面時被告保持緘默。\n\n被告同意案情及簽保守行為。\n\n裁判官正式命令被告自簽2000元，守行為12個月，期間需奉公守法，不得干犯有關阻礙公眾地方的控罪，亦需繳付堂費1000元。\n\n證物3-5歸還被告，6-13 充公。",
+        "url": "https://t.me/youarenotalonehk_live/8398",
+        "source": "法庭文字直播台",
+        "datetime": "2020-08-20T07:05:49.000Z"
+      }
+    ]
+  }
+}

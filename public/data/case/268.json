@@ -1,0 +1,55 @@
+{
+  "id": "268",
+  "caseNo": null,
+  "incident": "1001屯門",
+  "defendants": [
+    {
+      "id": "327",
+      "name": "陳",
+      "age": 22,
+      "charges": [
+        {
+          "id": "459",
+          "verdict": "不成立",
+          "plea": null,
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-01-17",
+  "trialDateTo": "2021-01-17",
+  "trialLength": 1,
+  "verdictDate": "2020-05-18",
+  "sentenceDate": null,
+  "magistrate": "葉啟亮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年10月1日，在屯門 V City 商場對開，管有一把約8厘米迷你刀，刀鋒長3厘米",
+  "verdict": "罪名不成立",
+  "verdictReason": "前題：\n1. 舉證是控方責任\n2. 由於控方證人在盤問下堅定，故法庭相信其為誠實可靠。\n\n控罪定義須符合下列原則：\n\n1. 被製造用作攻擊他人物品\n2. 被改裝用作攻擊他人物品\n3. 有意圖用作攻擊他人物品\n\n早前審訊時，控方同意迷你刀沒有改裝，故不討論原則二。\n\n爭議一：被製造用作攻擊他人物品\n\n法庭不接納辯方稱迷你刀為飾物的說法，此為不合常理，因若該物為一飾物，無須設計成有刀鋒及共有4面刀刃，亦無須開封。\n\n然而，法庭認為刀尖較鈍，同意並非臨時製作成攻擊人的武器，本質上並非符合被製造用作攻擊他人物品。\n\n爭議二：有意圖用作攻擊他人物品\n\n整體證供\n1. 物品的性質狀況：上述已提及\n\n2. 周遭環境（包括衣著，被捕時反應，在當時環境下有否正當用途）\n\n衣著\n迷彩面巾，黑色風鏡，只露出雙眼\n\n辯方指此為舞台劇人，防曬之用。然而，被告並無在法庭上經宣誓而接受盤問及回應，因此，法庭認為是故意遮掩面部，而非如辯方所說。\n\n被捕時反應\n被告主動被調查，當時附近沒有事情發生\n\n法庭認為雖然被告並無在法庭上經宣誓而接受盤問及回應，而且，當日屯門及其他地區稍後時間有示威活動發生，但是即管如此，沒有證據顯示被告將從被捕地點正前往示威方向，也沒有證據顯示其將參與違法活動。控方證人也在審訊時表明，當時在附近巡邏只是預防有人到屯門裁判法院搶國旗。\n\n在當時環境下有否正當用途\n\n辯方稱該迷你刀為「飾物」之說，早前法庭已表明不接受\n\n其他物品從被告背囊中搜到：4副護目鏡，3條面巾，對講機，鎅刀，索帶，瑜珈帶......等物。\n\n雖然也搜到筆記簿（標明道具紀錄用途），亦有參考過辯方提交的圖片顯示舞台劇相關人士，但法庭不接納其說法，因為舞台劇亦無須有4副護目鏡，3條面巾，而且，被告並無在法庭上經宣誓而接受盤問及回應，故未能釋疑。\n\n綜合所有證據及在完全接納控方證人證供下，法庭仍未能得出無可抗拒推論。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

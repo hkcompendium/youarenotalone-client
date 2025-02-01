@@ -1,0 +1,84 @@
+{
+  "id": "43",
+  "caseNo": null,
+  "incident": "1027旺角",
+  "defendants": [
+    {
+      "id": "45",
+      "name": "張 ",
+      "age": 24,
+      "charges": [
+        {
+          "id": "51",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有攻擊性武器或適合作非法用途的工具"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1027旺角",
+    "九龍城裁判法院第一庭",
+    "嚴舜儀署理主任裁判官",
+    "傳票案件",
+    "張天雁裁判官",
+    "士巴拿"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "嚴舜儀; 張天雁",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "同意的案情則指，2019年10月27日，警員接獲通知指有示威者在彌敦道非法集結及堵路。晚上近8時，警員在彌敦道交界見到被告與一班人沿彌敦道往旺角道方向逃走，警員下車追截並拘捕被告，被告當時身穿黑色風衣、背黑背包、戴著豬嘴。警員及後在其背包內搜出一柄6吋長士巴拿、一枝鹽水、一個「光復香港 時代革命」徽章等。",
+  "verdict": "撤銷控罪",
+  "verdictReason": null,
+  "sentence": "簽保守行為12個月，自簽$500，未來12個月不得犯相同類型罪行（管有非法用途或武器）\n證物1充公",
+  "sentenceReason": "控方表示同意以簽保守行為方式處理。裁判官經考慮後，准被告自簽500港元，守行為12個月，被告獲撤銷控罪。\n",
+  "bailment": "批准",
+  "bailmentRemarks": "✅保釋批准✅\n條件如下：\n擔保金$1,000\n不可離港\n每週警署報到1次",
+  "bailmentCondition": null,
+  "remarks": "被告2020年5月13日未出現，控方申請重新發出傳票，案件押後至2020年7月8日再訊",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "4559",
+        "content": "#九龍城裁判法院第一庭\n#張天雁裁判官\n#1027旺角 #提堂\n\n張（24）\n\n控罪：管有攻擊性武器或適合作非法用途的工具\n\n案情：2019年10月27日在旺角道管有1個士巴拿\n\n被告背包裏的物品：\n。6吋長士巴拿\n。1枝鹽水\n。1個徽章寫「光復香港時代革命」\n。1黑袖\n。白袖套\n。黑灰手套\n。黃綠手套\n。1黑T shirt\n。兩紅過濾罐\n。1白色口罩\n\n（其他聽唔清sorry）\n\n⭕️守行為12個月，自簽 $500，未來12個月不得犯相同類型罪行（管有非法用途或武器）\n證物1充公，2-11歸還被告\n\n（感謝臨時直播員）",
+        "url": "https://t.me/youarenotalonehk_live/9475",
+        "source": "法庭文字直播台",
+        "datetime": "2020-09-16T07:02:24.000Z"
+      },
+      {
+        "id": "3196",
+        "content": "#九龍城裁判法院第一庭\n#嚴舜儀署理主任裁判官\n#1027旺角\n#傳票案件 #新案件\n\n張 (24)\n\n控罪：\n管有攻擊性武器或適合作非法用途的工具\n\n被人告發於2019年10月27日，在旺角道及彌敦道交界，管有 一個士巴拿\n\n上堂未出現，控方申請重新發出傳票今到庭\n\n案件押後至8月19日下午1430九龍城裁判法院一庭再訊\n\n\n✅保釋批准✅\n條件如下：\n擔保金$1,000\n不可離港\n每週警署報到1次\n居住報稱地址",
+        "url": "https://t.me/youarenotalonehk_live/6765",
+        "source": "法庭文字直播台",
+        "datetime": "2020-07-08T06:52:53.000Z"
+      },
+      {
+        "id": "2226",
+        "content": "#九龍城裁判法院第一庭\n#嚴舜儀署理主任裁判官\n#新案件 #1027旺角 #傳票案件\n\n張 (24)\n未出現\n控方申請重新發出傳票\n\n案件押後至7月8日1430九龍城裁判法院再訊",
+        "url": "https://t.me/youarenotalonehk_live/5034",
+        "source": "法庭文字直播台",
+        "datetime": "2020-05-13T02:41:42.000Z"
+      }
+    ]
+  }
+}

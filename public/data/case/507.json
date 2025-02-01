@@ -1,0 +1,55 @@
+{
+  "id": "507",
+  "caseNo": null,
+  "incident": "0711長沙灣",
+  "defendants": [
+    {
+      "id": "662",
+      "name": "楊",
+      "age": 51,
+      "charges": [
+        {
+          "id": "940",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事毀壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-09",
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年7月11日在長沙灣地鐵站 C2 出口外，無合法辯解而損壞屬於岑崇尚的「小米」電話，價值 1,000 元，意圖損壞該財產，或罔顧該財產是否會被損壞。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "自簽1000元守行為2年，向事主賠償1000元",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

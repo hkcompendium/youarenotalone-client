@@ -1,0 +1,136 @@
+{
+  "id": "105",
+  "caseNo": null,
+  "incident": "1007觀塘",
+  "defendants": [
+    {
+      "id": "116",
+      "name": "*",
+      "age": 14,
+      "charges": [
+        {
+          "id": "158",
+          "verdict": null,
+          "plea": "否認控罪",
+          "charge": "非法集結"
+        },
+        {
+          "id": "159",
+          "verdict": null,
+          "plea": "否認控罪",
+          "charge": "刑事毀壞"
+        }
+      ]
+    },
+    {
+      "id": "117",
+      "name": "*",
+      "age": 15,
+      "charges": [
+        {
+          "id": "160",
+          "verdict": null,
+          "plea": "否認控罪",
+          "charge": "非法集結"
+        },
+        {
+          "id": "161",
+          "verdict": null,
+          "plea": "否認控罪",
+          "charge": "刑事毀壞"
+        },
+        {
+          "id": "162",
+          "verdict": null,
+          "plea": "否認控罪",
+          "charge": "管有攻擊性武器"
+        }
+      ]
+    },
+    {
+      "id": "118",
+      "name": "高",
+      "age": 18,
+      "charges": [
+        {
+          "id": "163",
+          "verdict": null,
+          "plea": "否認控罪",
+          "charge": "非法集結"
+        },
+        {
+          "id": "164",
+          "verdict": null,
+          "plea": "否認控罪",
+          "charge": "管有攻擊性武器"
+        },
+        {
+          "id": "165",
+          "verdict": null,
+          "plea": "否認控罪",
+          "charge": "管有物品意圖損壞財產"
+        },
+        {
+          "id": "166",
+          "verdict": null,
+          "plea": "否認控罪",
+          "charge": "抗拒警務人員"
+        }
+      ]
+    },
+    {
+      "id": "119",
+      "name": "張",
+      "age": 19,
+      "charges": [
+        {
+          "id": "167",
+          "verdict": "撤銷控罪",
+          "plea": "否認控罪",
+          "charge": "非法集結"
+        },
+        {
+          "id": "168",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有物品意圖摧毀財產"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2021-01-18",
+  "trialDateTo": "2021-01-25",
+  "trialLength": 6,
+  "verdictDate": null,
+  "sentenceDate": "2020-09-08",
+  "magistrate": "屈麗雯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年10月5日政府強行立「禁蒙面法」，全港各區大批市民上街反抗。D1-D4被控於2019年10月7日在觀塘站A1出口2號升降機外參與非法集結;D1,D2被控於同日刑事損壞觀塘站A1出口2號升降機。(非法集結及刑事毀壞)\nD2被控於同日在瑞和街及瑞寧街交界管有1支3B級雷射筆。(管有攻擊性武器)\nD3被控於同日在瑞寧街12號外管有丫叉及鋼珠；另被控於同日同地管有錘子、斧頭、打火機、噴漆等及於同日同地抗拒警員X。(管有攻擊性武器、管有物品意圖損壞財產及抗拒警務人員)\nD4被控於同日在瑞和街63號外管有一支噴漆。(管有物品意圖摧毀財產)",
+  "verdict": null,
+  "verdictReason": "D2 就非法集結、 管有攻擊性武器 控罪,表面證供成立。\nD3 非法集結、 管有攻擊性武器、管有任何物品意圖摧毀或損壞財產及抗拒警務人員控罪，表面證供成立。\n由於剔除證供，控方再無陳詞，就刑事損壞控罪 D2 表面證供不成立\n\n由於D4承認管有物品意圖摧毀財產控罪，控方同意撤銷第一項控罪（非法集結）。",
+  "sentence": "判12個月感化,需遵從感化官指示： 。哪裏學習、工作 。參與訓練、課程、講座 。交友方面要聽從感化官指示",
+  "sentenceReason": "上次已索取社會服務令及感化官報告，報告內容正面。\n\n感化官報告建議以感化形式處理，感化報告指被告深感後悔，怕會影響學業，認為自己一時衝動沒有考慮後果。\n控方上次呈上照片，沒證據證明被告有參與非法行為，亦沒證據證明被告有使用噴漆，在被告身上除了搜到噴漆，沒搜到其他可疑物品。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "270",
+  "caseNo": null,
+  "incident": "1111青衣",
+  "defendants": [
+    {
+      "id": "329",
+      "name": "蔡",
+      "age": 29,
+      "charges": [
+        {
+          "id": "461",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-15",
+  "sentenceDate": "2020-05-15",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "11月11日於青衣貨櫃碼頭路管有開山刀連套、摺刀及伸縮金屬棍連套。另指管有鐳射筆",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "監禁8個月",
+  "sentenceReason": "量刑起點為12個月，認罪扣減1/3，之外沒有任何扣減原因。",
+  "bailment": "不獲批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

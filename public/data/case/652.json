@@ -1,0 +1,69 @@
+{
+  "id": "652",
+  "caseNo": null,
+  "incident": "0220西灣河",
+  "defendants": [
+    {
+      "id": "915",
+      "name": "冼",
+      "age": 16,
+      "charges": [
+        {
+          "id": "1352",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "無牌管有槍械"
+        },
+        {
+          "id": "1353",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有爆炸品"
+        },
+        {
+          "id": "1354",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有違禁武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2019-08-07",
+  "trialDateTo": "2019-08-07",
+  "trialLength": 1,
+  "verdictDate": "2019-08-27",
+  "sentenceDate": "2019-08-27",
+  "magistrate": "Unknown ",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "十六歲冼姓的被告，被控於2019年2月20日在其西灣河太安樓住所內，違法管有兩支電槍、一支胡椒噴劑、一支長槍型氣槍連六個彈匣、八十五克爆炸品粉末內含硝化纖維素、一百零一支電火柴、三把彈簧刀及一把重力刀等違禁品。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "十二個月感化令",
+  "sentenceReason": "",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "直播台未有此案資料",
+  "internalRemarks": null,
+  "charges": [
+    "(1)無牌管有槍械",
+    "(2)管有爆炸品",
+    "(3)管有違禁武器"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

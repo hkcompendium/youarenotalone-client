@@ -1,0 +1,59 @@
+{
+  "id": "562",
+  "caseNo": null,
+  "incident": "1120灣仔",
+  "defendants": [
+    {
+      "id": "732",
+      "name": "麥",
+      "age": 18,
+      "charges": [
+        {
+          "id": "1036",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": "",
+  "tags": [
+    "和你塞",
+    "林希維",
+    "1120灣仔"
+  ],
+  "trialDateFrom": "2020-06-02",
+  "trialDateTo": "2020-06-02",
+  "trialLength": 1,
+  "verdictDate": "2020-06-02",
+  "sentenceDate": null,
+  "magistrate": "林希維",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "網民發起「和你塞」行動，有人於港鐵灣仔站阻礙列車開出，與在場休班警長爭執。被告當時與警長口角，及後警方到場並在男生背包搜出一把刀。",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官在裁決時指出，刀本質上不是攻擊性武器，本案的爭議在於被告管有刀是否用作傷人。被告承認當日參與不合作運動，案發時正值上班時間，案發地點在港鐵月台，難以想像刀在該場境有正當合理用途。但被告是一個刀具愛好收藏者，經常帶刀出街，而涉案的刀在案發時刀鋒被收起，放在密實袋內再放在背包，被告從未出示過刀。而且呈堂片段可見，被告即使情緒高漲，但仍沒有用刀，因此法庭不能在毫無合理疑點下裁定被告管有刀是意圖傷人，故裁定罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "被告准以2,000元保釋，期間每晚11時至早上6時須守宵禁令。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

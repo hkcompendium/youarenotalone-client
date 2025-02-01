@@ -1,0 +1,57 @@
+{
+  "id": "549",
+  "caseNo": null,
+  "incident": "20200114深水埗 ",
+  "defendants": [
+    {
+      "id": "715",
+      "name": "何",
+      "age": 24,
+      "charges": [
+        {
+          "id": "1018",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "普通襲擊"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "普通襲擊"
+  ],
+  "trialDateFrom": "2021-02-16",
+  "trialDateTo": "2021-02-17",
+  "trialLength": 2,
+  "verdictDate": "2021-03-12",
+  "sentenceDate": "2021-03-30",
+  "magistrate": "黃士翔",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2020年1月14日，在深水埗欽州街西九龍中心8樓美食廣場內涉拍攝藍店「空姐牛肉飯」時，以閃燈照射警長3712李智健。",
+  "verdict": "罪名成立",
+  "verdictReason": "從錄影片段可見，被告用電筒照射時光束明顯在事主身上停留了一刻，並非如辯方所講「可能不小心地掃到」。而且被告在照射前多次到事主身邊走過、拍照。不管被告是否知悉事主是警員，有關行為也明顯是針對事主。\n",
+  "sentence": "240小時社會服務令",
+  "sentenceReason": "辯方今日進一步求情指，感化及社會服務令報告顯示被告有悔意，而感化令不適合被告，因被告已有深切反省，並且知道奉公守法的重要性。報告建議被告接受中等長度的社會服務令，被告亦願意接受。\n\n而本案被告並不是阻止警員執行職務，亦不是在示威場所附近犯案，不會輕易鼓動其他人針對警員，認為本案與襲警案有不同之處，而且控方亦是以「普通襲擊」罪名檢控。\n\n裁判官又指，雖然針對警員是案件嚴重之處，但不認為單單因為事主是警員就必定要判囚。案中被告用電筒照射事主時間不長，事主亦無永久損傷，認為並非同類案件中最嚴重的類別。被告過往並無案底，法庭接受這次屬單一事件，不認為判囚是唯一選擇。報告稱被告有悔意，社會服務令亦非輕微的懲罰，而是某程度失去自由的判刑。惟裁判官認為感化官建議的中等長度服務時數並不足夠，判被告接受最長的240小時社會服務令。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

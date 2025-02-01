@@ -1,0 +1,82 @@
+{
+  "id": "616",
+  "caseNo": null,
+  "incident": "20200406炮台山 ",
+  "defendants": [
+    {
+      "id": "853",
+      "name": "林",
+      "age": 24,
+      "charges": [
+        {
+          "id": "1253",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "刑事損壞"
+        }
+      ]
+    },
+    {
+      "id": "854",
+      "name": "林",
+      "age": 29,
+      "charges": [
+        {
+          "id": "1254",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "刑事損壞"
+        }
+      ]
+    },
+    {
+      "id": "855",
+      "name": "滕",
+      "age": 26,
+      "charges": [
+        {
+          "id": "1255",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖損壞財產"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2021-05-25",
+  "trialDateTo": "2021-08-09",
+  "trialLength": 4,
+  "verdictDate": "2021-08-20",
+  "sentenceDate": "2021-10-15",
+  "magistrate": "王證瑜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "刑事損壞（D1, D2）\n被控於2020年4月6日，在炮台山港鐵站B出口連接福元街之行人天橋上無合法辯解而損壞屬於香港鐵路有限公司的上述行人天橋，意圖損壞該財產或罔顧該財產是否會被損壞。 \n\n管有物品意圖損壞財產（D3）\n被控於同日同地在無合法辯解的情況下管有1支噴漆，意圖使用該物品以損壞屬於香港鐵路有限公司的上述行人天橋。 \n",
+  "verdict": "罪名成立",
+  "verdictReason": "裁判官裁決時指，接納控方證人誠實可靠，並多番強調及特別點名代表兩姊妹的大律師結案陳詞沒恰當引述證據，例如警方證人說「沒留意第一被告（妹妹）右手有否戴手套」，辯方卻說成證人「沒看見」等，要求辯方日後改善。\n\n至於辯方質疑檢取背囊警員沒即時核對物品，便將背囊帶去橋的另一面，其後才與被告確認物品，期間或將不屬被告物品塞進背囊內，裁判官表示不同意，指「根本無明文規定要喺疑犯視線範圍內確認物品先」，斥辯方純屬揣測。\n\n裁判官續指，警方證人將案發地點由電器道錯記成渣華道，並不影響事件可信性或可靠性，因為雙方對案發地點並無爭議，有關錯誤並非關鍵。\n\n裁判官最後指，兩姊妹當日戴手套，背囊內有噴漆，必然屬有意圖；「神科」女子當日身處天橋，當時天橋被噴字，她的袋內有涉案噴漆，唯一合理推論是有意圖使用，裁定三人全部罪成。",
+  "sentence": "160 小時社會服務令",
+  "sentenceReason": "本案性質嚴重，事發時很多社運事件發生，破壞公物情況猖獗，原本打算判處不少於兩周監禁，但背景及社會服務令報告顯示各人有悔意，內容正面並適合判處社會服務令，加上案情上破壞程度不高，涉案物品雖是公物，但非位於政府合署等重要地方，故決定給予一次機會。\n\n",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "刑事損壞（D1, D2）",
+    "管有物品意圖損壞財產（D3）"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

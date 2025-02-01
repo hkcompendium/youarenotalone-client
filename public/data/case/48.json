@@ -1,0 +1,92 @@
+{
+  "id": "48",
+  "caseNo": null,
+  "incident": "1113青衣",
+  "defendants": [
+    {
+      "id": "53",
+      "name": "李",
+      "age": 25,
+      "charges": [
+        {
+          "id": "65",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "name": "陳",
+      "age": 18,
+      "charges": [
+        {
+          "id": "66",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+        },
+        {
+          "id": "68",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器或適合作非法用途的工具意圖作非法用途，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1113青衣",
+    "六角匙"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "根據同意案情，2019年 11 月 13 日晚上 9 時許，警方在青衣長安邨巴士站對出，發現有十名穿黑衣的示威者，以磚等雜物堵路，阻礙青衣担杆山交匯處。示威者見到警員後隨即四散，警員遂上警車追截。其中一名警員見到D1及另一名男子跑入長安邨巴士總站，及後兩人在長安邨安清樓被拘捕。D1當時身穿深色上衣、黑色褲、戴著黑色帽、面罩，警方在其背包內搜獲生理鹽水、手套等。",
+  "verdict": "D1撤銷控罪；D2两罪罪名成立",
+  "verdictReason": "",
+  "sentence": "D1自簽$1,000守行為2年，期間不與得干犯與暴力或刑事損壞有關罪行。D2被判更生中心",
+  "sentenceReason": "裁判官判刑時指，明白本案對D2及其家人所帶來的精神、金錢等壓力，但D2管有六角匙罪行嚴重，拘禁式刑罰是唯一合適的刑罰。裁判官強調，維持公眾安全、社會安寧及收阻嚇作用較被告的更生需要更為重要，而阻嚇不單針對D2，更包括模仿被告的人士；因此就兩罪判入更生中心，同期執行。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "4266",
+        "content": "#西九龍裁判法院第十九庭\n#彭亮廷裁判官\n09:30\n陳(18) #審訊 (#1113青衣 管有適合作非法用途的工具 在公眾地方造成阻礙\n\n開庭\n傳召一名警員作證",
+        "url": "https://t.me/youarenotalonehk_live/8957",
+        "source": "法庭文字直播台",
+        "datetime": "2020-09-02T01:51:33.000Z"
+      },
+      {
+        "id": "3143",
+        "content": "#西九龍裁判法院第一庭\n#羅德泉主任裁判官\n#1113青衣 #答辯\n\n陳、李(18-25) (管有適合作非法用途的工具 2項公眾地方造成阻礙)\n\n控罪：\n(1)管有工具可作非法用途\nD1陳被控於2019年11月13日，在青衣担杆山交匯處管有6條六角匙\n(2)、(3)在公眾地方造成阻礙\n各被控於同日同地，與10名身穿黑色衣服的抗議者以雪糕筒、磚頭、竹枝及其他物品堵塞担杆山路，對該處車輛造成阻礙\n\n背景：\n11月13日有人發起晨曦行動繼續「三罷」，二人在半年後5月12日首次提堂，獲准以現金 1000 元及 500 元保釋，期間不得離港及須每週報到1次\n——————\nD1 陳 答辯：\n控罪 (1) ❌不認罪❌\n控罪 (2) ❌不認罪❌\n\n控方將傳召兩名證人。除被告本人外，辯方沒有其他辯方證人。安排一天中文審訊。\n\n被告以原有條件擔保，案件押後至 9月2日 9:30am 於西九龍裁判法院第八庭進行審訊。\n——————\nD2 李\n獲批自簽$1,000守行為二年方式撤控，期間不與得干犯與暴力或刑事損壞有關罪行。\nD2撤回控罪",
+        "url": "https://t.me/youarenotalonehk_live/6685",
+        "source": "法庭文字直播台",
+        "datetime": "2020-07-07T03:11:15.000Z"
+      }
+    ]
+  }
+}

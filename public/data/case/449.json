@@ -1,0 +1,59 @@
+{
+  "id": "449",
+  "caseNo": null,
+  "incident": "0316立法會",
+  "defendants": [
+    {
+      "id": "569",
+      "name": "何",
+      "age": 21,
+      "charges": [
+        {
+          "id": "823",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "普通襲擊，違反《侵害人身罪條例》(第212章) 第40條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "香港眾志",
+    "0316立法會",
+    "ESCC33914/2019"
+  ],
+  "trialDateFrom": "2020-06-01",
+  "trialDateTo": "2020-06-02",
+  "trialLength": 2,
+  "verdictDate": "2020-06-12",
+  "sentenceDate": null,
+  "magistrate": "何俊堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於同日在立法會綜合大樓2樓1號會議室襲擊立法會保安人員。",
+  "verdict": "罪名不成立",
+  "verdictReason": "東區裁判法院裁判官何俊堯在庭上表示，控方三名證人，即公聽會當日負責攔截三名被告的立法會保安員，作供時提到「不記得」、「不肯定」、「可能掉轉了（幾位被告）」等用字，又在盤問下曾修正字眼，甚至有矛盾之處。故此認為三人證供都不可靠，決定不全盤接納。\n\n其中有關被告普通襲擊的控罪，一名聲稱被襲擊的立法會保安助理許姓保安員作供時提到，被告當日衝向主席台時，曾和他「左膊撞左膊」，令他失平衡倒地數分鐘，左手疼痛完全無法活動。然而，閉路電視片段卻沒有拍到二人肩膊曾經碰撞，亦顯示被告當時和該保安員相距甚遠。至於該保安員的傷勢，他在辯方盤問下，承認踏出會議廳不久，左手已能前後搖擺活動。\n\n裁判官因此認為，許姓保安員的證供「誇大失實」，不可信亦不可靠，拒絕接納。他又表示，在觀看閉路電視片段後，認為被告衝向主席台被阻時，似乎曾嘗試躲避，但該保安員就繼續主動衝前，之後或因轉換方向攔截其他被告而失平衡跌倒。因證據未能顯示被告和該保安員有明顯身體接觸，疑點利益歸於被告，裁定被告普通襲擊罪罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "本案與ESS33914-33916/2020 一同審訊。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": "環球網以「荒唐！“港独”组织3成员扰乱立法会会议被罚1000港元，法官还赞3人为“社会栋梁” 」為標題報導本案https://china.huanqiu.com/article/3ydFBtIeBYF",
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

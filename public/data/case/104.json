@@ -1,0 +1,61 @@
+{
+  "id": "104",
+  "caseNo": null,
+  "incident": "1020大埔",
+  "defendants": [
+    {
+      "id": "115",
+      "name": "張",
+      "age": 34,
+      "charges": [
+        {
+          "id": "156",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有任何物品意圖摧毀或損壞財產"
+        },
+        {
+          "id": "157",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "無牌管有無線電通訊器具"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-07-08",
+  "trialDateTo": "2020-09-03",
+  "trialLength": 2,
+  "verdictDate": "2020-09-03",
+  "sentenceDate": "2020-09-03",
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "關於控罪一(管有任何物品意圖摧毀或損壞財產)，被告被控於2019年10月20日在在大埔露輝路與汀角路交界交界，知情保管38粒金屬刺釘，意圖使用或導致他人使用以摧毀他人財產。關於控罪二(無牌管有無線電通訊器具)，被告被控於2019年10月20日未有相關牌照而攜有3部無線電收發器，被告認罪。",
+  "verdict": "控罪一罪名不成立，控罪二罪名成立。",
+  "verdictReason": "關於控罪一，因為38顆尖狀物體並非在被告的背包發現，而是在被告的車尾位置紙皮箱內發現，被告並非車主。當時還發現其他物品，如液體等。此外，沒有證據證明這些物品是由被告搬運上車。完全沒有直接證據、環境證據證明被告可指出物品種類、性質和數量，即是他有機會不知道物件存在於車上，縱使環境可疑。\n控罪的定義十分狹窄—物品只用來破壞他人財產。就算被告知道這些物品存在，可能是受別人所託，並不知道物件的數量。基於沒有直接證據和環境證據，裁判官只能依賴法庭上的審訊和證物。所以，罪名不成立。\n\n關於控罪二，被告認罪。",
+  "sentence": "罰款$10000，從保釋金中扣除。",
+  "sentenceReason": "被告是一名電子工程師，幫助別人安裝cctv和保安系統，所以對講機的作用是和其他工友聯絡。因為不懂法律，不清楚對講機需要牌照，所以第一時間已承認控罪，也十分後悔。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "196",
+  "caseNo": null,
+  "incident": "1109黃大仙",
+  "defendants": [
+    {
+      "id": "239",
+      "name": "尹",
+      "age": 26,
+      "charges": [
+        {
+          "id": "331",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2020-09-02",
+  "sentenceDate": null,
+  "magistrate": "張天雁",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "科大生周梓樂從尚德停車場高處墮下，2019年11月8日不治，網民當晚發起多區悼念活動，及後演變成警民衝突。事隔近半年，一名女眾籌助理被指當晚在黃大仙廟附近，管有激光筆及扳手，被控一項管有攻擊性武器。",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官張天雁表示，兩名警員處理證物的手法粗疏，態度有違專業，法庭未能排除有關證物有否遭不當干擾，亦不能肯定是否屬被告身上搜得的物品，裁定被告罪名不成立。裁判官續指，證物處理屬刑事審訊中非常重要的一環，惟兩名警員處理證物的手法有多處錯漏，包括將證物置於儲物櫃，而非按一貫程序存放在防干擾證物袋和證物房內；口供紙內容錯漏百出，但事後沒再解釋；沒即時在警員記事冊記錄證物存放的情況，事後在控方不知情下，供稱曾以私人記事本作紀錄等，批評有關說法有違常理、不盡不實。裁判官又稱，兩名警員的行為有違《警察通例》第30和53條，批評他們的做法粗疏，態度有違專業。由於法庭未能排除有關證物有否受不當干擾，甚至不肯定是否屬被告當時身上搜得的物品，終裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

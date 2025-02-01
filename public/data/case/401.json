@@ -1,0 +1,77 @@
+{
+  "id": "401",
+  "caseNo": null,
+  "incident": "0908中環",
+  "defendants": [
+    {
+      "id": "489",
+      "name": "杜",
+      "age": 52,
+      "charges": [
+        {
+          "id": "694",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "襲擊警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-05-20",
+  "trialDateTo": "2020-05-20",
+  "trialLength": 1,
+  "verdictDate": "2020-05-20",
+  "sentenceDate": null,
+  "magistrate": "何俊堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年9月8日在中環纜車里和花園道交界推跌警員X。",
+  "verdict": "撤銷控罪，自簽港幣2,000元守行為18個月。",
+  "verdictReason": "",
+  "sentence": "",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "2339",
+        "content": "#東區裁判法院第七庭\n#何俊堯裁判官\n#提堂 #0908中環\n\n杜 (52)\n\n控罪：襲警\n\n案情：被指於9月8日在中環纜車里和花園道交界推跌警員X\n\n裁判官判詞：\n指被告為聽力障礙人士，是特殊情況。控方證人1(警員) 只用言語來勸阻被告，但被告聽不到。而被告只是作出一下的碰撞，是否值得要檢控？\n\n控方接受辯方的抗辯，不再作檢控\n要求1：\n曾有暴力記錄，因此要求較長的簽保守行為，即多過12個月。\n\n被告明白並同意案情，願意接受簽保守行為命令。\n\n撤回控訴\n- 自簽 $2000\n- 守行為 18個月",
+        "url": "https://t.me/youarenotalonehk_live/5247",
+        "source": "法庭文字直播台",
+        "datetime": "2020-05-20T04:04:54.000Z"
+      },
+      {
+        "id": "2335",
+        "content": "#東區裁判法院第七庭\n#何俊堯裁判官\n#提堂 #0908中環\n\n杜 (52)\n\n控罪：襲警\n\n案情：被指於9月8日在中環纜車里和花園道交界推跌警員X\n\n控方要求30-45分鐘去討論是否繼續檢控。\n\n1014 休庭\n1106 控方指1145再訊\n(直播員按: 一拖再拖～～)",
+        "url": "https://t.me/youarenotalonehk_live/5241",
+        "source": "法庭文字直播台",
+        "datetime": "2020-05-20T03:11:13.000Z"
+      },
+      {
+        "id": "1613",
+        "content": "#屯門裁判法院第一庭\n#張潔宜署理主任裁判官\n#0908中環\n杜\n控罪：襲警\n\n案情：被指於9月8日在中環纜車里和花園道交界推跌警員X\n\n擔保金2000\n每星期一次報到\n不准離港\n宵禁00至06\n\n控辯雙方須就匿名令作書面陳詞\n\n押後至4月27日早上9點半東區裁判法院一庭",
+        "url": "https://t.me/youarenotalonehk_live/3756",
+        "source": "法庭文字直播台",
+        "datetime": "2020-03-09T02:13:56.000Z"
+      }
+    ]
+  }
+}

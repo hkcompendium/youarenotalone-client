@@ -1,0 +1,59 @@
+{
+  "id": "359",
+  "caseNo": null,
+  "incident": "0921機場",
+  "defendants": [
+    {
+      "id": "444",
+      "name": "王",
+      "age": 20,
+      "charges": [
+        {
+          "id": "628",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "0921機場",
+    "伸縮棍",
+    "登山杖"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-02-07",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指，案發時被告為機艙清潔員，原打算下班後參與在屯門舉行的「光復屯門公園」遊行，惟在過安檢時，被搜出攜有防毒面罩、頭盔等抗爭物品，以及一枝伸縮棍和登山杖，保安人員報警，警員到場拘捕被告。被告警誡下保持緘默，錄影會面時則承認他打算下班後參與遊行，因為怕在遊行中被黑社會襲擊，故攜帶涉案物品自衛。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "18個月感化令",
+  "sentenceReason": "署理主任裁判官張潔宜判刑時指，報告顯示被告「守法意識薄弱」，考慮被告未有使用涉案武器，有深切反省，無案底，「畀你一個最後機會，畀你好好改過」，「希望你好好珍惜今次機會」，接納青少年罪犯委員會評核報告建議，判被告 18 個月感化令。\n\n張官判被告於感化期間須遵守 4 個條件，包括按感化官指示居住、參與社會活動、接受心理及精神治療，以及宵禁。\n\n辯方求情指，被告守法意識薄弱，但感化官及社會服務令報告顯示，被告有悔意，已受到深切教訓。辯方透露，勞教中心、更生中心等報告則建議判處被告入勞教中心，但建議不獲張官接納。",
+  "bailment": "不獲批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 24,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

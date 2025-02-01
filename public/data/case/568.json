@@ -1,0 +1,61 @@
+{
+  "id": "568",
+  "caseNo": null,
+  "incident": "0922屯門",
+  "defendants": [
+    {
+      "id": "739",
+      "name": "莊",
+      "age": 64,
+      "charges": [
+        {
+          "id": "1044",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "襲擊警務人員"
+        },
+        {
+          "id": "1045",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "襲擊警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-01-22",
+  "trialDateTo": "2020-01-23",
+  "trialLength": 2,
+  "verdictDate": "2020-04-17",
+  "sentenceDate": "2020-04-17",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指，被告被控於2019年9月22日，在V City外馬路襲擊警署警長嚴潔賢(推開他)及警員戚健暉(用腳踢他的面)。",
+  "verdict": "兩項控罪罪名成立",
+  "verdictReason": "裁判官接納三位警員證人的供詞，認為供詞在盤問下沒有動搖，內容大致吻合。而辯方對證人供詞質疑部份不影響整體案情或可信性，雖然PW3警員做法不恰當，但理解其行為確保審訊流暢，接納PW3聲稱作為旁觀者，專注度不及案中受襲警員，以致口供有出入的解釋。\n\n案發時有Now電視拍攝到過程，根據片段顯示及警員的證供，裁定被告是故意踏前，推撞警署警長嚴潔賢，因此被告第一項襲警罪成；另外，裁判官裁定警員戚健暉當時正在正當執行職務，而被告用腳踢戚面部，構成襲警，因此第二項控罪亦罪成。",
+  "sentence": "控罪(1)判刑1星期 ，控罪(2)判刑5星期，同期執行",
+  "sentenceReason": "裁判官指，正當執行職務的警員應受保護，警員若無頭盔，被告的行為會對他造成更嚴重傷害。被告否認控罪，且案情嚴重，故不認為適合判處緩刑。考慮到被告現年 64 歲，沒有刑事定罪記錄，因此每項控罪獲減刑一星期，但強調年紀大、無刑事案底並非隨意犯案理由。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "被告就裁決及判刑提出上訴。於2020年11月2日，高等法院潘敏琦法官駁回被告就定罪及刑期上訴的申請，即時收監。",
+  "appealJudgementUrl": "https://www.hklii.org/cgi-bin/sinodisp/chi/hk/cases/hkcfi/2020/2916.html?stem=&synonyms=&query=(%E8%8E%8A%E5%AD%90%E6%9D%B1%20)%20OR%20ncotherjcitationtitles(%E8%8E%8A%E5%AD%90%E6%9D%B1%20)",
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

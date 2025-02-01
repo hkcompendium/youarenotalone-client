@@ -1,0 +1,55 @@
+{
+  "id": "234",
+  "caseNo": null,
+  "incident": "1209馬鞍山",
+  "defendants": [
+    {
+      "id": "281",
+      "name": "尹",
+      "age": 20,
+      "charges": [
+        {
+          "id": "397",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞，違反《刑事罪行條例》(第200章) 第60條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-05",
+  "sentenceDate": "2020-05-26",
+  "magistrate": "鄧少雄",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，被告在2019年12月9日上午，沙田馬鞍山恆順街及恆德街交界，以日式木劍擊打警車右前側鏡及右側門。車上3名警員隨即追截被告，並於案發地點約200米外恆德街截停被告。被告於警誡下保持緘默。及後，被告承認其於2019年11月到日本旅行，及購買日式木劍，以供日後遊行時，防身之用，並自稱本身乘搭43x巴士至上述地方時，因看見警車AM6182而感到憤怒，從而擊打警車。",
+  "verdict": "罪名成立",
+  "verdictReason": "被告同意案情並認罪，裁判官裁定罪名成立。",
+  "sentence": "判處一年感化令，期間須依指示參與復康治療 ",
+  "sentenceReason": "辯方求情指被告報告正面，被告明白不應以暴力發洩不滿，願意承擔刑責及賠償，亦會就情緒狀況繼續求診。署理主任裁判官鄧少雄採納報告建議，判處一年感化令，期間須依指示參與復康治療。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

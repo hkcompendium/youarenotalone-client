@@ -1,0 +1,99 @@
+{
+  "id": "437",
+  "caseNo": null,
+  "incident": "1027九龍城",
+  "defendants": [
+    {
+      "id": "555",
+      "name": "陳",
+      "age": 21,
+      "charges": [
+        {
+          "id": "793",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        },
+        {
+          "id": "794",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有任何物品意圖摧毀或損壞財產"
+        }
+      ]
+    },
+    {
+      "id": "556",
+      "name": "梁",
+      "age": 17,
+      "charges": [
+        {
+          "id": "795",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        },
+        {
+          "id": "796",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有任何物品意圖摧毀或損壞財產"
+        }
+      ]
+    },
+    {
+      "id": "557",
+      "name": "潘",
+      "age": 17,
+      "charges": [
+        {
+          "id": "797",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        },
+        {
+          "id": "798",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有任何物品意圖摧毀或損壞財產"
+        }
+      ]
+    }
+  ],
+  "description": "2020年6月22日，法庭批准撤回控罪，各被告准以自簽2,000元、守行為兩年。",
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被指於2019年10月27日在九龍城馬頭涌道近富寧街交界犯案。陳、潘分別管有一支棘輪士巴拿及兩條六角匙，遭控以管有非法用途工具罪；梁則管有一罐噴漆，遭控以管有物品意圖摧毁或損壞財產罪。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "",
+  "bailmentCondition": "守宵禁令及禁足案發一帶。",
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

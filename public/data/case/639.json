@@ -1,0 +1,71 @@
+{
+  "id": "639",
+  "caseNo": null,
+  "incident": "1027旺角",
+  "defendants": [
+    {
+      "id": "895",
+      "name": "關",
+      "age": 19,
+      "charges": [
+        {
+          "id": "1316",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        }
+      ]
+    },
+    {
+      "id": "896",
+      "name": "鄭",
+      "age": 26,
+      "charges": [
+        {
+          "id": "1317",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1027旺角",
+    "管有工具作非法用途"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-12",
+  "sentenceDate": null,
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "兩名被告被指在2019年10月27日晚上，於旺角彌敦道管有適合作非法用途的工具並意圖作非法用途使用，即分別管有兩包索帶及三包索帶。\n\nD1的案情指，當晚7時49分，大批示威者聚集在旺角彌敦道並設有路障，包括水馬及磚頭。警員到場驅散，示威者四處逃走，D1被警員制服，從他身上搜出索帶、口罩及防毒面罩等物品。\n\nD2的案情指，當晚7時38分，約有一百人在旺角聚集，警員看到被告手持磚頭，後來又放下，遂上前截停他，並將他帶到警車搜查。D2被搜出口罩、索帶、護目鏡等物品。",
+  "verdict": "控方撤控，被告簽守行為",
+  "verdictReason": "兩名被告獲撤銷控罪，准以 2,000 元簽保、守行為 24 個月，支付300元堂費。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

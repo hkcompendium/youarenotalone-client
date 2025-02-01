@@ -1,0 +1,11 @@
+@import "../../styles/mixin.scss";
+.searchForm {
+  width: 100%;
+  padding: 24px 40px 8px;
+  >div {
+    padding: 4px 0;
+  }
+  @include mobile {
+    padding: 24px 12px 8px;
+  }
+}

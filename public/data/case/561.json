@@ -1,0 +1,61 @@
+{
+  "id": "561",
+  "caseNo": null,
+  "incident": "1013黃大仙",
+  "defendants": [
+    {
+      "id": "731",
+      "name": "鄺",
+      "age": 33,
+      "charges": [
+        {
+          "id": "1035",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": "控方指證據不足，決定撤控",
+  "tags": [
+    "",
+    "1013黃大仙",
+    "神獸罷就",
+    "嚴舜儀",
+    "堵路"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於 2019 年 10 月 13 日，在九龍黃大仙太子道東近彩頤花園，無合法權限或解釋，而留下不同雜物，所佔範圍約 5 平方米，可能對在上述公眾地方的車輛造成危害。",
+  "verdict": "",
+  "verdictReason": "",
+  "sentence": "",
+  "sentenceReason": "",
+  "bailment": "批准",
+  "bailmentRemarks": "獲准以現金200元擔保外出",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

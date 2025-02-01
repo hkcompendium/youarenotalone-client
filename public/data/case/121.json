@@ -1,0 +1,71 @@
+{
+  "id": "121",
+  "caseNo": null,
+  "incident": "1224尖沙咀",
+  "defendants": [
+    {
+      "id": "135",
+      "name": "李",
+      "age": 23,
+      "charges": [
+        {
+          "id": "191",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有工具作非法用途，違反《簡易程序治罪條例》(第228 章) 第17 條"
+        },
+        {
+          "id": "192",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖損壞財產，違反 《刑事罪行條例》(第200章) 第62 (a) 條 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1224尖沙咀",
+    "張天雁",
+    "九龍城裁判法院第七庭",
+    "管有工具作非法用途",
+    "管有物品意圖損壞財產"
+  ],
+  "trialDateFrom": "2020-12-14",
+  "trialDateTo": "2020-12-15",
+  "trialLength": 2,
+  "verdictDate": "2020-12-15",
+  "sentenceDate": null,
+  "magistrate": "張天雁",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "修訂案情：\n於2019年12月24日在尖沙嘴彌敦道近中間道管有七條膠索帶；於同日同地保管或管有一支噴漆和三個打火機。",
+  "verdict": "兩項罪名不成立",
+  "verdictReason": "法庭要肯定被告有意圖損壞，主要係靠PW1, P22 & P21, 但PW1嘅證供和P21有不乎地方，PW1 形容被告被截停時嘅舉止，睇片段睇唔到，被告正常步速，PW1冇搭膊頭，只係見到從後向前衝，PW1話影唔到唔想表冇發生，覆問就改口，法庭唔能夠安心信纳。\n\n索帶、噴漆係合法嘅工具，控罪係要靠環境證供，例如：時間、地點、在身上邊度搜到。\n\n被告係穿黑衫黑褲，手帶3M手套，仲有其他物品，但事發是在平安夜，四處有人群，有男友女，有不同顏色衣服嘅人，海港城嘅片段和被告被截停時嘅片段時間不同。\n\n被告在庭上作供，清晰合理，有證人支持，物品有不同解釋，索帶係音響用，噴漆喺實驗室用，火機係當天買，這不受爭議，法庭亦未能辯駁，就未作出控告嘅物品，被告都有得解釋，法庭亦都係冇得辯駁，鉸剪口罩呢啲都唔係咩奇怪嘅證據，被告嘅物品、文件冇內在不可能性，法庭判與兩項控罪不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "(1)管有適合作非法用途的工具",
+    "於2019年12月24日在尖沙嘴彌敦道近中間道管有適合作非法用途的工具、即三把剪片及七條膠索帶，意圖將其作任何非法用途使用。",
+    "",
+    "(2)管有物品意圖摧毀或損壞財產",
+    "於同日同地保管或控制一支噴漆和三個打火機，意圖在無合法辯解下使用，或導致他人使用或允許他人使用上述物品，以摧毀或損壞屬於另一人的財產。"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

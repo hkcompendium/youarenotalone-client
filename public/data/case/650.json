@@ -1,0 +1,58 @@
+{
+  "id": "650",
+  "caseNo": null,
+  "incident": "0907東涌",
+  "defendants": [
+    {
+      "id": "909",
+      "name": "唐",
+      "age": 22,
+      "charges": [
+        {
+          "id": "1334",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "襲擊在正當執行職務的警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "0907東涌",
+    "襲警"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-01-23",
+  "sentenceDate": "2020-01-23",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指在2019年9月7日下午5時半，警員準備進入東涌站，戴著口罩的被告在警員背後投擲一杯台式飲品（即一杯天仁茗茶），其後企圖逃離現場，經一輪追截後被捕。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "6星期監禁，緩刑12個月",
+  "sentenceReason": "辯方指被告因抑鬱症復發，情緒不穩下犯案，涉案警員並無受傷，反而被告遭制服時致右膝裂傷、頭部受創，再者被告致力投身義工服務。裁判官以9星期監禁作量刑起點，因被告認罪扣減3分1刑期，終判處6星期監禁，緩刑12個月。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

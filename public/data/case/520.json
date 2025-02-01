@@ -1,0 +1,63 @@
+{
+  "id": "520",
+  "caseNo": null,
+  "incident": "1027九龍城",
+  "defendants": [
+    {
+      "id": "702",
+      "name": "翁",
+      "age": 19,
+      "charges": [
+        {
+          "id": "1000",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有非法用途工具"
+        },
+        {
+          "id": "1001",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有物品意圖損壞財產"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1027九龍城"
+  ],
+  "trialDateFrom": "2020-04-24",
+  "trialDateTo": "2020-06-19",
+  "trialLength": null,
+  "verdictDate": "2020-06-19",
+  "sentenceDate": null,
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於2019年10月27日在九龍城述德街及太子道西交界管有一把鐵鎚、一支螺絲批、一把鉗、一圈鐵絲，屬適合作非法用途的工具，並意圖作非法用途使用。他另被指在同地管有一罐黑色噴漆，意圖使用並損壞另一人的財物。",
+  "verdict": "控方同意撤控，被告以2,000元簽保守行為兩年。",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "601",
+  "caseNo": null,
+  "incident": "1112三罷",
+  "defendants": [
+    {
+      "id": "812",
+      "name": "吳",
+      "age": 32,
+      "charges": [
+        {
+          "id": "1200",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "故意阻撓在正當執行職務的警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1112三罷",
+    "中大",
+    "蘇文隆主任裁判官",
+    "粉嶺裁判法院"
+  ],
+  "trialDateFrom": "2020-08-31",
+  "trialDateTo": "2020-08-31",
+  "trialLength": 1,
+  "verdictDate": "2020-08-31",
+  "sentenceDate": null,
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被指在2019年11月12日在科學園一帶將私家車橫泊於南北行線堵路，不依警方指示駛走。",
+  "verdict": "罪名不成立",
+  "verdictReason": "辯方傳召被告及其女友作供。被告稱當晚原定與女友一同前往天賦海灣，探望女友友人的初生嬰兒，因前路堵塞，故打算調頭才會在逆線打斜，並無心阻撓警方執行職務，及沒有示威初衷。警方廣播提及自己車牌一秒後，立即有警員出現圍在車旁，拉開他的車門，並命令他開車，其間打碎其副駕的車窗，他依警方指示，嘗試開車，但卻被警方拉出車外拘捕。被告人女友則指，被告是因左邊另一輛白色私家車突然快速挨近，似是要「切線」，才立即扭右，以避免兩車相撞。\n\n裁判官指出，即使被告與其女友解釋不一，但本案並非在於被告有否故意堵路，並指被告有機會認為當時未有足夠時間及空間駛走。裁判官續指，警方打碎車窗一點非常重要，控方卻沒有證據證明警方打碎車窗的原因，認為控方可申請將案件押後，作進一步調查，但控方並沒有這樣做。\n\n裁判官認為，對於被告是否有心拒絕警方指示，法庭存有懷疑，並指被告有機會並非不合作，而是無法在短時間內盡快駛離現場，故裁定罪成不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

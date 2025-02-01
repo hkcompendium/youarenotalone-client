@@ -1,0 +1,70 @@
+{
+  "id": "629",
+  "caseNo": null,
+  "incident": "1012柴灣",
+  "defendants": [
+    {
+      "id": "867",
+      "name": "邵",
+      "age": 27,
+      "charges": [
+        {
+          "id": "1273",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "襲擊警務人員"
+        }
+      ]
+    },
+    {
+      "id": "868",
+      "name": "余",
+      "age": 31,
+      "charges": [
+        {
+          "id": "1274",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "阻撓在正當執行職務的警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1012柴灣"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-18",
+  "sentenceDate": null,
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年10月12日，在柴灣泰民街康翠臺3座附近，D1涉嫌襲擊警長，而D2則阻撓執行職務的警長",
+  "verdict": "控方申請撤回對兩人的控罪，獲裁判官准許，辯方沒有訟費申請。",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

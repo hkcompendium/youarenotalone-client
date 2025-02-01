@@ -1,0 +1,57 @@
+{
+  "id": "260",
+  "caseNo": null,
+  "incident": "20191111屯門",
+  "defendants": [
+    {
+      "id": "317",
+      "name": "蔡",
+      "age": 17,
+      "charges": [
+        {
+          "id": "440",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "勞教中心"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-03-31",
+  "sentenceDate": "2020-04-15",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年11月11日04:51，警員接報處理破壞輕鐵案件途中，目睹被告連同2名不知名人士在屯門爬欄杆逃跑。追截被告時他遺下一個灰色袋，袋內有一3M口罩、打火機、手套、一瓶盛有綠色黏液的玻璃瓶和一把長35cm的鐵鎚。經驗檢後，證實玻璃瓶內的黏液有汽油成份。被告在警誡下保持緘默。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "判入勞教中心",
+  "sentenceReason": "被告認同案情並認罪，因控罪性質嚴重，根據量刑指引，除即時監禁外沒有其他方法，辯方早前提出以感化方式處理乃不切實際。考慮被告無過往刑事記錄並承認控罪，而求情信顯示被告本性善良、受教、有責任心、樂於助人，相信被告因一時衝動，守法意識薄弱已犯下本案，勞教中心的紀律訓練對被告有幫助，遂採納辯方建議，更生中心及勞教中心報告認為更宜判處勞教中心，判被告入勞教中心。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 14,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "132",
+  "caseNo": null,
+  "incident": "1225沙田",
+  "defendants": [
+    {
+      "id": "147",
+      "name": "周",
+      "age": 52,
+      "charges": [
+        {
+          "id": "207",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "普通襲擊，違反《侵害人身罪條例》(第212章) 第40條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1225沙田",
+    "溫紹明",
+    "普通襲擊"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "溫紹明",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "有市民於去年 12 月 25 日於沙田新城市廣場參與「和你shop」示威活動。約下午 5 時 20 分，一名 15 歲少年在廣場內遭警員截查及制服，最終被警方以阻差辦公罪拘捕。有示威者因此起哄要求警方放人，有便衣警到場支援時，看見被告以摺傘打另一名疑似便衣警員的背部，對方受襲後立即回頭警告被告。目擊案發過程的便衣警隨即上前將被告制服，她警誡下保持沉默。",
+  "verdict": "控方撤回控罪，被告簽守行為",
+  "verdictReason": null,
+  "sentence": "被告以兩千元自簽守行為十八個月，需繳付堂費五百元",
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "初控襲警，後改為普通襲擊"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

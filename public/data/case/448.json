@@ -1,0 +1,58 @@
+{
+  "id": "448",
+  "caseNo": null,
+  "incident": "0910旺角",
+  "defendants": [
+    {
+      "id": "568",
+      "name": "鮑",
+      "age": 25,
+      "charges": [
+        {
+          "id": "822",
+          "verdict": "不成立",
+          "plea": "認罪",
+          "charge": "抗拒在正當執行職務的警務人員，違反《侵害人身罪條例》(第212章) 第36(b)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "0910旺角",
+    "地鐵跳閘"
+  ],
+  "trialDateFrom": "2020-07-06",
+  "trialDateTo": "2020-07-06",
+  "trialLength": 1,
+  "verdictDate": "2020-07-06",
+  "sentenceDate": null,
+  "magistrate": "林子勤",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年9月10日在旺角港鐵站2號月台，抗拒休班警長",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官林子勤認為，案件的表證成立，但警長的作供有矛盾，與其書面證供不相符。警長出手與被告轉身有因果關係，警長卻未能回答，斥楊的回應不理想。而港鐵職員見證着整個過程，亦指警長並沒有表露其身份，故在表露身份這個關鍵情節上存在疑點。兩名警員證人在被告的傷勢上亦有矛盾，警長稱未見被告有受傷，警員7234卻稱傷痕「一眼就望到」，因此未能接納警長的證供。基於疑點利益歸於被告，判被告無罪，當庭釋放。被告亦能取回自己的八達通。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

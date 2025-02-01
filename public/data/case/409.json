@@ -1,0 +1,55 @@
+{
+  "id": "409",
+  "caseNo": null,
+  "incident": "1013深水埗",
+  "defendants": [
+    {
+      "id": "508",
+      "name": "林",
+      "age": 18,
+      "charges": [
+        {
+          "id": "729",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-05-25",
+  "trialDateTo": "2020-05-25",
+  "trialLength": null,
+  "verdictDate": "2020-05-25",
+  "sentenceDate": null,
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年10月13日當日下午約3時許，有近100名穿黑衣的示威者於深水埗長沙灣政府合署外聚集，其間有人堵路。警方到場驅散，被告逃跑但遭警員截停，他當時手上有一支鐵棒及一把破傘。其後，警員再在其背包搜出一把瑞士軍刀，即場將他拘捕，",
+  "verdict": "撤銷控罪，自簽2000元保守行為15個月。",
+  "verdictReason": "",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": "保釋期間不得離港，並要每周到警署報到一次，要準時出席補習班，下次提訊時要向法庭展示出席紀錄。",
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

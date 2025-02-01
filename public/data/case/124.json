@@ -1,0 +1,58 @@
+{
+  "id": "124",
+  "caseNo": null,
+  "incident": "20200126粉嶺",
+  "defendants": [
+    {
+      "id": "136",
+      "name": "何",
+      "age": 22,
+      "charges": [
+        {
+          "id": "193",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有物品意圖摧毀或損壞財產，違反《刑事罪行條例》(第200章) 第62條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#蘇文隆署理主任裁判官",
+    "#20200126粉嶺"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-08",
+  "sentenceDate": "2020-07-24",
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2020年1月26日在粉嶺偉明街近燈柱EA1899管有一個咖啡樽，裏面裝有輕石油蒸餾油，以及另外帶有一個打火機。\n當晚現場有示威者堵路，警方清場期間截停搜查被告，並在被告身上搜獲涉案物品。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "判入勞教所",
+  "sentenceReason": "求情指被告在案發後雖承受重大壓力，仍繼續完成大學最後一年的課程和論文，現已順利畢業。導師稱被告品學兼優，非池中之物。被告已有畢業後的工作意向，出身基層家庭，就學時亦有做兼職。\n\n被告是因被stop&search時發現他帶著白電油、替換衣物和蒙面物品被捕。被捕地點和發生縱火的地點相距900米，而當天是年初二，發生縱火的時間被告仍在與家人聚餐。被告持有白電油並不是汽油彈，因欠缺火引。辯方律師引用最近兩宗持有汽油彈的案例，分別判12個月感化令和監禁五星期，此案案情較輕微，希望裁判官可判非監禁式刑罰或盡可能短的監禁。辯方指被告只是一時衝動，沒有預謀或計畫要損毀什麼。\n\n裁判官蘇文隆判刑時稱，勞教中心報告顯示被告紀律良好，與求情一致，接納報告建議，判被告入勞教中心。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

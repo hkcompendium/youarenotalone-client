@@ -1,0 +1,59 @@
+{
+  "id": "394",
+  "caseNo": null,
+  "incident": "20200509大埔",
+  "defendants": [
+    {
+      "id": "477",
+      "name": "黃",
+      "age": 50,
+      "charges": [
+        {
+          "id": "675",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方作出擾亂秩序的行為，違反 《公安條例》(第245章) 第17B條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "蘇文隆",
+    "在公眾地方作出擾亂秩序的行為",
+    "20200509大埔"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2021-03-09",
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案發當日，有反政府示威人士透過社交媒體，鼓勵網民參與一個被稱為「香港和你SING抗爭前奏曲」的活動，鼓吹網民於當日下晝三點開始，在分佈香港不同地方的多個商場聚集，重複叫政治口號。大埔超級城就是網上提及到的其中一個目標地點。大概晚上七時，有示威者應網上號召，於大埔超級城C區一樓大堂聚集。\n\n在大約19:34時，約一百人聚集於上述地點，相關人士違反限聚令條例，因此有警務人員被調派至上述地點作驅散人群的行動。在大約19:56時，正當驅散行動進行之中，身處上述一樓大堂的被告突然高叫「屌你！食屎！」，並將一個裝有水的水樽由一樓拋落地下中庭，當時有警員站在附近。",
+  "verdict": null,
+  "verdictReason": "",
+  "sentence": "監禁4個月",
+  "sentenceReason": "當日的「反政府示威集會」有約一百人，現場群眾情緒高漲，被告除了叫囂外更投擲水樽，雖然無擲中任何人，但被告的行為有機會煽動其他在場人士仿效。由於被告有十一次定罪記錄，過往五次被判監禁或羈留式刑罰，因此在刑期扣減後，判處監禁4個月。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "被告於2021年1月7日進行答辯時一度否認控罪。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "被告指將會就刑期進行上訴，並申請等候期間保釋。蘇官聽畢，質問辯方律師「呢個判刑錯咗喺邊度？」律師指認為量刑起點過重，蘇官再追問有否相關案例支持，但由於17b的控罪甚少上到高等法院或上訴庭，因此沒有近期案例。  最後，蘇官認為被告的上訴並無任何合理理據，故拒絕其等候上訴期間的保釋申請。",
+  "appealJudgementUrl": null,
+  "bailmentAppeal": "被告指將會就刑期進行上訴，並申請等候期間保釋。蘇官聽畢，質問辯方律師「呢個判刑錯咗喺邊度？」律師指認為量刑起點過重，蘇官再追問有否相關案例支持，但由於17b的控罪甚少上到高等法院或上訴庭，因此沒有近期案例。  最後，蘇官認為被告的上訴並無任何合理理據，故拒絕其等候上訴期間的保釋申請。",
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

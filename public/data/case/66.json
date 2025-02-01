@@ -1,0 +1,72 @@
+{
+  "id": "66",
+  "caseNo": null,
+  "incident": "0929銅鑼灣",
+  "defendants": [
+    {
+      "id": "74",
+      "name": "郭",
+      "age": 71,
+      "charges": [
+        {
+          "id": "90",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "阻撓在正當執行職務的警務人員罪，違反《侵害人身條例》(第212章) 第36(b)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "0929銅鑼灣"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "黃雅茵",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於去年9月29日銅鑼灣軒尼詩道555號崇光百貨（銅鑼灣）外，故意阻撓在正當執行職務的警務人員，即警員18570。據了解，被告見當時現場有警員向不知名人士揮動警棍，期間涉嫌上前出手捉住警棍。",
+  "verdict": "撤銷控罪",
+  "verdictReason": null,
+  "sentence": "被告獲准以自簽 2000 港元、守行為 12 個月，同意案情以撤銷控罪。",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "5035",
+        "content": "#東區裁判法院第八庭\n#黃雅茵裁判官\n#0929銅鑼灣 #審訊\n\n郭 (71)\n\n控罪：阻撓在正當執行職務的警務人員\n（第212章《侵害人身罪條例》第36條）\n\n被控於2019年9月29日銅鑼灣軒尼詩道555號崇光百貨（銅鑼灣）外，故意阻撓在正當執行職務的警務人員，即警員18570。\n\n案情：\n被告見當時現場有警員向不知名人士揮動警棍，期間涉嫌上前出手捉住警棍。\n\n背景：\n2019年9月29日有市民發起「全球反極權大遊行」，被告被指在銅鑼灣崇光百貨外捉住一名警員的警棍，妨礙警方工作。事隔9個月，案件於2020年6月30日在東區裁判法院提堂，被控阻撓在正當執行職務的警務人員。\n\n被告控罪撤回\n被告明白並同意案情，願意接受簽保守行為命令。\n\n撤回控罪\n- 自簽 $2000\n- 守行為 12個月\n- 期間不與得干犯與阻撓警員執行職務有關的罪行",
+        "url": "https://t.me/youarenotalonehk_live/10295",
+        "source": "法庭文字直播台",
+        "datetime": "2020-10-15T02:25:11.000Z"
+      },
+      {
+        "id": "3805",
+        "content": "#東區裁判法院第一庭\n#錢禮主任裁判官\n#0929銅鑼灣 #提堂\n\n郭 (71)\n\n控罪：阻撓在正當執行職務的警務人員\n（第212章《侵害人身罪條例》第36條）\n被控於2019年9月29日銅鑼灣軒尼詩道555號崇光百貨（銅鑼灣）外，故意阻撓在正當執行職務的警務人員，即警員18570。\n\n案情：\n被告見當時現場有警員向不知名人士揮動警棍，期間涉嫌上前出手捉住警棍。\n\n背景：\n2019年9月29日有市民發起「全球反極權大遊行」，被告被指在銅鑼灣崇光百貨外捉住一名警員的警棍，妨礙警方工作。事隔9個月，案件於2020年6月30日在東區裁判法院首度提堂，被告獲准保釋，押後至今日再訊。\n\n❌不認罪❌\n\n控方將傳召5名證人，及依賴1條6分鐘的開源片段\n沒有警誡供詞\n辯方不爭議有關片段，故可只傳召PW1及PW2\n\n控辯雙方需於開審前3天呈交同意案情及文件\n\n案件押後至10月15日0930在東區裁判法院第八庭以本地話審訊\n✅期間以原有條件繼續保釋✅",
+        "url": "https://t.me/youarenotalonehk_live/8041",
+        "source": "法庭文字直播台",
+        "datetime": "2020-08-11T07:16:28.000Z"
+      }
+    ]
+  }
+}

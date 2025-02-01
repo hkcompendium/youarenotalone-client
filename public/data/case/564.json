@@ -1,0 +1,55 @@
+{
+  "id": "564",
+  "caseNo": null,
+  "incident": "0803黃大仙",
+  "defendants": [
+    {
+      "id": "734",
+      "name": "譚",
+      "age": 24,
+      "charges": [
+        {
+          "id": "1038",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲擊在正當執行職務的警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "鍾明新",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被指在 2019 年 8 月 4 日，在彩虹道黃大仙警署外的警察私家車 UL4723 內，襲擊在正當執行職務的偵緝警員 8235 沈鴻源。\n\n控方案情指，被告被捕時上身赤裸，情緒激動。報稱受襲的第一證人警員 8235 沈鴻源稱，在車上聽到被告講「黑警死全家」，及後突然聽到被告方向傳來「咔」一聲，懷疑被告安全帶被解開，指被告隨即用頭撞他的左額、左眼角。他大叫一聲，與警長 58602 及本案第二證人警員 13556 周國豪合力制服被告，期間被告掙扎，隨後冷靜下來，警員再為他鎖上手扣。\n\n辯方反駁控方以頭撞警的指控，指被告當時在警車上偷用電話，警員制止期間不斷拳打被告頭部，形容當時情況為「警員一路打、一路搶手機、一路講『你做咩襲警』」，被告頭部多處紅腫，鼻骨骨折。辯方亦指沈鴻源曾在被告反對下，為被告清洗血跡，更與被告聊天與他「和好」，對被告稱「你拉得好唔抵，你又唔似啲人出去搞事」、「我今次原諒你，下次唔好啦，唔係個個都頂得到你咁大力」，並最後與被告握手和好。惟作供的兩名警員對辯方説法一致表示不同意、不知道或不記得。",
+  "verdict": null,
+  "verdictReason": "鍾明新裁判官指如案發經過是如警員所指，被告解開安全帶後用頭撞他，他再聯同其他警員將被告壓制在他大腿上，期間被告頭部「周圍 fing」的話，被告的頭部不可能受到如此嚴重的瘀傷及流大量鼻血，故認為警員並非誠實可靠證人。考慮到控方案情依賴警員單方面證供，認為控方舉證未能達致毫無合理疑點，裁定被告襲警罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "批准被告撤銷宵禁令及更改報到時間，但維持不准離港條件。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

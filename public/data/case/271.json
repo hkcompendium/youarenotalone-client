@@ -1,0 +1,55 @@
+{
+  "id": "271",
+  "caseNo": null,
+  "incident": "1013葵芳",
+  "defendants": [
+    {
+      "id": "330",
+      "name": "鄒",
+      "age": 54,
+      "charges": [
+        {
+          "id": "462",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2021-01-12",
+  "sentenceDate": "2021-01-12",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年10月13日，在葵涌新都會廣場優品5樓574A號舖優品360內，與一名不知名男子損壞屬於彩鷗國際有限公司的財產，意圖摧毀或損壞該財產或罔顧該財產是否會被摧毀或損壞",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "監禁8個月",
+  "sentenceReason": "以12個月為量刑起點，認罪扣減1/3刑期，判處８個月即時監禁",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": "現金2000元擔保\n不得離港\n每週警署報到一次\n不可直接或間接接觸證人，即店員\n禁足於新都會廣場(除非轉乘交通工具)",
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

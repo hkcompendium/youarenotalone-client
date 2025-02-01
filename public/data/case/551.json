@@ -1,0 +1,68 @@
+{
+  "id": "551",
+  "caseNo": null,
+  "incident": "1001灣仔",
+  "defendants": [
+    {
+      "id": "763",
+      "name": "鄧",
+      "age": 32,
+      "charges": [
+        {
+          "id": "1084",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毁壞"
+        }
+      ]
+    },
+    {
+      "id": "764",
+      "name": "孫",
+      "age": 64,
+      "charges": [
+        {
+          "id": "1085",
+          "verdict": null,
+          "plea": null,
+          "charge": "刑事毁壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-30",
+  "sentenceDate": "2020-07-31",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "在灣仔軒尼詩道 130 號外與其他不知名人士無合法辯解而損壞屬於社會民主連線的一個黑色棺材道具，意圖罔顧該財產是否會被損壞。\n\n",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "感化18 個月，500元堂費",
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "D2缺席聆訊，法庭早前已頒下通緝令。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

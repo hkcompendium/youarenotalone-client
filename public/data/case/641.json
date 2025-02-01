@@ -1,0 +1,91 @@
+{
+  "id": "641",
+  "caseNo": null,
+  "incident": "0902荔景",
+  "defendants": [
+    {
+      "id": "898",
+      "name": "連",
+      "age": 20,
+      "charges": [
+        {
+          "id": "1319",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "公眾妨擾"
+        },
+        {
+          "id": "1320",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    },
+    {
+      "id": "899",
+      "name": "郭",
+      "age": 23,
+      "charges": [
+        {
+          "id": "1321",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "公眾妨擾"
+        }
+      ]
+    },
+    {
+      "id": "900",
+      "name": "李",
+      "age": 20,
+      "charges": [
+        {
+          "id": "1322",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "公眾妨擾"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "0902荔景",
+    "公眾妨擾罪",
+    "攻擊性武器"
+  ],
+  "trialDateFrom": "2021-02-08",
+  "trialDateTo": "2021-04-19",
+  "trialLength": 9,
+  "verdictDate": "2021-05-18",
+  "sentenceDate": "2021-06-01",
+  "magistrate": "施祖堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指2019年9月2日，有網民於早上發起「港鐵超合作運動」，圖阻鐵路運作。D1-D3被指連在荔枝角站同其他人干擾港鐵荃灣線的列車服務，D1另被指同日在荔景站管有丫叉和彈珠。",
+  "verdict": "D1公眾妨擾罪名不成立、在公眾地方管有攻擊性武器罪名成立，D2公眾妨擾罪名不成立，D3公眾妨擾罪名成立",
+  "verdictReason": "對於D1，裁判官指他身懷多件示威常用物品，而涉案鋼珠則放於褲袋，明顯是可隨時操作。而D1被捕時，曾一度將隨身背囊拋走，顯示對袋內物品知情，且對管有該些物品無合理辯解，認為被告明顯參與對抗性活動，意圖呼之欲出，故裁定他在公眾地方管有攻擊性武器罪罪成。而公眾妨擾罪則因控方未能成功舉證，裁定罪名不成立。\n\n至於D2，裁判官認為控方亦未能證明其犯罪意圖，故裁定公眾妨擾罪名不成立。至於D3，裁判官指他以左邊身體及左手伸出列車外，行為影響列車運作，故裁定公眾妨擾罪名成立。",
+  "sentence": "D1即時監禁12個月、D3判入更生中心",
+  "sentenceReason": "至於D1，裁判官引述 Secretary for Justice v Wong Chi Fung [2018] 2 HKLRD 699，指他把38粒鐵珠和彈弓藏於褲袋，容易隨時取出並對他人造成傷害，加上早上9時多仍屬上班繁忙時間，他的行為對公眾安全造成嚴重威脅。考慮到D1背景及刑事定罪紀錄，他定罪後仍欠悔意，其行為對社會構成混亂，對公共秩序構成影響，判刑時必須著重懲罰大於更生因素。由於D1曾被判入勞教中心，根據條例不能再判被告入更生中心，監禁屬唯一選擇，最終判其監禁12個月。\n\n至於D3，裁判官接納報告建議，判他進入更生中心。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

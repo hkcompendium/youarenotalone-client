@@ -1,0 +1,55 @@
+{
+  "id": "224",
+  "caseNo": null,
+  "incident": "0828屯門",
+  "defendants": [
+    {
+      "id": "270",
+      "name": "廖",
+      "age": 25,
+      "charges": [
+        {
+          "id": "382",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "普通襲擊罪"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-04-27",
+  "sentenceDate": "2020-04-27",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於去年 8 月在屯門澤豐花園附近行人隧道內，指罵撕毀連儂牆上文宣的人士時，與另一名中年途人發生爭執，其間掌摑對方一下。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "罰款1,000元",
+  "sentenceReason": "辯方求情指，被告單獨犯案、赤手空拳，當時只因在爭執中反應激烈，才會一時愚蠢犯案，幸事主傷勢輕微。被告自被捕以來，承受極大精神壓力，對個人行為感到後悔，承諾不會再犯。\n\n辯方又指，被告被捕後即時承認襲擊事主。雖然當時他辯稱出於自衛，但經律師解釋後，才明白有關行為並非自衛，強調他不是想狡辯。辯方希望法庭念及被告坦白認罪及年輕，可判處他接受感化。\n\n署理主任裁判官張潔宜判刑指，本案並非同類案件中最嚴重，而且事主沒求醫，其傷勢應極輕微，相信技師只因一時愚蠢及衝動犯案，念在他初犯及坦白認罪，判罰款1,000元。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "165",
+  "caseNo": null,
+  "incident": "1007屯門",
+  "defendants": [
+    {
+      "id": "197",
+      "name": "陳",
+      "age": 27,
+      "charges": [
+        {
+          "id": "277",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "雷射筆",
+    "攻擊性武器"
+  ],
+  "trialDateFrom": "2020-11-25",
+  "trialDateTo": "2020-11-27",
+  "trialLength": 3,
+  "verdictDate": "2020-12-24",
+  "sentenceDate": null,
+  "magistrate": "李志豪",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年10月7日，在屯門井財街政府服務大樓外的公眾地方無合法權限或合理辯解而攜有攻擊性武器，即一個能發出雷射光束的裝置。",
+  "verdict": "罪名不成立",
+  "verdictReason": "控方舉證時指出當時有示威堵路，無可否認以當時的現場環境，被告可以用雷射筆照向別人、警員造成傷害。但雷射筆用作傷人只是其中一個推論。法庭仔細考慮後，認為即使雷射筆可以傷人，亦不代表被告一定會這樣做，兩者的關係不是必然共存。單憑被告衣著及現場環境推論被告意圖，不恰當亦不穩妥。\n\n在沒有進一步證據的情況下，法庭裁定被告用雷射筆傷人只是其中一個推論，而不是唯一的合理推論。因沒有舉證至毫無合理疑點，裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}
