@@ -1,0 +1,57 @@
+{
+  "id": "540",
+  "caseNo": null,
+  "incident": "1013深水埗",
+  "defendants": [
+    {
+      "id": "706",
+      "name": "林",
+      "age": 18,
+      "charges": [
+        {
+          "id": "1005",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1013深水埗"
+  ],
+  "trialDateFrom": "2019-10-15",
+  "trialDateTo": "2020-05-25",
+  "trialLength": null,
+  "verdictDate": "2020-05-25",
+  "sentenceDate": null,
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於10月13日在深水埗福華街與欽州街交界管有攻擊性武器，即一把瑞士軍用刀及一支鐵通。",
+  "verdict": "控方撤回控罪，被告簽保守行為2000元15個月。",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "以港幣3000元保釋",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

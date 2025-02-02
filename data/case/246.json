@@ -1,0 +1,55 @@
+{
+  "id": "246",
+  "caseNo": null,
+  "incident": "1111屯門",
+  "defendants": [
+    {
+      "id": "300",
+      "name": "張",
+      "age": 19,
+      "charges": [
+        {
+          "id": "420",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-08-26",
+  "trialDateTo": "2020-08-26",
+  "trialLength": null,
+  "verdictDate": "2020-08-26",
+  "sentenceDate": null,
+  "magistrate": "王證瑜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指2019年11月11日前，網上論壇有人呼籲於馬路設置路障。當日早上約 8 時半PW1警員於屯門友愛邨外見到被告與10名男子聚集，後跑往愛義樓。PW1截停被告，於被告身上撿取一個鎚仔，拘捕被告並向被告進行警戒，被告於警戒下保持緘默。\n",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "383",
+  "caseNo": null,
+  "incident": "1204土瓜灣",
+  "defendants": [
+    {
+      "id": "463",
+      "name": "黃",
+      "age": 47,
+      "charges": [
+        {
+          "id": "654",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "普通襲擊"
+        },
+        {
+          "id": "659",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "襲警"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-10",
+  "sentenceDate": "2020-06-24",
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "去年 12 月 4 日有人在土瓜灣堵路，警員派員到場喬裝蒙面埋伏，並且拘捕四名中學生。其間有女警將14歲被捕女生按在地上「當凳坐」。被告駕駛私家車駛至現場時被迫停車，其後被指襲擊便衣女督察，包括扯口罩及踢大腿。\n\n當時便衣警員行動曝光，一名女督察正在截查一名女子，及後女督察背部被人推了一下，使她向前仆倒，她轉頭見到被告，隨即表明警察身份，仍遭被告扯口罩及踢大腿，其他警員見狀上前拘捕被告。被告警誡下稱：「唔好意思，唔知你哋係差人。」女督察送院治理，右眼觸痛，右大腿瘀傷。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "社會服務令100小時 12個月內完成",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "控罪(2)襲警為控罪(1)普通襲擊的交替控罪。",
+  "internalRemarks": null,
+  "charges": [
+    "被控於2019年12月4日在土瓜灣馬頭圍道及農圃道交界襲擊女督察。"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

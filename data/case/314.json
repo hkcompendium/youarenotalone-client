@@ -1,0 +1,55 @@
+{
+  "id": "314",
+  "caseNo": null,
+  "incident": "1004屯門",
+  "defendants": [
+    {
+      "id": "394",
+      "name": "王",
+      "age": 21,
+      "charges": [
+        {
+          "id": "553",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-12",
+  "sentenceDate": "2020-06-12",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年10月4日在屯門杯渡路近河傍街管有一支雷射筆，意圖將作非法用途使用。\n",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "簽保守行為",
+  "sentenceReason": "被告同意案情\n聲稱雷射筆只係貪得意上淘寶買黎玩下\n\n控方要求充公第1及第2證物\n第3證物歸還被告\n控辯雙方都同意\n\n$2000\n24個月內要行為良好\n法庭表示被告可取得$500訟費",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

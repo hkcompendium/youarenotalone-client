@@ -1,0 +1,59 @@
+{
+  "id": "106",
+  "caseNo": null,
+  "incident": "1110荃灣",
+  "defendants": [
+    {
+      "id": "120",
+      "name": "葉",
+      "age": 25,
+      "charges": [
+        {
+          "id": "169",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有工具意圖作非法用途，違反《簡易程序治罪條例》(第228章) 第17條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#羅德泉裁判官",
+    "#1110荃灣",
+    "#撤銷控罪"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-11",
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年11月10日，荃灣沙咀道有100名示威者聚集，有人燃點火頭及設置路障。PW1及PW2接報，與同僚到場掃蕩驅散。當日22:21，PW1於路障前見被告著黑T裇、黑褲、黑鞋跑開，追趕其到眾安街藥房，在地上發現1個背囊。查問下，被告聲稱自己為路過；後警員在背囊中，發現現金$11550、5條黑索帶 、1個黑色口罩、1對勞工手套、8隻膠手套，及被告的銀包等私人物品，故將被告拘捕。被告在荃灣警署，被交給偵緝警員進行初步調查，在警誡下保持緘默。",
+  "verdict": "",
+  "verdictReason": "被告承認案情下控方同意撤控，被告獲准自簽$1000保守行為24個月， 期間不得妨礙公眾安全，需行為良好，不可干犯暴力或刑事損壞罪行。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

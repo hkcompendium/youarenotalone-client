@@ -1,0 +1,58 @@
+{
+  "id": "123",
+  "caseNo": null,
+  "incident": "1226旺角",
+  "defendants": [
+    {
+      "id": "134",
+      "name": "王",
+      "age": 20,
+      "charges": [
+        {
+          "id": "190",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞，違反《刑事罪行條例》(第200章) 第60條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#羅德泉主任裁判官",
+    "#1226旺角"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-30",
+  "sentenceDate": "2020-07-24",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年12月26日在朗豪坊4樓2號舖星巴克咖啡店，無合法辯解而損壞屬於其財產（即杯及貨架），意圖損壞該財產或罔顧該財產是否會被損壞。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "判處240小時社會服務令",
+  "sentenceReason": "被告認罪：\n被告有3次刑事定罪紀錄。物主沒有要求賠償。\n\n求情：\n—自小父母離異，患有ADHD及對立反抗症。\n—定期捐血及做義工。\n—自犯事後由外展社工輔導，為人變得積極及正面。\n— 西貢區議會指被告有協助議員工作。\n— 一時衝動犯錯。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": "2019年12月28日，被告獲法庭准以五千元現金保釋，但須遵守禁足令、宵禁令及不得進入任何商場，成為修例風波以來禁足任何商場的首例。\n2020年1月24日，被告申請放寬商場禁足令。裁判官經考慮後，決定在交通轉乘、尋求法律意見、參與社交及家庭活動的情況可獲豁免，而其餘保釋條件不變。",
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "422",
+  "caseNo": null,
+  "incident": "1113中環",
+  "defendants": [
+    {
+      "id": "529",
+      "name": "張",
+      "age": 35,
+      "charges": [
+        {
+          "id": "754",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "襲警"
+        },
+        {
+          "id": "755",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "非法集結"
+        },
+        {
+          "id": "756",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "在非法集結中使用蒙面物品"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-11-04",
+  "trialDateTo": "2020-12-31",
+  "trialLength": null,
+  "verdictDate": "2020-12-31",
+  "sentenceDate": "2021-01-14",
+  "magistrate": "張志偉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控罪指被告2019年11月13日在中環交易廣場平台襲擊警長A，與其他不知名人士參與非法集結和使用一個黑色口罩。",
+  "verdict": "三項控罪罪名成立",
+  "verdictReason": "大部分警員證供與片段吻合，接納他們為誠實可靠證人。片段顯示在警方警告下，被告面向警方，用右手指著防暴警。辯方指被告打算離開，但若被告欲離開，應該背對警方行走，而非「面向警方向後退」，其動作可比喻為「對打中作出閃避」。被告連同他人擾亂社會安寧，藉人多勢眾逼令警方放人，若變成「搶犯」可構成妨礙司法公正，裁定非法集結罪名成立。片段可見被告一直戴口罩，裁定在非法集結中使用蒙面物品罪名成立。",
+  "sentence": "控罪1: 監禁2個月；控罪2: 監禁6個月；控罪3: 監禁2個月；控罪1其中1個月刑期分期執行，共監禁7個月。",
+  "sentenceReason": "以3個月作襲警罪量刑起點，認罪扣減至2個月；非法集結罪判囚6個月；期間使用蒙面物品罪判囚2個月，其中因襲警屬單獨行事，與非法集結不相連，故其中1個月分期執行，被告共監禁7個月。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

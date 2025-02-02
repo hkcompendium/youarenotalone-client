@@ -1,0 +1,94 @@
+{
+  "id": "627",
+  "caseNo": null,
+  "incident": "20200527紅隧",
+  "defendants": [
+    {
+      "id": "864",
+      "name": "簡",
+      "age": 40,
+      "charges": [
+        {
+          "id": "1267",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "視象顯示器安裝在駕駛人在駕駛座椅時可看到(無論是直接看到或是經反射後看到)該視象顯示器部分或全部屏幕的部分，違反《道路交通 (車輛構造及保養) 規例》(第374A章) 第37(1)條"
+        },
+        {
+          "id": "1268",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "排放過量的排氣污染物及不符合排放標準，違反《道路交通 (車輛構造及保養) 規例》(第374A章) 第31A(3)條"
+        },
+        {
+          "id": "1266",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "公眾妨擾，違反普通法"
+        }
+      ]
+    },
+    {
+      "id": "865",
+      "name": "郭",
+      "age": 26,
+      "charges": [
+        {
+          "id": "1270",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "水箱護罩安裝不穩固，違反《道路交通 (車輛構造及保養) 規例》(第374A章) 第5(1)(b)條"
+        },
+        {
+          "id": "1271",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "強制性前燈故障，違反《道路交通 (車輛構造及保養) 規例》(第374A章) 第89(3)條"
+        },
+        {
+          "id": "1269",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "公眾妨擾，違反普通法"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "公眾妨擾罪"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2021-03-15",
+  "sentenceDate": "2021-05-04",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2020年5月27日，反國歌法人士呼籲癱瘓交通，兩車分別在香港海底隧道九龍往香港之出口方向左右線慢駛，涉阻礙其他道路使用者。叧同日駕駛之車輛分別各涉兩項違反交通規例。\n\nD2於2021年3月15日認罪，索取背景報告及社會服務令報告後於4月9日判刑；\nD1於2021年5月4日認罪並即時判刑。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "(1): D1即時監禁3星期；(2) D1罰款$2,000；(3) 罰款$4,000；(4): D2即時監禁3星期；(5) D2罰款$3,000；(6) 罰款$2,000",
+  "sentenceReason": "D1：\n當天是早上繁忙時間，慢駛令原本擠塞道路更加擠塞，此舉是將個人目的或訴求以癱瘓交通向政府施壓卻令公眾承受。而且不限於事發位置受阻，隧道道路一帶其後之樽頸位也受嚴重影響，被告雖然不是主腦但角色重要，是次是有組織行為，被告響應呼籲堵塞交通，控罪(1)判即時監禁無可避免。考慮到本案沒有暴力，意外出現及被告開審前認罪，法庭就控罪(1)以4個半星期作量起點，審前認罪酌情扣減三份一。控罪(2)(3)分別罰款2000及4000。\n\nD2：\n由於被告堅持不願意執行社會服務令，法庭唔能夠強加於被告，只能於其他合適判刑中作出選擇。\n被告因應網上號召阻塞通道，雖然並非主腦角色，但作為參與者亦是重要角色，如果沒有人參與的話堵塞計劃就不會成功。因此認為判處癱瘓原本已嚴重擠塞的紅隧嘅被告即時監禁並無不妥。\n\n控罪(4)判處即時監禁4個半星期，認罪拘1/3，需即時監禁3個星期\n控罪(5) (6) 分別判處罰款$3000 及 $2000",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

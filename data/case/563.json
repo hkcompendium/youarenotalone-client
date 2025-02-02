@@ -1,0 +1,59 @@
+{
+  "id": "563",
+  "caseNo": null,
+  "incident": "0119中環",
+  "defendants": [
+    {
+      "id": "733",
+      "name": "劉",
+      "age": 16,
+      "charges": [
+        {
+          "id": "1037",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有物品意圖損毀物品罪"
+        }
+      ]
+    }
+  ],
+  "description": "被告准自簽現金 1 千元、守行為 12 個月，同意案情並獲撤銷控罪。被告另須付500元堂費。",
+  "tags": [
+    "港共受刑 天下制裁",
+    "0119中環",
+    "錢禮"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "下午 3 時許，三名警員在中環愛丁堡廣場天星碼頭多層停車場行人隧道巡邏，其時被告身穿黑外衣物、戴著黑口罩及黑色帽，在隧道內見到警員後神色閃避，避免與警員有眼神接觸，並試圖離開。警員遂上前截停被告，將他帶到行人路上搜查，在其背包內搜獲一把 40 厘米錘仔、豬嘴、勞工手套等物品。警方隨後將他拘捕，被告被捕後一直保持緘默。",
+  "verdict": "",
+  "verdictReason": "控方今日先修訂控罪，然後表示考慮到被告的年齡、無案底，以及控方沒有證據證明被告曾用過涉案錘仔，同意讓被告以簽保守行為方式處理案件。惟控方強調被告在示威現場附近被截停，而他在看見警方後神色可疑，眼神閃避。",
+  "sentence": "",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

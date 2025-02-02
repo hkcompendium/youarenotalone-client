@@ -1,0 +1,70 @@
+{
+  "id": "341",
+  "caseNo": null,
+  "incident": "1111銅鑼灣",
+  "defendants": [
+    {
+      "id": "423",
+      "name": "馬",
+      "age": 17,
+      "charges": [
+        {
+          "id": "594",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有攻擊性武器，違反《公安條例》(第245章)  第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-04-06",
+  "sentenceDate": null,
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年11月11日，在銅鑼灣怡和街9至15號後巷內，非法管有一把鎅刀。",
+  "verdict": "撤銷控罪",
+  "verdictReason": "",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "裁判官沒有處理辯方訟費申請及控方反對，下令控辯雙方如不能就訟費達成共識，交由聆案官處理。\n\n法庭大概用了十分鐘處理訟費事宜。\n\n控方引述警方指被告站再示威人群前線想警方防線講粗口，又警方截查時意圖逃跑，更發現其右手持有一把鎅刀是「製造嫌疑」；而被告在警戒下招認。\n\n辯方稱控方沒有沒有以非法集結或公眾地方行為不檢等控罪，以上陳述則與控罪不相關。再者，提訊階段就已經撤控，就連提出指控的警方證人尚未上庭作供或受辯方盤問，其他程序亦因撤控而告停，「自招嫌疑」更是沒有理據的。\n\n惟主任裁判官錢禮反駁控方當初並無加控非法集結等相關罪行，故不構成自招嫌疑，終批准訟費申請。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "1720",
+        "content": "#東區裁判法院第一庭\n#錢禮主任裁判官 #提堂\n馬(17) #1111銅鑼灣 管有攻擊性武器：鎅刀\n\n撤回控罪\n\n\n控方指證據不足，索取法律意見後撤回控罪。法庭大概用了十分鐘處理訟費事宜。\n\n控方引述警方指被告站再示威人群前線想警方防線講粗口，又警方截查時意圖逃跑，更發現其右手持有一把鎅刀是「製造嫌疑」；而被告在警戒下招認。\n\n辯方稱控方沒有沒有以非法集結或公眾地方行為不檢等控罪，以上陳述則與控罪不相關。再者，提訊階段就已經撤控，就連提出指控的警方證人尚未上庭作供或受辯方盤問，其他程序亦因撤控而告停，「自招嫌疑」更是沒有理據的。\n\n\n直播員就較早前內容出錯深感抱歉，承諾以後會小心謹慎啲",
+        "url": "https://t.me/youarenotalonehk_live/4047",
+        "source": "法庭文字直播台",
+        "datetime": "2020-04-06T07:01:31.000Z"
+      },
+      {
+        "id": "1321",
+        "content": "#東區裁判法院第一庭 - 香淑嫻裁判官\n馬(17) #提堂\n(#1111銅鑼灣 管有攻擊性武器:鎅刀)\n控方申請押後至24/3，辯方不反對。\n押後至24/3 2:30，以原有條件保釋。\n\n梁(17) #提堂\n（#1113柴灣 管有非法用途工具:士巴拿、火槍等）\n控方申請押後至24/3。控方亦透露需考慮控罪合適性，不反對原有條件擔保。\n辯方申請撤銷宵禁，或改為0000-0600。\n案件押後至24/3 2:30，拒絕更改保釋條件，以原有條件擔保。",
+        "url": "https://t.me/youarenotalonehk_live/2935",
+        "source": "法庭文字直播台",
+        "datetime": "2020-01-10T06:49:40.000Z"
+      }
+    ]
+  }
+}

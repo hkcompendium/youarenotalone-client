@@ -1,0 +1,63 @@
+{
+  "id": "578",
+  "caseNo": null,
+  "incident": "20200524銅鑼灣",
+  "defendants": [
+    {
+      "id": "772",
+      "name": "陳",
+      "age": 29,
+      "charges": [
+        {
+          "id": "1094",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "參與非法集結"
+        },
+        {
+          "id": "1095",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "展示煽動刊物"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "非法集結"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2021-03-29",
+  "sentenceDate": "2021-04-14",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "(1) 於2020年 5 月 24 日在銅鑼灣軒尼詩道與怡和街交界，與其他身份不詳的人參與非法集結\n(2) 在同日同地展示煽動刊物，即具意圖激起香港居民企圖不循合法途徑促致改變其他在香港依法制定的事項，或慫使他人不守法或不服從合法命令的刊物。(在現場揮動「光復香港時代革命」橫額)",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "即時監禁3個月",
+  "sentenceReason": "被告雖然不是集結的主導者或召集人，但參與集結也能團結力量，示威者在聲勢浩大下情緒高漲，便會「做出一啲平常唔敢去做嘅行為」，例如堵路和行使暴力，而作出有關行為者多數是沒有案底、具備正當職業或仍在學的年輕人。羅官又認為，若缺乏他人參與，縱使號召者如何努力也難以成事。被告雖非集結主導者，但單是參與集結也能團結力量，壯大聲勢，示威者在情緒高漲下便會「做出一啲平常唔敢去做嘅行為」\n\n考慮到被告只是在現場走動，沒有投擲物品等行為，以監禁四個半月作量刑起點，在認罪扣減三分之一刑期後，判被告監禁三個月。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

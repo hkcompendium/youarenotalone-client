@@ -1,0 +1,76 @@
+{
+  "id": "653",
+  "caseNo": null,
+  "incident": "0626警總",
+  "defendants": [
+    {
+      "id": "916",
+      "name": "吳",
+      "age": 43,
+      "charges": [
+        {
+          "id": "1355",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "襲擊/ 抗拒/ 故意阻撓在正當執行職務的警務人員"
+        },
+        {
+          "id": "1356",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞"
+        },
+        {
+          "id": "1357",
+          "verdict": "撤銷控罪",
+          "plea": "否認控罪",
+          "charge": "刑事毀壞"
+        },
+        {
+          "id": "1358",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "參與非法集結"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2019-08-10",
+  "trialDateTo": "2019-11-26",
+  "trialLength": 3,
+  "verdictDate": "2019-11-26",
+  "sentenceDate": "2019-11-26",
+  "magistrate": "香淑嫻裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告吳定邦，被控於今年六月廿六日，襲擊高級警司麥文禹。吳另被控於同一案發日在警總警政大樓側門外，與其他人無合理辯解而損壞警務處財產，即兩個閉路電視。吳另被控於六月廿六日及六月廿七日期間，刑毀警總正門的玻璃門及玻璃屏。",
+  "verdict": "罪名成立",
+  "verdictReason": "被告認罪",
+  "sentence": "監禁 10 個月",
+  "sentenceReason": "裁判官香淑嫻指，被告吐口水「污穢、骯髒、卑鄙，有可能傳播細菌」，判刑須具阻嚇性及懲罰性，就3項控罪判處他監禁 10 個月，和賠償警方 1670 元玻璃門維修費。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "直播台未有此案資料\n",
+  "internalRemarks": null,
+  "charges": [
+    "(1)襲警",
+    "(2)刑事毀壞",
+    "(3)刑事毀壞",
+    "(4)參與非法集結"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

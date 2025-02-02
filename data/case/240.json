@@ -1,0 +1,55 @@
+{
+  "id": "240",
+  "caseNo": null,
+  "incident": "1201旺角",
+  "defendants": [
+    {
+      "id": "291",
+      "name": "黎",
+      "age": 21,
+      "charges": [
+        {
+          "id": "409",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-29",
+  "sentenceDate": "2020-06-29",
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於2019年12月1日在旺角彌敦道近豉油街交界，警方驅散時見其向反方向行，覺可疑，截查發現其背囊有一枚汽油彈，2火機。",
+  "verdict": null,
+  "verdictReason": "",
+  "sentence": "判監禁12個月",
+  "sentenceReason": "法庭考慮被告巳被扣半年，有時間沉澱反悔，採以18個月量刑起點，認罪1/3扣減，判監禁12個月。此前半年扣押期可扣減刑期。\n\n汽油彈無量刑指引，但根據之前其他法院同類案以12至18個月為量刑起點。",
+  "bailment": "不獲批准",
+  "bailmentRemarks": "法庭期後於2020年6月4日提堂批准被告保釋申請。\n\n條件包括：\n宵禁10pm-6am\n禁足令：花園街、新填地街、亞皆老街一帶\n",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 184,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

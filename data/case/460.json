@@ -1,0 +1,187 @@
+{
+  "id": "460",
+  "caseNo": null,
+  "incident": "1001黃大仙",
+  "defendants": [
+    {
+      "id": "587",
+      "name": "高",
+      "age": 25,
+      "charges": [
+        {
+          "id": "843",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "590",
+      "name": "呂",
+      "age": 17,
+      "charges": [
+        {
+          "id": "846",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "591",
+      "name": "許",
+      "age": 25,
+      "charges": [
+        {
+          "id": "847",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "592",
+      "name": "李",
+      "age": 29,
+      "charges": [
+        {
+          "id": "848",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "588",
+      "name": "甄",
+      "age": 22,
+      "charges": [
+        {
+          "id": "844",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "589",
+      "name": "梁",
+      "age": 17,
+      "charges": [
+        {
+          "id": "845",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "593",
+      "name": "羅",
+      "age": 24,
+      "charges": [
+        {
+          "id": "849",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "594",
+      "name": "林",
+      "age": 22,
+      "charges": [
+        {
+          "id": "850",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "595",
+      "name": "鍾",
+      "age": 19,
+      "charges": [
+        {
+          "id": "851",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "596",
+      "name": "*",
+      "age": 15,
+      "charges": [
+        {
+          "id": "852",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "597",
+      "name": "*",
+      "age": 14,
+      "charges": [
+        {
+          "id": "853",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "非法集結"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#非法集結"
+  ],
+  "trialDateFrom": "2021-02-01",
+  "trialDateTo": "2021-02-09",
+  "trialLength": 7,
+  "verdictDate": "2021-02-19",
+  "sentenceDate": null,
+  "magistrate": "黃士翔",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "各被告同被控於於2019年10月1日在黃大仙鳳德道及盈鳳里，與其他身份不明人士參與非法集結。",
+  "verdict": "全部罪名不成立。除D6表面證供成立之外，其餘被告表面證供不成立。",
+  "verdictReason": "由於當日黃大仙有其他集結發生，因此即使憑被告的衣著等證據，也不能裁定他們曾出現在鳳德道，或曾參與該處的非法集結，而且沒有證據顯示發生於黃大仙的其他集結屬非法集結。\n\n",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "555",
+  "caseNo": null,
+  "incident": "1111九龍城",
+  "defendants": [
+    {
+      "id": "721",
+      "name": "謝",
+      "age": 21,
+      "charges": [
+        {
+          "id": "1025",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "參與非法集結，違反 《公安條例》(第245章)  第18條"
+        }
+      ]
+    },
+    {
+      "id": "722",
+      "name": "梁",
+      "age": 26,
+      "charges": [
+        {
+          "id": "1026",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "參與非法集結，違反 《公安條例》(第245章)  第18條"
+        }
+      ]
+    },
+    {
+      "id": "723",
+      "name": "謝",
+      "age": 19,
+      "charges": [
+        {
+          "id": "1027",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "參與非法集結，違反 《公安條例》(第245章)  第18條"
+        }
+      ]
+    },
+    {
+      "id": "724",
+      "name": "許",
+      "age": 24,
+      "charges": [
+        {
+          "id": "1028",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "參與非法集結，違反 《公安條例》(第245章)  第18條"
+        }
+      ]
+    },
+    {
+      "id": "725",
+      "name": "吳",
+      "age": 25,
+      "charges": [
+        {
+          "id": "1029",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "參與非法集結，違反 《公安條例》(第245章)  第18條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "非法集結"
+  ],
+  "trialDateFrom": "2021-04-07",
+  "trialDateTo": "2021-04-08",
+  "trialLength": 2,
+  "verdictDate": "2021-04-08",
+  "sentenceDate": null,
+  "magistrate": "鄭念慈",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "D1-D5被控於2019年11月11日九龍城馬頭角道與馬頭涌道交界參與非法集結",
+  "verdict": "罪名不成立",
+  "verdictReason": "證人作供係話見到被告身處堵路嘅人之中，但話唔記得眾被告嘅行為，所以唔能夠肯定被告參與非法集結，不過證人第一日審訊嗰時話，佢見到眾被告有份堵路，拖啲小巴牌同雜物去堵塞馬路，然後第二日作供嗰時話唔記得眾被告做左啲乜。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": "https://www.facebook.com/114718626608158/photos/a.114721926607828/517830919630258/?type=3\n\n有人以為鄭官轉性",
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

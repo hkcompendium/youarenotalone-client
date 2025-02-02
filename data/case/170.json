@@ -1,0 +1,55 @@
+{
+  "id": "170",
+  "caseNo": null,
+  "incident": "20200101銅鑼灣",
+  "defendants": [
+    {
+      "id": "209",
+      "name": "劉",
+      "age": 24,
+      "charges": [
+        {
+          "id": "291",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-08-04",
+  "trialDateTo": "2020-09-04",
+  "trialLength": 2,
+  "verdictDate": "2020-09-04",
+  "sentenceDate": "2020-09-04",
+  "magistrate": "林希維",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於今年1月1日在銅鑼灣波斯富街62至68號快樂大廈樓梯管有1把銀色摺刀和3把萬用刀，意圖作非法用途使用。",
+  "verdict": "罪名成立",
+  "verdictReason": "辯方稱被告有「Everyday carry（每日攜帶）」萬用刀的做法，裁判官則認為在公眾地方攜帶 4 把刀並不合理。裁判官林希維裁決時指，被告作供謊話連篇，「說法與邏輯背道而馳」。被告供稱涉案的黑色萬用刀、黑色面布及黑色口罩與較早前參與滾軸溜冰活動有關，因為忘記收拾背囊，故案發時帶同上街。另一方面，被告又稱要前往咖啡店練習沖咖啡，所以帶同榛子醬、茶杯及碟等。裁判官質疑，被告將食材及物品放入背囊時，不可能見不到袋內已裝有其他工具，但他對此不理會，將工具、食材等混在一起，因此裁判官完全否定被告的說法。由於附近有大型警民對峙，被告同時管有四把刀，背囊內又有示威者常用的裝備，因此認為被告並非意圖參與和平遊行。裁判官指，唯一不可抗拒的推論就是，被告管有涉案刀意圖作非法用途，因此裁定罪名成立，",
+  "sentence": "9個月監禁",
+  "sentenceReason": "以 9 個月監禁為量刑起點。鑑於被告不認罪，經審訊後定罪，沒有仼何扣減",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "審訊日期為2020年7月24日，辯方因收到新指示，因當時截停及拘捕警員身份 (即PW1) 有爭議，提出重開案情。裁判官最終批准辯方重開申請，案件將在9月4日續審，故審訊期一共為2天",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 195,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

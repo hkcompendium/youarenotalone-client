@@ -1,0 +1,66 @@
+{
+  "id": "14",
+  "caseNo": null,
+  "incident": "1102中環",
+  "defendants": [
+    {
+      "id": "14",
+      "name": "吳",
+      "age": 18,
+      "charges": [
+        {
+          "id": "14",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有物品意圖摧毀或損壞財產，違反《刑事罪行條例》(第200章) 第62條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1102中環",
+    "撤銷控罪"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2020-09-15",
+  "sentenceDate": "2020-09-15",
+  "magistrate": "劉綺雲",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "警員2019年11月2日晚上7時許在中環荷李活道及雲咸街一帶驅散示威者，及後在雲咸街43至53號外截停被告，搜出其背囊內有涉案噴漆，以及眼罩、手套和豬嘴等物品。被告接受警方初步調查時謂，噴漆由不知名人士交給他使用，及後他在警誡下保持緘默。",
+  "verdict": "撤銷控罪",
+  "verdictReason": "",
+  "sentence": "被告同意案情，控方撤回控罪。被告自簽2,000元、守行為24個月，其間不得干犯或企圖干犯摧毀或損壞他人財產的罪行",
+  "sentenceReason": "辯方今表示，現已年滿18歲的被告年紀尚輕，要求法庭考慮判處守行為12個月，惟裁判官認為不合適。辯方聞言，表示希望守行為時間不要超過36個月。劉官最終批准被告自簽2,000元、守行為24個月，其間不得干犯或企圖干犯摧毀或損壞他人財產的罪行。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "4528",
+        "content": "#東區裁判法院第一庭\n#劉綺雲裁判官\n#1102中環 #提堂\n\n吳（18）\n\n控罪：\n管有物品意圖摧毀或損壞財產\n被控於2019年11月2日，在中環雲咸街43至55號外，無合理辯解管有一支噴漆。\n\n被告同意案情，控方撤回控罪，裁判官准被告以簽保守行為方式處理，自簽$2,000，守行為24個月，其間要行為良好，保持社會安寧，不得干犯任何刑事行為涉及摧毀或損壞他人財產或意圖摧毀或損壞他人財產。",
+        "url": "https://t.me/youarenotalonehk_live/9420",
+        "source": "法庭文字直播台",
+        "datetime": "2020-09-15T06:49:26.000Z"
+      }
+    ]
+  }
+}

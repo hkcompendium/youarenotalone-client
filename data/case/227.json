@@ -1,0 +1,55 @@
+{
+  "id": "227",
+  "caseNo": null,
+  "incident": "20191111上水",
+  "defendants": [
+    {
+      "id": "272",
+      "name": "楊",
+      "age": 29,
+      "charges": [
+        {
+          "id": "385",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": " 襲擊或抗拒執行職責的 警務人員，違反《警隊條例》 (第232章)  第63條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-05-22",
+  "trialDateTo": "2020-05-22",
+  "trialLength": 1,
+  "verdictDate": "2020-06-12",
+  "sentenceDate": "2020-09-08",
+  "magistrate": "吳重儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年11月11日在掃管埔路迴旋處襲擊正在執行職責的警務人員。被告駕車駛至平日已經常擠塞的上水雞嶺迴旋處時，被指慢駛而遭埋伏警員截查。其間被告欲返回車內，警員突然動身擋在車門前，過程中被告被指疑踢到警員腹部，遭控以襲警罪。",
+  "verdict": "罪名成立",
+  "verdictReason": "裁判官指，被告自稱不仇警，但庭上的眼神對警察充滿敵意，作供時會直呼警員編號，有別一般證人以「警員」、「阿Sir」等稱呼。對於被告表示遭受警暴，又聲稱不知道當日有三罷活動，他在車上戴口罩又稱是因為鼻敏感等，裁判官均拒絕信納，但相信警員的供詞，裁定被告罪成。",
+  "sentence": "判監禁9個星期",
+  "sentenceReason": "裁判官判刑時指，襲擊警員為嚴重罪行，法庭有責任保護正當執行職務的警員，也要向公眾傳達此訊息，即使初犯也要判監禁。裁判官亦表示同情被告父母的情況，被告又是家中經濟支柱，對於是否判處緩刑，已經過反覆思量。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "早前經審訊後被判罪成，遭裁判官吳重儀批評他對警員有敵意及有潛在人格障礙，一度還押小欖精神病治療中心，以待索取心理、精神科報告等量刑。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "正在上訴",
+  "appealJudgementUrl": null,
+  "bailmentAppeal": "獲准保釋等候上訴",
+  "complaints": "裁判官處事偏頗，包括分析證據並未符合毫無合理疑點的標準、基於主觀意見作出評論／裁決，以及判刑時持有預設立場等。所有相關法庭程序尚未完結，稍後會作出回應。",
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

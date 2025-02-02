@@ -1,0 +1,55 @@
+{
+  "id": "145",
+  "caseNo": null,
+  "incident": "612金鐘",
+  "defendants": [
+    {
+      "id": "169",
+      "name": "莊",
+      "age": 25,
+      "charges": [
+        {
+          "id": "236",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲警"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-04",
+  "sentenceDate": "2020-05-14",
+  "magistrate": "黃向戎",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告涉嫌在當日下午獨自經過灣仔警總外時，被身穿便衣的重大事故科公眾聯絡組高級督察從後拍膊，余天生自稱警員並要求查問，被告轉身時懷疑拳打督察頸部，同行警員隨即與高級督制服被告。警誡下被告稱：「阿sir，唔好意思，嗰吓係自然反應。」",
+  "verdict": "罪名不成立",
+  "verdictReason": "關鍵議題\n\n沒有爭議PW1余天生正在執行職務，辯方亦不爭議被告人有轉身，且右手接觸督察。雖然控罪不需證明被告人知悉受襲人的身份，但被告有否聽到PW1表露身份，有重要性。\n\n因為PW1若有表露身份而且被告有聽見，如果被告無意圖襲警，他不應有自然反應；若被告聽不到，那麼被告的行為是否自然反應，就要視乎：\n\n1) 當時的環境，PW1撘膊頭的力度\n2) 被告人的動作，用拳還是順勢用手掌\n3) 被告動作的力度\n\n證據分析\n\nPW1行近被告時，被告手部動作的過程在電光火石間發生，所以觀察不清楚是情有可原，接觸被告時的對話雖不盡相同，但大意一樣，分岐不關鍵。不影響證人可信性。不論是被手掌或拳打，因為都不是一點(而是有面積)，同時打到面部和頸部並不出奇。\n\n本席認為PW1已盡力講述事發經過，作供不清楚之處只是觀察上的限制。本席裁定PW1誠實可靠，除襲擊經過外，接納他的證供\n\nPW2曾偉輝作供前部份肯定的地方，在後部份突然說不肯定，甚至推翻之前證供。本席不會接納他的供詞\n\nPW3作供指，無見過呈堂的醫療報告P1，即時筆錄的記錄並無呈堂。亦無肯定地講PW1被手肘或？？？擊到。認為PW3供詞雖然誠實，但未必可靠\n\n裁決總結\n\n本席不能理解，為何被告在行人過路處，被人用打招呼般的力度撘膊頭，會有如此大的自然反應？無可否認被告人行為可疑，但嫌疑不足以令被告入罪。\n\nPW1以「稍為大聲但未到嗌」的聲量對被告說話，而且PW1未講完「先生，差人/警察，過一過嚟/過嚟呢邊」八個字前，已被被告擊中。加上PW1未能講出被告是出拳或揮手，但有指出被告出手的力度，是大力過打招呼，但可以接受。此描述屬於中性，既可以支持被告動作屬於襲擊，亦可支持被告的動作是自然反應造成的意外。\n\n控方在舉證時，未能排除擊中余天生，屬被告自然反應造成的意外的可能性。疑點利益歸於被告，裁定襲警罪罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

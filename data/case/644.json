@@ -1,0 +1,59 @@
+{
+  "id": "644",
+  "caseNo": null,
+  "incident": "1118中環",
+  "defendants": [
+    {
+      "id": "903",
+      "name": "梁",
+      "age": 65,
+      "charges": [
+        {
+          "id": "1325",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "非法集結"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "非法集結",
+    "1118中環",
+    "和你lunch"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2021-05-21",
+  "sentenceDate": "2021-05-21",
+  "magistrate": "鄭紀航",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指在2019年 11月 18日，中環有人參與「和你lunch」快閃遊行，聲援在理工大學留守者，畢打街、干諾道中至龍和道一帶有人聚集堵路，被告被指停留在其中一處堵路現場、干諾道中的行人路上，喝罵一些正在移除路障的人，並與堵路人士對話。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "5個月2星期即時監禁",
+  "sentenceReason": "裁判官以監禁7個月為量刑起點，考慮到被告在開審前一天認罪，而據案例可獲20至25%減刑，決定減刑21.4%，共判監5個月2星期。裁判官考慮到，被告蒙面隱藏身分，並藉此壯膽，令暴力升級的風險大增，亦有機會令相反意見者激起強烈反應；而且案發地點及時間為下午的中環，為重要的金融商業區及心臟地帶，當時的路上的行人及車輛比平日更多。由於辯方早前透露被告疑患有輕至中度的認知障礙症，本身亦患有幽閉恐懼症，及因案患焦慮症，他擔心會遭單獨囚禁。裁判官拒因被告身體狀況減刑，並指被告的身體狀況並非末期病症，相信懲教署會有合適安排。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

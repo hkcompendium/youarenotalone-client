@@ -1,0 +1,55 @@
+{
+  "id": "195",
+  "caseNo": null,
+  "incident": "1216旺角",
+  "defendants": [
+    {
+      "id": "237",
+      "name": "李",
+      "age": 16,
+      "charges": [
+        {
+          "id": "327",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "王詩麗裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年12月15日，示威者不同商場和你SHOP，包括旺角，針對親政府商舖，在旺角主要道路起火，阻塞。16日凌晨12點03分旺角有人非法堵路叫口號，控方第一證人團隊收通知，沿著彌敦坐警車掃蕩，到山東街交界見人群阻擋道路，垃圾著火，群眾與被告聚集，將雜物扔到彌敦行車道。證人下車追上去，對被告口頭警告，叫趴底。被告扔背囊走，最終在山東西洋菜南街被制服扣上手扣，被告報稱受傷送廣華醫院，保持沉默。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "簽保守行為$1000 18個月",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

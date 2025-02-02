@@ -1,0 +1,55 @@
+{
+  "id": "222",
+  "caseNo": null,
+  "incident": "1102北角",
+  "defendants": [
+    {
+      "id": "268",
+      "name": "周",
+      "age": 31,
+      "charges": [
+        {
+          "id": "380",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "無出示身份證控罪"
+        }
+      ]
+    }
+  ],
+  "description": "",
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-04-09",
+  "sentenceDate": "2020-04-09",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方指，當日約有百名黑衣人在軒尼詩道堵路，阻塞交通，被告在灣仔被捕，及後遭帶返警署，但身上並無身份證明文件，違反《入境條例》(第115章) 第17C條。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "罰款500元",
+  "sentenceReason": "辯方求情指，被告與友人在案發較早時段身處銅鑼灣，其後在灣仔遇上驅散時，被告與友人失散，身份證放在友人代她保管的手袋內。辯方指出，本案不涉政治議題，被告亦非拒絕出示身份證；友人得知她被捕後，已把證件轉交被告家人帶往警署。被告被捕時任職空中服務員，現職文員。\n\n控方指本案控罪最高罰款5,000元。主任裁判官錢禮指，相關法例條文並無指出可以判監，認為判處罰款已可。\n\n裁判官接納被告求情指，她非故意拒絕出示身分證，判被告罰款500元。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

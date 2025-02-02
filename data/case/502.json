@@ -1,0 +1,55 @@
+{
+  "id": "502",
+  "caseNo": null,
+  "incident": "1104將軍澳",
+  "defendants": [
+    {
+      "id": "656",
+      "name": "謝",
+      "age": 51,
+      "charges": [
+        {
+          "id": "933",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "襲擊警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2019-12-17",
+  "sentenceDate": null,
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於11月4日在將軍澳唐明街公園外襲擊警員A及警員B。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "謝被制服後，頭的右方有裂傷而縫了10針，其膝蓋、背部等也有瘀傷。\n\n法官批准訟費申請。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

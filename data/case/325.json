@@ -1,0 +1,67 @@
+{
+  "id": "325",
+  "caseNo": null,
+  "incident": "20200101紅磡",
+  "defendants": [
+    {
+      "id": "409",
+      "name": "廖",
+      "age": 37,
+      "charges": [
+        {
+          "id": "577",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        },
+        {
+          "id": "578",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "抗拒正在正當執行職務的警務人員，違反《侵害人身條例》(第212章) 第36(b)條"
+        },
+        {
+          "id": "579",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有違禁武器，違反《武器條例》(第217章) 第4條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-10",
+  "sentenceDate": "2020-06-10",
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控在公眾地方管有攻擊性武器和違禁武器罪，指他於2020年 1 月 1 日，在紅磡康莊道北行線近 104 號巴士站管有攻擊性武器，即兩把摺刀及一把拳刺。被告另被控於同日同地抗拒正在執行職務的警務人員。\n\n案情指，2020年 1 月 1 日傍晚約 7 時，警方在案發地點巡邏，被告行近警員時，特意垂下頭並急步快走，警方認為他形跡可疑，遂截停搜查。警員在被告的背包搜出由砧板改裝製成的自製盾牌，及由雜誌製成的「警棍」狀物體，於是拘捕被告。警方隨後在警署內替被告搜身，在他的前褲袋搜出摺刀，又在他的腰間皮帶搜出一把拳刺。後來，警員在被告的銀包再搜出一把卡片形的摺刀。",
+  "verdict": "控罪1和控罪3罪名成立; 控罪2控方不提證供起訴",
+  "verdictReason": "被告就控罪1和3認罪，控罪2未答辯、獲控方不提證供起訴。",
+  "sentence": "8個月監禁",
+  "sentenceReason": "律師求情指被告當時已完成在港島的合法遊行，回家途中才被截查，沒有使用控罪中所指的物品，那些物品亦是被告工作時的工具。\n\n家人、僱主和律師皆為被告撰寫求情信。家人指被告還押後更珍惜和親人相處；僱主稱被告勤奮好學，為人正直，願意再次聘請被告；律師指被告有堅定決心改過。\n\n裁判官質疑被告工作根本不需使用這些武器，亦認為被告將上述武器繫在腰間觸手可及的地方，即他在出門時已預料有暴力行為，在某時機使用，因此無法考慮任何減刑要素。最終判處合共8個月監禁。 (兩項控罪各12個月，認罪減三份一刑期，同期執行)",
+  "bailment": "不獲批准",
+  "bailmentRemarks": "被告沒有保釋申請",
+  "bailmentCondition": null,
+  "remarks": "辯方投訴：辯方曾投訴，稱被告被捕時遭多名警員拳打腳踢，並已到醫院驗傷，要求法庭將此事記錄在案。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 161,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

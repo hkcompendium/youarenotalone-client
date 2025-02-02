@@ -1,0 +1,60 @@
+{
+  "id": "362",
+  "caseNo": null,
+  "incident": "1012天水圍",
+  "defendants": [
+    {
+      "id": "448",
+      "name": "魏",
+      "age": 19,
+      "charges": [
+        {
+          "id": "632",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖摧毀或損壞財產，違反 《刑事罪行條例》(第200章) 第62 (a) 條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "管有物品意圖損壞財產罪",
+    "剪鉗",
+    "士巴拿",
+    "鎅刀"
+  ],
+  "trialDateFrom": "2020-11-09",
+  "trialDateTo": "2020-11-10",
+  "trialLength": 2,
+  "verdictDate": "2020-11-23",
+  "sentenceDate": null,
+  "magistrate": "李志豪",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年10月12日在天水圍天悅邨停車場外，保管一對剪鉗、一個士巴拿及一把鎅刀，意圖用以摧毀或損壞屬於另一人的財產。2019年10月，民建聯立法會議員梁志祥位於天水圍的辦事處遭人破壞，警員在區內巡邏時，發現19歲男生戴著手套及穿雨衣，遂上前截查，從他背包搜出剪鉗及鎅刀等物品。",
+  "verdict": "罪名不成立",
+  "verdictReason": "不爭議被告管有工具，而且那些工具可以用作損毀辦事處，但控方沒有直接證據或基礎指出被告意圖用那些工具損毀辦事處，亦不是唯一推論，因此裁定罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "131",
+  "caseNo": null,
+  "incident": "1225沙田",
+  "defendants": [
+    {
+      "id": "148",
+      "name": "*",
+      "age": 15,
+      "charges": [
+        {
+          "id": "208",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "抗拒警務人員違反《侵害人身罪條例》(第212章) 第36(b)條"
+        }
+      ]
+    },
+    {
+      "id": "149",
+      "name": "*",
+      "age": 15,
+      "charges": [
+        {
+          "id": "209",
+          "verdict": "撤銷控罪",
+          "plea": "認罪",
+          "charge": "襲擊在正當執行職責之警務人員違反《侵害人身罪條例》(第212章) 第36(b)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#少年法庭",
+    "#蘇文隆主任裁判官",
+    "#1225沙田",
+    "#撤銷控罪"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-24",
+  "sentenceDate": "2020-09-11",
+  "magistrate": " 蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "D1: 當日有人宣傳在各區進行「和你shop」活動，其中一個地點為沙田新城市廣場。PW1便衣在商場發現D1形跡可疑、緊握背包，遂打算上前截查。D1隨即逃跑，在追截後被制服，但仍然掙扎。\n\nD2: 被控於2019年12月25日，在沙田新城市廣場4樓486號舖外，襲擊正在執行職務的警員。",
+  "verdict": "",
+  "verdictReason": "D1: $2,000現金守行為24個月。期間不得干犯任何與暴力相關控罪。\n\nD2: 因被告沒有預謀犯案，加上有悔意及反省，在羈留期間亦表現良好，裁判官頒下24個月保護令，並撤銷控罪，不留案底。\n\n同時，蘇官亦提醒被告，法庭會在4個月後審閱進度報告，屆時若表現未如理想，則會被判入男童院。",
+  "sentence": "",
+  "sentenceReason": "",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "D1: 簽保守行為。裁決日期：24.7.2020\n\nD2: 認罪。裁決日期：21.8.2020；判刑日期：11.9.2020 \n法庭在2021年2月9日審閱D2進度報告。被告與家人步離法院，無須還押。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "649",
+  "caseNo": null,
+  "incident": "1117天水圍",
+  "defendants": [
+    {
+      "id": "908",
+      "name": "郭",
+      "age": 30,
+      "charges": [
+        {
+          "id": "1333",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲擊在正當執行職務的警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1117天水圍",
+    "襲警"
+  ],
+  "trialDateFrom": "2020-09-01",
+  "trialDateTo": "2020-09-02",
+  "trialLength": 2,
+  "verdictDate": "2020-10-16",
+  "sentenceDate": null,
+  "magistrate": "梁雅忻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指在2019年11月17日晚上，多區有市民響應「十八區開花」的網上號召，上街聲援理大校園內示威者。在天水圍，防暴警飛撲追捕一名男子，惟失手墮地，混亂間疑遭多人狂踢，被告被指以腳踢該防暴警。",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官指當晚案發過程非常混亂，涉案歷時少於一秒，考慮三名警員的作供及呈堂片段後，對遇襲的防暴警員捉住的腳及抓甩的一隻鞋是否屬被告存疑。裁判官續指雖然三名警員作供誠實，但舉證標準非常高，防暴警員的記憶亦可能有偏差，因此裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

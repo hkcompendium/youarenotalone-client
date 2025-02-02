@@ -1,0 +1,57 @@
+{
+  "id": "541",
+  "caseNo": null,
+  "incident": "1130中環",
+  "defendants": [
+    {
+      "id": "707",
+      "name": "*",
+      "age": 15,
+      "charges": [
+        {
+          "id": "1006",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事損壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1130中環"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-05",
+  "sentenceDate": null,
+  "magistrate": "何俊堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於 2019 年 11 月 30 日下午約 4 時 42 分，在遮打花園一集會現場近港鐵中環站 J2 出口的外牆，以黑色油漆噴出「我愛 Pepe」、「光復香港，時代革命」等口號，過程被警員攝錄，隨後警員拘捕被告。",
+  "verdict": "控方撤控，被告同意案情，簽保守行為 12 個月，賠償1,000 元予香港政府。",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "569",
+  "caseNo": null,
+  "incident": "1030屯門",
+  "defendants": [
+    {
+      "id": "740",
+      "name": "陳",
+      "age": 23,
+      "charges": [
+        {
+          "id": "1046",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "非法集結"
+        },
+        {
+          "id": "1047",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        },
+        {
+          "id": "1048",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "未能在規定下出示身分證明文件"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-09-14",
+  "trialDateTo": "2020-09-15",
+  "trialLength": 2,
+  "verdictDate": "2020-09-15",
+  "sentenceDate": "2020-09-15",
+  "magistrate": "王證瑜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "(1)被控於2019年10月30日在屯門良德街12號，與其他不知名者參與非法集結\n(2)被控於同日在屯門良德街近燈柱編號FA2432的公眾地方，無合法權限或合理辯解，管有一個能發出鐳射光束的裝置\n(3)被控於同日同地約21時45分，未能在規定下出示身分證明文件",
+  "verdict": "控罪(1)-(2)罪名不成立；控罪(3)罪名成立",
+  "verdictReason": "裁判官指，警員陳樂軒供述由目視至拘捕被告的情節，均與現場片段不符，反之被告被捕時沒有掙扎或逃走，而是與警員一同步行；拘捕地點亦非示威現場，兩者相距80米以上，加上被告並無佩戴手套及口罩等物品在身上，認為未有直接證據證明被告參與非法集結，裁定兩罪不成立。",
+  "sentence": "被判罰款500元",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

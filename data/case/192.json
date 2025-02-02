@@ -1,0 +1,67 @@
+{
+  "id": "192",
+  "caseNo": null,
+  "incident": "20200527天水圍",
+  "defendants": [
+    {
+      "id": "238",
+      "name": "王",
+      "age": 19,
+      "charges": [
+        {
+          "id": "328",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        },
+        {
+          "id": "329",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        },
+        {
+          "id": "330",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "無牌管有無線電通訊器具"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2021-01-29",
+  "sentenceDate": null,
+  "magistrate": "梁雅忻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2020年5月27日在天水圍天悅邨悅富樓外管有三條帶有小刀或刀片的手繩及一塊刀片",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官梁雅忻指，涉案物品能有正常用途，卡片刀可以用作𠝹破物品；手繩刀亦是手錶、指南針之用。裁判官續指，沒有證據顯示案發附近位置有示威，被告另遭搜出急救用品，雖然被告承認將物品用於集會活動上，亦不排除他是救護員之說。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

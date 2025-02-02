@@ -1,0 +1,60 @@
+{
+  "id": "517",
+  "caseNo": null,
+  "incident": "0928灣仔",
+  "defendants": [
+    {
+      "id": "674",
+      "name": "黃",
+      "age": 25,
+      "charges": [
+        {
+          "id": "952",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖損壞財產，違反 《刑事罪行條例》(第200章) 第62(a)條 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#0928灣仔",
+    "#士巴拿",
+    "#噴漆",
+    "雨傘運動五周年"
+  ],
+  "trialDateFrom": "2021-01-21",
+  "trialDateTo": "2021-01-21",
+  "trialLength": 1,
+  "verdictDate": "2021-01-21",
+  "sentenceDate": null,
+  "magistrate": "張志偉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019 年9月28日，在香港灣仔菲林明道與港灣道交界，保管一支士巴拿及一罐噴漆，意圖在無合法辯解的情況下使用該物品，以損壞屬於另一人的財產。",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官指被告是在巴士被截停後下車，而警員在他下車時已作出分流，被告必然知道自己須被搜查，因此被告下車後的所有舉動已不構成環境證供。針對涉案的士巴拿及噴漆，裁判官表示接納辯方證人的證供，認為被告身上攜帶兩物為工作所須，雖證人指被告於下午 1 時 15 分左右已離開商場，但被告仍有合理原因在外攜帶上述工具。\n\n裁判官另指，案發當日在政府總部外有大規模示威，可以涉案工具堵路、塗污，惟缺乏環境證供，無法證明被告必然是以士巴拿及噴漆作示威用途，最終裁定罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

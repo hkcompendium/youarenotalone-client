@@ -1,0 +1,68 @@
+{
+  "id": "190",
+  "caseNo": null,
+  "incident": "0913紅磡",
+  "defendants": [
+    {
+      "id": "235",
+      "name": "伍",
+      "age": 26,
+      "charges": [
+        {
+          "id": "325",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "無牌管有無線通訊器具，違反《電訊條例》(第106章) 第8條"
+        }
+      ]
+    },
+    {
+      "id": "236",
+      "name": "林",
+      "age": 26,
+      "charges": [
+        {
+          "id": "326",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "無牌管有無線通訊器具，違反《電訊條例》(第106章) 第8條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-11-09",
+  "trialDateTo": "2020-11-10",
+  "trialLength": 2,
+  "verdictDate": "2020-11-24",
+  "sentenceDate": "2020-11-24",
+  "magistrate": "鄭念慈",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，D2於19年9月13日在紅磡紅樂道無牌管有一部無線電發送器具。",
+  "verdict": "D1獲撤控、D2罪名成立",
+  "verdictReason": "D2聲稱只是代友人D1保管放有涉案對講機的腰包，而D1亦出庭作供，指當日帶兩部對講機外出維修，後因其電單車的儲物箱已滿，所以才將涉案的對講機交給D2。惟裁判官鄭念慈指，案發時已晚上10時許，對講機理應剛維修完畢，但兩部對講機開機時，卻顯示被調校至不同頻道，該兩部對講機其實是D2和D1各自帶出來。另外，D2身為海關關員，為別人帶物品時應特別小心，而D2和D1只是朋友關係，法庭不認為被告會如此盲目相信對方，最終裁定被告罪成。",
+  "sentence": "D1獲撤控、D2罰款港幣5000元",
+  "sentenceReason": "D1: 早前獲撤控，以港幣2000元自簽保守行為。300元訟費將從擔保金扣除。涉案證物10被充公。\n\nD2: 在聽取辯方求情後，裁判官裁定D2罰款港幣5000元。\n\n",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

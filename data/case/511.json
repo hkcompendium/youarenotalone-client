@@ -1,0 +1,59 @@
+{
+  "id": "511",
+  "caseNo": null,
+  "incident": "1111中環",
+  "defendants": [
+    {
+      "id": "667",
+      "name": "李",
+      "age": 27,
+      "charges": [
+        {
+          "id": "945",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲擊警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "崔美霞裁判官",
+    "襲警",
+    "1111中環"
+  ],
+  "trialDateFrom": "2021-01-20",
+  "trialDateTo": "2021-01-20",
+  "trialLength": 1,
+  "verdictDate": "2021-02-19",
+  "sentenceDate": null,
+  "magistrate": "崔美霞",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年11月11日，在中環畢打街會德豐大廈外，襲擊執行職責的警長蔡華麟。 ",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁決：\n本案主要爭議點是犯案者的身份。\n控方主要依賴唯一目擊者PW1的作供。\n雖然PW1說自已一直視線沒受阻地觀察犯案者，但PW1作供時承認因要閃避作了一些動作，而且還觀察到雪糕筒落地位置，因此PW1當時的注意力必然在雪糕筒上。 \n\n犯案者投擲雪糕筒後立即走進人群，PW1此時才展開追逐，PW1指觀察到犯案者有黑布蒙面，但卻觀察不到犯案者何時及如何除下。\n\n對於追逐時各人位置順序，PW1最初的講法是 被告>警員A>警員B>PW1 , 及後又修改為 被告 > 警員AB平排 > PW1，加上追逐時現場有大量途人，法庭認為PW1在這種環境下追逐犯案者仍可視線沒受阻及視線沒離開犯案者有「內在不可能性」。 \n\n法庭亦留意到PW1和PW2的作供中對畢打街當時的人數、犯案者所穿的鞋的顏色、拘捕犯案者時的警員數目等等都存在很多「關鍵性矛盾」。另外PW1的庭上作供及書面口供亦有多處矛盾，當中包括犯案者衣領的描述。 \n\n考慮到PW1觀察犯案者只有數秒，主要憑灰色上衣確認被告為犯案者，而片段顯示在場有多於一人穿灰色上衣。再加上追逐間PW1亦要閃避途人，法庭認為不可穩妥地依賴PW1對犯案者身份的辨認，而PW2根本就沒目擊犯案過程。因此法庭認為控方未能舉證至毫無合理疑點，裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

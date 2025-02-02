@@ -1,0 +1,61 @@
+{
+  "id": "505",
+  "caseNo": null,
+  "incident": "1102銅鑼灣",
+  "defendants": [
+    {
+      "id": "660",
+      "name": "張",
+      "age": 60,
+      "charges": [
+        {
+          "id": "937",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在禁止吸煙區內吸煙"
+        },
+        {
+          "id": "938",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "未能在規定下出示身分證明文件"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-07-07",
+  "trialDateTo": "2020-07-27",
+  "trialLength": 2,
+  "verdictDate": "2020-07-27",
+  "sentenceDate": "2020-07-27",
+  "magistrate": "黃向戎",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年11 月 2 日，在銅鑼灣維多利亞公園近 8A 閘口，未能在已出示獲正式發給的證明文件以證明他是警務人員的偵緝警員郭景裕規定下，出示身份證明文件。",
+  "verdict": "罪名成立",
+  "verdictReason": "偵緝警員郭景裕為誠實可靠，事發時他雖然身穿便服及以黑色圍巾蒙面，但他所戴的頭盔、眼罩，以及身穿的背心等，都與在場其他警員一致，必定是屬於警方正式服裝及裝備，他手持的圓盾及穿着的背心，也明顯印有中英文警察字樣。而被告跟郭的對答亦顯示他是明知對方是警務人員，故裁定被告是故意不向郭出示身份證。",
+  "sentence": "未能出示身份證罪罰款1500元；在禁止吸煙區內吸煙罪罰款500元，合共2000元",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

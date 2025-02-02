@@ -1,0 +1,59 @@
+{
+  "id": "375",
+  "caseNo": null,
+  "incident": "1020深水埗",
+  "defendants": [
+    {
+      "id": "500",
+      "name": "康",
+      "age": 22,
+      "charges": [
+        {
+          "id": "720",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1020深水埗",
+    "攻擊性武器"
+  ],
+  "trialDateFrom": "2020-10-29",
+  "trialDateTo": "2020-10-30",
+  "trialLength": 2,
+  "verdictDate": "2020-11-26",
+  "sentenceDate": null,
+  "magistrate": "張天雁",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年10月20日，在深水埗荔枝角道與白楊街交界附近的公眾地方，沒有合法權限或合理辯解而攜有一支長150厘米的長棒(竹枝），違反了香港法例第245章第33條。\n\n控方依靠PW1 PC13714，即制止被告的警察，以及PW2 PC13618 ，亦是制服了被告的警察，以及視頻剪輯來進行起訴。\n案發時，一輛警車在荔枝角道停下，隨後一些警察部隊迅速下車到達白楊街。被告被PW1攔下，當時他手持竹棍，當場被捕。\n\n本案爭議點在於被告身上發現的竹枝，是否對他人意圖造成傷害。\n\nThe defendant is charged with possession of offensive weapons (a bamboo stick) in a public place (intersection between Lai Chi Kok Road and Poplar Street), violating Section 33 of Cap. 245.\n\nIn this case, the Prosecution relied on PW1, PC13714, the police officer who first stopped the defendant, and PW2, PC13618, the police officer who subdued the defendant, and the video clips, to make the Prosecution.\n\nAt the time the incident happened, a police vehicle stopped by Lai Chi Kok road, then some units of police force got off swiftly and got to Poplar Street. PW1 then stopped the defendant, and he was holding a bamboo stick at the time.\n\nThe dispute is whether the bamboo stick found on the defendant is intended to cause any injuries to other people.",
+  "verdict": "罪名不成立",
+  "verdictReason": "被告沒有任何刑事定罪記錄，因此法庭會信納他的作供有較高的可信性，而說謊的可能性較低。裁判官同意被告的行為可疑，但法院需要考慮到對被告的行為存在合理懷疑。法庭無法確定被告管有竹棍的目的是造成傷害。\n\nThe defendant has a clear record, and so he was regarded as a lower possibility of making lies and higher credibility. The Magistrate agreed that the action of defendant is suspicious, but the Court need to consider that there is reasonable doubt for the actions of the defendant. The Court cannot be sure that the defendant kept the bamboo stick to cause injury. ",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "被告為英國籍",
+  "internalRemarks": null,
+  "charges": [
+    "違反香港法例第245章《公安條例》第33條——在公眾地方管有攻擊性武器",
+    "被控於2019年10月20日，在深水埗荔枝角道與白楊街交界附近的公眾地方，攜有一支長150厘米的長棒"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

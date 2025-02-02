@@ -1,0 +1,57 @@
+{
+  "id": "207",
+  "caseNo": null,
+  "incident": "20200308大埔",
+  "defendants": [
+    {
+      "id": "253",
+      "name": "黃",
+      "age": 69,
+      "charges": [
+        {
+          "id": "354",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方作出擾亂秩序的行為"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    " 行為不檢"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-12-10",
+  "sentenceDate": "2020-12-10",
+  "magistrate": "蘇文隆主任裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年3月8日，在大埔安祥路昌運中心停車場出口外在公眾地方擾亂秩序行為，即向警方防線投擲一個膠水樽，意圖激使他人破壞社會安寧。\n",
+  "verdict": "罪名成立",
+  "verdictReason": "\n",
+  "sentence": "4個月監禁",
+  "sentenceReason": "案件發生在本年三月份，當時社會氣氛緊張 ，基本上每天都有警民衝突，人心惶惶。警方當天驅散數以百計示威者，被告拋擲塑膠水樽的行為，有機會激發情緒高漲的市民，作出同類或更激進行為，危害警員安全，令警方執法難上加難。裁判官指本案縱使與鐘嘉豪(音)案控罪不同，但性質相似，因此決定參考該案，量刑起點為6個月，認罪扣減三分一，最後判處4個月監禁。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "在公眾地方作出擾亂秩序的行為，違反 《公安條例》(第245章) 第17B(2)條"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

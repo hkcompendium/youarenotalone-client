@@ -1,0 +1,68 @@
+{
+  "id": "178",
+  "caseNo": null,
+  "incident": "20200430屯門",
+  "defendants": [
+    {
+      "id": "218",
+      "name": "*",
+      "age": 15,
+      "charges": [
+        {
+          "id": "301",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "企圖在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+        }
+      ]
+    },
+    {
+      "id": "219",
+      "name": "程",
+      "age": 17,
+      "charges": [
+        {
+          "id": "302",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用，違反《簡易程序治罪條例》(第228 章) 第17 條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "張潔宜署理主任裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2020年4月30日大約8時，屯門輕鐵站外有人架設路障，包括3個膠水馬。晚上9時20分，正進行監視任務的警員，目擊3名黑衣人嘗試搬動皇珠路地盤外的2米高水馬，不成。後地盤外人數增加到15-20個，擅動地盤外的障礙物件；警報響起，他們往龍頸村方向散去。第三及四控方證人警員此時表露身份，將兩名被告拘捕；他們被捕時著黑色鴨舌帽、黑衫黑褲，D2背囊中有鉗。D1警誡下承認自己以物品阻塞道路，而D2保持緘默。 ",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "以1000元簽保守行為12個月",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

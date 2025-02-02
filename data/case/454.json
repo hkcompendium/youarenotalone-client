@@ -1,0 +1,77 @@
+{
+  "id": "454",
+  "caseNo": null,
+  "incident": "1111薄扶林",
+  "defendants": [
+    {
+      "id": "579",
+      "name": "黎",
+      "age": 22,
+      "charges": [
+        {
+          "id": "834",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方造成阻礙 "
+        },
+        {
+          "id": "835",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "管有攻擊性武器或適合作非法用途的工具 "
+        }
+      ]
+    },
+    {
+      "id": "583",
+      "name": "徐",
+      "age": 20,
+      "charges": [
+        {
+          "id": "839",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#阻街 ",
+    "#攻擊性武器"
+  ],
+  "trialDateFrom": "2020-10-21",
+  "trialDateTo": "2020-12-03",
+  "trialLength": 3,
+  "verdictDate": "2021-02-25",
+  "sentenceDate": "2021-03-11",
+  "magistrate": "崔美霞",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "(1) D1被控於2019年11月11日，在薄扶林道及華富道與其他不知名人士放置消防專用欄及其他物品堵路。\n(2) D1被控於同日在薄扶林道葵芳花園外管有剪刀、𠝹刀、７條膠帶等，意圖作非法用途。\n(3) D2被控於同日，在薄扶林道西行近消防局行車道上無合理辯解而作出作為，造成交通受阻礙。",
+  "verdict": "罪名成立",
+  "verdictReason": "被告可以把文具鎖在抽屜內，每天帶着文具上班並不合理，而且被告非只帶着剪刀和較剪，還配備數天膠索帶，這些工具均可用以扣緊欄杆和剪斷索帶等，故裁定被告兩罪罪成。",
+  "sentence": "D1：控罪(1) 即時監禁1個月 控罪(2) 即時監禁5個月 同期執行；D2自簽$1,000、守行為12個月、$500堂費",
+  "sentenceReason": "被告經審訊後定罪，薄扶林道是南區主要道路，事發是上班上學時間，堵塞道路行為影響嚴重，亦可造成公眾風險。被告穿黑色裝束，帶有裝備如較剪、𠝹刀及索帶作組合攔杆作障礙物是早有預謀，法庭對此嚴重罪行判刑需具一定阻嚇性。第一項控罪即時入獄1個月，第二項控罪即時入獄5個月，兩項刑期同時執行。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "",
+  "appealJudgementUrl": null,
+  "bailmentAppeal": "定罪及刑期上訴。現金$10,000、交出所有旅遊證件、不得離港 、每星期警署報到2次、居於報住地址、更改需24小時前通知 -宵禁令",
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

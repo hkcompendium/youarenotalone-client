@@ -1,0 +1,55 @@
+{
+  "id": "235",
+  "caseNo": null,
+  "incident": "1111將軍澳",
+  "defendants": [
+    {
+      "id": "282",
+      "name": "鍾",
+      "age": 19,
+      "charges": [
+        {
+          "id": "398",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-26",
+  "sentenceDate": null,
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於11月11日上午7時25分 在將軍澳在寶順路與翠嶺路交界以雪糕筒及欄杆堵路，被在附近巡邏的衝鋒隊落車追截，她跑到香港知專設計學院外遭制服拘捕，當時她以黑衣蒙面，被告身上有2面罩、手套、膠帶，警戒下保持緘默。",
+  "verdict": "撤銷控罪",
+  "verdictReason": "控方指去信律政司尋求意見後，決定撤回控罪。裁判官准被告自簽 2,000元守行為 12 個月，期間不得干犯任何有關造成阻礙的控罪。此外需繳付堂費1000元。\n",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "被告於將軍澳涉以雪糕筒及欄杆堵路被捕，被控公眾地方造成阻礙罪。\n案件於2020年4月28日提訊時，另案一名同樣因涉堵路被捕、控以同一罪名的 21 歲男生接受控方提出自簽保守行為 12 個月換取撤控，但控方卻決定繼續控告此名女生，署理主任裁判官徐綺薇當時指兩宗案件案情類同，以及考慮到被告的年齡及學生身份，表示「本案性質於早前案件類似，為何會有處理分別？」，促控辯雙方於案件押後期間商討。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

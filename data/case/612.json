@@ -1,0 +1,78 @@
+{
+  "id": "612",
+  "caseNo": null,
+  "incident": "1007元朗",
+  "defendants": [
+    {
+      "id": "846",
+      "name": "盧",
+      "age": 26,
+      "charges": [
+        {
+          "id": "1245",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方內擾亂秩序行為，違反 《公安條例》(第245章) 第17B條"
+        }
+      ]
+    },
+    {
+      "id": "845",
+      "name": "趙",
+      "age": 26,
+      "charges": [
+        {
+          "id": "1244",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方內擾亂秩序行為，違反 《公安條例》(第245章) 第17B條"
+        }
+      ]
+    }
+  ],
+  "description": "案件原定2020年10月10日開審，拘捕警員作供時遭辯方質疑，庭上供稱警誡被告及帶返警署時間，與書面口供所述不符；警員承認是事後與其他同袍「夾出嚟」。案件其後於同月14日續審時，辯方再提及「有啲時間夾出嚟」；警員不同意曾稱「夾時間」，亦忘記拘捕及警誡時間相隔多久。\n\n辯方開審當日曾盤問警員，指他沒有即時拘捕被告及警誡，警員稱需先向上級匯報。當時辯方問：「唔通喺街見到賊都要先知會上級先拘捕？」警員答：「可以咁講」。案件其後續審，辯方稱：「前日你係話請示（上級）先拘捕？你前日係咁答我？」警員稱：「唔記得前日咁講」。裁判官聞言稱：「根據法庭紀錄你係咁講」，惟警員堅稱，是截停後立即宣佈拘捕。辯方並稱，多條案發影片都沒有看到警員宣佈拘捕；林則回答指「條片唔夠詳盡」。\n\n案件原定同月20日續審，控方突然向法庭表示不提證供起訴，裁判官裁定案件表面證供不成立，兩名被告獲無罪釋放。",
+  "tags": [
+    "懷疑夾口供"
+  ],
+  "trialDateFrom": "2020-10-10",
+  "trialDateTo": "2022-10-20",
+  "trialLength": 3,
+  "verdictDate": "2020-10-20",
+  "sentenceDate": null,
+  "magistrate": "梁雅忻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年10 月政府宣佈訂立《禁蒙面法》，連日引起各區示威。控方案情指，兩名被告於2019年10月7日在元朗指罵警員，並走出馬路，激發市民向道路投擲雜物。\n",
+  "verdict": "罪名不成立",
+  "verdictReason": "審訊期間控方突然表示不提證供起訴，裁判官裁定案件表面證供不成立，兩名被告無罪釋放。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "法庭文字直播台只有2020年4月3日提堂紀錄。其他媒體亦只有2020年10月14日及10月20日的審訊紀錄，資料有限。",
+  "internalRemarks": null,
+  "charges": [
+    "被控於2019年10 月 7 日在元朗阜財街 73 號外，在公眾地方作出擾亂秩序行為，意圖激使他人破壞社會安寧。"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "1700",
+        "content": "#屯門裁判法院第一庭\n#張潔宜署理主任裁判官\n#新案件 #1007元朗\n\nD1 趙\nD2 盧\n\n控罪 ：公眾地方行為不檢\n\n案情：\n被指於10月7日在元朗指罵警員，並走出馬路，激發市民向道路投擲雜物。\n\n⭕⭕保釋獲批⭕⭕\n\n保釋條件\n\nD1\n保釋金 $500\n不准離港\n每星期一次報到\n\nD2\n保釋金 $500\n不准離港\n一星期一次報到\n\n押後至5月27日下午2點半屯門裁判法院第一庭進行答辯",
+        "url": "https://t.me/youarenotalonehk_live/4008",
+        "source": "法庭文字直播台",
+        "datetime": "2020-04-03T02:08:19.000Z"
+      }
+    ]
+  }
+}

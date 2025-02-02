@@ -1,0 +1,58 @@
+{
+  "id": "3",
+  "caseNo": null,
+  "incident": "1014大埔",
+  "defendants": [
+    {
+      "id": "3",
+      "name": "陳",
+      "age": 17,
+      "charges": [
+        {
+          "id": "3",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1014大埔",
+    "雷射筆"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-11-04",
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年10月14日，當天大埔區有示威活動，警員於大元邨一帶巡邏，期間被告連同3-4個黑衣人大叫「死黑警」，警員於是上前截查，在大埔安慈路大埔中心巴士總站外成功截查被告，其餘的黑衣人則逃離現場。警員於被告的背囊內搜出多樣物品，例如雷射筆、黑色頭盔、兩罐壓縮氣體、手袖、眼罩和手套等。被控無合法權限管有雷射光速裝置，即雷射筆一枝，化驗所報告指該雷射筆在80米內照射可以對人的眼睛造成傷害。\n",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "更生中心",
+  "sentenceReason": "裁判官索取勞教中心及更生中心報告，報告指被告適合兩個中心，被告明白及同意更生及勞教報告內容，被告希望法官考慮判處更生中心。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 14,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

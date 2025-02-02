@@ -1,0 +1,61 @@
+{
+  "id": "157",
+  "caseNo": null,
+  "incident": "1128尖沙咀",
+  "defendants": [
+    {
+      "id": "185",
+      "name": "黃",
+      "age": 24,
+      "charges": [
+        {
+          "id": "260",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事毀壞"
+        },
+        {
+          "id": "261",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有物品意圖損壞財產"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-04",
+  "sentenceDate": null,
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "(1)刑事損壞\n被控於2019年11月28日，在九龍尖沙咀彌敦道梳士巴利道交界無合法辯解而損壞屬於路政署的一個安全島燈箱。\n(2)管有物品意圖損壞財產\n於同日同地管有兩支噴漆，意圖在無合法辯解下使用該物品損壞財產。",
+  "verdict": "撤回所有控罪、守行為18個月，自簽＄2000、堂費$300元，部分由擔保金扣除",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

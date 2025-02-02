@@ -1,0 +1,61 @@
+{
+  "id": "322",
+  "caseNo": null,
+  "incident": "1013旺角",
+  "defendants": [
+    {
+      "id": "406",
+      "name": "羅",
+      "age": 26,
+      "charges": [
+        {
+          "id": "572",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "企圖刑事毀壞，違反《刑事罪行條例》(第200章)第60條"
+        },
+        {
+          "id": "573",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-08",
+  "sentenceDate": "2020-06-08",
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被指於10月13日在旺角彌敦道近亞皆老街交界無合法辯解而損壞一輛警車及攜有一支可發出鐳射光的裝置。\n企圖刑毀控罪指他在彌敦道與亞皆老街交界犯案，企圖損壞特區政府財物、即警車；涉及雷射筆控罪則指他在彌敦道與砵蘭街交界犯案，控罪詳情為「能發出雷射光束的裝置」。",
+  "verdict": "罪名成立",
+  "verdictReason": "被告承認企圖刑事損壞及在公眾地方管有攻擊性武器兩罪。",
+  "sentence": "總刑期為8個月",
+  "sentenceReason": "辯方求情時指，被告原為展覽場地工人，與妻子離婚，獨力養育現年 7 歲兒子。被告自被捕後還押近 8 個月，現時由其母親照顧兒子，但其母為長年抑鬱症。被告因案件而無法工作，家庭正面對財政困難。辯方續指被告因為遭警方擋路，一時激動，為洩憤才即興犯案，以膠水樽擲警車，強調涉案警車並沒有仼何損壞。\n\n署理主任裁判官嚴舜儀指，有理由相信被告羅偉洛攜帶雷射筆是想阻礙警員執勤，決定兩罪同樣以 6 個月監禁為量刑起點，被告因認罪每項控罪獲減刑至 4 個月。雖然兩項控罪在同一地點發生，但屬於兩個時段的事件，被告於案發當下即興掟警車，卻在事前已攜帶雷射筆，因此兩項控罪的刑期分期執行，被告須監禁共 8 個月。\n\n控罪1： 量刑起點為6個月，認罪扣減至4個月\n控罪2： 量刑起點為6個月，認罪扣減至4個月\n兩項刑期分期執行，總刑期為8個月\n",
+  "bailment": "不獲批准",
+  "bailmentRemarks": "被告之前涉及另一案件(#1001油麻地 管有攻擊性武器)，要還押",
+  "bailmentCondition": null,
+  "remarks": "控方修改控罪:\n2020年1月14日\n1）刑事毀壞-修改為-意圖刑事毀壞\n據了解，警方檢查涉案警車後，的確發現有輕微花痕，但基於未有證據證明是由被告直接造成，律政司法律意見認為較審慎做法是改控企圖刑毀。\n2）控方新增控\n公眾場合管有攻擊性武器 (一個能發出鐳射光束的裝置)",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 178,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

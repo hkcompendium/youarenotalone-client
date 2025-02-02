@@ -1,0 +1,70 @@
+{
+  "id": "397",
+  "caseNo": null,
+  "incident": "1110觀塘",
+  "defendants": [
+    {
+      "id": "485",
+      "name": "林",
+      "age": 27,
+      "charges": [
+        {
+          "id": "690",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "遊蕩導致他人擔心"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-05-21",
+  "trialDateTo": "2020-05-21",
+  "trialLength": 1,
+  "verdictDate": "2020-05-21",
+  "sentenceDate": "2020-05-21",
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年11月10日下午4時40分於觀塘警署外單獨徘徊令他人合理地擔心。背囊被搜出鐵筆、白色粉狀混凝土、氯化鈉粉末、打火機、口罩、手套。",
+  "verdict": "罪名不成立",
+  "verdictReason": null,
+  "sentence": "自簽2000元，守行為12個月，期間不得干犯任何遊蕩罪行。堂費1000元。",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "保釋條件如下：\n- 保釋金$3000\n- 不得離港\n- 交出旅遊證件\n- 居住於報稱地址\n- 禁足令 (觀塘警署55米範圍)\n- 每星期報到3次",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "2350",
+        "content": "#觀塘裁判法院第一庭 #徐綺薇署理主任裁判官\n林(27) #提堂（#1110觀塘 遊蕩:涉用手機拍攝出入警署車輛）\n修訂控罪： 1640時於觀塘警署外單獨徘徊，令警長47532合理地擔心。\n\n案情：當時47532駕駛無標記警車離開警署，見到被告企於警署閘口外，pw1 指被告手上持有手機，指因有公眾人士有計劃針對警員的行為令其擔心。1651時，被告被另外兩名警員截停，經搜查後於背囊發現 鐵筆、白色粉狀混凝土、氯化鈉粉末、打火機、口罩、手套。擷取CCTV後，警方指被告於 1541時已在現場流連，曾兩次拍攝離開警署的車輛。警戒下被告稱居於於北區，事發時正等待朋友於晚上6時APM見面，警戒下被告對其他事項維持緘默。\n\n控方是日取得律政司意見，指控辯方同意以其他方式處理。\n\n被告同意以簽保守行為形式處理\n自簽2000元，守行為12個月，期間不得干犯任何遊蕩罪行。堂費1000元。\n\n證物1-26 歸還被告，27-35 歸還警方\n(直播員註：佢咁講我咁mark架咋)",
+        "url": "https://t.me/youarenotalonehk_live/5270",
+        "source": "法庭文字直播台",
+        "datetime": "2020-05-21T02:11:19.000Z"
+      },
+      {
+        "id": "1095",
+        "content": "#觀塘裁判法院第一庭 - 杜浩成裁判官\n林(27) - 遊蕩 #1110觀塘 警署外用手機拍攝出入車輛；背囊撿獲鐵筆、火酒、口罩等物\n\n1457開庭 控方需時驗證被告電話，以及證物4與8。控方申請押後至3月17日。\n\n控方申請增加保釋條件：\n- 禁足令（觀塘警署55米範圍）\n- 被告亦須每星期報到3日\n\n更改後保釋條件如下：\n- 保釋金 3000\n- 不得離港\n- 交出旅遊證件\n- 居住於報稱地址\n- 禁足令 (新增)\n- 每星期報到3次 (新增)⚠️",
+        "url": "https://t.me/youarenotalonehk_live/2509",
+        "source": "法庭文字直播台",
+        "datetime": "2019-12-24T07:09:33.000Z"
+      }
+    ]
+  }
+}

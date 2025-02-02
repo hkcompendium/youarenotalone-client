@@ -1,0 +1,61 @@
+{
+  "id": "199",
+  "caseNo": null,
+  "incident": "0531沙田",
+  "defendants": [
+    {
+      "id": "244",
+      "name": "許",
+      "age": 16,
+      "charges": [
+        {
+          "id": "340",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事毀壞，違反 《刑事罪行條例》(第200章) 第60(1)條"
+        },
+        {
+          "id": "341",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "未經准許張貼海報， 違反《公眾衞生及市政條例》(第132章) 第104A條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-09-01",
+  "magistrate": "溫紹明",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告涉於2020年5月31日在沙田某隧道噴膠貼文宣，被控刑事毀壞及未經准許張貼海報。",
+  "verdict": null,
+  "verdictReason": "",
+  "sentence": "12個月守行為、賠償令",
+  "sentenceReason": "裁判官在被告同意案情後判處被告賠償港幣2000元，並以港幣1000元簽保守行為12個月。另外，控方申請將證物1-8充公，辯方沒有反對。訟費將會從保釋金中扣除。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": "連登討論區：https://lihkg.com/thread/2047379/page/1 ",
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "342",
+  "caseNo": null,
+  "incident": "1001灣仔",
+  "defendants": [
+    {
+      "id": "424",
+      "name": "魏",
+      "age": 29,
+      "charges": [
+        {
+          "id": "595",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲擊警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-07-16",
+  "trialDateTo": "2020-07-17",
+  "trialLength": 2,
+  "verdictDate": "2020-07-22",
+  "sentenceDate": null,
+  "magistrate": " 崔美霞",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年10月1日在香港灣仔軒尼詩道321至331號外，襲擊執行職務的警務人員－督察林泰金。",
+  "verdict": "罪名不成立",
+  "verdictReason": "遇襲警員與目擊警員就被襲擊位置的證供存在關鍵性矛盾，有欠穩妥；雖然被告於警方驅散行動期間身處馬路中央的行為極之可疑，但控方未能舉證至毫無合理疑點，最終裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "獲准以10,000元保釋，其間須守宵禁令和不得離港。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

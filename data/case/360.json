@@ -1,0 +1,68 @@
+{
+  "id": "360",
+  "caseNo": null,
+  "incident": "20200204旺角",
+  "defendants": [
+    {
+      "id": "446",
+      "name": "*",
+      "age": 14,
+      "charges": [
+        {
+          "id": "630",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方擾亂秩序"
+        }
+      ]
+    },
+    {
+      "id": "745",
+      "name": "李",
+      "age": 27,
+      "charges": [
+        {
+          "id": "1056",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，有警員於2020年2月4日晚在旺角山東街與彌敦道交界巡邏時，發現有 20 名黑衣人將發泡膠箱、膠欄拋到彌敦道南行行車線，意圖阻塞交通，當中包括D1。警員其後追截D1，期間D2嘗試拉走他，但最終D1、D2一同被捕。首被告被搜出眼罩、面罩、手套等物品，並在警誡下保持緘默。",
+  "verdict": "D1：批准被告自簽 1,000 元，守行為 18 個月；D2：罪名成立",
+  "verdictReason": null,
+  "sentence": "D2：160小時社會服務令",
+  "sentenceReason": "被告明白及同意感化報告內容。內容指他一直合作，又得父親支持。感化官建議判以中長途社會服務令。法庭採納並跟隨報告建議，判以160小時社會服務令。\n\n裁判官囑咐被告要準時認真遵守，「社會服務令唔係小事，其嚴重性等同坐監」。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "D2曾於張潔宜署理主任裁判官席前投訴，指被告於被捕後在警車上被警員摑臉、扯頭髮以及撞椅背。\n\n案件於2020年5月4日首次提堂，D1當日認罪獲撤控。案件於2020年6月1日再次提堂，D2認罪，並於2020年6月22日判刑，被判160小時社會服務令。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

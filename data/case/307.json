@@ -1,0 +1,55 @@
+{
+  "id": "307",
+  "caseNo": null,
+  "incident": "0921屯門",
+  "defendants": [
+    {
+      "id": "386",
+      "name": "張",
+      "age": 22,
+      "charges": [
+        {
+          "id": "545",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-27",
+  "sentenceDate": "2020-05-27",
+  "magistrate": "葉啓亮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年9月21日下午約2時，屯門區有一個獲批准的公眾遊行，原定由新和里前往政府合署，但其間有人偏離路線，並架設路障及投擲汽油彈，警方遂展開清場行動。下午5時許，約有100名示威者在屯門政府合署外聚集，當中大部份人身穿黑衣及戴口罩，部份人持有武器。其間警方拘捕被告，並在她身上搜獲涉案膠管、面罩、圍巾、護目鏡及法援卡片等。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "監禁三個月",
+  "sentenceReason": "辯方大狀求情透露，被告沒有案底。雖然她於案件定下審期後才認罪，明知未必可獲得全數的三分之一認罪扣減，但仍選擇認罪，反映她的真誠悔意。辯方續指，被告是公開大學心理學系三年級學生，升讀大學前在IVE修讀康復治療高級文憑，成績優異，並且積極參與社會公職事務，例如探訪老人院，亦是保護遺棄動物協會成員。辯方呈交多封由被告家人及前僱主撰寫的求情信，表明她已反省過錯，明白到不論政治理念為何，都不應該犯法，對犯案行為充滿悔意，自知前途盡毀。自被捕後，被告已沒再參與任何集會活動，現時唯一的心願是完成學位課程。\n\n屯門法院裁判官葉啓亮接納被告求情，指她曾是為年輕有為，有抱負的年輕人，但被告的性別和法例均限制法庭懲處的方式，故只有監禁一項判刑選擇。基於被告開審前認罪，法庭給予她四分一刑期折扣，判處她入獄3個月。\n\n",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

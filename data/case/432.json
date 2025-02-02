@@ -1,0 +1,55 @@
+{
+  "id": "432",
+  "caseNo": null,
+  "incident": "1111將軍澳",
+  "defendants": [
+    {
+      "id": "546",
+      "name": "歐",
+      "age": 20,
+      "charges": [
+        {
+          "id": "782",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": "2019年11月12日提堂。\n\n2020年1月7日，再提堂。\n\n2020年7月10日，徐綺薇主任裁判官接納控辯雙方建議，判處被告自簽以2000元守行為12個月，其控罪則獲撤銷。",
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年11月11日，在將軍澳寶順路與翠嶺路交界留下交通錐（雪糕筒）及欄杆。歐則被指於同日，在將軍澳唐明街與唐俊街交界留下水馬及其他雜物。",
+  "verdict": "N/A",
+  "verdictReason": null,
+  "sentence": "罰款2千元及守行為12個月，其控罪則獲撤消。",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "獲准以3000港元現金保釋候訊\n\n",
+  "bailmentCondition": "被禁離港和要在晚11朝6宵禁，和在星期一和六到將軍澳警署報到。\n\n",
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

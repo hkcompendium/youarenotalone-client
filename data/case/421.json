@@ -1,0 +1,55 @@
+{
+  "id": "421",
+  "caseNo": null,
+  "incident": "20200122屯門",
+  "defendants": [
+    {
+      "id": "528",
+      "name": "李",
+      "age": 32,
+      "charges": [
+        {
+          "id": "753",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": " 在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-06-12",
+  "trialDateTo": "2020-06-12",
+  "trialLength": null,
+  "verdictDate": "2020-06-12",
+  "sentenceDate": "2020-06-12",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控罪指被告在2020年1月22日在屯門河田輕鐵站，在公眾地方無合法權限或合理辯解攜有兩項有攻擊性武器，即一樽鹽酸及一枝鐳射筆。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "監禁八個月",
+  "sentenceReason": "法庭認為需要提供公眾適當保護，不認為輕度弱智可為減刑理由，即時監禁是唯一適當判刑選擇。對於辯方提及九龍城鐳射筆管有案六個月監禁，法庭認為本案一樽鹽酸對他人健康安全威脅更大。考慮之後量刑12個月，認罪三分一扣減至八個月。",
+  "bailment": "不獲批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "被告就判刑向高等法院原訟庭上訴得直，刑期減至可獲即時釋放。",
+  "appealJudgementUrl": "https://legalref.judiciary.hk/lrs/common/ju/ju_frame.jsp?DIS=131849&currpage=T",
+  "bailmentAppeal": "批准",
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

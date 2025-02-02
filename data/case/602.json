@@ -1,0 +1,73 @@
+{
+  "id": "602",
+  "caseNo": null,
+  "incident": "0324粉嶺",
+  "defendants": [
+    {
+      "id": "814",
+      "name": "謝",
+      "age": 23,
+      "charges": [
+        {
+          "id": "1203",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "未經准許而在政府土地展示/張貼招貼或海報"
+        }
+      ]
+    },
+    {
+      "id": "815",
+      "name": "馬",
+      "age": 24,
+      "charges": [
+        {
+          "id": "1204",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "未經准許而在政府土地展示/張貼招貼或海報"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "0324粉嶺",
+    "粉嶺裁判法院",
+    "吳重儀裁判官",
+    "文宣"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-05",
+  "sentenceDate": "2020-08-05",
+  "magistrate": "吳重儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "兩名被告被指在2020年3月24日凌晨於港鐵粉嶺站B出口的行人天橋，未得相關政府部門書面准許下，張貼22張大小為21厘米乘30厘米的海報，海報內容為「721唔見人、831打死人、101槍殺人」及「黑警係走狗藍絲唔知醜」。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "各罰款港幣一萬元",
+  "sentenceReason": "裁判官一度欲逐張海報 (定額罰款為1500元) 計算罰款，但從控方得悉控罪最高罰款為一萬元後，終判處兩名被告各罰款一萬元。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

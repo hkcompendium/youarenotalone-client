@@ -1,0 +1,57 @@
+{
+  "id": "331",
+  "caseNo": null,
+  "incident": "0809機場",
+  "defendants": [
+    {
+      "id": "414",
+      "name": "何",
+      "age": 64,
+      "charges": [
+        {
+          "id": "585",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "襲擊致造成身體傷害"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "0809機場"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-07-08",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，案發當晚近 6 時半，事主從外地返港，完成入境手續，在抵港大堂看見很多示威者聚集，他便用手機拍下示威情況。在走向的士站途中，他見到一名中年女士手持印有不同語言的「Free HK」字板，質問該女士「Free 乜嘢 HK」，女子沒有回應。此時一名身穿綠色裙女子走到事主前，向他講粗口並欲用黃色字板襲擊，雙方爭拗近1分鐘。\n\n事主隨後繼續走到的士站，途中不斷質問示威者字板上字句的意思，但無人理會。事主走至翡翠拉麵小籠包餐廳外時，見到兩名機管局職員，質問他們為何容許這麼多示威者集結，對旅客做成滋擾，職員解釋目前情況失控。在附近的示威者聽到上述對話，感到不滿，超過 100 人包圍事主，期間有人用粗口指罵，職員勸喻事主離開。突然間，事主的左邊面部被人打了一下，他轉頭看見被告正在縮手並後退，消失在人群中。事主最終在機管局職員的護送下登上的士。\n\n事主及後到廣安醫院驗傷，發現有兩處輕微擦傷。警方在進一步調查後找到被告，並在其住所將他拘捕，同時搜出被告當日穿著的衣物。被告在警誡下保持緘默，在錄影會面時自稱沒有仼何政治立場。機場閉路電視錄影片段則拍到被告從後揮拳襲擊事主。（節錄自立場新聞）",
+  "verdict": "",
+  "verdictReason": null,
+  "sentence": "判監 3 個月、緩刑 2 年",
+  "sentenceReason": "辯方求情時引述被告親自撰寫求情信，指被告深感後悔，知道因言語爭執而打人一拳屬違法，承諾不會再犯。辯方強調，是次事件為單一事件，當時現場人士情緒高漲，被告一時衝動才犯案。事主的傷勢不重，鼻樑上有一處 0.5 厘米擦傷，而被告已經向事主道歉。\n\n辯方指，被告為獨居退休人士，患有糖尿病。雖然被告有 3 次案底，有一次更與暴力有關，但相關案底發生於 80 年代，最近的案底已發生於 2003 年，被告此後一直奉公守法，希望法庭輕判。\n\n主任裁判官羅德泉指，事件起因於二人對事物有不同的看法，但被告乘人之危，從後揮拳襲擊事主，所幸暴力程度不算嚴重，亦沒有對事主造成嚴重傷害，因此以 4 個月監禁為量刑起點，認罪後獲扣減刑期，最終判監 3 個月、緩刑 2 年。（節錄自立場新聞）",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "529",
+  "caseNo": null,
+  "incident": "1102葵涌",
+  "defendants": [
+    {
+      "id": "684",
+      "name": "程",
+      "age": 23,
+      "charges": [
+        {
+          "id": "964",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖損壞財產"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-11-16",
+  "sentenceDate": "2020-11-16",
+  "magistrate": "王詩麗",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年11月2日在葵涌德士古道57至65號宏華大廈地下A5號店舖外管有(1)一罐黑色噴漆、(2) 一個鎚仔、(3)一支藏有500mL天拿水的米酒樽、(4)四塊白布、(5)一支打火機，有意圖而無合法辯解損壞屬於其他人的財產",
+  "verdict": "罪名成立",
+  "verdictReason": "裁判官宣讀判詞，指辯方提出兩個爭議點：1）證物係咪被告嘅，2）就算係被告嘅，被告有冇犯罪意圖。\n\n裁判官解釋不接納的原因，1）證物係咪被告嘅；辯方律師提出兩處疑點，1a）在冰室內眾人離開時一齊攞背囊，可能會調亂；裁判官認為每人都會小心看管自己的財物，離開時應該會留意，孭上身時，背囊的重量和質感會有差別，應該會發覺；1b）在被搜查時，多名被捕人的背囊一齊放在地上會調亂；裁判官睇過由辯方提供的片段，清楚見到每一名被捕人士係有分隔開，覺得證人誠實可靠，信納佢嘅證供，冇攞錯背囊。\n\n2）被告有冇犯罪意圖；裁判官引用案例指控罪無須明確指明損壞某人財產，又指專家報告證明被告管有高度易燃的天拿水500ml，基於以下三個原因：\na）被告管有錘仔、天拿水、布料、打火機、玻璃樽、噴漆，可以作破壞用途\nb）當時身在公眾地方，容易造成傷亡\nc）物品有相當重量，而佢隨身攜帶\n本席肯定被告在短期內有意圖損壞他人財產，裁定罪名成立。",
+  "sentence": "監禁12個月",
+  "sentenceReason": "辯方律師交代被告成長過程有波折，現正讀大學四年班，呈上由被告女友、中學老師、大學老師和區議員所撰寫的求情信，被告志願做教師，事件已令志願落空，希望法庭考慮。\n\n裁判官提出案例給辯方律師參考，説以此案例為量刑起點，律師閱讀完畢後再作求情，案例比此案嚴重，有鹽酸有雷射筆有傷人，請法庭考慮此案並無確實基楚講傷亡。\n\n律師多次請求法庭考慮以感化或社會服務令代替監禁，裁判官斷然拒絕，説刑責並不相稱，判刑以十二個月為起點，考慮所有因素後，並無減刑理由，判處即時監禁；律師即時申請保釋等候上訴，承諾接受法庭的保釋條件，但即時被拒絕。",
+  "bailment": "批准",
+  "bailmentRemarks": "保釋條件：$500現金、宵禁令 21-07",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

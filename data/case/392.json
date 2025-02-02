@@ -1,0 +1,59 @@
+{
+  "id": "392",
+  "caseNo": null,
+  "incident": "1209大埔",
+  "defendants": [
+    {
+      "id": "474",
+      "name": "*",
+      "age": 15,
+      "charges": [
+        {
+          "id": "668",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有物品意圖損壞財產，違反 《刑事罪行條例》(第200章) 第62 (a) 條 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1209大埔",
+    "蘇文隆",
+    "管有物品意圖損壞財產"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-12-10",
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年12月9日，兩名九巴司機駕駛巴士到大埔文娛中心對出的巴士站外停車上客，準備離開車站時，一群示威者向兩部巴士揮手，隨即有人用噴漆噴向巴士的擋風玻璃，其後逃去。\n\n同一時間，有警員在安祥路及安慈路交界巡邏，看見一群示威者正向他們方向跑來。示威者見警員在場，立即掉頭逃跑。一名警署警長捉住被告的背包，被告企圖逃走，手上一支黃色噴漆跌下，最終被告遭制服，其手指沾有黑色漆油，拘捕地點與巴士距離約100米。被告警誡下說：「我知道係我錯，我好後悔，希望畀機會我。」（節錄自蘋果日報）",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "18個月保護令",
+  "sentenceReason": "感化報告顯示被告表現良好，有悔意。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

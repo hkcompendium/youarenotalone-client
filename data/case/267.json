@@ -1,0 +1,68 @@
+{
+  "id": "267",
+  "caseNo": null,
+  "incident": "0907天水圍",
+  "defendants": [
+    {
+      "id": "325",
+      "name": "梁",
+      "age": 21,
+      "charges": [
+        {
+          "id": "457",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞"
+        }
+      ]
+    },
+    {
+      "id": "326",
+      "name": "梁",
+      "age": 21,
+      "charges": [
+        {
+          "id": "458",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-04",
+  "sentenceDate": "2020-05-18",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於19年9月7日在天水圍輕鐵濕地公園站和損壞八達通機，及噴污閉路電視、兩部售票機、兩部資料顯示屏，港鐵職員認得被告有份參與損壞\n\nD1: 使用錘仔損壞售票機、資料顯示屏\nD2: 使用錘仔損壞八達通入閘機、售票機及資料顯示屏\n\n示威人士隨後逃逸至附近屋苑，警員其後認得被告，兩名被告身穿黑衣，D1保持緘默，D2在警誡下承認控罪並帶領警方搜尋證物，D2承認將犯案衣服放於背包，並指一時衝動而犯案",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "監禁7星期",
+  "sentenceReason": "量刑起點為15星期監禁，認罪扣減1／3後減至10星期，破壞後及時作出賠償是一個減刑因素，再減3星期，刑期減至7星期，雖然得悉被告家庭有困難，但並非適合的求情理由，緩刑並不適合",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": "不得離港，須交出旅遊證件和遵守宵禁令",
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

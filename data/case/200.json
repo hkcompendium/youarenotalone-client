@@ -1,0 +1,58 @@
+{
+  "id": "200",
+  "caseNo": null,
+  "incident": "1006九龍塘",
+  "defendants": [
+    {
+      "id": "245",
+      "name": "*",
+      "age": null,
+      "charges": [
+        {
+          "id": "342",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    " 攻擊性武器"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-07",
+  "sentenceDate": "2020-09-11",
+  "magistrate": "梁嘉琪",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控罪指，15歲被告於2019年10月6日在九龍塘真光里攜有彈叉、四粒波子、一支斷行山棍，以及可發出激光的儀器。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "守行為一年",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "管有攻擊性武器，違反《公安條例》(第245章)  第33條",
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

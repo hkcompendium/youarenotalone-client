@@ -1,0 +1,60 @@
+{
+  "id": "115",
+  "caseNo": null,
+  "incident": "1118油麻地",
+  "defendants": [
+    {
+      "id": "132",
+      "name": "施",
+      "age": 19,
+      "charges": [
+        {
+          "id": "188",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖損壞財產，違反 《刑事罪行條例》(第200章) 第62 (a) 條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "管有物品意圖損壞財產",
+    "1118油麻地",
+    "鄭念慈裁判官",
+    "九龍城裁判法院第五庭"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2020-12-04",
+  "sentenceDate": "2020-12-18",
+  "magistrate": "鄭念慈",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年11月18日，在油麻地佐敦道與志和街交界管有10條六角匙及1個剪鉗，意圖摧毀屬於路政署的圍欄。",
+  "verdict": "罪名成立",
+  "verdictReason": "PW1 & PW2 是誠實可靠的證人，法庭不相信被告在警誡下的說法是真。\n\n法庭會考慮案發時間，地點，周遭環境，案發時間是凌晨02:58，被告於逆線停泊的私家車上的乘客位，案發地點附近，早前有事發生，PW1指他當時步行到案發現場，看到路面上有大量雜物，障礙物，阻礙行車路，亦有金屬欄杆。\n\n控方的檢控基礎是P34能擰開欄杆，及被告有意圖去使用。剪鉗可以擰欄杆，同時亦可損壞其他財物，當時被告不同大小的六角匙，亦可擰其他吻合的物品。因此，P34必然是自己或提供及他人使用，以摧毀財產。",
+  "sentence": "判入更生中心",
+  "sentenceReason": "有索取勞教中心，更生中心報告，因為更生中心報告指被告牽涉另一宗區院案件，辯方確認情況，裁判官表示不考慮社會服務令，判入更生中心。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 15,
+  "appeal": "辯方申請保釋等候上訴，被裁判官拒絕。",
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

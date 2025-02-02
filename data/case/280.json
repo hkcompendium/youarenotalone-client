@@ -1,0 +1,81 @@
+{
+  "id": "280",
+  "caseNo": null,
+  "incident": "1228大圍",
+  "defendants": [
+    {
+      "id": "338",
+      "name": "林",
+      "age": null,
+      "charges": [
+        {
+          "id": "470",
+          "verdict": null,
+          "plea": null,
+          "charge": "刑事損壞"
+        }
+      ]
+    },
+    {
+      "id": "339",
+      "name": "陳",
+      "age": null,
+      "charges": [
+        {
+          "id": "471",
+          "verdict": null,
+          "plea": null,
+          "charge": "刑事損壞"
+        }
+      ]
+    }
+  ],
+  "description": "當晚約10時，1名途人左先生踩單車經過隧道NS34，目睹2人在隧道內用噴漆噴字。左先生向積存街方向離去並致電999報案，其後見到附近有警車巡邏，遂向警員求助。",
+  "tags": [
+    "沙田裁判法院第一庭",
+    "溫紹明署理主任裁判官",
+    "1228大圍",
+    "提堂"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "溫紹明",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年12月18日在大圍連接美田邨的行人隧道NS34用噴漆損壞屬於香港政府的財物，即隧道的牆壁",
+  "verdict": "",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "刑事損壞"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "3337",
+        "content": "#沙田裁判法院第一庭\n#溫紹明署理主任裁判官\n#1228大圍 #提堂\n\nD1: 林\nD2: 陳\n\n控罪：刑事損壞\n被控於2019年12月18日在大圍連接美田邨的行人隧道NS34用噴漆損壞屬於香港政府的財物，即隧道的牆壁\n\n案情：\n當晚約10時，1名途人左先生踩單車經過隧道NS34，目睹2人在隧道內用噴漆噴字。左先生向積存街方向離去並致電999報案，其後見到附近有警車巡邏，遂向警員求助。\n\n約10時16分，警員在附近巡邏在上址見到2人坐在地上，2人手持噴漆。警員嘗試接近2人，2人隨即逃向下城門道。林在下城門道被附近的警員截停，在身上搜出1罐藍色噴漆。陳逃至大圍村被制服，身上搜出1罐紅色噴漆。\n\n左先生認出2人，指案發時與2人相距約10米。2人在10時45分被捕。警誡下林承認對政府感到憤怒，故在地上噴漆表達不滿；陳表示只是一時貪玩。\n\n2名被告同意案情，裁判官指示案件以簽保守行為方式處理，控方撤回控罪\n\n2名被告各以$2,000簽保守行為12個月，期間需奉公守法，不得作出破壞社會安寧行為及損壞他人財產，尤其屬香港政府的財物\n2名被告亦需支付$500堂費，由保釋金中扣除\n證物1至4充公",
+        "url": "https://t.me/youarenotalonehk_live/7064",
+        "source": "法庭文字直播台",
+        "datetime": "2020-07-16T07:46:20.000Z"
+      }
+    ]
+  }
+}

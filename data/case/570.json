@@ -1,0 +1,55 @@
+{
+  "id": "570",
+  "caseNo": null,
+  "incident": "0727元朗",
+  "defendants": [
+    {
+      "id": "741",
+      "name": "劉",
+      "age": 23,
+      "charges": [
+        {
+          "id": "1049",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "阻撓在正當執行職務的警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-05-28",
+  "trialDateTo": "2020-05-29",
+  "trialLength": 2,
+  "verdictDate": "2020-06-17",
+  "sentenceDate": "2020-06-17",
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案發當天晚上，在元朗一主要街道上有示威活動，人群集結多時，警方採取行動驅散。控方指稱，被告人故意使用身體阻撓一名在列隊中的警員，使警員不能隨隊順利前進向前方的示威者施壓進行驅散。",
+  "verdict": "罪名成立",
+  "verdictReason": "裁判官指，被告故意阻撓警方推進，希望警方給予示威者時間離開的行為是在迫使正推進的警員背棄職責，不合理。當中，被告令PW3的行動不便，阻撓其工作，令他不能堅守崗位。除外，被告也影響當時正在向前推進的警方陣勢，打亂警方陣容，令警方數分鐘後才能重新部署。警方向前推進的行為合情及合法，推進決定及行動比例也不過分。\n\n被告的阻撓迫使警員將他推至路邊，令被告跌倒。法官認為，在驅散的過程中，推撞的行為是無可避免，後果自負。",
+  "sentence": "監禁1年。刑期上訴得直，改判囚 8 個月。",
+  "sentenceReason": "裁判官指當時示威者正在參與非法集結，他們情緒激動，有人向警方投擲磚頭、雜物，更用激光、強光照射警方，因此警方有必要作出拘捕。惟被告有規模地聯同兩位疑似社工的人士一同阻撓警方推進，而這行動成功妨礙警方陣營前進數分鐘，令警方的示威者拘捕行動難上加難。過程中，警方多次勸逾被告離開，但被告也沒有理會警方要求。\n\n針對刑期上訴，法官指平衡各方考慮因素，並顧及被告屬於初犯後，認為判囚8個月已足夠，故將刑期由原判的一年減至 8 個月。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "劉家棟其後向高院申請上訴至終審法院許可證亦遭拒絕， 相關裁決書： https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=135208&QS=%2B&TP=JU\n\n據了解，劉家棟仍會直接向終院申請上訴許可。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "定罪上訴駁回，維持定罪原判。  判處上訴得直，刑期由12個月減為8個月。被告其後向高院申請上訴至終審法院許可證亦遭拒絕。",
+  "appealJudgementUrl": "https://legalref.judiciary.hk/lrs/common/ju/ju_frame.jsp?DIS=133687&currpage=T",
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

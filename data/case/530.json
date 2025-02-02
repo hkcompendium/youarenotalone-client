@@ -1,0 +1,55 @@
+{
+  "id": "530",
+  "caseNo": null,
+  "incident": "1123粉嶺",
+  "defendants": [
+    {
+      "id": "685",
+      "name": "呂",
+      "age": 38,
+      "charges": [
+        {
+          "id": "965",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "抗拒或阻礙公職人員執行公務"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-10-30",
+  "trialDateTo": "2020-10-30",
+  "trialLength": 1,
+  "verdictDate": "2020-11-24",
+  "sentenceDate": null,
+  "magistrate": "陳炳宙",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年11月23日，在粉嶺港鐵站對出的太和路天橋阻礙執行公務的食環署一級督察。\n\n督察身穿便服帶同路政署人員及外判清潔工在粉嶺港鐵站對出清理違例文宣期間，被告用揚聲器詢問行動詳情及法理依據。督察拒絕透露公職人員身分並稱因提防「起底」沒有展示委任證。督察其後離開現場並在警方陪同下重返現場，並隨即拘捕被告。",
+  "verdict": "罪名不成立",
+  "verdictReason": "本案兩大爭議，第一為被妨礙者是否依法執行公務的公職人員；第二，有否構成妨礙。\n\n法庭指本案證人食環署職員的證供可信性成疑。據本案片段中清晰可見，被告人多次查詢職員身份，惟職員從沒回應問題。麥先生工作期間身穿便服，從沒有向被告人展示委任證。早前盤問下，麥先生承認自己不方便透露自己真正身份。故此，法庭認同辯方以mistake of fact（身份認知）作為抗辯理由。\n\n第二，早前作供麥先生及黎警長曾表示被告人妨礙清潔工作，但麥先生在主問及盤問下更正清潔工作從未開展。法庭認為被告人只是在麥先生準備指示清潔工人開展工作前都追問麥先生身份，在清潔工作完全未開始，「極其量只是造成不便，或者令職員做了少許額外工作。」（引談立徽案，2005）\n\n法庭表示控方在檢視證物及證供，在決定起訴一名市民時，應考慮有否合理定案機會。認為控方作出檢控是不合理的決定，同意發還訟費。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "辯方申請訟費，遭控方反對，但陳官認為控方是次起訴的決定不合理，最終批出訟費。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

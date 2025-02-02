@@ -1,0 +1,55 @@
+{
+  "id": "148",
+  "caseNo": null,
+  "incident": "20200322天水圍",
+  "defendants": [
+    {
+      "id": "172",
+      "name": "黃",
+      "age": 25,
+      "charges": [
+        {
+          "id": "240",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於2020年3月22日於天水圍帶備4支噴漆噴在欄杆上。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "140小時社會服務令，即日繳付$3000維修費",
+  "sentenceReason": "張官認為被告有預謀，因(1)被告帶有4支噴漆，且有噴嘴；(2)被告於凌晨時份犯案。張官認為被告即使一時衝動亦不能用非法方式表達不滿。\n\n張官表示給予被告最後一次機會，判處被告140小時社會服務令，另賠償令須今日內繳付。控方申請社會服務令報告及感化報告各一份，辯方不反對。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

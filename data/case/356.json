@@ -1,0 +1,76 @@
+{
+  "id": "356",
+  "caseNo": null,
+  "incident": "1005黃大仙",
+  "defendants": [
+    {
+      "id": "440",
+      "name": "林",
+      "age": 25,
+      "charges": [
+        {
+          "id": "624",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有攻擊性武器或適合作非法用途的工具，違反《簡易程序治罪條例》(第228 章) 第17 條"
+        }
+      ]
+    },
+    {
+      "id": "441",
+      "name": "何",
+      "age": 18,
+      "charges": [
+        {
+          "id": "625",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "有意圖而管有攻擊性武器，違反《簡易程序治罪條例》(第228章) 第17條 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-14",
+  "sentenceDate": null,
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "D1被控於2019年10月5日，在黃大仙橫頭磡中道近樂富廣場巴士總站，管有一把扳手（士巴拿）；D2被控於同日同地管有攻擊性武器，即一個能發出雷射光束的裝置（雷射筆）。",
+  "verdict": "被告同意案情，控方撤控，兩名被告各自簽港幣1,000元守行為",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "2262",
+        "content": "#觀塘裁判法院3樓1庭\n#徐綺薇署理主任裁判官\n#1005黃大仙 #提堂\n\nD1 林（25）\nD2 何（18）\n\n控罪：\n\nD1:管有攻擊性武器或適合作非法用途的工具\nD2:有意圖而管有攻擊性武器\n\n案情：林被控於2019年10月5日，在黃大仙橫頭磡中道近樂富廣場巴士總站，管有一把扳手（士巴拿）；何則被控於同日，在上址管有攻擊性武器，即一個能發出雷射光束的裝置（雷射筆）。\n\n\n兩位被告同意案情，並同意簽保守行為一年\n\n控方撤回所有控罪\n\n兩位被告需支付堂費1000元，費用將從保釋金中扣除。",
+        "url": "https://t.me/youarenotalonehk_live/5106",
+        "source": "法庭文字直播台",
+        "datetime": "2020-05-14T07:28:26.000Z"
+      }
+    ]
+  }
+}

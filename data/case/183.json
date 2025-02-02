@@ -1,0 +1,57 @@
+{
+  "id": "183",
+  "caseNo": null,
+  "incident": "1225九龍灣",
+  "defendants": [
+    {
+      "id": "223",
+      "name": "謝",
+      "age": 20,
+      "charges": [
+        {
+          "id": "306",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "抗拒在正當執行職務的警務人員，違反《侵害人身罪條例》(第212章) 第36(b)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "拒捕"
+  ],
+  "trialDateFrom": "2020-12-28",
+  "trialDateTo": "2020-12-29",
+  "trialLength": 2,
+  "verdictDate": "2020-12-29",
+  "sentenceDate": null,
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年聖誕節，市民在多區發起「和你shop」抗爭活動，進入商場表達訴求。其中，警方闖入九龍灣德福廣場驅散市民，繼而爆發警民衝突。",
+  "verdict": "罪名不成立",
+  "verdictReason": "證供分析：\n\n舉證責任在於控方，控方需舉證至毫無合理疑點才可定罪。被告沒有案底，犯罪傾向性較低，證供可信性較高，法庭已作出適當指引。\n\n除3名控方證人供詞外，控方還倚賴德福廣場一期閉路電視錄影片段，即控方證物P2。\n\nPW1供稱見到被告在警員制服下掙扎，甚至激烈到扯住警員移動。然而，法庭仔細、反覆觀看P2，沒有見到PW1所述的情況。相反，從P2中可見1名頭戴頭盔、手持圓盾的男子站在扶手電梯出口處，被告離開扶手電梯時遭阻擋，而扶手電梯上仍有其他人士。被告向右方閃避，隨即有4至5名警員「二話不說」制服被告，並有警員向被告揮動警棍。法庭形容，警員的襲擊是「突如其來」，被告根本不及反應。\n\nPW1及2形容被告曾「激烈」、「猛烈」地反抗。但從P2可見，有7至8名警員用身軀壓住被告，再加上其裝備重量，被告根本不可能作出反抗。而控方案情指被告曾向玻璃門方向逃走，但P2中沒有看到被告有逃跑。法庭厲聲批評，案發時警員根本沒有任何合理基礎向被告使用警棍及胡椒噴劑。\n\n接納被告證供：\n對比過P2與被告證供，法庭認為被告證供合情合理，接納被告的證供。法庭信納被告說法，指自己用膊頭試圖抹去面上胡椒噴劑殘餘物，以減輕不適，絕非如PW1所言是以很大力度試圖掙脫警員控制。\n\n不接納PW1及PW2證供：\n基於以上分析，法庭認為PW1及2的供詞並非事實，拒絕接納其證供。\n\n\n裁決：\n控方未能舉證至毫無合理疑點，法庭裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "被控於2019年12月25日，在牛頭角偉業街33號德福廣場一期一樓六福珠寶外，抗拒正當執行職務的警員。"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

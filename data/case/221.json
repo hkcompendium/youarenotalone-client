@@ -1,0 +1,55 @@
+{
+  "id": "221",
+  "caseNo": null,
+  "incident": "1204青衣",
+  "defendants": [
+    {
+      "id": "267",
+      "name": "陳",
+      "age": 33,
+      "charges": [
+        {
+          "id": "379",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方造成阻礙罪"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-08-13",
+  "magistrate": "鍾明新",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，被告於去年12月4日，在青衣長青邨青榕樓外迴旋處的公眾地方，無合法權限及合理解釋將一個塑膠圍欄及一個黃色道路安全閃燈放在路上，在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "120小時社會服務令",
+  "sentenceReason": "裁判官判刑時指，雖案發時間是清晨，馬路上行車不多，但是被告的行為對於交通亦會造成一定風險，但考慮到被告認罪，感化官對他評價正面，用以堵路的並非危險或易燃物品，事件僥倖地沒有造成財物損失或人命傷亡，因此社會服務令是合適的刑罰。報告建議判處少於80小時社會服務令，但裁判官認為調高至120小時是合適。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

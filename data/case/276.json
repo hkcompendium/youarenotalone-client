@@ -1,0 +1,55 @@
+{
+  "id": "276",
+  "caseNo": null,
+  "incident": "1108銅鑼灣",
+  "defendants": [
+    {
+      "id": "334",
+      "name": "林",
+      "age": 34,
+      "charges": [
+        {
+          "id": "466",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲警"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-06-05",
+  "trialDateTo": "2020-06-05",
+  "trialLength": 1,
+  "verdictDate": "2020-06-24",
+  "sentenceDate": null,
+  "magistrate": "林希維裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告林耀庭被指於2019年 11 月 8 日，在銅鑼灣崇光百貨外以磚頭襲擊警員魯君樑。",
+  "verdict": "罪名不成立",
+  "verdictReason": "兩項臨時證物(兩段直播片段)畫面清晰，流暢，而且是動態畫面(非照片等硬件)、有聲音，難以作刪改。兩段片段的的拍攝位置雖然不同，但內容如出一轍。因此確定兩段片段的表面證供成立，作證物P6, P7。\n\n本案有兩名關鍵控方證人作供，分別為聲稱受襲警員魯君樑及當天協助魯君樑制服被告的警員謝南偉，裁判官林希維裁定兩名警員的證供不可信，難以信納。\n\n針對魯君樑的證供，裁判官先指出，魯君樑在書面口供中聲稱被擊中左胸，但呈堂片段可見，魯沒有被仼何東西擊中。魯於庭上作供時亦一度改口，雖然他否認是看完片段後才改口供，但他未能解釋為何會在書面口供稱自己被擊中。\n\n此外，魯又供稱受襲後有市民行近他，因此他需施放胡椒噴霧。裁判官指，《大紀元》片段顯示，事後並沒有市民走近他；相反，在他起步追截掟磚人士時，市民正在散開。基於上述原因，裁判官拒絕接納魯的證供。\n\n至於謝南偉早前在庭上供稱，親眼目睹有人向警車掟磗，裁判官裁定謝警員的證供不可信。裁判官指出，呈堂片段可見，案發時謝正望向右方，但向警方投擲磚頭的人士卻在左方。當魯君樑追截掟磚人士時，謝仍然望向右方，並做手勢指示人群離去；到謝望向左方時，市民及掟磚人士早已四散。因此，裁判官不相信謝親眼目睹案發過程。\n\n裁判官指，雖然被告是近距離被捕，而當時只有被告身穿黑色長袖衫，但現場人多，大部分人士穿著深色上衣，而呈堂片段亦未能拍下魯君樑追捕過程。鑑於疑點利益歸與被告，因此裁判官裁定罪名不成立，被告當庭無罪釋放。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

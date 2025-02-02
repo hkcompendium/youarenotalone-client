@@ -1,0 +1,59 @@
+{
+  "id": "462",
+  "caseNo": null,
+  "incident": "1102中環",
+  "defendants": [
+    {
+      "id": "599",
+      "name": "王",
+      "age": 16,
+      "charges": [
+        {
+          "id": "855",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "管有攻擊性武器罪"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1102中環",
+    "撤銷控罪",
+    "東區裁判法院第一庭"
+  ],
+  "trialDateFrom": "2019-11-12",
+  "trialDateTo": "2020-01-07",
+  "trialLength": null,
+  "verdictDate": "2020-01-07",
+  "sentenceDate": "2020-01-07",
+  "magistrate": "香淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控2019年11月2日在中環畢打街與干諾道中交界管有一把鎅刀及「雷射槍」，意圖將其作非法用途使用。",
+  "verdict": "控方申請撤回控罪，獲裁判官批准，辯方沒有訟費申請。",
+  "verdictReason": "據悉，控方因證據不足撤控。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "管有攻擊性武器罪"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

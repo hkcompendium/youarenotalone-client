@@ -1,0 +1,55 @@
+{
+  "id": "197",
+  "caseNo": null,
+  "incident": "1031旺角",
+  "defendants": [
+    {
+      "id": "241",
+      "name": "曾",
+      "age": 16,
+      "charges": [
+        {
+          "id": "334",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有適合作非法用途工具"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-28",
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於去年10月31日在旺角洗衣街與豉油街交界管有700條索帶。案情指當晚約8時，女警與同僚在山東街及彌敦道交界進行驅散行動，在山東街及豉油街交界看見有80人聚集，人群見到警察後隨即四散，女警將身穿黑衣、黑手袖，背上黑背包的女被告截停，並搜出涉案物品以及護目鏡、索帶、生理鹽水等物。被告警誡下保持緘默。",
+  "verdict": "簽保守行為",
+  "verdictReason": null,
+  "sentence": "自簽1,000元、守行為兩年",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

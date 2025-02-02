@@ -1,0 +1,64 @@
+{
+  "id": "626",
+  "caseNo": null,
+  "incident": "20200508中環",
+  "defendants": [
+    {
+      "id": "863",
+      "name": "鄧",
+      "age": 22,
+      "charges": [
+        {
+          "id": "1264",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "阻撓在正當執行職務的警員，違反《侵害人身罪條例》(第212章)  第36條"
+        },
+        {
+          "id": "1265",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "抗拒在正當執行職務的警務人員，違反《侵害人身罪條例》(第212章) 第36條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "阻差辦公",
+    "拒捕"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2021-03-22",
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告為浸大新聞系學生、浸大編委前學生記者，在2020年5月8日採訪中環國際金融中心商場「和你lunch」活動時被捕，2020年11月3日正式被警方以阻差辦公及拒捕兩項罪名落案起訴。\n\n2021年3月22日，羅德泉要求被告自簽$1,000守行為24個月。",
+  "verdict": "自簽$1,000守行為24個月",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

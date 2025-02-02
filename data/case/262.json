@@ -1,0 +1,58 @@
+{
+  "id": "262",
+  "caseNo": null,
+  "incident": "0915北角",
+  "defendants": [
+    {
+      "id": "319",
+      "name": "梁",
+      "age": 39,
+      "charges": [
+        {
+          "id": "444",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "普通襲擊，違反《侵害人身條例》(第212章) 第40條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#0915北角",
+    "#崔美霞裁判官"
+  ],
+  "trialDateFrom": "2020-07-06",
+  "trialDateTo": "2020-07-07",
+  "trialLength": 2,
+  "verdictDate": "2020-07-10",
+  "sentenceDate": null,
+  "magistrate": "崔美霞裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控罪指，被告梁國偉（39歲）於去年9月15日在北角英皇道益新洋樓外襲擊顏加星（72歲）。",
+  "verdict": "罪名不成立",
+  "verdictReason": "簡短口頭判詞：\n本席作出裁決前已充分考慮所有證據及證人供詞，不在此重覆。辯方案情指出，PW1搶走在場黑衣人的鋁棍後，作勢欲打途人，被告見狀才搶走事主的棍，保護在場人士。另外，兩名控方證人屬父子關係，並不是案件的獨立證人。\n就PW1證供而言，本席認為他的庭上作供，在多處關鍵細節存在矛盾。主問時聲稱無見到現場有其他人有暴力行為，但呈堂片段顯示現場混亂，多人打鬥，PW1看不到，有違常理。另外，PW1聲稱被被告用右手抓傷，但承認與被告揸住同一枝棍。因此本席認為PW1說法存有內在不可能性，而片段亦無顯示被告用右手施襲\n接受盤問下亦承認，只知被人從後用棍襲擊，並無見到背後施襲的人，承認自己年紀老邁，記憶不好。因此，本席不接納PW1的證供。\n就PW2作供而言，他的作供與PW1存在關鍵性矛盾，亦與涉案呈堂影片內容不符。他聲稱目睹被告用棍由上至下打PW1，但PW1卻沒有在作供時提及。\n由於控方無證據基礎指向，用棍打PW1頭的是被告，亦無證據顯示PW1的傷勢與被告有關。因此，本席裁定被告普通襲擊罪，罪名不成立。\n\n批准訟費申請：\n辯方指雖然被告長時間逗留在混亂現場，但不代表有份參與暴力等行為，因此沒有構成自招之嫌疑。案情及證據雖顯示被告是主動接觸金屬棍（證物二），但動機並非作暴力等行動，而是保護他人，阻止非法暴力事件發生。\n控方指現場有多名警員駐守，但被告沒有召喚警員解決及尋求協助。而且被告同意金屬棍不是自己的，又為何要搶別人的棍呢？因此有嫌疑。影片證據只顯示案發的後段，而沒有開端的部份，不能完整顯示案情。辯方證物二為圖片，但圖片質素差。新聞直播的片段證據又不清晰，因此有嫌疑。\n法庭指出辯方能提供案情的事序，而且能清楚交代。辯方也是就控辯雙方的陳詞下申請之決定，也跟據法庭的裁決下申請。因此法庭接受辯方的訟費申請。\n",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "630",
+  "caseNo": null,
+  "incident": "1102灣仔",
+  "defendants": [
+    {
+      "id": "869",
+      "name": "陳",
+      "age": 34,
+      "charges": [
+        {
+          "id": "1275",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖損壞財產"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1102灣仔"
+  ],
+  "trialDateFrom": "2020-08-03",
+  "trialDateTo": "2020-08-03",
+  "trialLength": 1,
+  "verdictDate": "2020-08-03",
+  "sentenceDate": null,
+  "magistrate": "何俊堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年11月2日在灣仔警總外，管有兩罐噴漆、一個模板和兩對沾有油漆污漬的手套。\n",
+  "verdict": "罪名不成立",
+  "verdictReason": "大部分證供不受爭議。P1未能顯示被告有參與聚集/堵路的行為，亦顯示不了軒尼詩道的聚集中有人做出用噴漆損壞財產的情況或有進一步/其他破壞行為出現。\n亦沒有證據顯示被告是從軒尼詩道前往被截查的地點，更證明不了被告有參與軒尼詩道的示威。涉案物品可以有其他用途，例如製作宣傳物品等，而這些宣傳物品常常都會在示威現場中出現。單憑現有證據，亦證明不了被告管有涉案物品的唯一合理推論就是意圖損壞他人財產。鑑於控方未能一盡舉證責任，疑點利益歸於被告，裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": "https://legalref.judiciary.hk/doc/judg/pdf/vetted/other/ch/2020/ESCC000722_2020.pdf",
+  "bailmentAppeal": null,
+  "complaints": "https://www.judiciary.hk/zh/about_us/complaints_responses/responses_20201008.html ",
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

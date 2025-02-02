@@ -1,0 +1,58 @@
+{
+  "id": "547",
+  "caseNo": null,
+  "incident": "1031旺角",
+  "defendants": [
+    {
+      "id": "713",
+      "name": "盧",
+      "age": 24,
+      "charges": [
+        {
+          "id": "1015",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1031旺角",
+    "雷射筆"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-10",
+  "sentenceDate": "2020-09-08",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年10月31日，在旺角近洗衣街及山東街交界，無合法權限或合理辯解，攜有一個能發射雷射光束的裝置。當時被告面戴圍巾，黑衣帽，和手套等，手上持有兩個燈膽。警方仔細搜身發現他褲袋內有一支雷射筆。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "160小時社會服務令",
+  "sentenceReason": "被告求情指雷射筆是其他示威者給他的，並沒有預謀犯案。\n\n辯方陳述社會服務令和背景報告，指被告沒有刑事定罪紀錄，家庭完好融洽，而上司則稱讚被告工作會主動幫助人，與同事相處融洽，打算將被告升職。報告又指被告犯案為一時衝動，涉案雷射筆亦由現場示威者給予，被告了解其攻擊性後感到後悔，願意接受社會服務令改過自新，未來奉公守法。感化官相信被告有正當職業，不會重犯，深切反省後知道不應以暴力非法方式表達意見。基於案情不嚴重，裁判官羅德泉採納報告建議，判處160小時社會服務令。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

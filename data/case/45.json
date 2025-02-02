@@ -1,0 +1,73 @@
+{
+  "id": "45",
+  "caseNo": null,
+  "incident": "0811旺角",
+  "defendants": [
+    {
+      "id": "48",
+      "name": "梁",
+      "age": 20,
+      "charges": [
+        {
+          "id": "56",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "無牌管有無線電通訊器具，違反《電訊條例》(第106章) 第8條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "0811旺角",
+    "撤銷控罪"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "羅德泉主任裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於 2019 年 8 月 11 日在旺角樂群街公園，沒有領取相關電訊牌照下管有一件器具，即一部「YSHON DM-R358」無線電對講機。",
+  "verdict": "撤銷控罪",
+  "verdictReason": null,
+  "sentence": "被告獲准以1,000港元簽保，守行為24個月",
+  "sentenceReason": "被告獲准以1,000港元簽保，守行為24個月，同意案情並撤銷控罪。\n\n",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "4545",
+        "content": "#西九龍裁判法院第三庭\n#羅德泉主任裁判官\n#提堂\n#0811旺角\n\n梁(20)\n\n控罪：\n無牌管有無線電通訊器具\n\n詳情：\n被控於19年8月11日，在旺角樂群街公園，在沒有領取電訊牌照的情況下管有一件器具，即一部「YSHON DM-R358」無線電對講機\n\n案情簡述：\n在8月11日18:22時，PW1及PW2兩名警員巡邏時見到有3個人著黑色衫同戴口罩，便欲上前截查，當中2人逃走。\n\n被告背囊內有眼罩、2個口罩、1個防毒面、1套急救用品及一些文件。腰間掛有一部無線電通訊機。後來PW3前來協助查問。查看被告手機內嘅通訊軟件有人搵CK幾次，翻查文件後推斷被告暱稱為「CK」。被告警誡下稱「我冇嘢講」，錄影會面時亦稱「我冇嘢講」。被告的無線電通訊機經檢驗確認運作正常，但案發當時被告並無持有相關牌照。\n\n被告同意以上案情。證物1-7充公，證物8歸還被告。\n\n‼️獲撤控，自簽保$1000，守行為24個月。",
+        "url": "https://t.me/youarenotalonehk_live/9448",
+        "source": "法庭文字直播台",
+        "datetime": "2020-09-16T02:30:42.000Z"
+      },
+      {
+        "id": "3715",
+        "content": "#西九龍裁判法院第一庭\n#羅德泉主任裁判官\n#0811旺角 #新案件\n\n梁\n控罪：無牌管有無線電通訊器具\n於2019年8月11日於旺角樂群街公園被搜獲一個無線對講機。（型號為YSHONR-03 17BAA FLASH 33779。由於書記朗讀光速，有機會錯，請勿盡信）\n\n控方要求增加保釋條件，包括宵禁令。\n辯方反對。\n\n裁判官批准被告保釋，條件如下：\n$2000\n每星期報到一次\n交出旅行證件\n不得離開香港\n居住在報稱地址，如有更改須於24小時前通知警方\n宵禁令 22-06\n\n案件押後至九月十六日0930 於第一庭再訊。",
+        "url": "https://t.me/youarenotalonehk_live/7836",
+        "source": "法庭文字直播台",
+        "datetime": "2020-08-06T03:16:10.000Z"
+      }
+    ]
+  }
+}

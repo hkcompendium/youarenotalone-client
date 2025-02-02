@@ -1,0 +1,57 @@
+{
+  "id": "465",
+  "caseNo": null,
+  "incident": "0828深水埗",
+  "defendants": [
+    {
+      "id": "608",
+      "name": "黃",
+      "age": 39,
+      "charges": [
+        {
+          "id": "865",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "參與非法集結，違反 《公安條例》(第245章)  第18條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "非法集結"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2021-04-01",
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於或大約於2019年8月28日在深水埗欽州街與汝州街交界與其他不知名人士參與非法集結。\n\n2019年8月27日大批街坊在深水埗警署外抗爭，被告用揚聲器向深水埗警署方向道：「深水埗居民係乖撚過你哋！夠膽就衝出嚟捉尻我哋！」，有人用雷射光束照向深水埗警署方向，亦有人用雜物堵塞馬路。至午夜時份，速龍小隊及防暴警察清場並拘捕市民，被告坐在地上不肯離開被捕。案件於2021年1月22日在九龍城裁判法院首度提堂，嚴舜儀主任裁判官批准保釋候訊。",
+  "verdict": "罪名成立",
+  "verdictReason": "被告認罪，同意案情，裁定罪名成立。",
+  "sentence": "連同另一宗案件總刑期為即時監禁７個月",
+  "sentenceReason": "被告熱心幫助弱勢社群，受失業影響而犯案，現時已反省，認為應和平理性處理。\n\n案發當晚大批人士集結在深水埗警署外衝擊警署，有人用鐳射筆照射警署，有人堵路。警方作出30次口頭警告後，集結人士仍未有散去。被告用揚聲器講挑釁性說話，令社會安寧惡化，挑動情緒。\n\n參考過上訴庭案例，法庭必須判處阻嚇性刑罰。以９個月監禁為量刑起點，認罪扣減1/3，判監６個月。被告另一宗在2020年6月12日在旺角的非法集結案件在法庭席前處理，而且早前有另一宗2019年10月31日在旺角的刑事損壞案件在另一位裁判官席前判刑，考慮到判刑整體性原則，法庭認為３宗案件在相約時間發生，如果一併在法庭席前處理，會有所調整，故需要整體考慮３宗案件，最終判處總刑期為７個月即時監禁。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "284",
+  "caseNo": null,
+  "incident": "0921元朗",
+  "defendants": [
+    {
+      "id": "347",
+      "name": "林",
+      "age": null,
+      "charges": [
+        {
+          "id": "486",
+          "verdict": null,
+          "plea": null,
+          "charge": "無牌管有無線通訊器具"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "九龍城裁判法院第七庭",
+    "張潔宜裁判官 ",
+    "0921元朗"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年9月22日，在元朗康福街與壽富街交界，沒有行政長官會同行政會議或電訊管理局局長批給或設立的適當牌照，而管有作無線電通訊之用的器具，即一部黑色對講機",
+  "verdict": "",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "無牌管有無線通訊器具"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "2498",
+        "content": "#屯門裁判法院第一庭\n#張潔宜署理主任裁判官\n#0921元朗/ #0922元朗\n\n林(17)\n\n控罪：\n無牌管有無線電通訊器具\n\n詳情：\n被控於2019年9月22日，在元朗康福街與壽富街交界，沒有行政長官會同行政會議或電訊管理局局長批給或設立的適當牌照，而管有作無線電通訊之用的器具，即一部黑色對講機\n\n撤銷檢控決定，自簽保守行為12個月",
+        "url": "https://t.me/youarenotalonehk_live/5540",
+        "source": "法庭文字直播台",
+        "datetime": "2020-06-01T07:12:03.000Z"
+      },
+      {
+        "id": "1636",
+        "content": "#九龍城裁判法院第七庭\n#張潔宜裁判官 \n\n林手足 #0921元朗\n控罪：無牌管有無線通訊器具\n\n辯方申請無需答辯\n控方押後至29/4 屯門法院\n保釋申請獲批，條件如下：\n保釋金 $3000\n宵禁 22:00 - 06:00\n押後至29/4 屯門法院 聽取答辯 ，如不認罪將同時處理審前覆核",
+        "url": "https://t.me/youarenotalonehk_live/3836",
+        "source": "法庭文字直播台",
+        "datetime": "2020-03-18T02:56:14.000Z"
+      }
+    ]
+  }
+}

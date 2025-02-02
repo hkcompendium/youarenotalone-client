@@ -1,0 +1,57 @@
+{
+  "id": "339",
+  "caseNo": null,
+  "incident": "1230上水",
+  "defendants": [
+    {
+      "id": "421",
+      "name": "王",
+      "age": 34,
+      "charges": [
+        {
+          "id": "592",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1230上水"
+  ],
+  "trialDateFrom": "2020-01-02",
+  "trialDateTo": "2020-01-16",
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-01-16",
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指，被告在 2019 年 12 月 30 日，於上水中心商場匯豐理財易中心，無合理辯解以夾鉗損壞兩個廣告燈箱、5 塊強化玻璃、一部入票機、兩部存錢機和 4 部自動櫃員機。警方其後於上水天平邨發現被告，將他拘捕。被告在警誡下承認不滿匯豐凍結「星火同盟」戶口，憤怒下才犯案。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "判處被告入戒毒所",
+  "sentenceReason": "辯方求情指，因近半年的社會事件，令被告失業 6 個月，母親亦要申請綜援支持生活。而被告半年前結交了女朋友，他表示不再參與示威，會重新找工作，以及集中精神照顧有高血壓的母親；被告母親今亦有到庭旁聽。\n\n庭上透露，被告認罪還押期候判期間，經醫生檢查過後發現他是一名長期服「冰毒」的癮君子，被告亦承認有毒癮，決心戒毒。\n\n被告亦願意全數賠償匯豐 20 萬元的維修費，有「組織」會代被告支付全數賠償，今亦準備好所需現金，帶到法庭。\n\n蘇官判刑時指，被告案發時未有帶其他違禁或危險物品，案件中亦無人受傷，故採納戒毒所報告建議，判處被告入戒毒所。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 16,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

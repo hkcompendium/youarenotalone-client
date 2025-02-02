@@ -1,0 +1,76 @@
+{
+  "id": "163",
+  "caseNo": null,
+  "incident": "1201紅磡",
+  "defendants": [
+    {
+      "id": "194",
+      "name": "郭",
+      "age": 31,
+      "charges": [
+        {
+          "id": "272",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方亂拋廢料，違反《簡易程序治罪條例》(第228章) 第4條"
+        },
+        {
+          "id": "273",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "抗拒警務人員，違反《警隊條例》(第232章) 第63條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-06",
+  "sentenceDate": "2020-08-06",
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於2019年12月1日在紅磡繞道在公眾地方拋擲廢料，即一個煙頭，以及抗拒警務人員，即一名警長和一名警員。當日下午4時許，公主道附近有約一百名示威者，警方組成防線。期間警員發現被告倚著鐵欄吸煙，並將煙頭拋落地，警員林移動向被告方向並作出警告，示意他離開，警員要求被告出示身分證，但被告不服從警員指令，反抗期間推開該兩名警員，最終兩名警員制服並拘捕被告。被告在警誡下保持緘默，並拒絕簽署文件。",
+  "verdict": "控罪一：罪名成立；控罪二：撤銷控罪（自簽港幣1,000元保守行為12個月）",
+  "verdictReason": null,
+  "sentence": "控罪一：罰款港幣1,500元",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "3714",
+        "content": "#九龍城裁判法院第一庭\n#嚴舜儀主任裁判官\n#提堂\n#1201紅磡\n\n郭(31)\n\n控罪一：在公眾地方亂拋廢料\n控罪二：抗拒警務人員\n\n背景：\n去年12月1有網民發起「毋忘初心大遊行」，並由尖沙咀鐘樓遊行至紅磡體育館，惟最終亦演變成警民衝突。一名遊行男子涉掉棄煙頭及拒出示身份證，因而被控在公眾地方亂拋廢料及抗拒警務人員罪，案件於2020年5月15日在九龍城裁判法院提堂，被告准以300元保釋。（HK01）\n\n案情：\n係2019年12月1日，當時有約一百名示威者係公主道附近，警員形成有關防線，被告依靠欄杆食煙，五分鍾後，警員林卓倫及警員霍嘉競移動向被告方向並作出警告，示意他離開，警員要求被告出示身分證，但被告不服從警員指令，反抗期間推開證人一、二，最終被兩位警員制服並拘捕。 落口供時，係警誡之下保持緘默。\n\n被告同意案情\n\n控罪一：⭕️認罪⭕️\n控罪二：控方撤回控罪\n\n控罪一：以罰款$1500作為處罰\n控罪二：控方撤回（需簽保守行為12個月 $1000）",
+        "url": "https://t.me/youarenotalonehk_live/7835",
+        "source": "法庭文字直播台",
+        "datetime": "2020-08-06T02:47:25.000Z"
+      },
+      {
+        "id": "2996",
+        "content": "#九龍城裁判法院第一庭\n#陳慧敏裁判官\n\n郭(31) #提堂（#1201紅磡 在公眾地方亂拋廢料、拒捕）\n\n控罪：\n(1)在公眾地方亂拋廢料                  \n(2)抗拒警務人員                                \n被控於去年12月1日在紅磡繞道在公眾地方拋擲廢料(煙頭），以及抗拒警務人員，即一名警長和一名警員\n\n辯方申請押後以去信律政司以其他方式處理\n\n押後至8月6日上午9:30九龍城裁判法院提訊\n\n原條件保釋",
+        "url": "https://t.me/youarenotalonehk_live/6415",
+        "source": "法庭文字直播台",
+        "datetime": "2020-06-26T02:34:11.000Z"
+      }
+    ]
+  }
+}

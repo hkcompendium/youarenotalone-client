@@ -1,0 +1,57 @@
+{
+  "id": "476",
+  "caseNo": null,
+  "incident": "20200524銅鑼灣",
+  "defendants": [
+    {
+      "id": "621",
+      "name": "吳",
+      "age": null,
+      "charges": [
+        {
+          "id": "884",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "阻街"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2021-03-23",
+  "sentenceDate": null,
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2020年5月24日晚上8時，被告與另外3名未成年人士在旺角遇見警察高調巡邏時轉身離開，警員20268上前搜查被告。被告其時身穿黑衣，配戴一個藍色手術口罩，背囊內被搜出手套、防毒面罩、眼罩、手袖等。被告向警員供稱當日較早時間曾在銅鑼灣參與抗爭，看見有人用鐵馬堵路，被告亦上前協助，並曾使用背囊內物品。\n\n警員以涉嫌參與非法集結及藏有工具作非法用途罪名拘捕被告。警誡下被告稱自己「做得唔啱」。\n\n其後，偵緝警員5960從網上下載影片，證實被告招認確有其事。",
+  "verdict": "自簽$2,000守行為18個月",
+  "verdictReason": "被告同意案情，法庭批准被告自簽$2,000守行為18個月，期間不得干犯在公眾地方造成阻礙的罪行，並須繳付堂費$1,000。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

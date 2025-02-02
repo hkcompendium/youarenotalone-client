@@ -1,0 +1,57 @@
+{
+  "id": "172",
+  "caseNo": null,
+  "incident": "20200322元朗",
+  "defendants": [
+    {
+      "id": "210",
+      "name": "李",
+      "age": 17,
+      "charges": [
+        {
+          "id": "292",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "阻撓在正當執行職務的警務人員  "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "阻差辦公"
+  ],
+  "trialDateFrom": "2021-01-25",
+  "trialDateTo": "2021-01-28",
+  "trialLength": 3,
+  "verdictDate": "2021-02-11",
+  "sentenceDate": null,
+  "magistrate": "梁雅忻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2020年3月22日凌晨00:40在元朗合益路與又新街交界，伸手攔住警員追捕2名年輕女子，故意阻撓在正當執行職務的警員 ",
+  "verdict": "罪名不成立，拒絕辯方的訟費申請",
+  "verdictReason": "梁官表示，片段所見現場有很多不同人士，亦不時有人跑過。負責截停被告的警員沒有上庭作供警員解釋為何截停被告，而且李文軒的注意力應該集中在追截的2名女子，對出手攔警之人的觀察未必可靠，難以確定阻撓者就是被告。即使警員證供可信，但未必可靠。\n\n梁官認為當晚現場環境混亂，警方已經呼籲途人離開並驅散在場聚集人士。被告選擇逗留在是非之地，走過有防暴警員的街道，在街角探頭觀察、來回行走。被告可以有其他離開的路線選擇，毋須冒險在混亂現場逗留，梁官認為被告自招嫌疑，拒絕辯方訟費申請。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "(1) 阻撓在正當執行職務的警務人員，違反香港法例第212章《侵害人身罪條例》第36(b)條"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "443",
+  "caseNo": null,
+  "incident": "0714沙田",
+  "defendants": [
+    {
+      "id": "563",
+      "name": "許",
+      "age": 31,
+      "charges": [
+        {
+          "id": "812",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "阻撓在正當執行職務的警員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "阻差辦公",
+    "罪名不成立"
+  ],
+  "trialDateFrom": "2020-11-12",
+  "trialDateTo": "2020-11-12",
+  "trialLength": 1,
+  "verdictDate": "2020-12-03",
+  "sentenceDate": null,
+  "magistrate": "溫紹明",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年7月14日，在沙田新城市廣場三樓中庭，故意阻撓警長執行職務。",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官表示被告分別與PW1有兩次的短暫接觸，包括當他在中庭拘捕一名黑衣示威者時，示威者向前衝向被告，而他亦同時拉着示威者的衣服，同時衝向被告，故有身體接觸。\n\n裁判官認為被告在現場一直手持揚聲器，呼籲現場人士冷靜，並曾經隔開示威者攻擊警方；而且被告在案發期間一直後退及在過程中無任何動作阻撓警方下，裁定這次身體碰撞沒有造成任何阻礙。\n\n被告第二次與PW1的接觸，則在中庭電梯位置，被告站在他的身旁，當他正在拘捕黑衣示威者時，曾有2秒的觸碰，後來他選擇轉身離開。\n\n裁判官認為影片沒有拍到被告有阻撓行為；而且他當時只是站在警員身旁，而非身處警員和嫌疑人之間；加上在觸碰發生後不久，警員已轉身離去；以及雙方觸碰時間短暫下及警員亦未能清楚描述被告做了甚麼動作下，溫官認為被告的行為對警員執法沒有多大影響。故裁定這次身體碰撞也沒有造成任何阻礙。\n\n當日被告和警員有兩次接觸可能會被警員視為阻礙，但法庭認為即使有接觸都是輕微、短暫，不對警方行動構成影響，更遑論對警方造成阻礙，故裁定許罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

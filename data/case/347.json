@@ -1,0 +1,63 @@
+{
+  "id": "347",
+  "caseNo": null,
+  "incident": "1209大埔",
+  "defendants": [
+    {
+      "id": "430",
+      "name": "鄧",
+      "age": 24,
+      "charges": [
+        {
+          "id": "608",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "企圖管有攻擊性武器，違反《公安條例》(第245章)第33條及《刑事罪行條例》(第200章)第159G條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-04-02",
+  "sentenceDate": null,
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年12月9日，在大埔太和邨麥當勞餐廳外企圖管有一套投射器及200粒金屬彈珠。案情指海關於機場截停涉案包裹，並通知警方。警方隨後派員喬裝 UPS 速遞員，聯絡被告，並約在案發地點交收。被告曾要求喬裝警員出示員工證，但警員聲稱其員工證遺漏在貨車，被告拒絕簽收，被警員拘捕。",
+  "verdict": "罪名不成立",
+  "verdictReason": "",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "控方指信用卡紀錄等證物後，沒有可控告被告地方\n辯方指無證據顯示被告知悉包裹內物品，或速遞為被告安排運送，沒有自招嫌疑，申請訟費$28,000獲批。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "1695",
+        "content": "#粉嶺裁判法院第一庭\n#蘇文隆署理主任裁判官\n#1209大埔 #提堂\n\n鄧(24)\n企圖管有攻擊性武器\n\n控罪：被控於2019年12月9日，在大埔太和邨麥當勞餐廳外企圖管有一套投射器及200粒金屬彈珠\n\n案情：海關截獲一個寄到香港的郵包，內有200粒金屬彈珠、一個丫叉、兩條橡筋，以及一個3M口罩，海關隨後通報警方。警員喬裝UPS速遞員，聯絡被告並相約於案發地點交收。被告與臥底警員見面後，要求警員出示速遞員職員證，惟臥底警員訛稱證件遺留車上而未能出示，被告拒絕簽收。\n\n撤銷控罪\n控方指信用卡紀錄等證物後，沒有可控告被告地方\n辯方指無證據顯示被告知悉包裹內物品，或速遞為被告安排運送，沒有自招嫌疑，申請訟費$28,000獲批⭕️",
+        "url": "https://t.me/youarenotalonehk_live/3996",
+        "source": "法庭文字直播台",
+        "datetime": "2020-04-02T07:37:05.000Z"
+      }
+    ]
+  }
+}

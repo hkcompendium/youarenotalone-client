@@ -1,0 +1,59 @@
+{
+  "id": "481",
+  "caseNo": null,
+  "incident": "20200529元朗",
+  "defendants": [
+    {
+      "id": "626",
+      "name": "李",
+      "age": 62,
+      "charges": [
+        {
+          "id": "890",
+          "verdict": "撤銷控罪",
+          "plea": "否認控罪",
+          "charge": "沒有許可證而奏玩樂器"
+        }
+      ]
+    }
+  ],
+  "description": "控方撤銷控罪，無罪釋放。",
+  "tags": [
+    "施祖堯裁判官",
+    "沒有許可證而奏玩樂器",
+    "20200529元朗"
+  ],
+  "trialDateFrom": "2021-03-09",
+  "trialDateTo": "2021-03-09",
+  "trialLength": 1,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "施祖堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年5月29日上午在元朗西鐵站G出口扶手電梯底，無合法權限或解釋且沒有警務處處長發出的許可證而奏玩樂器，即二胡。\n\n背景︰\n李當日與平時一樣演奏《願榮光歸香港》，未幾有途人指罵他嘈吵，其後便有警察來警告他，指會票控他",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "254",
+  "caseNo": null,
+  "incident": "1116荃灣",
+  "defendants": [
+    {
+      "id": "311",
+      "name": "司徒",
+      "age": 25,
+      "charges": [
+        {
+          "id": "434",
+          "verdict": "其他",
+          "plea": "否認控罪",
+          "charge": "公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#西九龍裁判法院第十三庭",
+    "#林子勤裁判官",
+    "#審訊（1/1）",
+    "#1116荃灣"
+  ],
+  "trialDateFrom": "2020-08-18",
+  "trialDateTo": "2020-08-18",
+  "trialLength": null,
+  "verdictDate": "2020-08-18",
+  "sentenceDate": null,
+  "magistrate": "林子勤",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告的同意案情指，去年 11 月 16 日，兩名警員在荃灣沙咀道巡邏。凌晨 12 時 35 分，警員在沙咀道遊樂場看到被告形跡可疑，手持一個長 6 厘米、幼身金屬鎖匙扣，遂截查他。警方從他的褲袋搜出兩個口罩及手套，腰包搜出電話。被告警誡下表示：「我去食宵夜，驚藍絲打我，用嚟自衛用。」\n\n",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "1,000 元自簽守行為 12 個月",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": "保釋條件：\n\n原有現金擔保\n不得離港\n交出所有旅遊證件\n警署報到：一星期一次",
+  "remarks": "案件原於2020年8月18 日開審，控方表示決定不提證供起訴及撤銷控罪，裁判官林子勤批准被告以 1,000 元自簽守行為 12 個月。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

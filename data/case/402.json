@@ -1,0 +1,70 @@
+{
+  "id": "402",
+  "caseNo": null,
+  "incident": "1110屯門",
+  "defendants": [
+    {
+      "id": "490",
+      "name": "洪",
+      "age": 18,
+      "charges": [
+        {
+          "id": "695",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事損壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-05-20",
+  "trialDateTo": "2020-05-20",
+  "trialLength": null,
+  "verdictDate": "2020-05-20",
+  "sentenceDate": null,
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年11月10日在屯門鄉事會路損壞民建聯候選人的一幅橫額。",
+  "verdict": "撤銷控罪，自簽港幣1,000元保守行為12個月。",
+  "verdictReason": null,
+  "sentence": "",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "2341",
+        "content": "#屯門裁判法院第一庭\n#張潔宜署理主任裁判官\n#1110屯門 #審前覆核\n\n洪\n\n控罪：刑事損壞\n//指他於11月10日在屯門鄉事會路損壞民建聯侯選人的1幅標語。//\n（摘自《香港01》2019.11.12）\n\n被告同意案情，以簽保守行為方式處理，$1,000，守行為12個月，未來12個月不得作出或企圖作出損壞他人財物的作為。控方撤銷控罪。\n\n辯方願意賠償物主$250，將連同訟費一并在保釋金中扣除。",
+        "url": "https://t.me/youarenotalonehk_live/5253",
+        "source": "法庭文字直播台",
+        "datetime": "2020-05-20T06:41:39.000Z"
+      },
+      {
+        "id": "1431",
+        "content": "#屯門裁判法院第一庭（2案）\n‍⚖️張潔宜署理主任裁判官\n洪/18 提堂（#1110屯門 刑事損壞:涉損毀民建聯標語）\n案件押後至2月18日再訊\n某天遲到報到需增加每星期報到次數\n\n－\n容,勞/22-23已還押63天 提堂（#1118油麻地 暴動）\n繼續還押，案件押後至.. (後補)",
+        "url": "https://t.me/youarenotalonehk_live/3192",
+        "source": "法庭文字直播台",
+        "datetime": "2020-01-21T08:48:29.000Z"
+      }
+    ]
+  }
+}

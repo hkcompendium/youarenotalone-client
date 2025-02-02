@@ -1,0 +1,70 @@
+{
+  "id": "291",
+  "caseNo": null,
+  "incident": "05082019葵芳",
+  "defendants": [
+    {
+      "id": "354",
+      "name": "黃",
+      "age": 26,
+      "charges": [
+        {
+          "id": "498",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "普通襲擊，違反《侵害人身條例》(第212章) 第40條"
+        }
+      ]
+    },
+    {
+      "id": "355",
+      "name": "陳",
+      "age": 47,
+      "charges": [
+        {
+          "id": "499",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "普通襲擊，違反《侵害人身條例》(第212章) 第40條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "撤銷控罪"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2019-12-05",
+  "sentenceDate": "2019-12-05",
+  "magistrate": "Unknown ",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年8月5日網民號召全港三罷，多條港鐵線路停駛，多條隧道接近癱瘓。當日葵芳港鐵站外有兩批不同政見人士口角。D1和D2在葵芳港鐵站C出口外，互相襲擊對方。",
+  "verdict": "D1和D2罪名皆成立",
+  "verdictReason": "D1和D2各自簽2000元守行為1年，另須各付300元堂費",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "法庭文字直播台並沒有案件的紀錄。案件資料來自東方日報、HK01和蘋果日報。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

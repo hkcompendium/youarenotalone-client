@@ -1,0 +1,58 @@
+{
+  "id": "445",
+  "caseNo": null,
+  "incident": "0811屯門",
+  "defendants": [
+    {
+      "id": "564",
+      "name": "張",
+      "age": 25,
+      "charges": [
+        {
+          "id": "816",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "雷射筆",
+    "攻擊性武器"
+  ],
+  "trialDateFrom": "2020-12-03",
+  "trialDateTo": "2020-12-03",
+  "trialLength": 1,
+  "verdictDate": "2020-12-14",
+  "sentenceDate": null,
+  "magistrate": "梁雅忻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年8月11日，在屯門屯隆街3號外屯門市廣場一期7座，無合法權限或辯解下，管有一個能發出雷射光束的裝置，即一支雷射筆。",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官指，接納兩名作供警員均為誠實可靠證人。雷射筆並非界定為武器，至於是否能被視為攻擊性武器，在沒有直接證據下，法庭惟有以時間、地點、周圍環境及被告行為表現作推論，故此在案中只能依賴警員的觀察。\n\n警員由發現至截停被告，雖然他發現路旁有被人用作堵路的雜物，但實際上並未見到有堵路行為。雖然從被告身上發現的物品，她遇見警車駛過又即時逃跑，行為非常可疑，但裁判官指可疑行為又是否等同被告有意圖傷害他人，法庭不能以此作合理推論。\n\n控方並無其他證據指出被告當時觸犯罪行、或案發前涉及違法或暴力事件，因此法庭認為控方舉證未能達標。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

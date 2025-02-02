@@ -1,0 +1,55 @@
+{
+  "id": "241",
+  "caseNo": null,
+  "incident": "0914牛頭角",
+  "defendants": [
+    {
+      "id": "292",
+      "name": "姚",
+      "age": 23,
+      "charges": [
+        {
+          "id": "410",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "普通襲擊"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-06-16",
+  "trialDateTo": "2020-06-17",
+  "trialLength": 2,
+  "verdictDate": "2020-06-26",
+  "sentenceDate": null,
+  "magistrate": " 屈麗雯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，被告於2019年9月14日，在牛頭角東九龍文化中心地盤襲擊PW1。控方指出當時PW1與一些不認識的人參與唱國歌活動，被告指罵在場人士，PW1衝前除去被告頭套，被告之後出拳打他。證物PW1拍攝到過程，而被告及後有向PW2招認。\n",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官於判詞指出，PW2 「有敵意、迅速、突然有力」，有襲擊之嫌；並說面對事主突如其來的襲擊，人身安全受到威脅，不能排除被告行為是合理武力自衛；又指事主傷勢並非嚴重。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "不獲批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "被告另被控管有攻擊性武器及有意圖而企圖縱火兩罪，在區域法院承認控罪，判囚 4 年。（案件編號 ：DCCC 57/2020； [2020] HKDC 473）",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 210,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

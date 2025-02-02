@@ -1,0 +1,61 @@
+{
+  "id": "136",
+  "caseNo": null,
+  "incident": "0722荃灣",
+  "defendants": [
+    {
+      "id": "157",
+      "name": "姚",
+      "age": 37,
+      "charges": [
+        {
+          "id": "220",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "普通襲擊"
+        },
+        {
+          "id": "221",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "普通襲擊"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-04",
+  "sentenceDate": "2020-08-25",
+  "magistrate": "溫紹明",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被指於於去年 7 月 22 日，在荃豐中心 1 樓內兩度襲擊男子 A。案情透露，當日有逾百名示威者於荃豐中心聚集，晚上7時許，事主 A行經中心1樓時，將手機放胸口位置，令示威者懷疑他正在拍攝現場情況，雙方因此發生衝突。事主遭十多人包圍及以粗口指罵，並質問他拍攝了什麼，現場有約 50 人圍觀。而事主與其中一名女子爭論時，被告突然以胸口撞向事主，險令他失平衡跌倒。事主質問被告為何撞他但不獲回應，期間有不知名男子用腳踢事主，事主其後抓住對方的上衣，打算制服對方時，突然遭被告以手箍其頸部，並將他拖行了約 10 米，一度令他呼吸困難，被告其後放手並離開現場。警方事後根據線報，今年 2 月 10 日於被吿在機場打算離境時，將其拘捕。",
+  "verdict": "罪名成立",
+  "verdictReason": "被告認罪",
+  "sentence": "100小時社會服務令",
+  "sentenceReason": "溫官指，案中受害人傷勢雖不輕微，但控方選擇用普通襲擊罪控告被告，顯示控方認為被告對受害人所造成的傷害程度不是最高。案中，亦沒有證據顯示被告犯案是預謀行為。\n法庭索取社會服務令報告，內容正面；溫官又指法庭最看重的是被告有否悔意，被告也感後悔。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

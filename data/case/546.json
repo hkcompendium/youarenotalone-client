@@ -1,0 +1,55 @@
+{
+  "id": "546",
+  "caseNo": null,
+  "incident": "1027尖沙咀",
+  "defendants": [
+    {
+      "id": "712",
+      "name": "鄭",
+      "age": 20,
+      "charges": [
+        {
+          "id": "1014",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有物品意圖摧毀財產罪"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-31",
+  "sentenceDate": "2020-09-11",
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於去年10月27日在九龍尖沙嘴梳士巴利道香港太空館外，保管1把鎚、2個鉗及1罐黑色噴漆，意圖摧毀或損壞屬於另一人的財產。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "240小時社會服務令",
+  "sentenceReason": "被告拒絕履行社會服務令，遭收押等候報告。原本於2020年9月4日到九龍城法院接受判刑，裁判官亦打算判他到更生中心。辯方求情指被告已深切反省，請求法庭判他社服令，讓他繼續學業。惟裁判官指被告要到還押後才明白案件嚴重性，認為應判他進入更生中心接受訓練和輔導。辯方遂指社工可安排被告住進院舍，讓他日間外出上課，晚上返院舍守宵禁，但要他親身去辦理手續。裁判官遂批准押後判刑。\n\n辯方於2020年9月11日呈上協青社自立堂一年宿位的錄取通知、屯門醫院精神科服務預約便條和社工及老師協商制訂的一年重塑計劃，包括仔細的被告時間表和不同小目標，讓被告規範和了解自我。辯方藉此希望嚴官判處非監禁式刑罰，讓被告能繼續學業完成心願。\n\n嚴官認為被告需接受院舍訓練，建立規律生活，明白守紀律之重要，亦滿意辯方呈上文件，顯示出被告認真態度。\n\n嚴官由是判處社會服務令及一系列附加要求，包括入住協青社宿舍接受輔導，跟從社工和老師的重塑計劃及建議，並接受屯門醫院精神科治療，半年後由法庭檢視進度報告。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

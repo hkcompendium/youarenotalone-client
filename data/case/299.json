@@ -1,0 +1,81 @@
+{
+  "id": "299",
+  "caseNo": null,
+  "incident": "1025大埔",
+  "defendants": [
+    {
+      "id": "372",
+      "name": "陳",
+      "age": null,
+      "charges": [
+        {
+          "id": "526",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事損壞"
+        }
+      ]
+    },
+    {
+      "id": "373",
+      "name": "蔡",
+      "age": 31,
+      "charges": [
+        {
+          "id": "527",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "刑事損壞"
+        }
+      ]
+    },
+    {
+      "id": "374",
+      "name": "陳",
+      "age": 33,
+      "charges": [
+        {
+          "id": "528",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事損壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2021-03-08",
+  "magistrate": "黃國輝",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年10月25日，大埔分區接報有人在大埔汀角道行人天橋噴漆，於是派巡邏小隊往該處查察。結果發現三名被告（D1~D3），並搜出口罩、手套及噴漆，亦發現天橋有「光復香港，時代革命」、「香港人反抗」、「Fight back」等11組用黑色油漆噴寫的字句。三名被告曾嘗試逃走但被制服，在警誡下保持緘默。之後政府化驗師証實搜出的噴漆及天橋上噴寫字句的油漆來自相同來源。\n",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": " 120小時的社會服務令，賠償$1,666元 ",
+  "sentenceReason": "背景報告及社會服務令報告正面，加上沒有案底、有悔意、合作，建議判處低至中等長度社會服務令。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

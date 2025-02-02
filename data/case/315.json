@@ -1,0 +1,55 @@
+{
+  "id": "315",
+  "caseNo": null,
+  "incident": "1102銅鑼灣",
+  "defendants": [
+    {
+      "id": "395",
+      "name": "謝",
+      "age": 20,
+      "charges": [
+        {
+          "id": "554",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具並有所意圖，違反《簡易程序治罪條例》(第228 章) 第17 條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-17",
+  "sentenceDate": "2020-06-17",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "在2019年11月2日前往參與沒有反對通知書的遊行時，被告途徑京士頓街並被警員截查；其後搜出索帶、防毒面具、6對濾罐及勞工手套。被告在警誡下沒有招認，亦拒絕回答警員的問題。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "簽保守行為",
+  "sentenceReason": "控方考慮被告年紀小和過往沒有刑事定罪紀錄，撤回控罪。\n⁃ 守行為12個月\n⁃ 自簽$1000\n⁃ 繳交堂費$500 從保釋金扣除\n\n*證物1-5充公",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

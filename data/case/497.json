@@ -1,0 +1,55 @@
+{
+  "id": "497",
+  "caseNo": null,
+  "incident": "1216旺角",
+  "defendants": [
+    {
+      "id": "650",
+      "name": "黎",
+      "age": 26,
+      "charges": [
+        {
+          "id": "922",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "企圖刑事損壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-09-16",
+  "sentenceDate": "2020-10-07",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控在2019年12月16日，在旺角彌敦道亞皆老街近恆生銀行對出，無合法辯解而摧毀或損壞屬於香港警務處警車（編號AM6247）。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "80小時社會服務令",
+  "sentenceReason": "社會服務令報告正面，羅官採納感化官建議。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

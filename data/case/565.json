@@ -1,0 +1,74 @@
+{
+  "id": "565",
+  "caseNo": null,
+  "incident": "0824九龍灣",
+  "defendants": [
+    {
+      "id": "735",
+      "name": "林",
+      "age": 35,
+      "charges": [
+        {
+          "id": "1039",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方作出擾亂秩序的行為"
+        },
+        {
+          "id": "1040",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "未能出示身分證"
+        }
+      ]
+    },
+    {
+      "id": "736",
+      "name": "凌",
+      "age": 26,
+      "charges": [
+        {
+          "id": "1041",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方作出擾亂秩序的行為"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-04-20",
+  "sentenceDate": null,
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "二人被控於2019年8月24日傍晚，在牛頭角麗晶花園9座的公眾地方，不滿大門改密碼，而作出擾亂秩序的行為－即拍打警車車身，包圍警察，以及使用侮辱性的言詞。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "424",
+  "caseNo": null,
+  "incident": "0714葵涌",
+  "defendants": [
+    {
+      "id": "531",
+      "name": "林",
+      "age": 23,
+      "charges": [
+        {
+          "id": "758",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "襲擊在正當執行職務的警務人員"
+        },
+        {
+          "id": "759",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "襲擊在正當執行職務的警務人員"
+        },
+        {
+          "id": "760",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "襲擊在正當執行職務的警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-11-16",
+  "trialDateTo": "2020-11-16",
+  "trialLength": null,
+  "verdictDate": "2021-01-13",
+  "sentenceDate": "2021-04-13",
+  "magistrate": "香淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年7月14日，在葵涌警署301C室內接受調查期間，涉嫌指罵並用頭撼向其中一名警員，之後拳打及抓傷另外兩名警員。",
+  "verdict": "3項控罪罪名成立",
+  "verdictReason": "被告以額頭擊向許姓警員，又扯爛焦姓警員的警察背心、不斷抓及以粗口咒罵在場警員，需要 3 名警員合力上前制服。惟被告奮力掙扎，更一度背對牆壁，警員只能反手鎖上手銬，在此情況下，警員使用恰當武力，令被告受傷不足為奇，其傷勢亦與醫療報告吻合。不接納被告指許姓警員曾用頭分別撼在他的頭、檯面和牆上自殘，房內相當狹窄，許智星只能以彎腰或蹲下令自己撼頭受傷，不相信他為了誣蔑被告，而自殘至如此程度。被告在警署內一聽到警方要搜身，便用自己的頭撞向警察的頭，當該警員轉身掩頭時，被告再用頭撞向他，另外兩名警員見狀嘗試制服被告，惟被再度向他們施襲，導致3名警員有不同程度的傷勢。",
+  "sentence": "控罪(1)監禁3個月；控罪(2)、(3)各監禁個月，其中控罪(2)和(3)各有1星期分期執行，共監禁3個月2星期",
+  "sentenceReason": "很多案例已經一而再再而三地重申，襲警是嚴重罪行，判處即時監禁是無可避免，法庭必須向公眾發出訊息，不會姑息襲警罪行，因警察是「法律及秩序的象徵」，法庭必須保護執行職責的警察，否則「法治及秩序便會受動搖」。警察近期在極困難及危險的情況下執行職務，若果姑息被告便會削弱警隊士氣，並助長襲警風氣。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

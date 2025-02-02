@@ -1,0 +1,75 @@
+{
+  "id": "471",
+  "caseNo": null,
+  "incident": "20200125油麻地",
+  "defendants": [
+    {
+      "id": "614",
+      "name": "文",
+      "age": 20,
+      "charges": [
+        {
+          "id": "874",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有攻擊性武器，違反《簡易程序治罪條例》(第228章) 第17條 "
+        },
+        {
+          "id": "875",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用，違反《簡易程序治罪條例》(第228 章) 第17 條"
+        },
+        {
+          "id": "876",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "無牌管有無線電通訊器具，違反《電訊條例》(第106章) 第8條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "攻擊性武器",
+    "管有工具作非法用途",
+    "無線電",
+    "雷射筆"
+  ],
+  "trialDateFrom": "2021-02-25",
+  "trialDateTo": "2021-02-25",
+  "trialLength": 1,
+  "verdictDate": "2021-02-25",
+  "sentenceDate": "2021-03-11",
+  "magistrate": "鄭念慈",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年1月25日，在旺角彌敦道560號外，管有１個可發出雷射光束的裝置，於同日同地，管有３袋膠索帶，意圖作非法用途使用，於同日同地，管有１個對講機。",
+  "verdict": "三項罪名成立。",
+  "verdictReason": null,
+  "sentence": "240小時社會服務令",
+  "sentenceReason": "進一步求情：\n律師指出感化報告的內容正面，報告指出被告有悔意，在還押期間已有深深反省，並承諾不再犯案。律師希望法庭接納報告建議，判處被告長時數的社會服務令。\n\n律師呈上多一封由某運動教練為被告撰寫的求情信，內容指出他願意讓被告長住他的家，除了會關懷被告外，亦會向他傳授正確的價值觀和觀念，讓他未來能貢獻社會及不會重犯。\n\n判刑理由：\n法庭在考慮判刑時已考慮與案所有相關因素。在報告指出被告人不適合更生中心但適合勞教中心下，法庭需要就勞教中心及社會服務令作取捨。法庭考慮到被告已還押一段時間且在此期間有所反省、認罪、沒有案底、良好品格以及有別人的支持，認為長時數的社會服務令可以給予被告阻嚇及更生的目的，故就所有控罪判處被告。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "(1)管有攻擊性武器",
+    "(2)管有適合作非法用途的工具並意圖作非法用途使用",
+    "(3)無牌管有無線電通訊器具",
+    ""
+  ],
+  "custodyLength": 15,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

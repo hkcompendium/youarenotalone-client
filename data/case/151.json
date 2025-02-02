@@ -1,0 +1,55 @@
+{
+  "id": "151",
+  "caseNo": null,
+  "incident": "20200119中環",
+  "defendants": [
+    {
+      "id": "175",
+      "name": "陳",
+      "age": 16,
+      "charges": [
+        {
+          "id": "243",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有物品意圖摧毀財產（違反 《刑事罪行條例》(第200章) 第62 (a) 條 ）"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-12-18",
+  "sentenceDate": "2020-12-18",
+  "magistrate": "錢禮主任裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年1月19日，在中環德輔道中與畢打街交界保管2罐噴漆，意圖在無合理辯解下用以摧毁他人財產",
+  "verdict": "簽保守行為$",
+  "verdictReason": "控方稱因無證據顯示被告曾使用過噴漆，在其身上無搜出其他物品，加上被告是在公眾集會開始前被截停，決定以自簽擔保守行為處理本案。錢禮主任裁判官判被告自簽1000港元守行為12個月。\n",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

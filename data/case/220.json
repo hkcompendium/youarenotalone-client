@@ -1,0 +1,55 @@
+{
+  "id": "220",
+  "caseNo": null,
+  "incident": "1111中環",
+  "defendants": [
+    {
+      "id": "266",
+      "name": "陳",
+      "age": 33,
+      "charges": [
+        {
+          "id": "378",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用罪"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-31",
+  "sentenceDate": "2020-08-14",
+  "magistrate": "何俊堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "去年 11 月 11 日，約晚上 10 時半，警方在巡邏車上巡邏期間，在中環環球大廈外見到被告與 2 名人士形迹可疑，遂下車追截。其他兩人逃去，被告卻遭截停。警方在被告的背囊內發現一支長約 60 厘米的橇棍、三支各長約 50 厘米的銀色金屬棒、兩對灰色手套、一對白色勞工手套、四個口罩等物品，被告隨後被拘捕，警誡下被告保持緘默。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "80小時社會服務令",
+  "sentenceReason": "辯方求情時指，案發當日被告得知有三罷示威活動，便帶備涉案物品外出，打算提供予示威者作物資支援。被告晚上和朋友晚膳後，獨自到港島一帶看看現場是否仍有示威活動，途中遇上兩名素未謀面的人士，認為對方或許同樣因為社運而到現場，於是同行。及後 3 人發現現場人士不多，正商量是否解散時遭警員追捕。\n\n辯方強調，被告沒有手持涉案物品，亦無證據顯示被告曾使用物品，而當時港島一帶的衝突已大致平息，被告會使用涉案物品傷人或破壞財產的風險相對較低。被告遭警方發現時，他只是單純站於大街當眼處，並非將要犯案。\n\n辯方指，被告只是因關心社會才犯案，並非大奸大惡的人，而他於事後已深感後悔，並曾經尋求社工協助。被告原任倉務員，因為本案而失去該工作，現仼職廚師，工作表現良好，其僱主撰寫求情信表明定罪後仍會繼續聘用他。被告懷孕女友則居於內地，將在下月底分娩，兩人打算結婚，但被告不得離港等保釋條件，以及受疫情影響，自去年 11 月被捕後未有與女友見面。辯方強調，被告已受到深刻教訓，希望法庭考慮判處非監禁式刑罰。\n\n裁判官何俊堯指，報告對被告評價正面、有悔意、過往無定罪記錄，故接納感化官建議，判處被告80小時社會服務令。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

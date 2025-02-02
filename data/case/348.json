@@ -1,0 +1,57 @@
+{
+  "id": "348",
+  "caseNo": null,
+  "incident": "0930西灣河",
+  "defendants": [
+    {
+      "id": "431",
+      "name": "鄧",
+      "age": 25,
+      "charges": [
+        {
+          "id": "609",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "無牌管有無線通訊器具，違反《電訊條例》(第106章) 第8條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "無線電"
+  ],
+  "trialDateFrom": "2020-11-27",
+  "trialDateTo": "2020-11-27",
+  "trialLength": 1,
+  "verdictDate": "2020-11-17",
+  "sentenceDate": null,
+  "magistrate": "黃雅茵",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "有人提出告發，指稱被告於2019年9月30日在西灣河一個單位內，未有根據與按照總督會同行政局批給的牌照而管有無線電通訊之用的器具。被告於2020年9月8日否認控罪，排期同年11月27日審訊。開審當日，控方同意被告以$2,000守行為12個月，並充公涉案對講機。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "證物1（即涉案對講機）充公。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

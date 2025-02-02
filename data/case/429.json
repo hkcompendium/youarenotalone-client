@@ -1,0 +1,55 @@
+{
+  "id": "429",
+  "caseNo": null,
+  "incident": "12.8遊行",
+  "defendants": [
+    {
+      "id": "540",
+      "name": "林",
+      "age": 27,
+      "charges": [
+        {
+          "id": "774",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-02-26",
+  "trialDateTo": "2020-02-26",
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "香淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "本控罪指他於2019年12月8日在怡和街22號外管有一副護目鏡、一個防毒面具、一把鉗及一把士巴拿。他於案發後兩天提堂時，已獲法庭批准保釋。控方庭上指，參考法律意見後，決定申請撤回控罪，並將所有證物歸還被告，不申請充公。辯方沒有申請訟費。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

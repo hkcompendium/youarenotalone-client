@@ -1,0 +1,68 @@
+{
+  "id": "543",
+  "caseNo": null,
+  "incident": "1112中環",
+  "defendants": [
+    {
+      "id": "709",
+      "name": "秦",
+      "age": 22,
+      "charges": [
+        {
+          "id": "1008",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有他人身份證"
+        },
+        {
+          "id": "1009",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "無牌管有槍械罪"
+        }
+      ]
+    }
+  ],
+  "description": "",
+  "tags": [
+    "",
+    "1112",
+    "中環",
+    "破曉行動",
+    "東區裁判法院",
+    "錢禮"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-04-08",
+  "sentenceDate": "2020-04-08",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控罪指他於去年11月12日，在中環永樂街文樂商業大廈外，無合理辯解而管有屬於葉姓事主的身份證；以及在中區警署管有一支胡椒噴劑，而他沒有持有該等槍械的管有權牌照。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "即時入獄16個月",
+  "sentenceReason": "辯方律師求情時指，被告為山東人，曾修讀特別機械專業大專課程，但未畢業就轉往深圳任搬運工人，去年11月被捕至今一直還押。被告稱他到香港蘭桂坊參與萬聖節活動時拾獲該張身份證，並無意用之圖利或尋找工作，只是一時大意忘記處理。\n\n至於被告身上的胡椒噴霧，他聲稱受反修例運動影響，害怕來至內地的他會被香港人針對，因而預先準備胡椒噴霧以保護自己，但從來未使用過。被告又稱被捕後與家人失聯，擔心家人狀況，故求法庭輕判。\n\n裁判官聽罷求情後，就兩罪合共判處24個月監禁，考慮到被告認罪，將刑期扣減3分之1至16個月。",
+  "bailment": "不獲批准",
+  "bailmentRemarks": "辯方不申請保釋",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 103,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

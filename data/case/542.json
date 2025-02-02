@@ -1,0 +1,60 @@
+{
+  "id": "542",
+  "caseNo": null,
+  "incident": "1102維園",
+  "defendants": [
+    {
+      "id": "708",
+      "name": "吳",
+      "age": 25,
+      "charges": [
+        {
+          "id": "1007",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        }
+      ]
+    }
+  ],
+  "description": "控方於2019年12月30日在庭上申請撤回控罪，因現有證據不足以支持該控罪，獲裁判官批准。被告獲當庭釋放，但未有訟費申請。據報道指，控方未能確定被告持有該兩件物品的目的，因此撤回控罪。",
+  "tags": [
+    "",
+    "1102",
+    "1102維園",
+    "撤控"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年11月2日，民主派區選候選人號召民眾於維園進行選舉聚會，被告被控在灣仔莊士敦道與蘭杜街交界管有一個士巴拿及一個六角匙，並意圖將其用作非法用途，因而被控一項「管有適合作非法用途的工具並意圖作非法用途使用」罪。",
+  "verdict": "",
+  "verdictReason": "",
+  "sentence": "",
+  "sentenceReason": "",
+  "bailment": "批准",
+  "bailmentRemarks": "被告以3000元現金獲准保釋，需遵守宵禁令、交出旅遊證件、不准離港和定期到警署報到。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

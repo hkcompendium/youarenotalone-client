@@ -1,0 +1,58 @@
+{
+  "id": "463",
+  "caseNo": null,
+  "incident": "1102銅鑼灣",
+  "defendants": [
+    {
+      "id": "600",
+      "name": "顏",
+      "age": 20,
+      "charges": [
+        {
+          "id": "856",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "管有適合作非法用途的工具並意圖用作非法用途使用罪"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1102銅鑼灣",
+    "撤銷控罪"
+  ],
+  "trialDateFrom": "2019-11-04",
+  "trialDateTo": "2020-01-03",
+  "trialLength": null,
+  "verdictDate": "2020-01-03",
+  "sentenceDate": "2020-01-03",
+  "magistrate": "林子勤",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控罪指他於2019年11月2日，在銅鑼灣堅拿道西10號冠景樓外，管有一適合作非法用途的工具，即兩支士巴拿，意圖作非法用途使用。",
+  "verdict": "控方撤銷控罪。",
+  "verdictReason": "",
+  "sentence": "獲批訟費",
+  "sentenceReason": "控方稱證據不足而撤銷控罪，反對被告申請訟費。控方指被告當時身上有手套、頭盔及自製盾牌，均為示威常見裝備，當時又有激烈衝突，認為被告自招嫌疑。\n\n辯方則指控方呈上的相片，僅見被告坐於地上，而涉案士巴拿僅手掌尺寸，或作砌模型之用，認為律政司無理檢控。裁判官亦稱兩個士巴拿不足以招嫌疑，故批准被告訟費申請。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "被控一項管有適合作非法用途的工具並意圖用作非法用途使用罪。"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

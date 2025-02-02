@@ -1,0 +1,64 @@
+{
+  "id": "548",
+  "caseNo": null,
+  "incident": "0101灣仔",
+  "defendants": [
+    {
+      "id": "714",
+      "name": "岑",
+      "age": 37,
+      "charges": [
+        {
+          "id": "1016",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》第33(2)條"
+        },
+        {
+          "id": "1017",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "有意圖管有攻擊性武器，違反《簡易程序治罪條例》第17條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "0101灣仔",
+    "元旦遊行"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-27",
+  "sentenceDate": "2020-08-27",
+  "magistrate": "鄭紀航",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年1月1日，在灣仔胡忠大廈外管有一把自製弩及 20 支尖木棒。\n\n控方於2020年4月24日另新增一項有意圖而管有攻擊性武器罪，指被告於2020年1月2日，在黃大仙一個住宅單位內，管有2把弩及5枝箭。",
+  "verdict": "罪名成立",
+  "verdictReason": "裁判官指警員證人的證供可靠可信，全盤接納，至於截查被告的警員周振標當時沒有警誡被告，裁判官亦接納周解釋因他當時對被告所知資料甚少，認為未有足夠證據令他對被告進行警誡，裁判官則指涉案物品本質上並非攻擊性武器，及警員此舉並沒有對被告構成不公。\n\n被告指弩為教學模型，其他物品是用作裝飾店舖，而口罩則用作防疫。裁判官亦表示他經過仔細檢查涉案物件後，認為涉案削尖木棒十分尖銳，徒手及單獨使用已可傷人，如配合涉案自製弩使用，穿透力及殺傷力會更強，屬於攻擊性武器。裁判官又指被告曾供稱他當時打算「輕裝」前往維園，但其背囊內的物件有一定數目及重量，如他真有輕裝出發打算，沒有理由不事先查看背囊內有些什麼物品，將不必要物件取出，故認為被告相關說法既不可信亦不可靠，說法牽強、砌詞狡辯，不接納其證供。",
+  "sentence": "判囚12個月",
+  "sentenceReason": "就公眾地方管有攻擊性武器及有意圖管有攻擊性武器兩罪，分別以 12 個月及 4 個月為起點，經考慮被告無案底、長期擔任義工等後，下調至 10.5 個月及 3.5 個月，由於法庭裁定次控罪的物品是於首控罪之後的示威使用，兩罪刑期中的 1.5 個月分期執行，最終判囚 12 個月。",
+  "bailment": "批准",
+  "bailmentRemarks": "獲准以現金20,000元保釋，每晚到警署報到、遵守晚上11時至早上6時的宵禁令。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "辯方對裁決提出上訴",
+  "appealJudgementUrl": "https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=133269&QS=%2B&TP=JU",
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": "有人質疑裁判官利用司法認知，斷定當時香港島各處有大量人群示威，兼「有極端激烈示威者使用各式暴力」，推論被告管有箭弩的意圖必為傷人的正確性。",
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "281",
+  "caseNo": null,
+  "incident": "1111柴灣",
+  "defendants": [
+    {
+      "id": "340",
+      "name": "吳",
+      "age": 18,
+      "charges": [
+        {
+          "id": "472",
+          "verdict": null,
+          "plea": null,
+          "charge": "管有違禁武器"
+        }
+      ]
+    }
+  ],
+  "description": "6月18日裁定罪名成立，原定還押至6月30日等候索取被告的感化、勞教、教導所及更生中心報告後再作判刑，但被告在6月24日於高院申請保釋獲批。",
+  "tags": [
+    "東區裁判法院第七庭",
+    "香淑嫻裁判官",
+    "1111柴灣",
+    "判刑"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "香淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被指於2019年11月11日在柴灣道天橋近柴灣道迴旋處，管有違禁武器，即一把彈簧刀。",
+  "verdict": "6月18日裁定罪名成立，原定還押至6月30日等候索取被告的感化、勞教、教導所及更生中心報告後再作判刑，但被告在6月24日於高院申請保釋獲批。",
+  "verdictReason": null,
+  "sentence": "監禁是「不合比例」，判處罰款更為合適。被告本身有專注力失調，因此案還押七天已對下月初面對考試的被告學業帶來一定影響，校方早前亦表明不能為被告安排補考。還押七天已為被告帶來深刻教訓，因此建議裁判官可考慮無條件釋放或罰款處理。",
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "管有違禁武器"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "3058",
+        "content": "#東區裁判法院第七庭\n#香淑嫻裁判官\n#1111柴灣 #判刑\n吳(18)\n\n控罪：\n管有違禁武器\n被指於2019年11月11日在柴灣道天橋近柴灣道迴旋處，管有違禁武器，即一把彈簧刀。\n\n背景：\n6月18日裁定罪名成立，原定還押至6月30日等候索取被告的感化、勞教、教導所及更生中心報告後再作判刑，但被告在6月24日於高院申請保釋獲批。\n\n求請：\n辯方指被告年輕，沒刑事紀錄，案件亦非嚴重，只是管有彈簧刀。如判處監禁是「不合比例」，判處罰款更為合適。被告本身有專注力失調，因此案還押七天已對下月初面對考試的被告學業帶來一定影響，校方早前亦表明不能為被告安排補考。還押七天已為被告帶來深刻教訓，因此建議裁判官可考慮無條件釋放或罰款處理。\n\n判刑：\n裁判官考慮多項報告及辯方求請，同時亦考慮到被告曾還押6天，決定接納感化官建議判被告接受18個感化令。\n\n被告不同意接受感化令*\n\n午休至 1430 繼續判刑\n\n下午判刑按此 [https://t.me/youarenotalonehk_live/6546]\n\n*《罪犯感化條例》第4條\n//(3) 凡法院擬根據本條修訂感化令，但並非應有關的受感化者的申請而作出修訂，則須傳召該受感化者到法院席前；如該人不少於 14 歲，則除非他表示願意遵守修訂後的感化令的規定，否則法院不得修訂該命令//",
+        "url": "https://t.me/youarenotalonehk_live/6530",
+        "source": "法庭文字直播台",
+        "datetime": "2020-06-30T05:19:22.000Z"
+      }
+    ]
+  }
+}

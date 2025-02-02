@@ -1,0 +1,57 @@
+{
+  "id": "114",
+  "caseNo": null,
+  "incident": "1104將軍澳",
+  "defendants": [
+    {
+      "id": "128",
+      "name": "吳",
+      "age": 30,
+      "charges": [
+        {
+          "id": "184",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲警"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1104將軍澳"
+  ],
+  "trialDateFrom": "2019-12-17",
+  "trialDateTo": "2020-08-13",
+  "trialLength": 5,
+  "verdictDate": "2020-08-13",
+  "sentenceDate": null,
+  "magistrate": "屈麗雯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，於2019年11月4日警長 A 於尚真樓與尚智樓交界至尚德停車場設置防線，見被告拾起水喉，走近防線射水，故多次警告被告，但被告卻向他射水，並曾大喊「死黑警」。及後警長 A 朝被告施放胡椒噴霧，數名警員合力將被告制服。",
+  "verdict": "罪名不成立",
+  "verdictReason": "以下為簡易判決理由：\n\n被告被指違反香港法例第232章〈警隊條例〉第63條，被控於2019年11月4日凌晨約1時，於將軍澳唐德街3號尚德邨尚德巴士總站，襲擊警員A(警長)，並罔顧其是否會受到傷害。\n\n控方案情指PW1 警員A警長案發時奉命與其他隊員組成防線，期間PW1留意到花槽邊有一名男子使用消防喉射水，水柱射向防線。PW1因而喝止並跑向該男子(不爭議為被告)，至PW1距被告2-3米距離時水柱射到PW1，同時被告大叫「死黑警」。PW1因而使用胡椒噴霧將被告制服。警誡下被告稱當時「射空氣」\n\n辯方案情即指被告見到PW1衝向自己時有將水柱提高，避開PW1。\n\n雙方不爭議呈上3條片段，分別列作控方證物P1、辯方證物D1及D2。\n\n裁決前，法庭提醒舉證責任在於控方，控方必須於毫無合理疑點下指證被告，被告本人沒有責任舉證自己無罪。被告選擇不作供，法庭不會因此對被告作任何不利推測。\n\n本案唯一證供是PW1作出的，因此明白法庭必須謹慎考慮其證供的真確性。法庭考慮三段影片後得出雙方不爭議的觀察，即由PW1跑出至被告被制服間只有兩三秒。PW1作供時指於防線觀察時水柱「左右前後打圈」，PW1跑出後水柱指向下就射到他，但法庭觀察片段時認為向下的傾向十分微小，甚至於法庭觀看片段時亦不能清晰地見到。相反，片段P1及D1顯示被告見到PW1衝向他後水柱反而向上。法庭因此傾向接納辯方指被告見到PW1衝向他時有避開PW1的說法。\n\n法庭明白案發時間短，但PW1證供中的關鍵部分並非完全為事實，不能全盤接受。由此，控方不能於毫無合理疑點下指稱被告有意圖罔顧他人是否受傷，控方亦不能排除被告有意令水柱避開PW1的說法。因此，法庭接納辯方認為被告有意控制水柱避開PW1，並非所指罔顧他人安全。\n\n由此，法庭裁定被告罪名不成立",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

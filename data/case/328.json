@@ -1,0 +1,57 @@
+{
+  "id": "328",
+  "caseNo": null,
+  "incident": "1013牛頭角",
+  "defendants": [
+    {
+      "id": "411",
+      "name": "李",
+      "age": 30,
+      "charges": [
+        {
+          "id": "581",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "攻擊性武器"
+  ],
+  "trialDateFrom": "2021-02-25",
+  "trialDateTo": "2021-02-25",
+  "trialLength": 1,
+  "verdictDate": "2021-02-25",
+  "sentenceDate": "2021-02-25",
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "在2019年10月13日，PW1及小隊接報牛頭角附近非法堵路，故在附近進行掃蕩工作，當PW1掃蕩至定安街時，見到有20人面帶面罩，2者相距15至20米。然後包括被告的約10個黑衣人向定安街方向逃走，然後PW1制服被告，在搜身過程中搜出頭盔、八達通、雨傘、電筒、口罩、3M口罩、T-Shirt、眼罩、雷射筆、手䄂、帽、手套、生理鹽水、兩條褲、一對鞋等物品。",
+  "verdict": "罪名成立",
+  "verdictReason": "被告認罪",
+  "sentence": "監禁兩個月",
+  "sentenceReason": "法庭考慮到被告沒有案底，亦考慮到上訴庭的案例強調雷射筆的嚴重性，雷射筆會對人造成傷害。雖然考慮到求情信內容對被告有良好評價，個人背景及涉案環境，但被告的年紀即時監禁無可避免，故會採納3個月作量刑起點，認罪後作1/3扣減後判處被告2個月監禁。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "被控於2019年10月13日，在牛頭角定安街的公眾地方，無合法權限或合理辯解而攜有攻擊性武器，即1支能發出雷射光束的裝置。"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

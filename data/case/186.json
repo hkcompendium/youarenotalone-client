@@ -1,0 +1,79 @@
+{
+  "id": "186",
+  "caseNo": null,
+  "incident": "0930香港仔",
+  "defendants": [
+    {
+      "id": "227",
+      "name": "黃",
+      "age": 49,
+      "charges": [
+        {
+          "id": "311",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事損壞，違反 《刑事罪行條例》(第200章) 第60(1)條"
+        },
+        {
+          "id": "312",
+          "verdict": "其他",
+          "plea": "簽保守行為",
+          "charge": "抗拒警務人員，違反《侵害人身罪條例》(第212章) 第36條"
+        },
+        {
+          "id": "313",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事損壞，違反 《刑事罪行條例》(第200章) 第60(1)條"
+        },
+        {
+          "id": "314",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事損壞，違反 《刑事罪行條例》(第200章) 第60(1)條"
+        },
+        {
+          "id": "315",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事損壞，違反 《刑事罪行條例》(第200章) 第60(1)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-24",
+  "sentenceDate": "2020-07-24",
+  "magistrate": "何俊堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，被告於2019年9月30日在香港仔警署外，無合法辯解而以黑色油漆噴污警務處的兩幅橫額(控罪一)，並於同日同地襲擊警署警長(控罪二)。\n\n另外，被告於2019年9月17日及19日，分別在港鐵海洋公園站及黃竹坑站外，以黑色油漆噴污港鐵站外牆、電梯門及機房等(控罪三到五)。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "100小時社會服務令、賠償令",
+  "sentenceReason": "被告明白並同意控罪二案情，願意接受簽保守行為命令 (自簽 $2000、守行為 12個月，期間不與得干犯阻礙或抗拒警務人員有關罪行)。控罪二的涉案證物充公。\n\n就四項刑事毀壞罪，感化官報告建議被告接受中度時長(81至160小時)的社會服務令。報告內容正面，裁判官考慮本案案情，被告無刑事定罪記錄，認為感化官建議適合，判處被告100小時社會服務令。法庭另裁定被告須就控罪一損壞横額向警方賠償$27,800，控罪三至五每項控罪賠償$5,000，共賠償$42,800，須在2星期內繳交。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "533",
+  "caseNo": null,
+  "incident": "1031旺角",
+  "defendants": [
+    {
+      "id": "697",
+      "name": "*",
+      "age": 13,
+      "charges": [
+        {
+          "id": "993",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用罪，違反違反《簡易程序治罪條例》(第228章) 第17條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-02",
+  "sentenceDate": null,
+  "magistrate": "無資料",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控在2019年10月31日萬，在旺角山東街及西衣街交界藏有100條索帶，涉嫌管有適合作非法用途的工具，並意圖作非法用途使用。",
+  "verdict": "撤銷控罪，准以1,000元自簽保守行為18個月",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "1979",
+        "content": "#九龍城裁判法院\n#少年法庭\n\n#1031旺角\n13歲女童\n\n控罪： 管有適合作非法用途工具意圖作非法用途使用\n指其10月31日山東街西衣街交界管有100條索帶\n\n保釋",
+        "url": "https://t.me/youarenotalonehk_live/4584",
+        "source": "法庭文字直播台",
+        "datetime": "2020-04-29T06:30:16.000Z"
+      }
+    ]
+  }
+}

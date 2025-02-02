@@ -1,0 +1,57 @@
+{
+  "id": "425",
+  "caseNo": null,
+  "incident": "倒掛國旗",
+  "defendants": [
+    {
+      "id": "532",
+      "name": "古",
+      "age": 74,
+      "charges": [
+        {
+          "id": "761",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "侮辱國旗罪"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "侮辱國旗罪"
+  ],
+  "trialDateFrom": "2021-01-27",
+  "trialDateTo": "2021-01-27",
+  "trialLength": null,
+  "verdictDate": "2021-01-28",
+  "sentenceDate": "2021-01-28",
+  "magistrate": "鍾明新",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於2020 年 7 月15 日在香港西九龍裁判法院 A 座與 B 座地下之間的公眾地區內，舉起一面倒插的中國國旗，上面寫有「白色恐怖」、「法西斯恐怖」等字眼，被控一項侮辱國旗罪。",
+  "verdict": "罪名成立",
+  "verdictReason": "被告在旗上寫字，可見他有預謀犯案。案發當日有受到公眾關注的案件提堂，被告向記者展示旗幟約20分鐘，讓記者拍照，是在公眾面前公然侮辱國旗。其行為表達對國旗的輕蔑、嘲弄、鄙視及棄絕，被告知道在場有支持者及反對者，支持者可能會受到鼓動起哄犯案，與反對者發生衝突。",
+  "sentence": "監禁4個月",
+  "sentenceReason": "裁判官指被告多次犯案，監禁是唯一選項。法庭以5個月作量刑起點，因其身體狀況酎情減刑1個月，判囚4個月。",
+  "bailment": "不獲批准",
+  "bailmentRemarks": "古以自己患癌，需每日就醫為由，申請保釋，但被拒絕。主任裁判官嚴舜儀認為，古有相當可能在保釋期間重犯，而古的醫療需要會由懲教署提供合適協助。\n\n古涉另一案逾期邀交罰款，嚴官准他延期至9月30日清繳所有有關罰款，否則須以24日監禁代替。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

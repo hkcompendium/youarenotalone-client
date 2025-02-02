@@ -1,0 +1,59 @@
+{
+  "id": "494",
+  "caseNo": null,
+  "incident": "20200524灣仔",
+  "defendants": [
+    {
+      "id": "644",
+      "name": "許",
+      "age": 25,
+      "charges": [
+        {
+          "id": "914",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方造成阻礙， 違反《簡易程序治罪條例》(第228章) 第4A條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "錢禮",
+    "在公眾地方造成阻礙",
+    "20200524灣仔"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2021-03-01",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2020年5月24日在灣仔菲林明道與軒尼詩道交界，無合理或合法辯解，留下一塑膠圍欄對馬路造成阻礙。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "18個月感化令",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

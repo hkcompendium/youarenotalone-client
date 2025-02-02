@@ -1,0 +1,55 @@
+{
+  "id": "181",
+  "caseNo": null,
+  "incident": "20200125旺角",
+  "defendants": [
+    {
+      "id": "222",
+      "name": "陳",
+      "age": 16,
+      "charges": [
+        {
+          "id": "305",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有攻擊性武器，違反《簡易程序治罪條例》(第228章) 第17條 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "劉淑嫻裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "\n被控於2020年1月25日，在旺角彌敦道636號銀行中心廣場外，管有1支黑色戰術筆(14cm)、1把摺刀，意圖將其作非法用途使用。 ",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官裁定，\n（一）於2020年1月25日晚上2256時之前，有人在砵蘭街近亞皆老街一帶進行非法集結。\n（二）於2020年1月25日晚上2334時之前，有人在旺角近彌敦道及亞皆老街交界一帶進行非法集結。\n（三）被告所管有的戰術筆十分堅硬，其頂部有撞針、以金屬製成，能對人造成傷害。如被告用這支筆插向他人身體，可造成嚴重身體損傷。\n（四）被告管有之摺刀非常鋒利，可插傷人。\n\n裁判官指被告當時想離開，可有很多原因，不一定是「畏罪潛逃」，而就算當時旺角有非法集結，亦不代表被告正「畏罪潛逃」。跟據PW1說法，被告案發時由北往南，即朝向警方佈防方向奔跑，而參與非法集結的人則是由南向北奔跑。\n\n故此裁判官裁定被告並非參與非法集結之人士。\n\n此外，被告被捕時未有口頭招認，不過全程與警方合作：沒有叫任何挑釁警察的口號、沒有做破壞社會安寧的行為，沒有和其他人集結，PW1 亦沒有見到被告嘗試拿出筆或刀、嘗試用它們作非法意圖。\n\n因此，裁判官認為，通過環境證供及證人證供，控方亦未能完全證明被告有意圖使用該物品作非法用途，故此裁定被告罪名不成立。\n",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

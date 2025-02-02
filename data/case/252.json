@@ -1,0 +1,58 @@
+{
+  "id": "252",
+  "caseNo": null,
+  "incident": "0929銅鑼灣",
+  "defendants": [
+    {
+      "id": "308",
+      "name": "廖",
+      "age": 41,
+      "charges": [
+        {
+          "id": "430",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "襲擊正在正當執行職務的警務人員，違反《侵害人身條例》(第212章) 第36(b)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#0929銅鑼灣",
+    "#錢禮主任裁判官"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-19",
+  "sentenceDate": "2021-07-10",
+  "magistrate": "錢禮/香淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指當日有人發起網上號召參與全球反極權遊行，下午約二時許，亦有數百人於銅鑼灣 Sogo 外聚集，期間警員身穿背心、戴頭盔及持警棍站於涉案地點，有人叫口號及要求警員離開，警員突然感到身後右腰位置被踢，轉身看見被告右腳微彎，狀似踢腳，被告則隨即逃跑，警員展開追截並成功拘捕被告，他警誡下保持緘默，警員則沒有表面傷痕。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "80 小時社會服務令",
+  "sentenceReason": "辯方求情指感化官亦同意被告在案發時受環境所刺激，只是一時衝動而犯案。被告本身無案底，為人上進，收入多用於進修，希望法庭給予被告機會。 裁判官香淑嫻表示，當時受襲警員和被告之間，其實沒有任何衝突，被告亦沒有被挑釁。香官接納感化報告建議，判處被告80小時社會服務令。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "判刑日法庭文字直播台並沒有紀錄。判刑資料主要參考立場新聞和獨立媒體的報導。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

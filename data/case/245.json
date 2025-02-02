@@ -1,0 +1,61 @@
+{
+  "id": "245",
+  "caseNo": null,
+  "incident": "1111大埔",
+  "defendants": [
+    {
+      "id": "299",
+      "name": "鄭",
+      "age": 20,
+      "charges": [
+        {
+          "id": "418",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲警"
+        },
+        {
+          "id": "419",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-07-27",
+  "trialDateTo": "2020-07-31",
+  "trialLength": 5,
+  "verdictDate": "2020-08-26",
+  "sentenceDate": "2020-08-27",
+  "magistrate": "陳炳宙",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年11月11日，被告在大埔公路的迴旋處拋擲3條防撞欄，有2條防撞欄被拋出馬路時，有休班警員駕駛私家車經過發現。被告另被控襲警。",
+  "verdict": "襲警罪名不成立；在公眾地方造成阻礙罪名成立",
+  "verdictReason": "有關第一控罪：襲警，控方只能依賴警員Y的證供作證據，警員有受傷及傷勢報告，但這不能證明他是在事發時受傷。當時有關襲警的事只牽涉Y與被告的拉扯，因此既然舉證的證人(警員Y)的證供不可信，控方就沒辦法在達至毫無合理疑點的基礎上證明被告襲警，所以裁定被告第一控罪：襲警罪名不成立。\n\n有關第二控罪：在公眾地方造成阻礙，被告在沒有合理疑點下，在2019年11月11日上午6時半，與另一名女子均身穿黑色衣服。當時PW1正駕駛私家車至廣宏街，兩人刻意拋擲防撞欄，其與私家車的距離只是4米。有一條跌在左邊，一條跌在右邊，在公眾地方佔據了2條行車線。兩人拋擲的3條防撞欄，可能對馬路上的車輛和人造成危害。兩人沒有在任何合理理由作出以上的行為，之後一分多鐘後，兩人在附近出現，被PW1和警員Y拘捕。",
+  "sentence": "監禁2個月",
+  "sentenceReason": "根據第228章《簡易程序治罪條例》第4A條，最高刑罰為監獄3個月和罰款$5000。裁判官指，本案屬同類罪行中最嚴重，並非一般小販擺放雜物於行人路，故應以最高刑罰判處被告。\n\n裁判官指被告行為草菅人命，共同犯罪，又被搜出頭盔、工業濾罐等物，可見早有預謀，屬加重刑責的因素。\n\n裁判官又指，對於一名堅持不認罪的人，「看不到減刑因素」，批評被告的行為傷害市民整體利益，不能輕判。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "被告申請上訴控罪和刑期",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "辯方律師表示會上訴控罪和刑期，申請上訴期間保釋。法庭批准上訴期間保釋申請。",
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

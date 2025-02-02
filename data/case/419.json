@@ -1,0 +1,70 @@
+{
+  "id": "419",
+  "caseNo": null,
+  "incident": "1021元朗",
+  "defendants": [
+    {
+      "id": "526",
+      "name": "李",
+      "age": 24,
+      "charges": [
+        {
+          "id": "749",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "阻礙公職人員"
+        },
+        {
+          "id": "750",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "抗拒公職人員"
+        },
+        {
+          "id": "751",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "阻礙公職人員",
+    "1021元朗"
+  ],
+  "trialDateFrom": "2020-09-18",
+  "trialDateTo": "2020-09-18",
+  "trialLength": null,
+  "verdictDate": "2021-01-12",
+  "sentenceDate": "2021-01-26",
+  "magistrate": "梁雅忻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被指於2019年10月21日在元朗鳳攸北街附近，阻礙執行職務的督察梁劍凱，並且拒捕，同時管有雷射筆。",
+  "verdict": "控罪1: 罪名成立；控罪2及3: 罪名不成立",
+  "verdictReason": "阻礙公職人員(成立):\n片段清晰顯示PW1正在追截一名女子，被告本身正在向前跑，突然轉身向PW1投擲水樽，令PW1需要避開，裁定被告蓄意阻礙PW1追截該名女子，令女子得以逃脫。\n\n抗拒公職人員(不成立):\n被告由後退至被制服在數秒之間，短時間內被告已被多名警員制服，期間有警員坐在被告身上，他的反抗也可能是因被警員按壓而感到痛楚的自然反應，也是可以理解，裁定並不構成抗拒行為。\n\n管有攻擊性武器(不成立):\n鐳射筆是否被告管有存有疑點，被告早前握有水樽，如何再手持鐳射筆，片段未能顯示關鍵時刻，加上PW2及3的證供成疑，控方未能在亳無合理疑點下證明被告右手手持鐳射筆或鐳射筆是從被告身上檢取。",
+  "sentence": "監禁5星期",
+  "sentenceReason": "被告似乎與該女子互不相識，更不知道警員追截她的因由，相信被告兩次「唔知頭唔知路」、猶如「搶犯」的阻撓是出於幫助別人的心，但實際上卻阻礙警員執法，更使女子成功逃脫。\n情況嚴重，重申法例的訂立是要保障執法人員，必須判處具阻嚇性的刑罰，即時監禁無可避免。以6星期為量刑起點，因被告良好背景及親友的求情酌情扣減1星期。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": " 開始審訊日期 Trial Date Start: 2020-9-18",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

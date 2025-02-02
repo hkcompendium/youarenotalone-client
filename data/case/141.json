@@ -1,0 +1,55 @@
+{
+  "id": "141",
+  "caseNo": null,
+  "incident": "0825紅磡",
+  "defendants": [
+    {
+      "id": "165",
+      "name": "黎",
+      "age": 33,
+      "charges": [
+        {
+          "id": "232",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-25",
+  "sentenceDate": "2020-08-25",
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年8月25日在紅磡警署外管有雷射筆。",
+  "verdict": "撤回控罪（傳票）",
+  "verdictReason": null,
+  "sentence": "2000元自簽守行為24個月",
+  "sentenceReason": "被告同意案情，裁判官裁定以簽保守行為方式處理。以2000元自簽守行為24個月，期間不得干犯管有攻擊性武器或管有可作非法用途工具等罪行，並需維持社會安寧。關於訟費，裁判官決定可著情處理，被告需繳交300元訟費，在擔保金中扣除。",
+  "bailment": "批准",
+  "bailmentRemarks": "3000元保釋，同樣也不可離港。",
+  "bailmentCondition": null,
+  "remarks": "傳票案件",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

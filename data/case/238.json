@@ -1,0 +1,94 @@
+{
+  "id": "238",
+  "caseNo": null,
+  "incident": "1111港大",
+  "defendants": [
+    {
+      "id": "286",
+      "name": "謝",
+      "age": 22,
+      "charges": [
+        {
+          "id": "403",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    },
+    {
+      "id": "287",
+      "name": "盧",
+      "age": 20,
+      "charges": [
+        {
+          "id": "404",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    },
+    {
+      "id": "288",
+      "name": "李",
+      "age": 21,
+      "charges": [
+        {
+          "id": "405",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    },
+    {
+      "id": "289",
+      "name": "李",
+      "age": 20,
+      "charges": [
+        {
+          "id": "406",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-08-26",
+  "trialDateTo": "2020-10-05",
+  "trialLength": 4,
+  "verdictDate": "2020-11-30",
+  "sentenceDate": null,
+  "magistrate": "錢禮(提堂)/ 崔美霞(審訊、 裁決)",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "D1、D2、D3及D4 被控一項在公眾地方造成阻礙罪，指她們2019年 11 月 11 日與其他身份不詳人士留下交通錐、水馬、垃圾桶及其他雜物，對在薄扶林道行車路上的車輛造成阻礙、不便或危害。",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官認為警員證人在拘捕地點上存在關鍵性矛盾，因此不能穩妥接納該名警員證供。而其餘警員證人則未能目擊D2及D3在堵路現場，因此不能確定D2及D3為堵路人士之一，亦無證據D2及D3二人在現場有堵路行為。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "裁判官批准辯方的訟費申請",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

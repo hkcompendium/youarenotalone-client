@@ -1,0 +1,58 @@
+{
+  "id": "450",
+  "caseNo": null,
+  "incident": "1120灣仔",
+  "defendants": [
+    {
+      "id": "570",
+      "name": "麥",
+      "age": 19,
+      "charges": [
+        {
+          "id": "824",
+          "verdict": null,
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器 違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1120灣仔",
+    "和你塞"
+  ],
+  "trialDateFrom": "2020-06-02",
+  "trialDateTo": "2020-06-02",
+  "trialLength": 1,
+  "verdictDate": "2020-06-02",
+  "sentenceDate": null,
+  "magistrate": "林希維",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控罪指被告於去年11月20日在灣仔港鐵站2號月台管有一把刀。",
+  "verdict": "罪名不成立",
+  "verdictReason": "法官信納雙方2位證人的證供\n1）警署警長58107 - 認為供辭和影片吻合，被盤問亦表現鎮定。\n2）證人陳女士 - 證明被告的確有收藏刀具，亦會攜帶刀出街，不是突然編作出來作辯護。\n\n但法官不信納被告視刀為護身符，「拎出黎接觸下空氣」的講法，但考慮到被告無案底，犯罪傾向低。加上該刀(P3) 收藏在刀鋒未沒伸出並且放於密實袋內，而密實袋又放於背囊內。\n\n而由0825起爭執到0930被告被搜出刀(P3)，全程包括P4片段中，在情緒高漲時也從未拿刀使用，法庭不能在毫無合理疑點下裁定被告管有刀是意圖傷人，因此判被告罪名不成立。\n\n【證物P1-3 歸還給被告】\n但由於被告在該場合(和你塞) 帶刀自招嫌疑，訟費申請不獲接納。\n\n被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

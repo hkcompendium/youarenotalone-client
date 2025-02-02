@@ -1,0 +1,55 @@
+{
+  "id": "223",
+  "caseNo": null,
+  "incident": "0101銅鑼灣",
+  "defendants": [
+    {
+      "id": "269",
+      "name": "馮",
+      "age": null,
+      "charges": [
+        {
+          "id": "381",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "管有攻擊性武器或適合作非法用途的工具"
+        }
+      ]
+    }
+  ],
+  "description": "",
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-04-29",
+  "sentenceDate": null,
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於銅鑼灣站E出口管有一包塑料索帶、一隻白色手套、一個黑色口罩、一包氣球及一樽白色油。",
+  "verdict": "辯方訟費申請獲批",
+  "verdictReason": "控方因證據不足撤回控罪，但反對辯方訟費申請，稱馮為「自招嫌疑」。控方續指，第一被告遭截查後立即表明水電工身份，惟當日並非工作天，故攜帶白色油等物品不合理；另指氣球亦不是工作物品，第一被告在警誡下亦保持緘默。辯方隨即指出氣球是馮打算給予他兒女的禮物。\n\n主任裁判官錢禮指控方唯一控罪基礎為被告當天不需上班，基礎薄弱，批准辯方的訟費申請，強調任何人均有權在警誡下保持緘默，故第一被告並不構成自招嫌疑。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

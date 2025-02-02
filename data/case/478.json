@@ -1,0 +1,63 @@
+{
+  "id": "478",
+  "caseNo": null,
+  "incident": "1013荃灣",
+  "defendants": [
+    {
+      "id": "622",
+      "name": "D2:*",
+      "age": 14,
+      "charges": [
+        {
+          "id": "885",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "參與非法集結，違反 《公安條例》(第245章)  第18條"
+        },
+        {
+          "id": "886",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "非法集結"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2021-03-19",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年10月13日，在荃灣南豐中心外參與非法集結。\n\n從案情可見﹐在指稱的非法集結中﹐雖有示威者手持磚頭﹐但控方並非指控有示威者投擲物品﹐只是用作堵路的雜物。控方案情亦非指控D2有參與投擲雜物。\n\n本案牽涉的非法集結僅持續10分鐘﹐期間只見示威者在地上拿起雜物。案情第5段顯示的是其他被捕人士的情況﹐亦於D2被捕後發生﹐D2對其他被捕人士的行為全不知情。\n\n控罪(5)關於D2管有鐳射筆的指控已撤回﹐而有關鐳射筆為匙扣式鐳射筆﹐屬中性物品﹐D2是合法管有有關物品﹐沒有指控D2有傷人意圖。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "24個月感化令",
+  "sentenceReason": "裁判官形容本案非法集結是有規模、有組織的。被告雖非組織者或領導者，但沒有被告等的參與便不能成事。縱使被告清白案底以及年紀尚輕，但行為對社會公安影響廣泛，不能只著重更生元素，判刑須具懲罰性和紀律性。然而，被告在案中沒有使用武力，是對被告有利的因素。裁判官最終採納感化官報告建議，判處24個月感化令，並須遵守以下條件：\n• 讀書及工作須經感化官批准\n• 每日19:00至06:00宵禁\n• 須遵照感化官指示參與支援服務計劃或小組活動",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

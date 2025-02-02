@@ -1,0 +1,111 @@
+{
+  "id": "571",
+  "caseNo": null,
+  "incident": "20200229旺角",
+  "defendants": [
+    {
+      "id": "742",
+      "name": "鄧",
+      "age": 42,
+      "charges": [
+        {
+          "id": "1050",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "縱火，違反 《刑事罪行條例》(第200章) 第60(3)條 "
+        }
+      ]
+    },
+    {
+      "id": "743",
+      "name": "De Bruin",
+      "age": 31,
+      "charges": [
+        {
+          "id": "1051",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "縱火，違反 《刑事罪行條例》(第200章) 第60(3)條 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-09-22",
+  "sentenceDate": "2020-10-06",
+  "magistrate": "梁嘉琪",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控罪指兩名被告於2020年2月29日，在旺角山東街及洗衣街交界，無合法辯解而用火損壞香港政府一個垃圾桶，意圖損壞該財產或罔顧該財產是否會被損壞。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "監禁4個月",
+  "sentenceReason": "縱火無疑屬嚴重罪行，判刑須具阻嚇性。考慮本案案情、兩被告背景及求情，以 6 個月為量刑起點，認罪扣減刑期至4個月，被告亦須就被燒毀的垃圾桶各向食環署賠償350元。",
+  "bailment": "批准",
+  "bailmentRemarks": "兩名被告曾於首次提堂及向高等法院申請保釋失敗，於2020年5月25日獲嚴舜儀署理主任裁判官批准保釋。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 99,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "2406",
+        "content": "#九龍城裁判法院第一庭\n#嚴舜儀署理主任裁判官\n\n鄧,荷蘭籍手足(31-42)已還押近3個月 #提堂（#20200229旺角 縱火:垃圾桶）\n\n控罪：\n縱火罪\n控罪指他們於今年 2 月 29 日，在旺角山東街及洗衣街交界，無合法辯解而用火損壞香港政府一個垃圾桶，意圖損壞該財產或罔顧該財產是否會被損壞。\n\n✅批准保釋✅\n保釋條件：\n5000元現金\n不離開香港\n居住報稱地址，更改24小時前通知警署\n每周到警署報到一次\n\n控申押後至8月24等法律意見，d2荷蘭人在港不能工作等開庭日日都係＄，希望控方下次開庭所有嘢齊\n\n押後至8月24下午九龍城一庭答辯",
+        "url": "https://t.me/youarenotalonehk_live/5376",
+        "source": "法庭文字直播台",
+        "datetime": "2020-05-25T07:02:32.000Z"
+      },
+      {
+        "id": "1918",
+        "content": "#九龍城裁判法院第五庭\n#嚴舜儀署理主任裁判官\n#20200229旺角 #提堂\nD1鄧(42), D2荷蘭籍手足(31)\n\n控罪：縱火罪\n於2020年2月29日在旺角山東街與洗衣街交界附近，有警員目睹被告以紙張投入正在燃燒的垃圾桶中\n\n❌沒有保釋申請，繼續還柙❌\n\n案件押後至2020年5月25日14:30於九龍城裁判法院再訊\n\n過往提堂記錄：\n2/MAR 首次提堂 [https://t.me/youarenotalonehk_live/3696]\n9/MAR 第二次提堂 [https://t.me/youarenotalonehk_live/3762]\n8/APR 高等法院保釋申請 [https://t.me/youarenotalonehk_live/4111]\n14/APR 高等法院保釋申請2 [https://t.me/youarenotalonehk_live/4150]",
+        "url": "https://t.me/youarenotalonehk_live/4465",
+        "source": "法庭文字直播台",
+        "datetime": "2020-04-27T03:47:56.000Z"
+      },
+      {
+        "id": "1760",
+        "content": "#高等法院第一庭 #保釋申請\n#陳慶偉法官 #20200229旺角\n荷蘭藉手足(31)已還押44天\n\n案情：於2020年2月29日在旺角山東街與洗衣街交界，有警員目睹被告以紙張投入燃燒中的垃圾桶\n\n案件將於2020年4月27日09:30在九龍城裁判法院再提訊\n❌保釋申請被拒，繼續還柙❌\n\n\n過往提堂記錄：\n2/MAR 首次提堂 [https://t.me/youarenotalonehk_live/3696]\n9/MAR 第二次提堂 [https://t.me/youarenotalonehk_live/3762]\n8/APR 高等法院保釋申請 [https://t.me/youarenotalonehk_live/4111]",
+        "url": "https://t.me/youarenotalonehk_live/4150",
+        "source": "法庭文字直播台",
+        "datetime": "2020-04-14T02:17:21.000Z"
+      },
+      {
+        "id": "1739",
+        "content": "#高等法院第一庭 #保釋申請\n#陳慶偉法官 #20200229旺角\nA1鄧(42)，A2荷蘭籍手足(31)\n\n控罪：縱火\n案情：於2020年2月29日，在旺角山東街與洗衣街交界，有警員目睹兩名被告以紙張投入燃燒中的垃圾桶\n\n❌A1保釋申請被拒，繼續還柙候訊❌\n\nA2保釋申請押後至4月14日09:30高等法院再處理，以待處理住址相關事宜，期間繼續還柙",
+        "url": "https://t.me/youarenotalonehk_live/4111",
+        "source": "法庭文字直播台",
+        "datetime": "2020-04-08T07:05:11.000Z"
+      },
+      {
+        "id": "1617",
+        "content": "#屯門裁判法院第一庭\n#張潔宜署理主任裁判官 #保釋覆核\n#20200229旺角\nD1鄧\nD2荷蘭籍手足\n\n控罪：縱火 (違反刑事罪行條例 第60(3)及63(1)\n\n案情：被指於2月29日，在旺角山東街與洗衣街交界 當時有人以垃圾桶設置路障，警員目睹兩名被告以雜誌紙張燃燒垃圾桶，兩名被控人於警誡下承認犯罪\n\n裁判官拒絕准予D1保釋\nD2無擔保申請\n\n案件將於4月27日在九龍城裁判法院進行聆訊\n‼️其間繼續還押‼️",
+        "url": "https://t.me/youarenotalonehk_live/3762",
+        "source": "法庭文字直播台",
+        "datetime": "2020-03-09T03:07:33.000Z"
+      },
+      {
+        "id": "1589",
+        "content": "#西九龍裁判法院第三庭\n#羅德泉主任裁判官\n#新案件 #20200229旺角\n\nD1鄧\nD2荷蘭籍手足\n\n控罪：縱火 (違反刑事罪行條例 第60(3) 63(1)條)\n\n案情：2月29日旺角山東街警員目擊被告於垃圾桶裡火堆中投下紙張\n\n裁判官拒絕准予被告保釋\n\n於3月9日於屯門裁判法院作保釋覆核聆訊\n\n案件於4月27日0930九龍城裁判法院第一庭進行聆訊",
+        "url": "https://t.me/youarenotalonehk_live/3696",
+        "source": "法庭文字直播台",
+        "datetime": "2020-03-02T07:50:05.000Z"
+      }
+    ]
+  }
+}

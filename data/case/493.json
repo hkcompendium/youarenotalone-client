@@ -1,0 +1,59 @@
+{
+  "id": "493",
+  "caseNo": null,
+  "incident": "1118尖沙咀",
+  "defendants": [
+    {
+      "id": "643",
+      "name": "陳",
+      "age": 25,
+      "charges": [
+        {
+          "id": "913",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方作出擾亂秩序的行為，違反 《公安條例》(第245章) 第17B條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1118尖沙咀",
+    "鄭念慈",
+    "在公眾地方作出擾亂秩序的行為"
+  ],
+  "trialDateFrom": "2021-01-07",
+  "trialDateTo": "2021-02-05",
+  "trialLength": null,
+  "verdictDate": "2021-02-05",
+  "sentenceDate": null,
+  "magistrate": "鄭念慈",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年11月18日，在尖沙咀麼地道市政局百週年紀念花園噴水池旁，在公眾地方作擾亂秩序行為，即叫囂謾罵惡語，意圖激使他人破壞社會安寧。",
+  "verdict": "罪名不成立",
+  "verdictReason": "1）接納被告拍攝片段：\n雖辯方有辯方證人證明3段片段由被告手機攝取，但無法證明片段由何人個時何地拍攝。\n但由於片段內舉機者既短褲與被告當時身穿短褲脗合，片段亦顯示到當時尖東既現場，所以接納被告拍攝片段D5。\n\n2）警員PW1 PC16204，截查被告前的口供與D5片段不符：\n對於PW1指出案法時間不符， 但可能係警員手錶誤差等因素。\n而片段D5亦顯示唔到而PW1所供稱 因看到被告阻礙其他防暴警進行拘捕行動，並大叫死黑警。但這可能因為片段剛好拍攝不到。\n但係關鍵位係PW1曾供稱，因留意到被告有阻礙動作及大叫“死黑警”。但D5片段拍攝到PW1行近被告身前只詢問被告是否記者，並非警告或拘捕動作。這其不合理，所以唔排除各個可能性，包括PW1訛稱截查被告前既口供。\n\n3）控方所針對係封鎖線內的擾亂公眾行為：\n由於無法證明被告被截查前的擾亂公眾秩序的行為，但被告在封鎖線的行為，即高呼“死黑警”，的確有機會導致封鎖線外的人仕情緒高漲。\n\n4）針對 PW1 & PW2封鎖線內的供詞：\n由於PW1 有機會訛稱截查被告前的口供，所以對PW1的供詞亦有懷疑。\n至於PW2...(由於鄭官太多但係但係 以致直播員無法理解 恕無能為力)\n\n由此，基於疑點利益歸於被告既大前提下，裁定被告無罪。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

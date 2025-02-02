@@ -1,0 +1,55 @@
+{
+  "id": "353",
+  "caseNo": null,
+  "incident": "0921元朗",
+  "defendants": [
+    {
+      "id": "437",
+      "name": "劉",
+      "age": 25,
+      "charges": [
+        {
+          "id": "621",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2019-12-19",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控在今年9月21日在元朗鳳琴街金龍樓地下，藏有一把黑色短劍、一把黑色斧頭、一把黑色軍刀及銀色開山刀。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "判12個月",
+  "sentenceReason": "署理主任裁判官張潔宜判刑時指，辯方求情稱被告並非武器的物主，武器上亦沒有被告的指紋，但張官不接納該說法，認為武器的物主可以使用手套或以布包武器，故沒有指紋也不代表他並非物主，但本案並沒證據顯示有人使用過該武器。\n\n張潔宜又指，現場為示威現場，有示威者正在使用武力及汽油彈，故示威者使用武器的風險並非不存在。\n\n張潔宜指，她檢視過涉案的武器包括 74 厘米長的軍刀、73 厘米長的開山刀等，刀峰銳利、體積大，可造成嚴重傷害，甚至死亡，殺傷力強，而且在示威現場檢獲，案情嚴重，量刑起點為 21 個月，考慮到被告認罪，以及其背景，之前有固定工作，為家中經濟支柱，又定期捐款至慈善組織，再作扣減刑期，最後判被告監禁 12 個月。",
+  "bailment": "不獲批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 88,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

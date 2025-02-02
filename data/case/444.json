@@ -1,0 +1,65 @@
+{
+  "id": "444",
+  "caseNo": null,
+  "incident": "0915將軍澳",
+  "defendants": [
+    {
+      "id": "565",
+      "name": "15",
+      "age": 15,
+      "charges": [
+        {
+          "id": "817",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        },
+        {
+          "id": "818",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "無牌管有無線通訊器具，違反《電訊條例》(第106章) 第8條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "0915將軍澳",
+    "0915銅鑼灣",
+    "少年法庭"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-09-03",
+  "sentenceDate": "2020-09-18",
+  "magistrate": "鄭念慈、梁嘉琪",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年 9 月 15 日， 有市民在銅鑼灣至金鐘一帶參與未經警方批准的遊行。當晚約 7 時 45 分，有警員在將軍澳站 A 出口外截查被告與其一名友人，在被告背囊中搜出經改裝的自拍棍（手機夾被移除）及一部對講機；而在被告友人身上亦搜出一部對講機。警誡下，被告承認曾於下午參加銅鑼灣未經批准的遊行。對講機經檢驗後，確認為須領取牌照才可管有的型號，但被告並無領有適當牌照。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "入住更生中心，另外罰款1,000元。",
+  "sentenceReason": "2020年9月18日判刑當日，由於家屬反對讓傳媒旁聽，梁嘉琪裁判官拒絕讓記者進入庭內，因此判刑理由不詳。\n\n2020年9月3日案件開審當日，D選擇認罪。原審裁判官鄭念慈當時向被告稱：「你係雙非兒童，有親人關懷，犯案全因社會上言論，令你認為有需要去未經批准遊行表達立場。」鄭官又指被告認罪「遲咗一啲」，由於案情嚴重，「情況唔理想」，下令先索取多份報告才判刑，其間被告須還柙。辯方當日求情透露，被告的父母均非香港居民，他自幼由親戚養大。案發時被告因不滿政府施政及警方執法手段，認為參與運動能夠「多一個人，多一把聲音」，希望對警方作出多一點監管。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "D 原是KTCC1163/2020案中的D1。\n\nKTCC1163/2020兩名被告同時向律政司申請以其他方式處理，D2申請獲批，D1遭拒絕。D1在2020年8月21日分拆至九龍城裁判法院第九庭 (少年庭) 作正式答辯（即為此案）。D2:16 歲余姓學生，在2020年8月20日於觀塘法院獲准以 2,000 元簽保、守行為 12 個月，撤回控罪，詳情見KTCC1163/2020。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

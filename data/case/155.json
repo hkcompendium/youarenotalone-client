@@ -1,0 +1,55 @@
+{
+  "id": "155",
+  "caseNo": null,
+  "incident": "1002將軍澳",
+  "defendants": [
+    {
+      "id": "183",
+      "name": "陳",
+      "age": 28,
+      "charges": [
+        {
+          "id": "258",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-05",
+  "sentenceDate": null,
+  "magistrate": "梁少玲",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控在公眾地方管有攻擊性武器罪，指他於去年 10 月 3 日凌晨，在將軍澳中心地下 B04 舖外，藏有一把黑色摺刀及一支雷射筆，意圖將其作非法用途使用。",
+  "verdict": "罪名不成立",
+  "verdictReason": "裁判官梁少玲裁決時指，被告自辯的說法矛盾及不合理。被告稱涉案物品是行山時使用，摺刀用來割樹枝、雷射筆用來照明。裁判官認為被告在 10 月 1 日行山，由中午行到下午4、5時，沒有必要使用雷射筆，如摺刀用作割樹枝，但刀沒有沾上泥土，亦認為被告「邊行邊洗刀」的說法不可信。\n\n裁判官不接納被告的自辯，但認為控方亦沒有提出足夠證據。裁判官指，摺刀藏於被告右前褲袋，雷射筆則藏在其腰包，可見被告不是刻意隱藏涉案物品。雖然雷射筆經常用於示威現場，包括照射建築物及他人，而案發當晚曾發生襲擊事件，但沒有證據顯示被告和事件有關。\n\n至於警員在被告身上搜出香煙及黑色口罩等物品，裁判官認為口罩本身不可疑，但口罩與雷射筆經常同時出現在衝突現場，反映被告曾經或即將參與公眾活動；不過，被告當時衣著普通，沒有帶保護裝備，截查前亦無可疑。\n\n裁判官認為控方指控不具體，也無法解釋被告傷及何人、為何傷人。雖然事件可疑，但控方不足以證明被告意圖傷人，終裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

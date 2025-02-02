@@ -1,0 +1,55 @@
+{
+  "id": "343",
+  "caseNo": null,
+  "incident": "0609金鐘",
+  "defendants": [
+    {
+      "id": "425",
+      "name": "吳",
+      "age": 33,
+      "charges": [
+        {
+          "id": "596",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "非法集結，違反 《公安條例》(第245章)  第18條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-29",
+  "sentenceDate": "2020-07-21",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "二零一九年六月九日有市民發起港島區遊行，當晚活動完結後，有約二百名示威者聚集在立法會一號出入口外的示威區。翌日凌晨，警方警告於示威區聚集的示威者停止衝擊警方防線，但有示威者繼續推鐵馬及擲雜物等，有警員目睹被告曾推鐵馬，最終拘捕被告。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "監禁四個月",
+  "sentenceReason": "辯方求情指被告犯案時只使用最低程度暴力，加上他已被還押三周，而且認罪和感到後悔，望可輕判緩刑。惟裁判官認為判刑須考慮現場整體暴力程度，而非被告本人行為，以6個月作量刑起點，認罪扣減三分一，最後判處4個月監禁。",
+  "bailment": "批准",
+  "bailmentRemarks": "以2000港元保釋",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

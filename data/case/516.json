@@ -1,0 +1,57 @@
+{
+  "id": "516",
+  "caseNo": null,
+  "incident": "1102灣仔",
+  "defendants": [
+    {
+      "id": "673",
+      "name": "張",
+      "age": 37,
+      "charges": [
+        {
+          "id": "951",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖摧毁及損壞財產，違反 《刑事罪行條例》(第200章) 第62(a)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "#1102灣仔"
+  ],
+  "trialDateFrom": "2020-12-30",
+  "trialDateTo": "2020-12-30",
+  "trialLength": 1,
+  "verdictDate": "2021-01-20",
+  "sentenceDate": null,
+  "magistrate": "張志偉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年11月2日，在灣仔新世紀廣場外保管一把剪刀、一把鉗、一個扳手及一把鎅刀，意圖在無合法辯解下使用該物件，以摧毁或破壞屬於另一人的財產。",
+  "verdict": "罪名不成立",
+  "verdictReason": "雙方早前已經提交書面陳詞，辯方重申被告當天有工作在身，而DW1(被告顧主)亦於庭上解釋被告身上工具的用途。\n\nPW1(拘捕警員)作供指出現場沒有刑事毀壞罪行發生，而對於首次見到指罵者的位置，PW1在庭上有3種不同講法。而追逐期間情況混亂或因視線受阻而認錯人，再加上被告沒有使用或手持相關物品，因此認控方未能就各項控罪元素成功舉證。\n\n雖然法庭不接納辯方對PW1作供的所有質疑，惟控方未有證據指被告涉及堵路等行為，而DW1亦確認了被告被搜出的工具是當天工作所需及當天使用過，加上被告沒有犯案記錄。法庭裁定控方無法舉證至無合理疑點，因此裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "484",
+  "caseNo": null,
+  "incident": "1201尖沙咀",
+  "defendants": [
+    {
+      "id": "631",
+      "name": "林",
+      "age": 22,
+      "charges": [
+        {
+          "id": "895",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖摧毀或損壞財產，違反 《刑事罪行條例》(第200章) 第62 (a) 條"
+        }
+      ]
+    },
+    {
+      "id": "632",
+      "name": "黃",
+      "age": 23,
+      "charges": [
+        {
+          "id": "896",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有適合作非法用途的工具罪，違反《簡易程序治罪條例》(第228 章) 第17 條"
+        },
+        {
+          "id": "897",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖摧毀或損壞財產，違反 《刑事罪行條例》(第200章) 第62 (a) 條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "管有物品意圖損壞財產",
+    "管有工具作非法用途"
+  ],
+  "trialDateFrom": "2021-01-14",
+  "trialDateTo": "2021-01-22",
+  "trialLength": 3,
+  "verdictDate": "2021-03-08",
+  "sentenceDate": null,
+  "magistrate": "葉啓亮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控罪(1)：D1被控於2019年12月1日，在尖沙嘴梳士巴利花園外保管１枝噴漆，意圖摧毀其他人的財產。\n\n控罪(2)：D2被控於同日同地管有１包索帶。\n\n控罪(3)：D2被控於同日同地管有２罐白電油與１個打火機，意圖摧毀其他人的財產。\n\n2019年12月1日「毋忘初心大遊行」原定在下午４時由尖沙咀遊行至紅館，獲發不反對通知書，惟警方於４時單方面中止遊行，訛稱「數百名暴徒投擲多枚煙霧餅」，指遊行為「非法集結」，在尖沙咀及黃埔發射催淚彈武力驅散。",
+  "verdict": "全部罪名不成立",
+  "verdictReason": "裁判官認為PW1在關鍵事項上作供混亂，PW2、4亦未能協助法庭，PW1證供即使可信亦不可靠。\n\n裁判官拒絕接納全數辯方證人證供，認為有諸多不合理之處，更批評D1「邊作供邊砌詞」狡辯。\n\n舉證責任在於控方，但控方主要依賴證人供詞。由於控方證人供詞未能協助法庭，裁判官引 R v Chong Ah Choi ，根據物品性質及現場環境作推論。\n\n裁判官指兩名被告在警方驅散下未有離開，更故意遮蓋容貌。但未能排除被告管有物品是作合法用途，因此裁定兩名被告面對的所有控罪罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "107",
+  "caseNo": null,
+  "incident": "0805深水埗",
+  "defendants": [
+    {
+      "id": "121",
+      "name": "許",
+      "age": 24,
+      "charges": [
+        {
+          "id": "170",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "非法集結，違反 《公安條例》(第245章)  第18條"
+        },
+        {
+          "id": "171",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-11-05",
+  "sentenceDate": "2020-11-20",
+  "magistrate": "嚴舜儀主任裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被指2019年 8 月在深水埗手持自製投擲器，參與非法集結。她早前承認非法集結及在公眾地方管有攻擊性武器兩罪。她求情時，解釋其投擲器的作用，是丟棄警方發射的催淚彈",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "控罪一︰量刊起點 - 7個月監禁（加刑︰2個月監禁）；控罪二︰量刊起點 - 7個月監禁（加刑︰2個月監禁）",
+  "sentenceReason": "當日非法集結持續約2小時，深夜時分發出強力鐳射光束照向警方，以粗言穢語辱罵，並以雜物堵路。被告被捕時背包藏有3包索帶，呼吸器等物品，並手持自製投擲器，明顯是有計劃前往，並知悉該處有非法集結。\n\n當時被告住所與案發地有一段距離，被告是必然知道當時發生非法集結。手持投擲器是為了擲走催淚彈，是明顯與警方對抗。揈雜物出去風險也高。當時的集結規模足以與警方對峙。背景報告與求情陳詞一致。\n\n控罪一加刑因素︰有計劃參與非法集結，被捕時手持自製投擲器\n\n控罪二加刑因素︰自製投擲器意圖減弱警方驅散目的（擲走催淚彈），有意與警方對抗，也有風險傷害人",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

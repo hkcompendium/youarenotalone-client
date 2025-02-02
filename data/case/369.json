@@ -1,0 +1,55 @@
+{
+  "id": "369",
+  "caseNo": null,
+  "incident": "1014中環",
+  "defendants": [
+    {
+      "id": "458",
+      "name": "吳",
+      "age": 64,
+      "charges": [
+        {
+          "id": "645",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "企圖刑事毀壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2019-12-13",
+  "sentenceDate": "2020-01-03",
+  "magistrate": "林子勤",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "事發當晚有警車載着被捕人士離開現場，有人用手推車撞向警車致造成左後車胎附近位置有損毀，警員下車查看時，看見六十四歲被告正把手推車推向警車車尾方向，故上前截停被告，被告逃走，多名警員增援並向被告噴胡椒噴霧，最終拘捕被告。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "15個月感化令",
+  "sentenceReason": "裁判官林子勤考慮被告感化報告正面，報告指他有悔意及汲取教訓，近十年來奉公守法及熱心做義工，判他15個月感化令。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "原被控一項刑事毁壞罪，辯方其後尋獲拍得案發片段的網民，證實被告只把手推車撞向警車車胎，未有損壞車身，改為企圖刑事毀壞罪。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

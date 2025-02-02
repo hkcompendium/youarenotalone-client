@@ -1,0 +1,55 @@
+{
+  "id": "420",
+  "caseNo": null,
+  "incident": "0922元朗",
+  "defendants": [
+    {
+      "id": "527",
+      "name": "林",
+      "age": 17,
+      "charges": [
+        {
+          "id": "752",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "無牌管有無線電通訊器具"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-06-01",
+  "trialDateTo": "2020-06-01",
+  "trialLength": null,
+  "verdictDate": "2020-06-01",
+  "sentenceDate": null,
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年9月22日，在元朗康福街與壽富街交界，沒有行政長官會同行政會議或電訊管理局局長批給或設立的適當牌照，而管有作無線電通訊之用的器具，即一部黑色對講機。",
+  "verdict": "撤銷控罪，自簽1000元保守行為12個月",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

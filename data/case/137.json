@@ -1,0 +1,113 @@
+{
+  "id": "137",
+  "caseNo": null,
+  "incident": "1007屯門",
+  "defendants": [
+    {
+      "id": "158",
+      "name": "甘",
+      "age": 21,
+      "charges": [
+        {
+          "id": "222",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙"
+        },
+        {
+          "id": "227",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "控管有物品意圖損壞財產"
+        }
+      ]
+    },
+    {
+      "id": "550",
+      "name": "蔣",
+      "age": 17,
+      "charges": [
+        {
+          "id": "786",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "公眾地方造成阻礙"
+        }
+      ]
+    },
+    {
+      "id": "551",
+      "name": "布",
+      "age": 19,
+      "charges": [
+        {
+          "id": "787",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    },
+    {
+      "id": "552",
+      "name": "曾",
+      "age": 19,
+      "charges": [
+        {
+          "id": "788",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    },
+    {
+      "id": "553",
+      "name": "趙",
+      "age": 27,
+      "charges": [
+        {
+          "id": "789",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": "D1：撤回控罪1，2，被告同意案情，以簽保守行為處理：守行為12個月，$1,000，未來12個月不得作出或企圖作出在公眾地方造成阻礙或管有物品意圖損壞財產的刑事作為。堂費$500將從保釋金扣除。\n\nD3：撤回控罪1，被告同意案情，以簽保守行為方式處理：守行為12個月，$1,000，未來12個月不得作出或企圖作出在公眾地方造成阻礙或管有物品意圖損壞財產的刑事作為。堂費$500將從保釋金扣除。\n\nD4-5：2020年6月24\b日，被告獲准以自簽1,000元、守行為12個月結案，另須繳付500元堂費，控罪撤銷。",
+  "tags": [],
+  "trialDateFrom": "2020-08-24",
+  "trialDateTo": "2020-08-25",
+  "trialLength": 2,
+  "verdictDate": "2020-08-25",
+  "sentenceDate": "2020-08-25",
+  "magistrate": "張潔宜(D1, D3-5); 梁雅忻(D2);",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年10月7日為《禁蒙面法》生效第三日，晚上屯門爆發衝突。6名男女涉在十字路口用竹棍堵路、攜「雷射筆」等。\n\nD2： 被控於2019年10月7日在屯門青山公路段與井財街交界，留下 4 支竹棍、兩把木梯和一把太陽傘。\n\nD4-5：2019年10月7日警方接報有人於青山公路一帶堵路，遂派出沒有標記的警車前往巡視。當駛至屯門鄉事會路時，發現為數30至40名身穿黑衣人士正包圍一輛巴士及一輛的士，車前路上遭人放置雜物堵路。警員下車追截，拘捕本案兩名被告，並於兩人背囊內搜出手套及面罩，現場則檢獲涉案竹枝、木梯和雨傘等雜物。兩被告於警誡下沒有回應。",
+  "verdict": "罪名不成立 (D2)",
+  "verdictReason": "裁判官裁決指，根據警員證供，他們前往現場時，路面佈滿雜物，造成阻礙，而他們到達後，看見戴着勞工手套和口罩的被告大叫「走啊」並逃走，控方要求法庭以此推論被告有參與堵路，或與堵路的人有關連。\n惟裁判官認為，縱使被告戴着手套在上址出現並不尋常，但法庭亦無法排除堵路以外的其他可能性，最終裁定被告無罪。",
+  "sentence": "",
+  "sentenceReason": "",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

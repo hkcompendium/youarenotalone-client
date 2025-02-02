@@ -1,0 +1,55 @@
+{
+  "id": "269",
+  "caseNo": null,
+  "incident": "0826天水圍",
+  "defendants": [
+    {
+      "id": "328",
+      "name": "余",
+      "age": 24,
+      "charges": [
+        {
+          "id": "460",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-15",
+  "sentenceDate": null,
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "8月25日接近8月26日凌晨有十數黑衣人用雷射筆指向天水圍警署内警員，其後四散。被告於8月26日凌晨天耀一帶被截查，在他身上搜出雷射筆。\n",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

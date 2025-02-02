@@ -1,0 +1,58 @@
+{
+  "id": "640",
+  "caseNo": null,
+  "incident": "0810馬鞍山",
+  "defendants": [
+    {
+      "id": "897",
+      "name": "陳",
+      "age": 31,
+      "charges": [
+        {
+          "id": "1318",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "0810馬鞍山",
+    "攻擊性武器"
+  ],
+  "trialDateFrom": "2021-01-27",
+  "trialDateTo": "2021-01-28",
+  "trialLength": 2,
+  "verdictDate": "2021-05-13",
+  "sentenceDate": "2021-06-02",
+  "magistrate": "彭亮廷",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被指於2019年8月10至11日，在馬鞍山耀安邨耀榮樓外內管有一支雷射筆。",
+  "verdict": "罪名成立",
+  "verdictReason": "被告不爭議管有雷射筆及意圖管有雷射筆，但爭議光束是否照射警察、在距離上是否有可能照射到警察，以及她是否有意圖以鐳射筆作非法用途。被告審訊時作供稱，雷射筆是買回家用來與貓玩耍，她案發當晚與街坊聊天，拿出雷射筆示範如何使用，看不清楚現場對面為警署。\n\n裁判官指，被告說法建基於一連串巧合及剛好，惟他不認為真的是如此，而是被告有策劃及部署，因而裁定被告罪名成立。裁判官續指警方高清影片可見，被告與另外兩名男子用雷射筆照向警署，並因擔心容貌被拍而戴口罩，非如被告所言般與街坊談天。裁判官又指被告作供至關鍵處前言不對後語，自打嘴巴，相反警員作供沒轉彎抹角，其記憶能力與影片內容即使有誤差，也不影響其可靠性。",
+  "sentence": "8個月即時監禁",
+  "sentenceReason": "裁判官量刑時參考到 律政司司長 訴 SWS (CAAR1/2020)、律政司司長 訴 龔逸勤(CAAR8/2020) 、香港特別行政區 訴 鍾日褀 (HCMA243/2020) 及律政司司長 訴 司徒浩燊 (CAAR15/2020) 的量刑原則和考慮。裁判官指出本案有8項加刑因素：被告案發時懷有其他裝備，顯示被告有預謀；證供片段見到現場實際上為一場小型非法集結；連被告在內有3名人士以鐳射筆照射於警署平台站崗的警員；受到鐳射筆照射的警員共有3名，3名警員均報稱眼晴不適，被告行為實際已構成襲警；案發地點於警署門口，被告行為具挑釁性，對警隊和政府以及法治造成破壞；被告行為有煽動他人情緒之嫌；群眾聚集持續約10分鐘；被告的雷射筆屬3B級別，可見其傷害性。\n\n考慮到被告干犯罪行時沒有定罪記錄，早前已因另一案件入獄 5 星期，最早於 6 月 7 日獲釋，裁判官以監禁 9 個月為量刑起點，酌情扣減 1 個月刑期，最終判囚 8 個月，與被告另一宗案件的刑期分期執行。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

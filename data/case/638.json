@@ -1,0 +1,59 @@
+{
+  "id": "638",
+  "caseNo": null,
+  "incident": "1013鑽石山",
+  "defendants": [
+    {
+      "id": "894",
+      "name": "趙",
+      "age": 24,
+      "charges": [
+        {
+          "id": "1315",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1013鑽石山",
+    "18區開花",
+    "管有工具作非法用途"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-09",
+  "sentenceDate": null,
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被指於2019年10月13日，在黃大仙龍蟠街3號鑽石山站公共運輸交匯處外管有攻擊性武器或適合作非法用途的工具，即2把鐵鉗及4把剪刀，意圖將其作非法用途使用。當日網民發起「18區開花」行動，下午有大約 200 名市民在黃大仙集結，期間有人燒毀國旗，其後警方到場，結果市民立即逃離，並以垃圾桶及膠欄堵路。到下午3:03分，警方在鑽石山公共運輸交匯處截停當時身穿黑色上衣的被告，從其背囊搜出2把鐵鉗、4把剪刀及膠水。",
+  "verdict": "被告同意案情，控方撤控，被告簽守行為",
+  "verdictReason": "被告獲撤銷控罪，准以 2,000 元簽保、守行為 24 個月。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

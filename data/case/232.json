@@ -1,0 +1,55 @@
+{
+  "id": "232",
+  "caseNo": null,
+  "incident": "20200125荃灣",
+  "defendants": [
+    {
+      "id": "285",
+      "name": "劉",
+      "age": 26,
+      "charges": [
+        {
+          "id": "402",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞，違反 《刑事罪行條例》(第200章) 第60(1)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-10-27",
+  "trialDateTo": "2020-10-27",
+  "trialLength": 1,
+  "verdictDate": "2020-10-27",
+  "sentenceDate": "2020-10-27",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於2020年1月25日凌晨於荃灣港鐵站A出口外天橋用紅色噴漆噴字，包括「支持醫護罷工」、「毋忘沙士教訓」等。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "判監兩個月，緩刑兩年，賠償$2,500予路政署。",
+  "sentenceReason": "起點定於三個月監禁，認罪扣減一個月，除此之外沒有其他減刑因素。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

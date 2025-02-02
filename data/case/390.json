@@ -1,0 +1,59 @@
+{
+  "id": "390",
+  "caseNo": null,
+  "incident": "1111旺角",
+  "defendants": [
+    {
+      "id": "472",
+      "name": "何",
+      "age": 21,
+      "charges": [
+        {
+          "id": "666",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "非法集結，違反 《公安條例》(第245章)  第18條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "梁嘉琪",
+    "1111旺角",
+    "非法集結"
+  ],
+  "trialDateFrom": "2020-11-30",
+  "trialDateTo": "2020-12-01",
+  "trialLength": 2,
+  "verdictDate": "2020-12-01",
+  "sentenceDate": null,
+  "magistrate": "梁嘉琪",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於19年11月11日，於旺角彌敦道及山東街一帶與其他身份不詳人士集結，作出擾亂秩序或帶威嚇、侮辱或挑撥性的行為，意圖或相當可能令他人害怕社會安寧會被破壞。",
+  "verdict": "罪名不成立",
+  "verdictReason": "控方案情指，當日凌晨2時許，約50人在現場聚集，警員到場驅散，期間警員看到戴口罩穿灰色波鞋的被告，蹲在路上堆砌磚塔，於是上前作出口頭警告，被告見狀說「有黑警，快啲走」，警員最終將他截停拘捕。\n裁判官指出，控方只傳召拘捕被告的警員作證，而本案的主要爭議點，就是被告是否堆砌磚塔的人，關鍵在於警員的可靠性。警員聲稱因為被告穿着灰色波鞋較為特別，故一直專注留意着他。\n不過，控辯雙方同意事實卻指，被告當時身穿的波鞋是杏色，而就着這點分歧，主控從沒要求警員澄清，也沒有要求警員明確指出究竟被告穿着的波鞋為何特別。\n就着警員聲稱聽見被告說「有黑警，快啲走」，警員同意人群中不少人戴口罩，他主要根據人群的反應，來確認是被告說出該番話。但裁判官認為，當時警方正進行驅散，人群不需要聽到該句說話才四散。\n此外，警員與被告之間相隔着10多名同僚，而所謂砌磚塔的行為只維持一至兩秒，警員也沒有清楚交代追捕過程細節，因此法庭無法肯定警員觀察的可靠性，故裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "302",
+  "caseNo": null,
+  "incident": "0921屯門",
+  "defendants": [
+    {
+      "id": "377",
+      "name": "*",
+      "age": 15,
+      "charges": [
+        {
+          "id": "531",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "有意圖管有攻擊性武器罪"
+        },
+        {
+          "id": "532",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "於公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": "",
+  "tags": [
+    "未成年",
+    "雷射筆"
+  ],
+  "trialDateFrom": "2019-10-30",
+  "trialDateTo": "2019-11-01",
+  "trialLength": null,
+  "verdictDate": "2019-11-07",
+  "sentenceDate": "2019-11-25",
+  "magistrate": "蘇惠德",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年9月21日，在屯門站交通交匯處的休息室外，管有一支可發射綠光的雷射筆、一支改裝雨傘及一支改裝行山杖。",
+  "verdict": "罪名成立",
+  "verdictReason": "裁判官裁決時指，雷射筆定義上不是攻擊性武器，但本案中男生也被搜出護目鏡及噴漆等，認為如果想和平遊行，不必帶這些防禦用的裝備，又認為如果用雷射筆照射建築物沒甚麼意思，加上信納控方專家證人，雷射筆可傷及眼睛及皮膚，裁定被告有利用雷射筆傷害警方的意圖。至於雨傘也是明顯蓄意改裝，裁定他兩項管有攻擊性武器罪成。",
+  "sentence": "被判入更生中心",
+  "sentenceReason": "蘇官引述被告的報告指，被告患有過度活躍症，因此成績欠佳，又因踩滑板的緣故，認識了不良的朋友，使他曾吸食大麻，誤入歧途。被告體能不足，故不適合勞教。相反，更生中心能提供有規律的訓練、進修的機會、職業訓練及心理輔導，因此就兩項控罪判處被告入更生中心 3 至 9 個月。蘇官亦表示，被告完成服刑後，可能要再接受為期 1 年的監管。",
+  "bailment": "不獲批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "1) 被告原被控「管有適合作非法用途的工具罪」及「在公眾地方管有攻擊性武器罪」兩罪，署理總裁判官蘇惠德在裁決前，根據《裁判官條例》第 27 條賦予的權力，提出修改控罪，將針對鐳射筆的「管有適合作非法用途的工具罪」，改作「有意圖而管有攻擊性武器」。\n\n2) \"本案被告乃自2019 年 6 月爆發大規模示威活動以來，首名被發現身處大型示威地點附近、並因管有雷射筆而被定罪的人。被告不服定罪提出上訴，被原訟法庭駁回。雷射筆可被視為攻擊性武器的原則，在上訴時獲得維持。\" (引自香港刑事檢控2019 https://www.doj.gov.hk/en/publications/pdf/doj2019pd_advisory.pdf )\n\n3) 2020年5月20日, 高等法院駁回上訴，法官指原審裁判官接納警員沒有警誡下查問少年的內容呈堂，並無不公；主動修改控罪沒有越權、亦有充分證據支持案中雷射筆就是攻擊性武器，以及雨傘和行山杖經過改裝，並意圖「以用作傷害他人」的推論，故裁定定罪穩妥，駁回上訴。(案件編號：HCMA 13/2020)\n",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "辯方提出上訴",
+  "appealJudgementUrl": "",
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

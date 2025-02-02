@@ -1,0 +1,57 @@
+{
+  "id": "636",
+  "caseNo": null,
+  "incident": "0922旺角",
+  "defendants": [
+    {
+      "id": "892",
+      "name": "林",
+      "age": 20,
+      "charges": [
+        {
+          "id": "1312",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "無牌管有無線電通訊器具"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "無線電"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-12",
+  "sentenceDate": null,
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被指在2019年 9 月 22 日，在旺角彌敦道 735 至 735A 號迅華大廈外，沒有電訊管理局局長批出牌照下管有作無線電通訊之用的器具，即一部手提無線傳聲器。當日有數百名示威者聚集旺角警署外，期間有人用雷射筆照向警署及扔石頭進內，又燃燒路障，警方舉起橙旗及藍旗。被告其後在迅華大廈外遭搜查，警員從他的背包搜出一部對講機、頭盔及護目鏡。",
+  "verdict": "控方撤控，被告簽守行為",
+  "verdictReason": "被告獲撤銷控罪，准以 2,000 元簽保、守行為 24 個月，另須支付 300 元堂費。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "522",
+  "caseNo": null,
+  "incident": "1111天后",
+  "defendants": [
+    {
+      "id": "678",
+      "name": "劉",
+      "age": 17,
+      "charges": [
+        {
+          "id": "957",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "無牌管有無線電通訊器具，違反《電訊條例》(第106章) 第8條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "無線電"
+  ],
+  "trialDateFrom": "2021-02-09",
+  "trialDateTo": "2021-02-09",
+  "trialLength": 1,
+  "verdictDate": "2021-03-02",
+  "sentenceDate": "2021-03-02",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年11月11日，市民號召全港大三罷，希望促使政府回應民間五大訴求。大批市民響應「黎明行動」號召，在全港各區堵路抗爭，被告在警方截查時搜出無缐電收發器及其他物品。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "18個月感化令",
+  "sentenceReason": "法庭採納感化報告建議，判處被告感化令，但就由建議的12個月提升至18個月。 \n\n被告需於未來18個月需按照感化官指示居住及工作、接受心理及精神治療、參加有關更生的小組及計劃，期間亦不得干犯任何罪行，另需支付$1000堂費，將於保釋金中扣除。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

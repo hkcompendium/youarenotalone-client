@@ -1,0 +1,57 @@
+{
+  "id": "251",
+  "caseNo": null,
+  "incident": "20191111黃大仙",
+  "defendants": [
+    {
+      "id": "307",
+      "name": "楊",
+      "age": 17,
+      "charges": [
+        {
+          "id": "429",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "抗拒警務人員,違反《侵害人身罪條例》(第212章) 第36條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "撤控"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指，警員當日駕駛沒有標記的警車巡邏，駛至牛池灣街市外，發現有約60至70名示威者聚集叫口號，佔據行人路及天橋。行人道上有4至5人將大型雜物掉向清水灣道馬路。有路人嘗試清理物件，雙方發生爭執。警員見狀下車，目睹戴灰色口罩、單手穿手套的被告，當時正在挑釁其他人士，而路人繼續欲清理物件。便衣警員隨即上前截停被告，並出示委任證。被告打算逃走，警員於是把被告制服。期間被告繼續掙扎，再有兩名警員加入協助未果，至第四名警員加入，並以警棍打被告左大腿一下後，才能成功制服被告並鎖上手銬，宣布正式拘捕。\n\n警方及後把被告帶返黃大仙警署，搜出一張長者八達通，被告在警誡下否認與非法集結有關。警誡錄影會面下，被告沒有回應任何問題。",
+  "verdict": "被告准自簽2000元，守行為24個月，期間不得干犯任何阻礙公眾地方或公職人員的罪行。",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

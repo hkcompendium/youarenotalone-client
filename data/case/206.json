@@ -1,0 +1,58 @@
+{
+  "id": "206",
+  "caseNo": null,
+  "incident": "20200506天水圍",
+  "defendants": [
+    {
+      "id": "251",
+      "name": "方",
+      "age": 22,
+      "charges": [
+        {
+          "id": "352",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "襲擊致造成身體傷害"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    " 傷人39",
+    "AOABH"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-12-08",
+  "sentenceDate": "2020-12-11",
+  "magistrate": "張潔宜署理主任裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，被告於2020年5月6日，在天水圍嘉湖一期外，襲擊他人致造成身體傷害",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "即時監禁8個月",
+  "sentenceReason": "裁判官明言案情嚴重，多人共同犯案，被告非單獨行事；事主上年紀，手無寸鐵；被告不止1次襲擊事主，又用雷射筆干擾事主。裁判官續指被告踢頭動作危險，可致重傷，事主幸好無大礙。而考慮到被告襲擊動作非連貫，有時間考慮停手，結果事主被襲逾3分鐘，其所受驚嚇甚大不難想像，故判刑需阻嚇懲罰並重。裁判官再指當時附近有示威活動，被告行為或會激發群眾，加上感化官指被告複述案發過程不誠懇不耐煩，反映反省悔意有限，故以12個月監禁為量刑起點，認罪扣減3份之1，終將被告判囚8個月。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "襲擊致造成身體傷害，違反《侵害人身罪條例》(第212章) 第39條"
+  ],
+  "custodyLength": 11,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

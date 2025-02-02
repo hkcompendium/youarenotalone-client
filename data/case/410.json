@@ -1,0 +1,61 @@
+{
+  "id": "410",
+  "caseNo": null,
+  "incident": "1122元朗",
+  "defendants": [
+    {
+      "id": "509",
+      "name": "陳",
+      "age": 39,
+      "charges": [
+        {
+          "id": "730",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "明知地誤導警務人員"
+        },
+        {
+          "id": "1103",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "明知地誤導警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-05-22",
+  "trialDateTo": "2020-05-22",
+  "trialLength": null,
+  "verdictDate": "2020-05-22",
+  "sentenceDate": "2020-05-22",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告在2019年11月22日和26日，兩度到元朗警署虛報其私家車自9月起被盜。警方隨後到停車場調查，卻發現被告的私家車在9月後仍有出入。被告其後向警員說，「我參加咗理工大學政治義載，驚會畀警察拉，所以講大話」，並在警誡下承認捏造及虛報事件。",
+  "verdict": "兩項控罪罪名成立",
+  "verdictReason": "",
+  "sentence": "120小時社會服務令",
+  "sentenceReason": "辯方在判刑前陳辭，稱被告願意接受社會服務令安排，建議法庭接納報告建議的81至160小時服務令。\n\n署理主任裁判官張潔宜判刑時說，報告內容正面，被告雖然確實浪費警力，但承認錯誤，採納感化官的建議，判處社會服務令120小時。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

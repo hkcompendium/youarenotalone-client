@@ -1,0 +1,69 @@
+{
+  "id": "89",
+  "caseNo": null,
+  "incident": "0903太子",
+  "defendants": [
+    {
+      "id": "99",
+      "name": "冼 ",
+      "age": 22,
+      "charges": [
+        {
+          "id": "121",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞，違反《刑事罪行條例》(第200章) 第60條"
+        },
+        {
+          "id": "122",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有物品意圖摧毀或損壞財產，違反《刑事罪行條例》(第200章) 第62條"
+        },
+        {
+          "id": "123",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "三罷"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2020-09-23",
+  "sentenceDate": "2020-10-08",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年9月3日，示威者在太子站聚集，港鐵職員在控制室內發現被告向售票機、八達通增值機等噴漆，之後報警。警隨即到場將他拘捕。被告被搜出 1 罐噴漆、有柄鐵棍、彈弓及 50 粒顆粒。",
+  "verdict": "罪名成立",
+  "verdictReason": "裁判官判刑時指，被告攜帶涉案工具去港鐵站內，屬於有預謀犯案，而他響應號召去破壞公用設施，參與者於過程中的情緒激動高漲，可能導致不堪設想的後果。\n\n至於涉案彈弓具備殺傷力，五十粒金屬顆粒可以提供多次發射。被告稱犯案是為了回應社會事件的說法，不屬於減刑因素，故判被告監禁一年。",
+  "sentence": "監禁一年；賠償一萬五千元給港鐵",
+  "sentenceReason": "辯方求情時表示，被告當時 22 歲，剛從副學士畢業。他與父母同住，父母在一商場內經營小食店。父現年 60 歲，有膝蓋退化，行動不便，所以被告會到小食店幫手。辯方又希望法官考慮被告的案情非同類案件中最嚴重，被噴噴漆的港鐵機器在清潔後可重用，無造成永久損懷。而且被告及早認罪，有悔意，被告所犯的事是一時衝動。被告父母亦有撰寫求情信。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

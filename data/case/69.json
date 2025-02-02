@@ -1,0 +1,72 @@
+{
+  "id": "69",
+  "caseNo": null,
+  "incident": "20200403筲箕灣",
+  "defendants": [
+    {
+      "id": "77",
+      "name": "賈",
+      "age": 25,
+      "charges": [
+        {
+          "id": "93",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "刑事毀壞，違反《刑事罪行條例》(第200章) 第60條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "20200403筲箕灣"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告涉於2020年4月3日在筲箕灣港鐵站附近，在警方使用的鐵箱寫上「死黑警」字句，遭路過休班警當場拘捕。",
+  "verdict": "撤銷控罪",
+  "verdictReason": null,
+  "sentence": "自簽$1000，守行為12個月，撤回控罪。",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "另需付$500堂費，於擔保金扣除。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "4505",
+        "content": "#東區裁判法院第一庭\n#錢禮主任裁判官\n\n譚得志(47)因另一宗案件已還押逾5天 #提堂 (#20200524銅鑼灣 舉行或召集未經批准公眾集會 在公眾地方內擾亂秩序的行為 拒絕遵從或故意忽略遵從警務人員作出的命令)\n\n新增控罪：發表煽動文字\n\n押後至11月17日1430粉嶺裁判法院第一庭處理轉介至區域法院文件。\n\n賈(25) #提堂 (#20200403筲箕灣 刑事毀壞)\n\n案情：於黨鐵popo鐵箱上用箱頭筆寫上「死黑警」，被休班狗PC34496捉住。\n\n自簽$1000，守行為12個月，撤回控罪。另需付$500堂費，於擔保金扣除。",
+        "url": "https://t.me/youarenotalonehk_live/9378",
+        "source": "法庭文字直播台",
+        "datetime": "2020-09-14T06:53:32.000Z"
+      },
+      {
+        "id": "3935",
+        "content": "#東區裁判法院第一庭\n#錢禮主任裁判官\n#20200403筲箕灣 #提堂\n\n賈 (25)\n\n控罪：刑事損壞\n\n被控於20年4月3日，在筲箕灣港鐵站內近B1出口，無合理辯解而損壞屬於香港鐵路有限公司的一個銀色鐵箱，箱上印有警徽及鐵路警區字樣\n\n✅裁判官批准以原有條件繼續擔保✅\n\n案件押後至 2020年9月14日 1430 東區裁判法院第一庭再訊。",
+        "url": "https://t.me/youarenotalonehk_live/8310",
+        "source": "法庭文字直播台",
+        "datetime": "2020-08-18T06:43:26.000Z"
+      }
+    ]
+  }
+}

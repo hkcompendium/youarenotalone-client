@@ -1,0 +1,55 @@
+{
+  "id": "518",
+  "caseNo": null,
+  "incident": "1031旺角",
+  "defendants": [
+    {
+      "id": "784",
+      "name": "曾",
+      "age": 21,
+      "charges": [
+        {
+          "id": "1116",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有任何物品意圖摧毀或損壞財物"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2021-01-22",
+  "trialDateTo": "2021-01-23",
+  "trialLength": 2,
+  "verdictDate": "2021-03-03",
+  "sentenceDate": null,
+  "magistrate": "劉淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年10月31日，在九龍旺角道與上海街交界管有兩枝鐵筆。",
+  "verdict": "罪名不成立",
+  "verdictReason": "控方只依賴一名拘捕警員 21781 陳紹麟（譯音）證供，認為警員證供清晰，接納他為誠實可靠的證人，惟環境證供不足以推論，被告會以鐵筆作損壞財物之用。劉指，當時旺角道沒有堵路、案發地點只有被告一人，附近有 10 多名途人，亦沒有證據顯示將會發生非法行為。\n\n此外，涉案鐵筆被報紙包著，有兩條白色膠紙綁住，裁判官質疑，如被告欲用在非法行為，為何從未拆開過報紙。對於控方指被告遭警員截查時逃走，裁判官指出，警員均穿著防暴裝、手持盾牌，考慮被告為持有登記證的智障人士，因應其情況，不排除因受驚而奔跑。\n\n至於辯方指被告被捕前戴著耳機，警員表示沒有印象、不記得及不肯定，故裁判官裁定被告當時沒有戴耳機。裁判官考慮以上理據，最終裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "獲准以1000元保釋，期間不可離港，要住在報稱地址，需每周到警署報到一次，亦要守宵禁及禁足令。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "158",
+  "caseNo": null,
+  "incident": "1002天水圍",
+  "defendants": [
+    {
+      "id": "186",
+      "name": "羅",
+      "age": 18,
+      "charges": [
+        {
+          "id": "262",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "遊蕩罪"
+        }
+      ]
+    },
+    {
+      "id": "187",
+      "name": "盧",
+      "age": 18,
+      "charges": [
+        {
+          "id": "263",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "遊蕩罪"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-17",
+  "sentenceDate": "2020-08-03",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "10月1日凌晨，港鐵職員報警指稱二人意圖破壞輕鐵站八達通機，近半小時後警察在附近拘捕二人，二人當時已丟棄企圖犯案工具。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "12個月感化令",
+  "sentenceReason": "感化官報告正面，辯方希望法庭跟從感化官建議以感化處理。\n\n裁判官指二人有預謀犯案，若當時毁壞八達通機，將導致相當的維修費用及對市民造成不便，幸好二人懸崖勒馬。\n\n感化官報告指D1羅有悔意，現時辭工是為照顧患病母親及年邁長輩，打算在母親身體健康好轉後再次投入全職工作；D2盧現有全職工作，但因疫情令收入大減，因此返兼職幫補家計，明白自己需要協助，家人亦十分支持。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "辯方投訴警員曾在D1面前毆打D2，又在D1面前作出肢體不當行為，以及對二人「又嚇又氹」。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

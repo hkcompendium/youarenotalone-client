@@ -1,0 +1,55 @@
+{
+  "id": "321",
+  "caseNo": null,
+  "incident": "1027尖沙咀",
+  "defendants": [
+    {
+      "id": "405",
+      "name": "杜",
+      "age": 28,
+      "charges": [
+        {
+          "id": "571",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有攻擊性武器，違反《公安條例》(第245章)  第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-08",
+  "sentenceDate": "2020-06-08",
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年10月27日，無合法辯解下於尖沙嘴藝術館外管有兩支彈弓、32粒彈珠、179粒鋼珠及一支金屬伸縮棍。",
+  "verdict": "罪名成立",
+  "verdictReason": "被告承認企圖刑事損壞及在公眾地方管有攻擊性武器兩罪。",
+  "sentence": "判監8個月",
+  "sentenceReason": "裁判官指案情非常嚴重，被告有所準備地帶同涉案物品參與未經批准的集會，明顯知道活動不會和平，涉案彈珠及鋼珠很可能用來阻礙警方執勤。裁判官明言即時監禁屬於唯一選擇，亦不認為有仼何緩刑原因，因此以 12 個月為量刑起點，被告認罪可獲減刑，最終判囚 8 個月。",
+  "bailment": "批准",
+  "bailmentRemarks": "被告以現金3,000元保釋外出，其間須守宵禁令、禁足尖沙嘴，並每周定時向警署報到等\n2019年12月23日: 繼續保釋，報到次數減少至一周三次",
+  "bailmentCondition": null,
+  "remarks": "2020年4月27日控方撤回控罪2：管有違禁武器，違反《武器條例》(第217章) 第4條",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

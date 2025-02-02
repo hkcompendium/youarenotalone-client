@@ -1,0 +1,92 @@
+{
+  "id": "336",
+  "caseNo": null,
+  "incident": "20190805屯門",
+  "defendants": [
+    {
+      "id": "478",
+      "name": "姚",
+      "age": 23,
+      "charges": [
+        {
+          "id": "676",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在快速公路的車路上將汽車停下或致使該車輛停定不動,違反《道路交通(快速公路)規例》(第374Q章) 第9條"
+        },
+        {
+          "id": "682",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "使用一輛強制性大燈沒有保持清潔及有效運作的汽車，違反 《道路交通條例》(第374章) 第107條及121條"
+        },
+        {
+          "id": "683",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "使用一輛並非在良好及可使用狀態的汽車在快速公路停車，違反 《道路交通條例》(第374章) 第9條及121條"
+        }
+      ]
+    },
+    {
+      "id": "479",
+      "name": "何",
+      "age": 31,
+      "charges": [
+        {
+          "id": "677",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在快速公路的車路上將汽車停下或致使該車輛停定不動,違反《道路交通(快速公路)規例》(第374Q章) 第9條"
+        },
+        {
+          "id": "678",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "使用一輛強制性大燈沒有保持清潔及有效運作的汽車，違反 《道路交通條例》(第374章) 第107條及121條"
+        },
+        {
+          "id": "679",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "使用一輛並非在良好及可使用狀態的汽車在快速公路停車，違反 《道路交通條例》(第374章) 第9條及121條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2019-10-15",
+  "sentenceDate": "2019-11-05",
+  "magistrate": "李志豪",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "第一被告與第二被告響應通訊群組Telegram號召，兩車事發時在屯門公路以時速10至20公里慢駛，有警車發現慢駛情況後重複廣播，著兩車以正常車速行駛，惟兩名被告不理會，第二被告更停在第二線，車頭向左，第一則停在第一線，車頭向右。兩名被告佯裝發生交通意外下車理論。警方上前觀察，發現兩車前方沒阻礙物，遂拘捕兩人。兩名被告警誡下僅說「明白」，錄影會面時則稱響應Telegram而犯案。警方其後發現第二被告的車輛右邊大燈低燈失靈，擋風玻璃亦有20多厘米裂紋。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "第一被告被判處80小時社會服務令及罰款6,000元。第二被告被判處80小時社會服務令及罰款4,000元。",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

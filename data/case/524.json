@@ -1,0 +1,61 @@
+{
+  "id": "524",
+  "caseNo": null,
+  "incident": "1020荃灣",
+  "defendants": [
+    {
+      "id": "680",
+      "name": "羅",
+      "age": 16,
+      "charges": [
+        {
+          "id": "959",
+          "verdict": "其他",
+          "plea": "簽保守行為",
+          "charge": "刑事毀壞"
+        },
+        {
+          "id": "960",
+          "verdict": "其他",
+          "plea": "簽保守行為",
+          "charge": "刑事毀壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-01-23",
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於10月21日晚7時損壞港鐵荃灣站A出口外牆及荃灣政府合署一塊招牌v，即噴上「五大言」",
+  "verdict": "控方接受辯方請求，以自簽守行為方式處理，以現金1000元，簽保守行為12個月內不能犯事（暴力或刑事損毀）及須向黨鐵賠償8000元",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

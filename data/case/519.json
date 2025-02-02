@@ -1,0 +1,70 @@
+{
+  "id": "519",
+  "caseNo": null,
+  "incident": "0815天水圍",
+  "defendants": [
+    {
+      "id": "675",
+      "name": "李",
+      "age": 36,
+      "charges": [
+        {
+          "id": "953",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    },
+    {
+      "id": "676",
+      "name": "程",
+      "age": 61,
+      "charges": [
+        {
+          "id": "954",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": "",
+  "tags": [
+    "0815天水圍"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-01-09",
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案發於2019年8月15日，凌晨1時16分，警方調查一宗失蹤人士的案件時，駕駛警車經過青山公路朗逸豪園外，見到一輛私家車停泊在單車徑， 有 3 名戴頭笠面罩的黑衣男，站在車尾箱位置，車尾箱開啟，警員即下車追捕。其間，私家車駛走，一個紙箱跌出車尾箱，內有 5 個塞有布的啤酒樽，另有一個樽跌爛，內有汽油。警方拘捕該三人，包括本案的兩名被告，其餘一名被捕後，獲警方保釋後未有依時返回警署報到，正被警方通緝。",
+  "verdict": "罪名成立",
+  "verdictReason": "辯方求情指兩人為幫助朋友，法官指控罪為攻擊性武器，重點為攻擊導致他人受傷害，此外無任何原因。雖然事件中沒有受傷，但潛在傷害大。",
+  "sentence": "D1被判囚 12 個月，D2被判囚14 個月",
+  "sentenceReason": "量刑起點為 21月監禁，認罪減1/3至14個月，D1求情再減2個月。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 146,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

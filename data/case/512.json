@@ -1,0 +1,55 @@
+{
+  "id": "512",
+  "caseNo": null,
+  "incident": "1014中環",
+  "defendants": [
+    {
+      "id": "668",
+      "name": "譚",
+      "age": 38,
+      "charges": [
+        {
+          "id": "946",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "普通襲擊"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-06-08",
+  "trialDateTo": "2020-06-09",
+  "trialLength": 1,
+  "verdictDate": "2020-06-09",
+  "sentenceDate": "2020-06-22",
+  "magistrate": "香淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年10月14日在中環站A出口大堂襲擊港鐵職員莫志富（下稱「PW1」)。案發當日，PW1在中環站當值，見被告跳閘離開付款區上前喝止後，被告掌摑PW1共8下。",
+  "verdict": "罪名成立",
+  "verdictReason": "辯方質疑PW1聲稱被掌摑8下，但沒有還擊、自衛或求助，是不合情理。案發時只有被告及PW1在場，需仔細考慮二人證供。PW1是負責任的職員，當時要處理職務及應變，且被告力度不大，沒有還擊、自衛或求助亦合理。被告力度不大，而PW1其後亦有冰敷臉部，PW1沒有明顯傷勢乃屬合理。相反，被告證供有多處不合理或自相矛盾之處：被告聲稱當日有其他人跳閘，但PW1只針對被告，說法不合理。被告指一開始沒有理會PW1，但PW1再喝止被告後，他被停下來回頭，亦不合理。被告聲稱不知道PW1有否同僚及武器，但他從遠處便應可看見PW1執勤，說法不合理。被告指把雙手手掌放在PW1的雙頰上是為了阻止PW1向其進逼的說法亦令人難以置信。\n接納所有控方證人證供，而被告證供自相矛盾，不予接納，裁定被告普通襲擊罪罪名成立。",
+  "sentence": "監禁14日",
+  "sentenceReason": "參考一宗案例，該案上訴人不依海關關員指示停車並掌摑關員，被判14天監禁，經上訴後維持原判。該案上訴人的背景與被告相似。這兩宗案件不是同類案件最嚴重者，但在正當執行職務的公職人員應受到保障，應要處以具阻嚇性的刑罰。PW1案發時在正當執行職務，但被告不但沒有依遵示，更連番掌摑PW1，故14天監禁是恰當的刑罰。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

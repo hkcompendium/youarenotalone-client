@@ -1,0 +1,59 @@
+{
+  "id": "646",
+  "caseNo": null,
+  "incident": "1111上水",
+  "defendants": [
+    {
+      "id": "905",
+      "name": "吳",
+      "age": 21,
+      "charges": [
+        {
+          "id": "1327",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1111上水",
+    "阻街",
+    "大三罷"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-09-28",
+  "sentenceDate": "2020-10-19",
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指2019年11月11日，大批示威者響應網上號召在上水各處聚集堵路，當天早上7時許，警員在上水智昌路截停被告後搜出兩支分別為銀色及黃色的士巴拿，以及電筒、電池、防毒面具、面巾及勞工手套等物品。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "18個月感化令",
+  "sentenceReason": "被告認罪後曾遭還柙21天，裁判官指被告坦白承認控罪，誠心悔改，還柙期間表現良好，得到8個評審委員的良好稱讚，故判以18個月感化令。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "535",
+  "caseNo": null,
+  "incident": "20200527中環 ",
+  "defendants": [
+    {
+      "id": "699",
+      "name": "馬",
+      "age": 28,
+      "charges": [
+        {
+          "id": "996",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲擊警務人員，違反香港法例第232章《警隊條例》第63條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "襲警"
+  ],
+  "trialDateFrom": "2021-04-08",
+  "trialDateTo": "2021-04-09",
+  "trialLength": 2,
+  "verdictDate": "2021-04-09",
+  "sentenceDate": null,
+  "magistrate": "陳國維",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2020年5月27日在香港島中環德輔道中19號環球商場112號舖外襲擊正當執行職務的警務人員，即警長58750莫兆威。",
+  "verdict": "罪名不成立",
+  "verdictReason": "陳官於裁決中指，案件屬一對一，爭議點在於是否出現撞擊觸碰，又是否屬於意外。警長作供有不完美的地方，對於環境及時間上的描述都不能讓法庭完全依賴。\n\n閉路電視片段清晰可見，當時有一名女士出現並十分接近警長，基於燈光與角度，同時也有阻隔出現，未能反映警長所述之經過。片段中見不到被告有不自然舉動及大幅度轉身的動作，但被告轉身側身經過是必然發生的事情。\n\n陳官又指被告作供誠實可靠，因此法庭不能排除觸碰發生屬於意外，已有足夠合理疑點裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "436",
+  "caseNo": null,
+  "incident": "0613金鐘",
+  "defendants": [
+    {
+      "id": "554",
+      "name": "容",
+      "age": 29,
+      "charges": [
+        {
+          "id": "790",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "危險駕駛"
+        },
+        {
+          "id": "791",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "使用前後車牌底色附有銀色的車輛"
+        },
+        {
+          "id": "792",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "使用並非在良好及可使用狀態的車輛"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2019-12-20",
+  "sentenceDate": "2019-12-20",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年6月13日早上約九時，被告駕駛私家車沿夏慤道駛至近添馬道時，突然停車，又緩慢地前後行駛，最終其私家車堵住夏慤道三條行車線。警員接報到場要被告將車駛走，被告表示車輛機件故障不能行駛。事後被告遭警員以危險駕駛罪名拘捕，她的私家車被拖走檢驗，發現其前後車牌的底色有其他顏色，且右前泥檔鬆脫，轉彎時會摩擦到車胎。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "兩罪分別罰款一千及三千元",
+  "sentenceReason": "辯方求情指，被告是單親媽媽，幸好案中無人受傷，被告座駕的機件亦已維修好。\n法官指被告認罪有悔意，事件中亦無傷亡，車輛亦已維修。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

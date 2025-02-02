@@ -1,0 +1,87 @@
+{
+  "id": "9",
+  "caseNo": null,
+  "incident": "20200524馬鞍山",
+  "defendants": [
+    {
+      "id": "9",
+      "name": "劉 ",
+      "age": 25,
+      "charges": [
+        {
+          "id": "9",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞，違反《刑事罪行條例》(第200章) 第60條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "20200524馬鞍山",
+    "1111紅磡"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-10-29",
+  "sentenceDate": "2020-10-29",
+  "magistrate": "香淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2020年5月24日凌晨約1時，警方港鐡大水坑站內控制室，發覺馬鞍山大水坑港鐵站A出口一條行人隧道內的一部閉路電視遭到破壞，經無線電通知附近警員，有警員發現被告並跟縱回家，在屋苑樓下拘捕被告。",
+  "verdict": "罪名成立",
+  "verdictReason": "裁判官以4星期作量刑起點，直言宣洩情緒並非求情理由，但接納被告沒有預謀，及考慮到被告開審前主動認罪節省法庭時間，給予四分之一刑期扣減，並下令其中1星期與現正服刑的刑期同期執行。",
+  "sentence": "刑期2星期",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "被告自9月中因另一案開始服刑",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "5310",
+        "content": "#沙田裁判法院第七庭\n#香淑嫻裁判官\n#審訊 [1/1]\n#20200524馬鞍山\n\n劉 (25)涉另一單案件服刑中\n\n控罪：刑事損壞\n被控於2020年5月24日在馬鞍山大水坑港鐵站A出口行人隧道內，無合法辯解而損壞一個屬於香港鐵路有限公司的閉路電視鏡頭，意圖損壞該財產或罔顧該財產是否會被損壞。\n\n案情：\n2020年5月24日凌晨約1時，警方港鐡大水坑站內控制室，發覺站外一條行人隧道內的一部閉路電視遭到破壞，經無線電通知附近警員，有警員發現被告並跟縱回家，在屋苑樓下拘捕被告。\n\n提堂\nhttps://t.me/youarenotalonehk_live/7906 [https://t.me/youarenotalonehk_live/7906]\n\n❗️被告認罪❗️\n\n判刑：\n裁判官以4星期作量刑起點，接納辯方求情，及考慮到被告開審前主動認罪節省法庭時間，給予四分之一刑期扣減，並下令其中1星期與現正服刑的刑期同期執行。\n‼️本案延長刑期2星期‼️",
+        "url": "https://t.me/youarenotalonehk_live/10754",
+        "source": "法庭文字直播台",
+        "datetime": "2020-10-29T02:26:57.000Z"
+      },
+      {
+        "id": "3746",
+        "content": "#沙田裁判法院第一庭\n#溫紹明署理主任裁判官\n#20200524馬鞍山 #提堂\n\n劉 (25)\n\n控罪：刑事損壞\n被控於2020年5月24日在馬鞍山大水坑港鐵站A出口行人隧道內，無合法辯解而損壞一個屬於香港鐵路有限公司的閉路電視鏡頭，意圖損壞該財產或罔顧該財產是否會被損壞。\n\n案情：\n因爱国爱党錄得客量按年大跌四成而虧蝕 [https://www.inmediahk.net/node/1076199]3.3 [https://www.inmediahk.net/node/1076199]億 [https://www.inmediahk.net/node/1076199] 的党铁聲稱在5月24日凌晨約1時，大水坑站外一條行人隧道內的一部閉路電視遭到破壞。警員到現場根本無發現，但不在現場的劉卻被拘捕。\n\n背景：\n劉遭到拘留超過一日後，案件在5月25日在沙田裁判法院 首度提堂 [https://t.me/youarenotalonehk_live/5381] 。劉在 #鄧少雄署理主任裁判官 席前獲准保釋，但遭控方提出嚴格條件，包括合共$40,000現金擔保、每晚10時至次晨6時遭宵禁、每週報到達3次、並遭禁足大水坑站等。\n\n❌不認罪❌\n\n控方將傳召4位證人\n被告在拘捕警誡下及錄影會面中均無任何招認，裁判官閣下認為或可減少至2位證人\n辯方或會傳召1位事實證人，預計需時1天審訊\n\n案件定於10月29日0930沙田裁判法院第七庭以本地話審訊\n\n裁判官閣下下令報到減至每週1次\n✅其餘保釋條件依舊✅",
+        "url": "https://t.me/youarenotalonehk_live/7906",
+        "source": "法庭文字直播台",
+        "datetime": "2020-08-07T06:48:45.000Z"
+      },
+      {
+        "id": "3005",
+        "content": "#沙田裁判法院第一庭\n#溫紹明署理主任裁判官\n14:30\n劉(25) #提堂（#20200524馬鞍山 刑事損壞）\n\n曾於2014年9月27日雨傘運動因非法集結被捕，今年反修例運動仲有 #1111紅磡 襲警、刑毀、公阻 既案件在身\nhttps://t.me/youarenotalonehk_live/5740 [https://t.me/youarenotalonehk_live/5740]\n\n控罪：刑事損壞\n\n案情：5月25日在馬鞍山大水坑港鐵站外一條行人隧道內，無合法辯解損毀一個屬於港鐵的閉路電視。\n（摘自蘋果日報）\n\n辯方申請無須答辯 ，控方不反對押後\n\n案件押後七星期至2020年8月7日14：30沙田第一庭以便辯方索取文件\n\n期間以原條件保釋✅",
+        "url": "https://t.me/youarenotalonehk_live/6434",
+        "source": "法庭文字直播台",
+        "datetime": "2020-06-26T06:49:30.000Z"
+      },
+      {
+        "id": "2409",
+        "content": "#沙田裁判法院第一庭\n#鄧少雄署理主任裁判官\n#20200524馬鞍山 #新案件\n\n劉\n\n控罪：刑事損壞\n\n案情：被指於20年5月24日，在大水坑站出口的行人隧道無合法辯解而損壞黨鐵公司的閉路電視\n\n裁判官准予被控人保釋\n\n擔保金：20,000\n人事擔保：20,000 (媽媽)\n報到：每週3次\n宵禁：22至06\n禁足：大水坑站\n居住在報稱地址\n不得離港\n交出所有旅遊證件\n\n案件押後至6月26日沙田裁判法院第一庭答辯",
+        "url": "https://t.me/youarenotalonehk_live/5381",
+        "source": "法庭文字直播台",
+        "datetime": "2020-05-25T08:30:03.000Z"
+      }
+    ]
+  }
+}

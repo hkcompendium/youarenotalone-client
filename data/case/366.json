@@ -1,0 +1,70 @@
+{
+  "id": "366",
+  "caseNo": null,
+  "incident": "0930屯門",
+  "defendants": [
+    {
+      "id": "454",
+      "name": "楊",
+      "age": 26,
+      "charges": [
+        {
+          "id": "641",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        }
+      ]
+    },
+    {
+      "id": "455",
+      "name": "莊",
+      "age": 25,
+      "charges": [
+        {
+          "id": "642",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "油漆"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-05-04",
+  "sentenceDate": null,
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被指於9月30日，在舊咖啡灣泳灘管有58個裝有液體的氣球、1個裝有可疑易燃液體共640毫升的樽、1包麵粉、1罐藍色共1升的油漆、7樽油漆、1個辣椒油空樽、5樽墨水、1樽胡椒粉、4碗混合液體、1個打火機、15個切開的網球、24盒火柴、1卷麻繩、1卷強力膠紙、1把美工刀、1把剪刀及1盒塑膠手套。",
+  "verdict": "罪名不成立",
+  "verdictReason": "證據不足下獲撤控，當庭釋放。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": "D1批評，警方濫捕問題嚴重，除她倆以外，很多人只是在示威現場觀察，但同樣被捕，「真係要反思係咪要繼續浪費納稅人金錢濫捕，同埋不切實際地控告」。",
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

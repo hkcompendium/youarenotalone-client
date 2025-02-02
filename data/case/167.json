@@ -1,0 +1,57 @@
+{
+  "id": "167",
+  "caseNo": null,
+  "incident": "1106科大",
+  "defendants": [
+    {
+      "id": "199",
+      "name": "陳",
+      "age": 21,
+      "charges": [
+        {
+          "id": "279",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": " 襲擊致造成身體傷害，違反《侵害人身罪條例》(第212章) 第39條"
+        }
+      ]
+    }
+  ],
+  "description": "2020年12月2日向高等法院申請保釋等候上訴獲批。",
+  "tags": [
+    "襲擊致造成身體傷害"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2020-11-23",
+  "sentenceDate": "2020-11-23",
+  "magistrate": "鄭紀航",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "11月6日科技大學校長史維就周梓樂同學犧牲一事與學生在公開論壇對話，期間內地學生推倒一名黑衣少年，遭現場學生聲討，事後報稱眼角及背部受傷，返深圳就醫。4個月後警方憑新聞片段指被告涉案並將其拘捕。陳在3月31日首次提堂，獲錢禮主任裁判官批准保釋。案件共有2位控方證人及42段閉路電視及一段有線新聞影片。",
+  "verdict": "罪名成立",
+  "verdictReason": "裁決理由：\n雖然被告選擇不作供，法庭謹記不可向辯方不出庭推論，亦不可用不出庭對抗辯理由作推論。惟裁判官指因被告不作供固沒有削弱控方証據。再者根據案例裁判官可在被告不出庭下，憑控方提出證供作合理推論而定罪，另方面法庭確認受害人傷勢輕微。\n\n裁判官翻看所有呈堂影片（分3組A、B、C，庭上沒有詳細提及，估計應該是平日宿舍及當天施襲現場與同日宿舍出入片段），經仔細分析及觀察各片段中人物特徵作出無可抗拒推斷一男及另一多次在旁女子在A、B、C組內均是同一人（各片段時間距離不多，外貌不會大變化），而男子主要特徵：\n 1. 髪型前端瀏海至眼眉遮蓋大部份額頭\n 2. 戴接近圓型眼鏡\n 3. 右手戴黑色幼手繩中間有金屬連接\n 4. 穿白底印有ASICS波鞋\n 5. 使用背部白色手機\n\n裁判官再細心比較被告數月後被捕後所拍照片與錄影片段截圖對照（面貌、輪廓，尤其右眉毛粗疏極度相似），此外閉路電視亦見該襲擊男子頻繁出現同一宿舍（即被告所住那座），因此憑面貌、衣著、同座宿舍（衣著、眼鏡及電話是耐用品不會即棄固絕對相信是當時被告穿戴或使用）而推論被告就是片段施襲者，所以裁定罪名成立。\n\n\nhttps://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=145691&QS=%24%28%E9%99%B3%E5%87%B1%E6%96%87%29&TP=RV",
+  "sentence": "",
+  "sentenceReason": "",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "被控於2019年11月6日，在科技大學賽馬會大堂與其他不知名人士，非法及惡意襲擊傷害男子。"
+  ],
+  "custodyLength": null,
+  "appeal": "被告就定罪和判處提出上訴，獲撤銷定罪",
+  "appealJudgementUrl": "https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=140537&QS=%24%28%E9%99%B3%E5%87%B1%E6%96%87%29&TP=JU",
+  "bailmentAppeal": "辯方律師申請保釋上訴，裁判官即時拒絕並指可向高院申請。",
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

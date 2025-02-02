@@ -1,0 +1,65 @@
+{
+  "id": "201",
+  "caseNo": null,
+  "incident": "1110荃灣",
+  "defendants": [
+    {
+      "id": "246",
+      "name": "潘",
+      "age": 16,
+      "charges": [
+        {
+          "id": "343",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        },
+        {
+          "id": "344",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "參與非法集結"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "攻擊性武器",
+    "非法集結"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-12-03",
+  "sentenceDate": "2020-12-18",
+  "magistrate": "羅德泉主任裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "(1)被控於2019年11月10日，在荃灣大河道近西樓角路的公眾地方，無合法權限或合理辯解而管有攻擊性武器，即1支鐵通\n(3)被控於同日，在荃灣大河道及西樓角路交界，與其他人士參與屬非法集結的集結\n",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "更生中心",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "(1)在公眾地方管有攻擊性武器，違反《公安條例》(第245章) 第33條",
+    "(3)參與非法集結，違反 《公安條例》(第245章)  第18條"
+  ],
+  "custodyLength": 16,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

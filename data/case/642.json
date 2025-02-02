@@ -1,0 +1,58 @@
+{
+  "id": "642",
+  "caseNo": null,
+  "incident": "0915灣仔",
+  "defendants": [
+    {
+      "id": "901",
+      "name": "陳",
+      "age": 18,
+      "charges": [
+        {
+          "id": "1323",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "刑事毁壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "刑事毁壞",
+    "0915灣仔"
+  ],
+  "trialDateFrom": "2020-11-25",
+  "trialDateTo": "2021-03-26",
+  "trialLength": 5,
+  "verdictDate": "2021-05-12",
+  "sentenceDate": "2021-05-28",
+  "magistrate": "劉綺雲",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指在2019 年 9 月 15 日，網民發起到港島「行街」示威，當天晚上被告在港鐵灣仔站 A1 出口鐵閘上噴上白色泡沫，當場被捕。",
+  "verdict": "罪名成立",
+  "verdictReason": "所有控方證人均為誠實可靠，作供合情合理，沒有重大分歧，所述情況互相脗合，看不到辯方所提出的理由會使證供存疑。裁判官又指被告故意噴上白色泡沫，站長檢查後發現閘門上有白色橡膠狀物體黏住的情況，導致開閘困難，清潔工作亦招致費用，符合法例上「損壞」的定義，故裁定罪成。",
+  "sentence": "判入更生中心",
+  "sentenceReason": "裁判官認為，雖然被告在案中以膨脹劑損毀鐵閘，並非同類案件中最嚴重，但警長供稱，他聽到被告對另一男子說「幫我睇住，一陣點火」，然後用氣罐在左邊鐵閘噴上膨脹劑，可見他有預謀犯案。若然該處被縱火的話，相信被告向鐵閘噴上膨脹劑，會令鐵閘無法如常運作，從而阻礙各人逃生，甚至波及周遭環境，造成更嚴重的人命傷亡。裁判官指，倘若是成年人干犯同樣罪行，會考慮判處長期監禁，故辯方所要求的短期監禁，並不足以反映控罪嚴重性，不過考慮到被告願意賠償、過往沒有案底等因素，決定判其入更生中心。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

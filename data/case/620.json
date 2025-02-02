@@ -1,0 +1,58 @@
+{
+  "id": "620",
+  "caseNo": null,
+  "incident": "1112西營盤",
+  "defendants": [
+    {
+      "id": "857",
+      "name": "吳",
+      "age": 18,
+      "charges": [
+        {
+          "id": "1258",
+          "verdict": "其他",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "撤銷控罪",
+    "1112西營盤"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-04-22",
+  "sentenceDate": "2020-04-22",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於2019年11月12日，警員在西營盤進行反罪惡巡邏時，在香港大學港鐵站附近，見到形跡可疑的被告逃跑。期後警員在屈地街截停被告，在他身上搜出1個錘仔、1枝木棍、面罩、眼罩等物品後被拘控。",
+  "verdict": "批准被告自簽1,000元，守行為兩年，控罪獲撤銷，另須支付500元堂費，證物1(鎚)，2(木棍)充公。",
+  "verdictReason": "控方接納辯方提議，決定以簽保守行為方式處理，撤銷控罪，但基於案件性質較嚴重，要求較長守行為時間。主任裁判官錢禮最終批准被告自簽1,000元，守行為兩年，控罪獲撤銷，另須支付500元堂費。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

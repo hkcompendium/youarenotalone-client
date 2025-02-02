@@ -1,0 +1,81 @@
+{
+  "id": "411",
+  "caseNo": null,
+  "incident": "20200324柴灣",
+  "defendants": [
+    {
+      "id": "510",
+      "name": "鄭",
+      "age": 77,
+      "charges": [
+        {
+          "id": "731",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事毀壞"
+        },
+        {
+          "id": "1104",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事毀壞"
+        },
+        {
+          "id": "1105",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事毀壞"
+        },
+        {
+          "id": "1106",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事毀壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "東區裁判法院第一庭",
+    "錢禮主任裁判官",
+    "銀髮",
+    "20200324柴灣",
+    "銀髮vs禮義廉",
+    "民建聯嚴厲譴責",
+    "新案件"
+  ],
+  "trialDateFrom": "2020-05-22",
+  "trialDateTo": "2020-05-22",
+  "trialLength": null,
+  "verdictDate": "2020-05-22",
+  "sentenceDate": "2020-05-22",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2020年3月24-30日期間４次在柴灣漁灣邨漁安樓地下24號外損壞民建聯張國鈞、黃定光立法會議員辦事處數十張A3海報。",
+  "verdict": "撤銷控罪，自簽1000 元保守行為 12 個月",
+  "verdictReason": "",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "$500保釋金\n。報稱地址居住\n。如有更改須24小時前通知所屬警署\n。不得直接或間接接觸控方證人1-3",
+  "bailmentCondition": "禁足於案發地點",
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

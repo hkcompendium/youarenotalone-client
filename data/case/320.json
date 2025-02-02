@@ -1,0 +1,55 @@
+{
+  "id": "320",
+  "caseNo": null,
+  "incident": "0612金鐘",
+  "defendants": [
+    {
+      "id": "404",
+      "name": "庾",
+      "age": 33,
+      "charges": [
+        {
+          "id": "570",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "非法集結，違反《公安條例》(第245章) 第18條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-08",
+  "sentenceDate": "2020-06-08",
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年6月12日在添華道政府總部外連同其他身分不詳的人非法集結，及作出擾亂秩序的行為。",
+  "verdict": "罪名成立",
+  "verdictReason": "被告認罪。",
+  "sentence": "判監兩周",
+  "sentenceReason": "辯方求情指，被告當日受現場氣氛影響，有人叫搬鐵馬，被告移動一個鐵馬後，有催淚煙落在他腳邊他遂離開，並強調他當時並沒有戴口罩，亦無任何裝備，並非有預謀犯案。裁判官林子勤接納被告是路過，無證據證明被告與暴力示威者有直接關係，以三星期為量刑起點，認罪扣減後判囚兩周。\n\n裁判官又指，由於案發現場附近有人使用暴力，例如向警方防線投擲磚頭、雨傘等暴力行為，故根據案例，判處社會服務令並不適合，但控方案情並沒有提及相關的非法集結歷時多久，集結者目的為何，亦無證據顯示被告與暴力使用者有直接關係，且他只是搬動了一個鐵馬，沒有導致任何人或財物受損，最終判囚兩周。",
+  "bailment": "批准",
+  "bailmentRemarks": "1. 保釋金$2,000\n2. 宵禁23:00 - 07:00\n3. 不得離境\n4. 須交出所有旅遊證件\n5. 居住在報稱住址\n6. 每周警署報到1次\n7. 更改住址須24小時前通知警方\n8. 除乘坐交通工具外，禁足添美道、夏愨道、龍和道及愛丁堡廣場一帶",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "律政司不滿判刑過輕，向裁判官提出刑期覆核 (裁判官條例第104條覆核) ，2020年6月19日被林官駁回，維持原判，並且下令控方支付訟費給被告。 律政司不服判刑過輕，遂向高等法院上訴庭申請刑期覆核。高等法院2020年11月23日改判答辯人7個月即時監禁。",
+  "appealJudgementUrl": "https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=132492&QS=%28%7B%E5%BA%BE%E5%AE%B6%E9%A7%92%7D+%25parties%29&TP=JU&currpage=T",
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

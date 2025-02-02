@@ -1,0 +1,57 @@
+{
+  "id": "211",
+  "caseNo": null,
+  "incident": "20191110屯門",
+  "defendants": [
+    {
+      "id": "255",
+      "name": "曾",
+      "age": 48,
+      "charges": [
+        {
+          "id": "356",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "抗拒執行職責的警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "上訴"
+  ],
+  "trialDateFrom": "2020-09-07",
+  "trialDateTo": "2020-09-07",
+  "trialLength": 1,
+  "verdictDate": "2020-09-08",
+  "sentenceDate": null,
+  "magistrate": "張潔宜署理主任裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "去年11月10日多區出現「和你shop」示威，被告被指去年 11 月，在屯門用粗口指罵警員「死黑警」，被警方截查時一度用雙手推兩防暴警員，以及不斷掙扎。",
+  "verdict": "罪名成立",
+  "verdictReason": "裁判官指，兩名警察為誠實可靠證人，事件歷時只有20至30秒，在電光火石間，即使未能鉅細無遺地道出所有細節也是可以理解，並不影響他們證供的可信性。相反，被告作供不合情理，案發時《禁蒙面法》仍然生效，被告卻戴口罩、身穿黑色衣褲出現在現場，與一般示威者無異，不相信他與女友看電影會穿著如此裝束。加上他一身黑衣裝束，走出馬路，行為與在場示威者一樣，裁判官因此裁定被告不是一個誠實可靠的證人。",
+  "sentence": "即時監禁4星期",
+  "sentenceReason": "裁判官考慮被告在審訊後定罪，指辯方提供的區域法院判刑案例，案情與本案截然不同，對本案沒有參考價值。裁判官引述上訴庭指，法庭需保護正執行職務的警務人員，確保他們可以順暢履行職務，故罰款不適合；認為被告在本案沒有悔意，社會服務令亦不適合。裁判官又指，警員當時正驅散示威者，需要控制現場，但被告走出行車路指罵警員，本案有一定嚴重性，終判監禁 4 星期。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "抗拒執行職責的警務人員，違反《侵害人身罪條例》(第212章) 第36條"
+  ],
+  "custodyLength": null,
+  "appeal": "正在上訴",
+  "appealJudgementUrl": null,
+  "bailmentAppeal": "獲准保釋等候上訴",
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

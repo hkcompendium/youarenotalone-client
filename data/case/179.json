@@ -1,0 +1,70 @@
+{
+  "id": "179",
+  "caseNo": null,
+  "incident": "1208旺角",
+  "defendants": [
+    {
+      "id": "220",
+      "name": "沙",
+      "age": 17,
+      "charges": [
+        {
+          "id": "303",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方造成阻礙，違反《簡易程序治罪條例》(第228章) 第4A條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-06",
+  "sentenceDate": "2020-08-06",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於2019年12月8日，在旺角亞皆老街與染布房街交界，無合法權限或解釋，而導致陳列的垃圾對在上述公眾地方的車輛造成阻礙。案發當日晚上旺角有示威活動，警員巡邏至快富街時，發現一群集結的示威者，示威者逃走時，警員截停被告並搜出口罩及手套，被告承認在路上投擲垃圾以阻截交通。",
+  "verdict": "",
+  "verdictReason": null,
+  "sentence": "簽港幣2,000元保守行為24個月",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": "禁足旺角涉案範圍一帶",
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "3716",
+        "content": "#西九龍裁判法院第一庭\n#羅德泉主任裁判官\n#1208旺角 #提堂\n\n沙(17)\n控罪：在公眾地方造成阻礙\n簡短案情：（立場新聞 [https://www.thestandnews.com/politics/%E8%A2%AB%E6%8C%87%E4%BB%A5%E5%9E%83%E5%9C%BE%E5%A0%B5%E8%B7%AF-17-%E6%AD%B2%E5%B7%B4%E7%B1%8D%E7%94%B7%E7%94%9F%E8%A2%AB%E6%8E%A7%E5%85%AC%E7%9C%BE%E5%9C%B0%E6%96%B9%E9%80%A0%E6%88%90%E9%98%BB%E7%A4%99-%E5%87%86%E4%BF%9D%E9%87%8B%E9%A0%88%E7%A6%81%E8%B6%B3%E5%AE%B5%E7%A6%81/]）\n於2019年 12 月 8 日，在旺角亞皆老街與染布房街交界，無合法權限或解釋，而導致陳列的垃圾，對在上述公眾地方的車輛造成阻礙。\n\n被告同意案情。（後補）\n\n裁判官命令案件以簽保守行為處理\n被告自簽 $2000，守行為24個月。",
+        "url": "https://t.me/youarenotalonehk_live/7837",
+        "source": "法庭文字直播台",
+        "datetime": "2020-08-06T03:19:02.000Z"
+      },
+      {
+        "id": "3210",
+        "content": "#西九龍裁判法院第一庭\n#羅德泉主任裁判官\n#1208旺角 #提堂\n\n沙(17)\n控罪：在公眾地方造成阻礙\n\n辯方申請押後與控方商討以另類方式處理本案。\n\n以原有條件擔保，案件押後至8月6日9:30am於西九龍裁判法院第一庭提堂。",
+        "url": "https://t.me/youarenotalonehk_live/6786",
+        "source": "法庭文字直播台",
+        "datetime": "2020-07-09T02:18:02.000Z"
+      }
+    ]
+  }
+}

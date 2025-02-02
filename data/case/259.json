@@ -1,0 +1,57 @@
+{
+  "id": "259",
+  "caseNo": null,
+  "incident": "20200101灣仔",
+  "defendants": [
+    {
+      "id": "316",
+      "name": "林",
+      "age": 19,
+      "charges": [
+        {
+          "id": "439",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": " 管有適合作非法用途的工具並意圖作非法用途使用, 違反《簡易程序治罪條例》(第228 章) 第17 條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "撤銷控罪"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-04-16",
+  "sentenceDate": null,
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2020年元旦大遊行起步前，警方在遊行路線一帶截查多人，其中被告，在灣仔被搜出兩個槌仔、一個灰色口罩、一個粉紅色防毒面具和三對3M手套，意圖將其作非法用途使用。",
+  "verdict": "控方撤控",
+  "verdictReason": "控方表示，現有證據不足以達至合理定罪機會，被告亦在警誡下保持緘默，故未能在毫無合理疑點下證明到被告有不法意圖。但控方強調被告攜有兩個槌仔，屬自招嫌疑。裁判官接納控方觀點，指被告「高度可疑」，拒絕批出被告的訟費申請。辯方指，被告當日於下午2時許被捕，其時遊行主辦方仍未起步。被告遭警方截查前僅在街上行走，無做過任何自招嫌疑的行為，警方聲稱被告「形跡可疑」，但未有具體詳情。被告現就讀IVE的飛機維修工程課程，身上攜帶槌仔屬合理行為。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

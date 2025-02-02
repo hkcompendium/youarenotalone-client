@@ -1,0 +1,63 @@
+{
+  "id": "545",
+  "caseNo": null,
+  "incident": "/",
+  "defendants": [
+    {
+      "id": "711",
+      "name": "謝",
+      "age": 21,
+      "charges": [
+        {
+          "id": "1012",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞"
+        },
+        {
+          "id": "1013",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞"
+        }
+      ]
+    }
+  ],
+  "description": "",
+  "tags": [
+    "政治標語"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-26",
+  "sentenceDate": "2020-09-11",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控兩項刑事毀壞罪，指他於 2020 年 4 月 18 日，分別無合法辯解而損壞天水圍香島中學的外牆，及天秀公園公廁的外牆，意圖損壞該財產或罔顧該財產是否被損壞。\n\n同意案情指，當晚 4 名警員證人在香島中學一帶巡邏，看見被告和不知名男士到第一地點正在以油漆噴寫「支那不死，華夏不生，復興華夏，共匪必誅」、「加入我哋和理噴」等字句，遂於約 11 時 55 分上前拘捕被告，惟該不知名男子成功逃脫。被告於警誡下承認在香島中學外牆以油漆噴寫口號，同時承認曾在天秀公園公廁外牆噴漆，後獲公廁保安證實。",
+  "verdict": "罪名成立",
+  "verdictReason": "被告獲准以現金2000元保釋，候訊期間須遵守宵禁令，每晚十時至翌晨六時宵禁、不得離開香港及居住在申報地址。",
+  "sentence": "160小時社會服務令；向香島中學及康文署分別賠償2,384元及2,900元",
+  "sentenceReason": "辯方呈交 3 封求情信，表示被告只是一時衝動犯案，事後亦對警方調查表現合作，尤其涉及天秀公園的第二控罪，完全依靠被告的招認。被告無刑事案底，並願意即時賠償所有損失，希望法庭能以罰款方式處理。\n\n被告於2020年9月11日求情稱當時有新聞報道指新冠肺炎病毒由美國傳入中國，工人認為政府有責任，故外出貼文宣，受朋友邀請才噴漆。他更聲言自己熱愛中國文化，以做中國人為傲。\n\n署理主任裁判官張潔宜頒下賠償令，下令被告向香島中學及康文署分別賠償 2,384 元及 2,900 元清潔維修費。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

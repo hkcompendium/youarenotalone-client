@@ -1,0 +1,67 @@
+{
+  "id": "532",
+  "caseNo": null,
+  "incident": "1111不遵守監管令",
+  "defendants": [
+    {
+      "id": "688",
+      "name": "吳",
+      "age": 28,
+      "charges": [
+        {
+          "id": "972",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "不遵守監管令"
+        },
+        {
+          "id": "973",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "不遵守監管令"
+        },
+        {
+          "id": "974",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "不遵守監管令"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "黃雅茵",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年11月11日、13日及14日，在香港無合法權限或合理辯解而不遵守於2019年5月20日發出的監管令條件，即必須入住百勤樓，直至被要求或得到批准居住在其他地方為止，而居於該樓期間必須在工作後儘速返回該樓，但無論如何不可遲過主管所規定時間；及除非要外出工作或獲批假，否則要留在該樓。",
+  "verdict": "罪名不成立",
+  "verdictReason": "2019年11月是社運最熾熱的時期，曾發生西灣河開槍事件、「三大罷（大三罷）」及「幾間大學嘅事件」，認為被告因應社運，而在下班後回家暫避，實屬合理。\n此外，被告的監管令在11月19日便結束，法庭不相信他會違反命令，令自己前功盡廢。而事實上，證供顯示被告在案發的3天，均曾傳訊息通知監管人員相關情況，只是監管人員沒有即時回應。\n裁判官又批評懲教署主任李子華作供如同「唧牙膏」，供詞不盡不實，例如李聲稱不清楚事發時段是否有示威，但裁判官認為說法難以置信，因事件已經過傳媒廣泛報道，且作為監管釋囚人員，他不可能是個不問世事的人。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

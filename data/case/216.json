@@ -1,0 +1,61 @@
+{
+  "id": "216",
+  "caseNo": null,
+  "incident": "1112馬鞍山",
+  "defendants": [
+    {
+      "id": "262",
+      "name": "呂",
+      "age": 17,
+      "charges": [
+        {
+          "id": "369",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有適合作非法用途的工具，違反《簡易程序治罪條例》(第228 章) 第17 條"
+        },
+        {
+          "id": "370",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有物品意圖摧毀或損壞財產，違反 《刑事罪行條例》(第200章) 第62(a)條 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-07-03",
+  "sentenceDate": "2020-07-24",
+  "magistrate": "溫紹明",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，被吿於2019年11月12日在馬鞍山德信中學外管有適合作非法用途的工具，即一支尖的鐵枝、一支削尖的行山杖。被吿於同日同地保管一支槌子及一支破碎玻璃用的槌子，意圖使用物品摧毁他人財產。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "12個月感化令；其後改判140小時社會服務令",
+  "sentenceReason": "裁判官相信被告是出於關心社會才會做出超越法律的行為，又指被告已經付出代價，會有刑事紀錄。裁判官知悉被告有不俗的DSE成績，希望被告可以繼續讀書，重新開始人生並在將來貢獻社會，因而接納感化報告的建議，判被告12個月感化令，兩項控罪刑罰同期執行。\n\n律政司引用《裁判官條例》第104條，就刑期提出覆核，指本案案情嚴重，但是法庭在考慮刑罰時過於側重被告更生。另外，背景報告顯示被告藉感化令的更生程度有限，因此律政司引用上訴庭在CAAR 1/2020的裁決，希望法庭可以改判較重刑罰。裁判官在聽取雙方陳詞後，決定先為被告索取新的社會服務令報告，押後作裁決。\n\n裁判官裁決指，經考慮雙方陳詞、案例、文件、社會服務令報告、不同案件因素、被告背景和現況，及平衡更生、懲罰和阻嚇性後，決定批准律政司的覆核申請，終止被告原有12個月的感化令，並改判2項控罪各140小時社會服務令，同期執行。\n",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "律政司就刑期提出覆核",
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

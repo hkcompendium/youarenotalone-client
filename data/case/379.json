@@ -1,0 +1,59 @@
+{
+  "id": "379",
+  "caseNo": null,
+  "incident": "1031太子",
+  "defendants": [
+    {
+      "id": "506",
+      "name": "曾",
+      "age": 21,
+      "charges": [
+        {
+          "id": "727",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有任何物品意圖摧毀或損壞財物"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1031太子",
+    "管有物品意圖損壞財產",
+    "鐵筆"
+  ],
+  "trialDateFrom": "2021-01-07",
+  "trialDateTo": "2021-01-22",
+  "trialLength": 3,
+  "verdictDate": "2021-03-03",
+  "sentenceDate": null,
+  "magistrate": "劉淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "違反香港法例第228章 《簡易程序治罪條例》第17條——管有任何物品意圖摧毀或損壞財物：\n被控於2019年10月31日，在九龍旺角道與上海街交界管有兩枝鐵筆，意圖將其作非法用途使用。\n\n承認事實：\n(1) 於2019年10月31日2006時，PC21781拘捕被告，當時身穿灰色T shirt, 黑色外套，黑色長褲，黑色波鞋，孭黑色背囊\n(2) PC21781搜查時搜到兩支用報紙包裹著的鐵筆\n(3) 於2019年11月1日，21:11-21:25時，在被告的姨姨陪同下，由PC10354做錄影會面紀錄\n(4) 旺角區地圖\n(5) 警方拍攝的相簿\n(6) 辯方對證物鏈和被告身份無爭議\n(7) ？\n(8) 被告係智障人士\n(9) 被告無刑事紀錄\n\n裁判官詢問控方立場，unlawful purpose 係咩，主控指係概括涉及非法活動，包括損壞物品、束縛人身、offensive weapon & house breaking\n\n辯方案情：\n被告選擇不作供，但傳召了兩名證人\n第一，他的朋友 DW1\n和二， 他的僱主 DW2\n在案發前辯方案情概述就係喺在案發日前被告向DW1借鐵筆，去拆被告家中的櫥櫃並其後相約在案發日晚上8時許在太子陵發餐廳食飯和歸還上述物品給DW1。\n\nDW2僱用被告為髮型助理。髮廊的服務有時產生大量的煙和甲醛，處理同事會使用他們的口罩遮住鼻口，被告有用頭套遮住鼻口，此外他亦見被告用黑色手袖防止染髮劑弄污手臂。",
+  "verdict": "罪名不成立",
+  "verdictReason": "爭議點：\n辯方指控方未能在案發時有意圖在無合法辯解的情況下使用該物品，以摧毀或損壞財產\n\n鐵筆以報紙和膠紙包妥，報紙從未拆開，認為是在出門前包裹好，案發附近沒有發生非法事件，未能證明被告管有鐵筆作非法用途。裁判官亦提到，不排除被告因其背景在警員喝止時受驚而奔跑，故裁定她罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

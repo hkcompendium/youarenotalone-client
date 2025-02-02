@@ -1,0 +1,55 @@
+{
+  "id": "525",
+  "caseNo": null,
+  "incident": "1102旺角",
+  "defendants": [
+    {
+      "id": "681",
+      "name": "*",
+      "age": 15,
+      "charges": [
+        {
+          "id": "961",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "公眾地方內擾亂秩序行為"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-09-28",
+  "trialDateTo": "2020-10-16",
+  "trialLength": 2,
+  "verdictDate": "2020-10-30",
+  "sentenceDate": "2020-11-20",
+  "magistrate": "彭亮廷",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年11月2日晚被控途經旺角示威現場，向警方防線投擲膠水樽，而水樽沒擊中人。",
+  "verdict": "罪名成立",
+  "verdictReason": "被告確曾投擲水樽向警察防線，並懷有意圖激使他人破壞社會安寧。控方無合理疑點舉證。",
+  "sentence": "200小時社會務服令，並留有案底",
+  "sentenceReason": "被告並未展露悔意，他仍堅持法庭判錯，質疑他為逃避拘禁式懲罰才願意做社會服務。\n\n裁判官斥被告是蓄意向警方防線投擲水樽，此舉或觸發示威者作出激進行為，明言法庭不會容許這種挑戰警方的行為，但考慮到他已還押21天，若再被判入更生或勞教中心，勢會再被拘押數月甚至半年，刑期將與所犯罪行不成正比，故較合適的刑罰只有社服令，但明言不代表法庭認同辯方的做法。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

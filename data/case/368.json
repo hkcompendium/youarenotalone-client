@@ -1,0 +1,55 @@
+{
+  "id": "368",
+  "caseNo": null,
+  "incident": "1102銅鑼灣",
+  "defendants": [
+    {
+      "id": "457",
+      "name": "顔",
+      "age": 20,
+      "charges": [
+        {
+          "id": "644",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有可作非法用途工具罪"
+        }
+      ]
+    }
+  ],
+  "description": "控方稱因證據未足以達至合理定罪機會，故提出撤銷控罪。裁判官林子勤認為單指被告藏有士巴拿，不足以證明他自招嫌疑，故同時批准被告的訟費申請。",
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-01-03",
+  "sentenceDate": null,
+  "magistrate": "林子勤",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年11月2日港島舉行流動式集會，警方在銅鑼灣截查多人，被告因藏有兩支士巴拿，被控管有可作非法用途工具罪。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

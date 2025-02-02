@@ -1,0 +1,61 @@
+{
+  "id": "139",
+  "caseNo": null,
+  "incident": "20200101灣仔",
+  "defendants": [
+    {
+      "id": "163",
+      "name": "陳",
+      "age": 18,
+      "charges": [
+        {
+          "id": "229",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事損壞"
+        },
+        {
+          "id": "230",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有物品意圖損壞財產"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-08-25",
+  "sentenceDate": "2020-08-25",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於 2020 年 1 月 1 日，在香港灣仔軒尼詩道 458 號至 468 號金聯商業中心外，無合理辯解而損壞屬於香港特區政府車牌為 AM9589 特別人群管理車輛；及於同日同地管有或控制一個塑料瓶載有 210 毫升環己烷、甲基環己烷及 19 克蔗糖的有機混合物、一把美工刀、一個打火機及一把鎚子，意圖損毀他人的財物。\n\n案發當晚近7時，一輛水炮車沿軒尼詩道駛向銅鑼灣，被告突然從記者群跑到水炮車後並向車尾擲磚，被警方當場制服。水炮車車身留下一條長 8 厘米的凹痕，維修費用 9,900 元。",
+  "verdict": "罪名成立",
+  "verdictReason": "被告認罪",
+  "sentence": "18 個月感化令",
+  "sentenceReason": "主任裁判官錢禮接納社會服務令報告建議，就兩罪判處被告 18 個月感化令，同期執行，期間須行為良好，並按照感化官指令參與對其有益的社區課程及活動。\n\n辯方今呈交兩封由社工撰寫的求情信，及被告於還押期間親手撰寫的求情信。被告透過律師表示，明白自己的行為錯誤，亦十分後悔為家人帶來壓力。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "被告於上次提堂時擬承認兩罪，惟就「管有物品意圖損壞財產」罪，錢禮質疑控方案情是否足以支持定罪，因爲控罪要求被告有意圖用涉案物品破壞財產，但控方似乎無證據指他會取出及使用。錢禮一度提議控辯雙方就該控罪展開審訊，著雙方押後索取法律意見。辯方經修改案情後選擇承認此罪。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "律政司不滿並提出刑期覆核，要求判入勞教中心。主任裁判官表示考慮過被告的報告和案發環境，認為現階段不適合判處阻嚇性刑罰， 故拒絕律政司申請，維持原判。被告兼獲訟費。  主仼裁判官錢禮指，被告早前被判刑時，一度遭還押索取報告，其報告均很正面，故判處 18 個月感化。此外，被告的進度報告亦非常正面，感化官也建議繼續進行感化令。裁判官認為不適合判處阻嚇性刑罰， 故拒絕律政司申請，維持原判。  辯方就是次覆核申請訟費，控方不反對，裁判官遂批准辯方訟費申請。",
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

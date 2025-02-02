@@ -1,0 +1,70 @@
+{
+  "id": "387",
+  "caseNo": null,
+  "incident": "0722荃灣",
+  "defendants": [
+    {
+      "id": "639",
+      "name": "朱",
+      "age": 18,
+      "charges": [
+        {
+          "id": "909",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事損壞，違反 《刑事罪行條例》(第200章) 第60(1)條"
+        }
+      ]
+    },
+    {
+      "id": "640",
+      "name": "陳",
+      "age": 31,
+      "charges": [
+        {
+          "id": "910",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事損壞，違反 《刑事罪行條例》(第200章) 第60(1)條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "刑事損壞"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-08-10",
+  "magistrate": "溫紹明",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "大批黑衣示威人士在前年元朗「721事件」翌日，到位於荃灣荃豐中心的立法會議員何君堯辦事處大肆破壞，打破玻璃牆的加拿大籍男學生早前承認一項刑事毀壞罪，裁判官溫紹明最初判處12個月感化令，溫官在律政司申請覆核刑期後改判200小時社會服務令。律政司仍不滿刑期過輕，再向高等法院上訴庭申請覆核刑期獲批，上訴庭考慮早前索取的更生中心、勞教中心、教導所報告後，2021年4月21日改判男學生入教導所。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": "D1: 12個月感化令；D2: 即時監禁3個月",
+  "sentenceReason": "D1判刑：\n\n裁判官認為案件嚴重，該處所受到嚴重程度的財產損壞。但考慮被告年輕因衝動犯案，被社會氣氛所影響，亦考慮破壞並不是由被告一人造成，也作出了$50,000賠償，不是一個小數目。\n被告過往沒有刑事記錄，願意認罪，家人對他亦支持。參考精神科報告，裁判官相信他案發時思想不成熟，處理情緒有困難。感化報告指被告有悔意，相信被告已上寶貴一課。\n法庭考慮處罰時除了懲罰因應考慮如何讓被告改過自新。\n因此判處D1 12個月感化令，命令被告在工作、居住和學習需遵從感化官指示，亦要參與感化官指派的活動。\n\n\nD2判刑：\n\n被告罪行嚴重，涉及的損壞不小。考慮被告過往刑事記錄及無法賠償，法庭理應考慮判處監禁；聆訊過程中，法庭以不少時間與被告傾談，認為被告清楚自己的行為及罪責，雖報告中醫生指被告適合被判處入院令，但基於被告犯案乃受社會氣氛影響多於受病況影響，法庭決定判處監禁。以4個月為量刑起點，認罪扣減3分之1，\n判被告監禁3個月，即時監禁。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "控方不滿刑罰過輕，上訴得直，改判入教導所。",
+  "appealJudgementUrl": "https://legalref.judiciary.hk/lrs/common/ju/ju_frame.jsp?DIS=135346&currpage=T",
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "544",
+  "caseNo": null,
+  "incident": "1102灣仔",
+  "defendants": [
+    {
+      "id": "710",
+      "name": "危",
+      "age": 17,
+      "charges": [
+        {
+          "id": "1010",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有攻擊性武器或適合作非法用途的工具"
+        },
+        {
+          "id": "1011",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "無牌管有彈藥罪"
+        }
+      ]
+    }
+  ],
+  "description": "",
+  "tags": [
+    "",
+    "1102灣仔"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-10-19",
+  "sentenceDate": "2020-11-02",
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年11月2日，在銅鑼灣軒尼詩道及杜老誌道一帶，管有一個鎚子，意圖作非法用途使用。被控於同日同地，管有8枚已使用的催淚彈彈殼，及2枚已使用的橡膠子彈彈殼，涉嫌無牌地管有槍械及彈藥。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "160 小時社會服務令",
+  "sentenceReason": "被告現時就讀中五，並呈上 5 封求情信，撰寫者包括被告於學校的老師及校長等，指他品格良好等。辯方又指被告是次犯案是因他不知道管有鎚仔涉犯法，及他出於好奇而拾取涉案的彈頭及彈殼。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

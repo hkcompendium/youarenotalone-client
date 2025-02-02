@@ -1,0 +1,60 @@
+{
+  "id": "361",
+  "caseNo": null,
+  "incident": "0825荃灣",
+  "defendants": [
+    {
+      "id": "447",
+      "name": "詹",
+      "age": 28,
+      "charges": [
+        {
+          "id": "631",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "0825荃灣",
+    "鎅刀",
+    "扳手",
+    "鉗"
+  ],
+  "trialDateFrom": "2020-02-12",
+  "trialDateTo": "2020-05-04",
+  "trialLength": null,
+  "verdictDate": "2020-05-04",
+  "sentenceDate": null,
+  "magistrate": "梁少玲",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指被告在2019年8月25日，在荃灣眾安街49至51號，管有適合作非法用途的工具，即一把鎅刀、兩個士巴拿及一個鉗子。",
+  "verdict": "批准被告自簽$1000，守行為12個月，控方撤回控罪",
+  "verdictReason": "被告過往無刑事定罪記錄，控方提出以簽保守行為，撤回控罪處理本案\n證物1-3充公\n\n被告自簽$1000，守行為12個月\n支付堂費$300 (從保釋金扣除)\n守行為期間不得干犯與管有適合作非法用途的工具並意圖作非法用途使用有關的罪行\n\n",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "以現金500元保釋，期間不得離港，須守宵禁令和每週兩天到警署報到。",
+  "bailmentCondition": null,
+  "remarks": "被告曾經成功踢保，但仍被落案起訴。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

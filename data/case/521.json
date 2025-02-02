@@ -1,0 +1,65 @@
+{
+  "id": "521",
+  "caseNo": null,
+  "incident": "1110銅鑼灣",
+  "defendants": [
+    {
+      "id": "677",
+      "name": "衛",
+      "age": 29,
+      "charges": [
+        {
+          "id": "955",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有攻擊性武器並意圖作非法用途使用，違反《簡易程序治罪條例》(第228章) 第17條 "
+        },
+        {
+          "id": "956",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖損壞財產，違反 《刑事罪行條例》(第200章) 第62 (a) 條 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "攻擊性武器",
+    "管有物品意圖損壞財產",
+    "雷射筆"
+  ],
+  "trialDateFrom": "2020-10-28",
+  "trialDateTo": "2021-01-28",
+  "trialLength": 4,
+  "verdictDate": "2021-03-25",
+  "sentenceDate": null,
+  "magistrate": "崔美霞",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年11月10日，在銅鑼灣時代廣場地下管有攻擊性武器，即一枝雷射筆(控罪一) 及一項管有物品意圖損壞財產罪，指她於同日同地管有：一支黑色噴漆、兩支士巴拿、一個灰鏟及一套六角匙，意圖損壞他人財產(控罪二) 。 ",
+  "verdict": "兩項罪名不成立",
+  "verdictReason": "PW3將證物放在櫃內三個星期不妥當，說期間有重要事情要做，但又唔記得是什麼事，證供中又提到在某日(聽唔切)，在特別安排下，可以在證物房辦公前兩小時去提取證物，而且PW3在該日是不需當值，既然如此，在11月10日至12月3日之間應可以隨時交回，證供有矛盾。\n\nPW3在盤問間更稱「其實放櫃桶同放喺證物室無分別」，雖然辯方無舉正，實欠穩妥。\n\nPW1在交回證物袋時，稱有用油性筆在證物袋寫上數字標籤，但PW3話無，誤以為係污積，有關鍵性矛盾，PW3處理證物欠妥善，控方在雷射筆的舉証無完整性。\n\n辯方不爭議其它證物如噴漆、士巴拿，考慮到莊亞彩案例，當時無犯罪活動，無衝突，無暴力事件發生，被告被截停時不是與黑衣人一齊，可能正在離去，但不代表被告無犯罪意圖；被告見到PW2時神情緊張，立即轉身走開，辯方解釋因為被告無帶身份證，可能因為驚而走；被告無戴口罩，搜到嘅口罩有特別圖案，帶着嚟示威有內在不可能性，被告無遮蔽面部，控罪不可能成為唯一合理推論。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

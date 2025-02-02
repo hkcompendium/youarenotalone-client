@@ -1,0 +1,55 @@
+{
+  "id": "435",
+  "caseNo": null,
+  "incident": "0805北角",
+  "defendants": [
+    {
+      "id": "549",
+      "name": "黃",
+      "age": 24,
+      "charges": [
+        {
+          "id": "785",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有攻擊性武器或適合作非法用途的工具"
+        }
+      ]
+    }
+  ],
+  "description": "2020年6月29日，被告在同意案情後獲准自簽1,000元及守行為一年，控罪獲撤銷。",
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-29",
+  "sentenceDate": null,
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告於去年8月5日在北角英皇道255號外管有攻擊性武器或適合作非法用途的工具，即一個黃色鉗子及一罐黑色噴漆，意圖將其作非法用途使用。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

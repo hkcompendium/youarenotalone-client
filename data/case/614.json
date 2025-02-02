@@ -1,0 +1,59 @@
+{
+  "id": "614",
+  "caseNo": null,
+  "incident": "0908中環",
+  "defendants": [
+    {
+      "id": "848",
+      "name": "車",
+      "age": 17,
+      "charges": [
+        {
+          "id": "1248",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": "",
+  "tags": [
+    "攻擊性武器",
+    "雷射筆",
+    "證物鏈出錯"
+  ],
+  "trialDateFrom": "2021-07-12",
+  "trialDateTo": "2021-07-13",
+  "trialLength": 2,
+  "verdictDate": "2021-08-18",
+  "sentenceDate": "2021-09-03",
+  "magistrate": "王證瑜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年9月8日，在中環雪廠街10號新顯利大廈外的公眾地方，無合法權利及辯解，管有攻擊性武器即1個能發出雷射光束的裝置。 \n\n爭議點：證物鏈、犯罪意圖",
+  "verdict": "罪名成立",
+  "verdictReason": "就證物處理會否出錯，PW1只形容「理論上」有機會出錯，而處理本案證物「實際上」無出錯，故此毫無矛盾。\n\nPW1處理其他被捕人士證物情況，不能代表他處理本案證物的情況，故不同意辯方說法。\n\n在書面供詞中，PW1寫到本案證物存於「私人櫃桶」，於庭上卻指放在「會議室大櫃」。裁判官接納非詳盡、概括的書面供詞描述。而PW1有詳述處理證物程序，包括頭中尾位置對摺再落釘、只有自己保管鎖匙等。",
+  "sentence": "更生中心",
+  "sentenceReason": "勞教、更生中心報告正面，沒有行為偏差或不良嗜好。被告體能不足以支持在勞教中心服刑；更生中心更為合適。被告明白控罪規限，以及年紀、前途，希望裁判官接納判入更新中心。\n\n法庭認為刑期與罪行相稱，判處被告入更生中心。\n\n\n",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "",
+  "internalRemarks": null,
+  "charges": [
+    "被控於2019年9月8日，在中環雪廠街10號新顯利大廈外的公眾地方，無合法權利及辯解，管有攻擊性武器即1個能發出雷射光束的裝置。 "
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": "",
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

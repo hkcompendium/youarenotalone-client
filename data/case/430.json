@@ -1,0 +1,105 @@
+{
+  "id": "430",
+  "caseNo": null,
+  "incident": "1105觀塘",
+  "defendants": [
+    {
+      "id": "541",
+      "name": "*",
+      "age": 15,
+      "charges": [
+        {
+          "id": "775",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "刑事損壞"
+        }
+      ]
+    },
+    {
+      "id": "542",
+      "name": "*",
+      "age": 12,
+      "charges": [
+        {
+          "id": "776",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "刑事損壞"
+        }
+      ]
+    },
+    {
+      "id": "543",
+      "name": "黃",
+      "age": 19,
+      "charges": [
+        {
+          "id": "777",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "刑事損壞"
+        }
+      ]
+    },
+    {
+      "id": "544",
+      "name": "翁",
+      "age": 16,
+      "charges": [
+        {
+          "id": "779",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "刑事損壞"
+        },
+        {
+          "id": "799",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "刑事損壞",
+    "未成年",
+    "管有攻擊性武器",
+    "刑毀星巴克"
+  ],
+  "trialDateFrom": "2020-12-10",
+  "trialDateTo": "2021-01-14",
+  "trialLength": null,
+  "verdictDate": "2021-01-14",
+  "sentenceDate": "2021-01-29",
+  "magistrate": "梁少玲",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "D1，D2，D3及D4同被控於2019年11月5日，在觀塘東廣場地下一間餐廳內損壞屬於該餐廳的玻璃櫃。\n\nD4另被控一項管有攻擊性武器罪，指他同日在翠屏商場M2層一超級市場門外管有鐳射筆和伸縮棍，意圖作非法用途使用。",
+  "verdict": "D1，D2，D3及D4刑事損壞，罪名不成立；D4管有攻擊性武器罪名成立",
+  "verdictReason": "裁判官指，對於出庭作供的退休警供詞有不少疑問，指退休警的證供只稱「認到」四人，「但從冇形容係點樣」，形容他的說法空白。\n另外，案中多名警員供詞對於各被告的衣著打扮，亦出現多個不同版本，認為不能就此推論破壞者就是四名被告。縱使被告行為可疑，又稱逃跑只為害怕警察，但她未能信納控方案情為單一合理推論、從而排除其他可能，故裁定四人罪名不成立。",
+  "sentence": "D4管有攻擊性武器，判入更生中心",
+  "sentenceReason": "考慮被告D4審訊前認罪，過往沒有刑事定罪記錄，犯案時年僅16歲，但涉案的兩件物品(雷射筆、伸縮棍)均有一定攻擊性及危險性。被告管有的雷射筆屬於第IV級，60米內直接照射眼睛可令人眼部受傷。兩件物品一但使用會對他人造成嚴重傷害，因此必須判處禁閉式刑罰，而更生中心對被告的技能培訓較有幫助。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "開始審訊日期: 2019-12-10\nD4控罪#2管有攻擊性武器裁決日期 ：2020-8-3",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

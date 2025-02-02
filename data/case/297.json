@@ -1,0 +1,81 @@
+{
+  "id": "297",
+  "caseNo": null,
+  "incident": "1111旺角",
+  "defendants": [
+    {
+      "id": "368",
+      "name": "黃",
+      "age": 16,
+      "charges": [
+        {
+          "id": "520",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具或攻擊性武器並意圖作非法用途使用，違反《簡易程序治罪條例》(第228章) 第17條"
+        }
+      ]
+    },
+    {
+      "id": "369",
+      "name": "梁",
+      "age": 17,
+      "charges": [
+        {
+          "id": "521",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具或攻擊性武器並意圖作非法用途使用，違反《簡易程序治罪條例》(第228章) 第17條"
+        }
+      ]
+    },
+    {
+      "id": "370",
+      "name": "*",
+      "age": 15,
+      "charges": [
+        {
+          "id": "522",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有適合作非法用途的工具或攻擊性武器並意圖作非法用途使用，違反《簡易程序治罪條例》(第228章) 第17條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2021-08-18",
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "D1,D3,D4各被控一項管有適合作非法用途的工具或攻擊性武器並意圖作非法用途使用罪。\nD1被指於去年 11 月 11 日，在旺角花園街 31 號外管有兩支螺絲批、一個剪鉗及一把萬用刀。\nD3：管有6條索帶\nD4：管有73條索帶",
+  "verdict": "被告同意案情，控方撤控，被告簽守行為",
+  "verdictReason": "D3,D4: 6/7/2020\n獲批自簽$1,000 守行為24 個月方式撤控\n\nD1: 18/8/2020\nD1 獲批自簽$1,000 守行為24 個月方式撤控，條件為需要保持公眾安寧，行為良好，不可涉及同類型罪行及刑事損壞\n16 歲黃姓女生的同意案情指，去年 11 月 11 日前夕，有人在網上呼籲示威者抗爭及堵路。案發當日早上 8 時 25 分，旺角有約百名示威者聚集，有人在亞皆老街設置路障，後在豉油街四處逃走。警員截獲黃，從她的黑色斜揹袋中搜出兩支螺絲批、三把剪刀、一個剪鉗、一把萬用刀、一個口罩，以及六張記者證。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "保釋金 $3000\n宵禁 2100-0700\n禁足令 (d1、d3、d4 返放學可獲豁免)\n每星期報到1次\n居住於報稱地址\n不得離港\n交出旅遊證件",
+  "bailmentCondition": null,
+  "remarks": "D4: 由於被告只有15歲 法庭頒布命令不得披露其姓名及身分以保護未成年。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "324",
+  "caseNo": null,
+  "incident": "1013大埔",
+  "defendants": [
+    {
+      "id": "408",
+      "name": "翟",
+      "age": 16,
+      "charges": [
+        {
+          "id": "576",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有工具意圖作非法用途，違反《簡易程序治罪條例》(第228章) 第17條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-06-05",
+  "sentenceDate": null,
+  "magistrate": "蘇文隆",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控一項管有適合作非法用途工具罪，指他於 2019 年 10 月 13 日，在新界大埔超級城 B 區 1 樓管有適合作非法用途的工具，即 4 袋膠索帶，意圖將其作非法用途。",
+  "verdict": "被告同意案情，控方撤控，被告簽守行為",
+  "verdictReason": "控方同意撤回控罪，讓被告以簽保守行為方式處理案件，被告准自簽現金 1,000 元及守行為 12 個月。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "現金一千元\n不准離港\n居住在報稱地址\n每週報到1次",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

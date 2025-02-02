@@ -1,0 +1,181 @@
+{
+  "id": "296",
+  "caseNo": null,
+  "incident": "20200101銅鑼灣",
+  "defendants": [
+    {
+      "id": "361",
+      "name": "關",
+      "age": 31,
+      "charges": [
+        {
+          "id": "505",
+          "verdict": null,
+          "plea": null,
+          "charge": "管有攻擊性武器或適合作非法用途的工具"
+        },
+        {
+          "id": "506",
+          "verdict": null,
+          "plea": null,
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "362",
+      "name": "李",
+      "age": 39,
+      "charges": [
+        {
+          "id": "507",
+          "verdict": null,
+          "plea": null,
+          "charge": "管有攻擊性武器或適合作非法用途的工具"
+        },
+        {
+          "id": "508",
+          "verdict": null,
+          "plea": null,
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "364",
+      "name": "？",
+      "age": 14,
+      "charges": [
+        {
+          "id": "511",
+          "verdict": null,
+          "plea": null,
+          "charge": "管有攻擊性武器或適合作非法用途的工具"
+        },
+        {
+          "id": "512",
+          "verdict": null,
+          "plea": null,
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "363",
+      "name": "劉",
+      "age": 20,
+      "charges": [
+        {
+          "id": "509",
+          "verdict": null,
+          "plea": null,
+          "charge": "管有攻擊性武器或適合作非法用途的工具"
+        },
+        {
+          "id": "510",
+          "verdict": null,
+          "plea": null,
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "365",
+      "name": "梁",
+      "age": 20,
+      "charges": [
+        {
+          "id": "513",
+          "verdict": null,
+          "plea": null,
+          "charge": "管有攻擊性武器或適合作非法用途的工具"
+        },
+        {
+          "id": "514",
+          "verdict": null,
+          "plea": null,
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "366",
+      "name": "任",
+      "age": 25,
+      "charges": [
+        {
+          "id": "515",
+          "verdict": null,
+          "plea": "認罪",
+          "charge": "無牌管有無線電通訊器具  "
+        },
+        {
+          "id": "516",
+          "verdict": null,
+          "plea": null,
+          "charge": "公眾地方管有攻擊性武器"
+        },
+        {
+          "id": "517",
+          "verdict": null,
+          "plea": null,
+          "charge": "非法集結"
+        }
+      ]
+    },
+    {
+      "id": "367",
+      "name": "張",
+      "age": 22,
+      "charges": [
+        {
+          "id": "518",
+          "verdict": null,
+          "plea": null,
+          "charge": "管有物品意圖摧毀或損壞財產罪"
+        },
+        {
+          "id": "519",
+          "verdict": null,
+          "plea": null,
+          "charge": "非法集結"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "(1) D1被控於2020年1月1日，在銅鑼灣崇光百貨外，管有一個銀色士巴拿。\n(2) D2被控於同日在軒尼詩道崇光百貨外，管有34條索帶。\n(3) D3被控於同日，在銅鑼灣軒尼詩道525號外，管有300條索帶。\n(4) D4被控於同日在軒尼詩道513號外，管有一把鎚仔。\n(5) D5被控於同日在軒尼詩道513號外，管有一把鉗及一串六角匙。\n(6) D6被控於同日在軒尼詩道525號外，管有兩部無線電通訊機。\n(7) D6被控於同日在軒尼詩道525號外，在公眾地方管有攻擊性武器罪，即一個能發出雷射光束的裝置。\n(8) D7被控於同日在軒尼詩道505號外，管有物品意圖摧毀或損壞財產罪，即一支噴漆。\n(9) 各人同被控於同日在軒尼詩道崇光百貨外一帶，與其他身份不詳人士參與非法集結。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

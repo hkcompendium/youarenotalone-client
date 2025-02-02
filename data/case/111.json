@@ -1,0 +1,64 @@
+{
+  "id": "111",
+  "caseNo": null,
+  "incident": "0803旺角",
+  "defendants": [
+    {
+      "id": "124",
+      "name": "劉",
+      "age": 31,
+      "charges": [
+        {
+          "id": "174",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        },
+        {
+          "id": "175",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "阻礙公職人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "0803旺角"
+  ],
+  "trialDateFrom": "2020-01-23",
+  "trialDateTo": "2020-08-12",
+  "trialLength": null,
+  "verdictDate": "2020-08-12",
+  "sentenceDate": null,
+  "magistrate": "梁嘉琪",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，有網民於2019去年 8 月 3 日發起旺角遊行，被告被指在翌日凌晨警員驅散期間，刻意放慢腳步，其後被搜出鎅刀。",
+  "verdict": "兩項罪名皆不成立",
+  "verdictReason": "此案件需依賴PW2的作供是否可靠，因控方提供的現場片段皆拍不到事發經過。PW2指當時現場有示威，防線需要一平排地推進，否則警員被投雜物或汽油彈時會有危險。控方案情指被告在警方多番呼籲後仍不肯離開現場，並用背部微微用力挨向PW2的長盾，阻礙PW2前進，亦使防線凹陷。\n\n裁判官留意PW2作供時有以下疑點：\n1. 主問曾問到被告推了他的盾多少次，PW2答3次；但盤問時指3次是包括他推向其他同事的次數，PW2說他當時誤會了問題，但在主問中沒提過有其他同事的盾被推\n2. PW2描述被告阻礙過程的作供零碎，不清晰，如被告對他造成阻礙應是瀝瀝在目\n3. 辯方於審訊時呈堂影片顯示被告沒有主動推向防線，和PW2所說的有矛盾\n\n因此PW2的證供不可靠，裁定控罪1不成立。\n\n控罪2 控方需證明被告持有兩把刀具是有傷人意圖。但較早前控方已承認沒有指控被告參與現場的示威。裁判官留意到片段中，當被告被壓在地上，他主動向警員說他的身份證在斜孭袋，他明知兩把刀具亦在斜孭袋也沒有刻意迴避。他的衣著簡單，沒有裝備，被拘捕時一直合作沒反抗，認為被告沒有使用刀具的意圖，裁定控罪2不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "阻差辦公（在彌敦道與太子道西交界阻礙警員18204）",
+    "在公眾地方管有攻擊性武器（管有一把鎅刀及一把三刃摺刀）"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

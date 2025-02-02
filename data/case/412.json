@@ -1,0 +1,55 @@
+{
+  "id": "412",
+  "caseNo": null,
+  "incident": "1102銅鑼灣",
+  "defendants": [
+    {
+      "id": "511",
+      "name": "許",
+      "age": 19,
+      "charges": [
+        {
+          "id": "732",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在公眾地方造成阻礙"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-06-17",
+  "trialDateTo": "2020-06-17",
+  "trialLength": 1,
+  "verdictDate": "2020-06-17",
+  "sentenceDate": null,
+  "magistrate": "何俊堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2019年11月2日在銅鑼灣禮頓道及加老連山道交界留下交通錐，即俗稱雪糕筒，對禮頓道的車輛造成不便或危害。",
+  "verdict": "罪名不成立 (表面證供不成立)",
+  "verdictReason": "控方指控說被告的行為可能會對公眾地方的車輛造成阻礙/危害/不便，但現時即使把控方證供推倒最高，亦證明不了被告的行為對現場造成交通阻礙。PW1表示當時有人扔雪糕筒，懷疑其是被告；其在盤問時表示不知道「被告扔的雪糕筒」被扔到何處。其後再表示CCTV裡行人路上的物體，可能是該雪糕筒。本案即使有陪審團的情況下亦沒有定罪的可能性。表證不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

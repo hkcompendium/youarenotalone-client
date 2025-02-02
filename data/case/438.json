@@ -1,0 +1,59 @@
+{
+  "id": "438",
+  "caseNo": null,
+  "incident": "元旦遊行",
+  "defendants": [
+    {
+      "id": "558",
+      "name": "曾",
+      "age": 19,
+      "charges": [
+        {
+          "id": "800",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-02-26",
+  "trialDateTo": "2020-02-26",
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "香淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "原被控管有適合作非法用途的工具並意圖將其作非法用途使用罪，指他於今年1月1日在香港灣仔軍器廠街天橋上（近皇后大道東）管有一個空玻璃樽、一包砂糖（454克）、兩支火機、一個3M防毒面罩、一卷保鮮紙、兩對手套、七個黑色口罩、兩個護目鏡、一個黑色背包、一件藍色風褸和一個黑色頭套。",
+  "verdict": null,
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "控方指2020年1月1日有遊行，期間於灣仔及中環有違反公眾安全情況，被告不是當區街坊，加上當日裝束有眼罩、豬嘴、1個玻璃樽、1包砂糖、2個打火機，雖然未能舉證指出被告有犯任何罪行，但被告管有可疑物品，不可能為參與和平集會。",
+    "",
+    "裁判官詢問被告當日於2點鐘被捕，被拘捕時遊行是否合法及有混亂，控方指當時遊行合法亦未有任何衝突。",
+    "",
+    "辯方陳詞當時被告並未有使用，物品用途純粹為警方估計，唯一疑點為被告見到警察轉身，但並沒有跑開、亦沒有不合作，警員落口供時亦指拘捕是認為玻璃樽是用於投擲至橋下警車方向，與現時控方陳詞所指有差異。辯方亦指被告盤問時 保 持 緘 默，無任何可控告被告的證據。"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

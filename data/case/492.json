@@ -1,0 +1,86 @@
+{
+  "id": "492",
+  "caseNo": null,
+  "incident": "1031油麻地",
+  "defendants": [
+    {
+      "id": "642",
+      "name": "李",
+      "age": 22,
+      "charges": [
+        {
+          "id": "912",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有物品意圖摧毀財產"
+        }
+      ]
+    },
+    {
+      "id": "648",
+      "name": "譚",
+      "age": 24,
+      "charges": [
+        {
+          "id": "920",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "襲擊在正當執行職務的警務人員"
+        }
+      ]
+    },
+    {
+      "id": "649",
+      "name": "郭",
+      "age": 24,
+      "charges": [
+        {
+          "id": "921",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "阻撓在正當執行職務的警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1031油麻地",
+    "管有工具作非法用途"
+  ],
+  "trialDateFrom": "2021-01-06",
+  "trialDateTo": "2021-01-08",
+  "trialLength": 3,
+  "verdictDate": "2021-03-02",
+  "sentenceDate": null,
+  "magistrate": "D1嚴舜儀署理主任裁判官，D2/3張天雁裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "D1：被控於2019年10月31日，在油麻地彌敦道與登打士街交界，保管兩支噴漆，意圖在無合法辯解下使用該物品，以摧毀仼何財產。\n\nD1同意案情：\n當晚8:40pm超過50示威者彌敦道佔路被警方驅散追截。被告全黑衫褲手套背囊，逃跑時扔背囊，後不慎跌倒被拘捕。途人交還背囊，內有2支噴漆，2支消毒藥水，一對手䄂，一頂棒球帽，一張8達通。拘捕時同其後兩次口供都保持緘默",
+  "verdict": "D1撤控自簽保守行為，D2/3罪名不成立",
+  "verdictReason": null,
+  "sentence": "D1簽保2000元，守行為24個月",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "D1管有物品意圖摧毀財產",
+    "D2襲擊在正當執行職務的警務人員",
+    "D3阻撓在正當執行職務的警務人員"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

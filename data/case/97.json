@@ -1,0 +1,58 @@
+{
+  "id": "97",
+  "caseNo": null,
+  "incident": "20200126旺角",
+  "defendants": [
+    {
+      "id": "107",
+      "name": "陳",
+      "age": 18,
+      "charges": [
+        {
+          "id": "146",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "20200126旺角",
+    "提堂"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2020-04-23",
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指，當日年初二下午4時有小販在砵蘭街開檔，有市民聚集，警方到場巡邏。晚上8時45分，在九龍彌敦道與山東街交界的公眾地方，有警員見被告身穿黑衣，戴上黑帽、護頸及口罩，在行人路旁使用電話。警員截查後，從袋中搜出摺刀、手套、眼罩、17支生理鹽水等。被告警誡下稱獨住劏房，因偶爾會夜歸而擔心會被人騷擾，故帶備於2019年中從淘寶購買涉案的鐵刀傍身。\n\n",
+  "verdict": "批准被告自簽1000元守行為2年，控方撤回控罪。",
+  "verdictReason": "控方指案件以《公安條例》起訴，但想給予女生機會，望法庭予以簽保守行為結案，今獲撤回控罪是特殊情況。獲裁判官接納。\n\n經控辯雙方協調，控方撤回控罪，被告同意案情，以簽保守行為24個月處理，自簽$1,000，守行為期間不可以犯任何暴力或關於攻擊性武器的罪行。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

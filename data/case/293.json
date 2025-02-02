@@ -1,0 +1,68 @@
+{
+  "id": "293",
+  "caseNo": null,
+  "incident": "20200213鑽石山",
+  "defendants": [
+    {
+      "id": "357",
+      "name": "黃",
+      "age": null,
+      "charges": [
+        {
+          "id": "501",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "無線電，違反《電訊條例》(第106章) 第8條"
+        }
+      ]
+    },
+    {
+      "id": "358",
+      "name": "唐",
+      "age": null,
+      "charges": [
+        {
+          "id": "502",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "無線電，違反《電訊條例》(第106章) 第8條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-11-24",
+  "trialDateTo": "2020-11-24",
+  "trialLength": 1,
+  "verdictDate": "2020-11-24",
+  "sentenceDate": null,
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2020年2月12日，一個無通知警方的遊行以黃大仙富山邨作起點進行，有200人參加，反對將該處診所作為接受武肺病人地方，有人堵路阻塞行車線。晚上約10時，有防暴掃蕩驅散示威者；13日0時，有示威者包括D1、D2在富山邨外被截停，搜查後發現D1黃色急救背心後、D2背囊內同有1關閉的對講機。2人以無牌管有無線電通訊器具被捕。",
+  "verdict": "控方申請簽保守行為，辯方同意案情換取撤回控罪",
+  "verdictReason": null,
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

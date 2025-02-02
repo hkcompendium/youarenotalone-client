@@ -1,0 +1,57 @@
+{
+  "id": "329",
+  "caseNo": null,
+  "incident": "1007馬鞍山",
+  "defendants": [
+    {
+      "id": "412",
+      "name": "楊",
+      "age": 39,
+      "charges": [
+        {
+          "id": "583",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "阻礙公職人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1007馬鞍山"
+  ],
+  "trialDateFrom": "2020-05-29",
+  "trialDateTo": "2020-07-09",
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-07-09",
+  "magistrate": "溫紹明",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "馬鞍山2019年 10 月 7 日曾爆發警民衝突，當日警方聲稱接報有人在新港城中心破壞商店，欲推門闖入調查，期間遭保安員攔阻。及後有警員聲稱被激光照射，隨即強行衝入商場。被告被指「出手」拉扯正追捕疑犯的警員。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "120小時社會服務令",
+  "sentenceReason": "求情：\n感化官認為感化令太長，因此並不適合但在社會服務令報告建議被告接受中長度社會服務令(即160小時)，而且被告一直奉公守法並有穩定工作。\n\n法庭考慮到被告背景良好，一直有穩定工作，被告並非參與社會活動，只是一時衝動或錯誤理解情況，而且被告拉扯警員時使用力量低，亦只是造成短時間的阻礙。被告亦認罪及表達悔意。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

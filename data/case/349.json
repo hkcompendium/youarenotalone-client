@@ -1,0 +1,68 @@
+{
+  "id": "349",
+  "caseNo": null,
+  "incident": "1231太子",
+  "defendants": [
+    {
+      "id": "432",
+      "name": "劉",
+      "age": 17,
+      "charges": [
+        {
+          "id": "610",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "刑事損壞罪"
+        }
+      ]
+    },
+    {
+      "id": "433",
+      "name": "廖",
+      "age": 19,
+      "charges": [
+        {
+          "id": "611",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "刑事損壞罪"
+        }
+      ]
+    }
+  ],
+  "description": "",
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019年12月31日晚上，有人到港鐵太子站B1出口聚集及獻花，警方曾到場清理。至晚上約 7 :15，有警員在警署內透過閉錄電視見到有 6 名年介 20 至60 歲男女，在太子站B1出口外傷殘人士通道聚集，並在外牆前踎低，其中有人用雨傘掩護。警員見狀遂到外面匯合在場便衣警員，集聚人士見到警員後大叫「有黑警，好走啦！」，惟第一被告在逃跑時被當場制服，並帶往警署。次被告廖楚民則同時遭警方截停，警員查看閉錄電視後，認為第二被告與案件有關，故同樣以刑事損壞罪將他拘捕。",
+  "verdict": "二人同意案情，獲准自簽 1000 元守行為，另向港鐵各自賠償1500元，控罪獲撤銷。",
+  "verdictReason": null,
+  "sentence": "",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "第一被告以一萬元現金擔保，第二被告則以1,000元自簽及1,000元父親人事擔保，惟兩人均不可離港、須交出所有旅遊證件、居於報稱地址、每周向警署報到兩次、禁足太子站。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

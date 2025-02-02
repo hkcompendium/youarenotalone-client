@@ -1,0 +1,55 @@
+{
+  "id": "292",
+  "caseNo": null,
+  "incident": "1201旺角",
+  "defendants": [
+    {
+      "id": "356",
+      "name": "蔡",
+      "age": 22,
+      "charges": [
+        {
+          "id": "500",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有工具作非法用途，違反《簡易程序治罪條例》(第228 章) 第17 條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-11-30",
+  "trialDateTo": "2020-11-30",
+  "trialLength": 1,
+  "verdictDate": "2020-11-30",
+  "sentenceDate": null,
+  "magistrate": "林子勤",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於2019年12月1日23:13 在旺角西洋菜南街55號外，管有一些適合作非法用途的工具，即一支扳手、一把鎅刀及一把萬用刀，意圖將其作非法用途使用。",
+  "verdict": "罪名不成立",
+  "verdictReason": "被告否認控罪，辯方不爭議管有物品，但爭議意圖。被告選擇作供，指出被截查，有作出解釋，但不被接納，本案舉證責任在於控方。\n\n法例在1985年修改，立法原意並非無限擴充，接納辯方的理據，認為並非唯一可以的推論。\n\n證人的口供不受爭議\n\n被告證供牽強，下午有時間在街上流連，如果生意淡薄，客戶嘅要求應視為首先任務，不會在晚上先去，被問到供應商的營業時間，知道星期日唔開，但又有特別安排，所以博一博，證供亦未能解釋翌日的工程安排，工具的安排亦與常言不符。\n\n雖然牽強，但舉證在於控方，被告穿着襯衫孭紅色背囊，與示威者不符，在封鎖前未到現場，無證據證明參與，裁定控方要證明是唯一非法用途，未能舉證，被告罪名不成立。",
+  "sentence": "",
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

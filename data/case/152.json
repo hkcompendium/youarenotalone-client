@@ -1,0 +1,124 @@
+{
+  "id": "152",
+  "caseNo": null,
+  "incident": "1027黃埔",
+  "defendants": [
+    {
+      "id": "176",
+      "name": "傅",
+      "age": 22,
+      "charges": [
+        {
+          "id": "244",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "非法集結，違反 《公安條例》(第245章)  第18條"
+        },
+        {
+          "id": "245",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "管有攻擊性武器意圖作非法用途，違反《簡易程序治罪條例》(第228章) 第17條 "
+        },
+        {
+          "id": "246",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "在非法集結中使用蒙面物品，違反《禁止蒙面規例》(第241K章) 第3條"
+        }
+      ]
+    },
+    {
+      "id": "177",
+      "name": "林",
+      "age": 19,
+      "charges": [
+        {
+          "id": "247",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "非法集結，違反 《公安條例》(第245章)  第18條"
+        },
+        {
+          "id": "248",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在非法集結中使用蒙面物品，違反《禁止蒙面規例》(第241K章) 第3條"
+        }
+      ]
+    },
+    {
+      "id": "178",
+      "name": "袁",
+      "age": 20,
+      "charges": [
+        {
+          "id": "249",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "非法集結，違反 《公安條例》(第245章)  第18條"
+        },
+        {
+          "id": "250",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在非法集結中使用蒙面物品，違反《禁止蒙面規例》(第241K章) 第3條"
+        }
+      ]
+    },
+    {
+      "id": "179",
+      "name": "*",
+      "age": 15,
+      "charges": [
+        {
+          "id": "251",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "非法集結，違反 《公安條例》(第245章)  第18條"
+        },
+        {
+          "id": "252",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在非法集結中使用蒙面物品，違反《禁止蒙面規例》(第241K章) 第3條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-10-12",
+  "trialDateTo": "2020-10-30",
+  "trialLength": 8,
+  "verdictDate": "2020-12-21",
+  "sentenceDate": "2020-12-21",
+  "magistrate": "嚴舜儀主任裁判官",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "(1)D1-4同被控於19年10月27日在紅磡德安街與紅磡道交界與其他人參與非法集結\n(2)D1被控於同日同地管有一把錘\n(3)-(6) D1-4各被控於同日同地身處非法集結時，使用相當可能阻止識別身份的蒙面物品。(口罩)",
+  "verdict": "D1罪名成立，D2-4罪名不成立",
+  "verdictReason": "https://legalref.judiciary.hk/doc/judg/word/vetted/other/ch/2020/KCCC000656_2020.docx\n裁決書已上載至司法網站",
+  "sentence": "D1總刑期為8個月即時監禁",
+  "sentenceReason": "D1是有計劃參與非法集結，她帶了多樣物品方便她逃離罪責，在現場亦清楚非法集結的規模。\n\n控罪一：非法集結，以6個月為量刑起點，但因為她帶了鎚子加重了案情，加刑2個月；蒙面嘗試掩飾身份再加刑1個月，共9個月監禁\n控罪二：管有攻擊性武器意圖作非法用途，以6個月為量刑起點\n控罪三：在非法集結中使用蒙面物品，以3個月為量刑起點\n全部同期執行。被告經審訊後被定罪，沒有刑期扣減，唯一減刑因素是她過往的良好行為和她想繼續學業的意願，減刑1個月。\n",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "352",
+  "caseNo": null,
+  "incident": "1003太子",
+  "defendants": [
+    {
+      "id": "436",
+      "name": "*",
+      "age": 12,
+      "charges": [
+        {
+          "id": "619",
+          "verdict": "撤銷控罪",
+          "plea": "認罪",
+          "charge": "刑事損毀罪"
+        },
+        {
+          "id": "620",
+          "verdict": "撤銷控罪",
+          "plea": "認罪",
+          "charge": "刑事損毀罪"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-12-19",
+  "magistrate": "彭亮廷",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於10月3日毀壞旺角警署和太子站B1出口外牆。案情指，當晚7時半，有便衣警員目睹蒙面的被告在旺角警署噴上「死黑警全家比狗X」，之後再於太子站噴上「天滅 Free HK」。便衣警尾隨見被告進入某住宅，待他翌晨出門上學時截查拘捕。警方在其住所搜出黑色噴漆和案發時所穿的衣物。被告警誡下承認單獨犯案，感到後悔。（節錄自香港01）",
+  "verdict": "判兒童保護令24個月，辯方申請撤銷控罪獲批。",
+  "verdictReason": "家人與師長在求情信表示，被告本性善良、樂於助人，會幫忙做家務及照顧祖母。辯方續指，被告受外界影響，出於不滿而衝動犯事；是次上了寶貴一課，事後已不敢外出。她希望法庭判處照顧及保護令，免留案底。\n\n裁判官庭上透露報告內容指，男童與在場人士不相識，認為男童是「人哋做就跟住做」，他在判刑前特別再問男童，是否知道用了錯誤的表達方式，再籲他不要受人影響。\n\n而男童在接受兒童保護令期間，須由祖母照顧，並須守晚上7時至清晨6時的宵禁令，若有家人陪同或事先獲監護主任批准則可豁免。男童亦須聽從指示交友及參與活動。男童亦須按報告建議，於半年後上庭讓裁判官了解其進度報告。\n\n裁判官判處兒童保護令後，辯方申請撤銷控罪獲批，即不會留有案底。（節錄自香港01）",
+  "sentence": null,
+  "sentenceReason": "",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "本案被告是反送中浪潮中，最年輕的被告之一。",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

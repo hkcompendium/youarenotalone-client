@@ -1,0 +1,59 @@
+{
+  "id": "461",
+  "caseNo": null,
+  "incident": "1031旺角",
+  "defendants": [
+    {
+      "id": "598",
+      "name": "梁",
+      "age": 22,
+      "charges": [
+        {
+          "id": "854",
+          "verdict": "撤銷控罪",
+          "plea": null,
+          "charge": "襲警罪"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "西九龍裁判法院",
+    "1031旺角",
+    "撤銷控罪"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-02-10",
+  "sentenceDate": "2020-02-10",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "指他於2019年10月31日在旺角上海街676號外襲擊警務督察X。",
+  "verdict": "控方撤回控罪。",
+  "verdictReason": "控方稱索取法律意見後，決定撤回控罪，獲法庭批准。",
+  "sentence": "獲批訟費",
+  "sentenceReason": "辯方有訟費申請，涉及金額超過 3 萬元，控方沒反對，裁判官批准辯方訟費申請，就確實金額，若控辯雙方未能協議，就交由區域法院釐定。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    "襲警罪"
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

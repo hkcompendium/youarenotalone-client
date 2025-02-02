@@ -1,0 +1,57 @@
+{
+  "id": "628",
+  "caseNo": null,
+  "incident": "1112銅鑼灣",
+  "defendants": [
+    {
+      "id": "866",
+      "name": "徐",
+      "age": 23,
+      "charges": [
+        {
+          "id": "1272",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1112銅鑼灣"
+  ],
+  "trialDateFrom": "2020-06-22",
+  "trialDateTo": "2020-06-22",
+  "trialLength": 1,
+  "verdictDate": "2020-06-22",
+  "sentenceDate": null,
+  "magistrate": "林希維",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控2019年11月12日，在銅鑼灣駱克道至景隆街交界，管有一把鎅刀、九塊刀片、兩盒鐵釘和兩把鑿",
+  "verdict": "罪名不成立",
+  "verdictReason": "口頭裁決如下：\n控方案情指，陳警員見到被告由逃跑至減慢步速，於是上前截停。在身上搜出涉案物品。\n\n辯方案情指，被告當時已經向警員充份解釋物品用途，並出示地盤工作證及當日購買物品的單據，亦無任何行為與非法用途有關，而搜查時石屎釘及石屎鑿亦被緊緊纏著\n\n被告無刑事定罪記錄，犯罪傾向性低，證供在盤問下無動搖，語氣堅定，本席接納其證供。\n\n本席認為，被告人住在南區，在銅鑼灣附近出現並不是完全不可能，而且被告有解釋當晚在案發現場附近食飯後，步行至跑馬地搭車，說法合理。而被告職業為地盤管工，搜出的物品都屬於地盤常見的物品，而且有當日購買物品的單據。\n\n即使累積已獲得的證據，仍無法推論被告身上的物品，有作非法用途的行為。雖然被告身上的黑色風褸、護目鏡、防毒面具可以與示威活動有關，但亦可以是被告正當的地盤工作之用。而控方質疑被告在下班時帶走工具，行為十分可疑，本席認為說法過於嚴苛\n\n由於控方無法舉證至毫無合理疑點，或提供唯一而不可抗拒的推論，證明被告管有工具作束縛、傷害他人，或入侵住宅用。因此，裁定被告罪名不成立\n--------------------------\n案例：\nTang Chi-ming v The Queen [1968] HKLR 716\n\nHKSAR v 梁有勝 HCMA 293/2000",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": "就裁判官的判決，網上曾引起討論\nhttp://www.takungpao.com.hk/news/232109/2020/0705/470971.html\nhttps://medium.com/@_.__/屈穎妍應向裁判官林希維道歉-ca90d033930c",
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

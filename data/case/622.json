@@ -1,0 +1,57 @@
+{
+  "id": "622",
+  "caseNo": null,
+  "incident": "20200928旺角",
+  "defendants": [
+    {
+      "id": "859",
+      "name": "盧",
+      "age": 19,
+      "charges": [
+        {
+          "id": "1260",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "企圖以虛假資料誤導警務人員，違反《警隊條例》 (第232章)  第63條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "誤導警務人員"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2021-04-13",
+  "sentenceDate": null,
+  "magistrate": "徐綺薇",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2020年8月31日1730時，警員在太子站D1出口外開始行動，處理涉及831一周年的公眾活動。當晚8點幾，示威人士在太子道西及通菜街交界非法集結。PW1（即一名警員）聯同其隊員衝上前拘捕示威者，期間追捕被告至花園街後巷，以非法集結罪名拘捕被告。被告與警方進行會面記錄，在警誡下被告指自己沒有參與非法集結，在當晚與PW4（即一名中學同學）在旺角食晚飯。 \n\n在2020年9月18日，PW4收到被告WhatsApp通知自己在2020年8月31日被捕，希望PW4向警方表示自己當晚與被告一同食晚飯，並着PW4刪除訊息記錄，PW4照做。 \n\n在2020年10月2日，PW4收到數通不明來電，起初以為是傳銷電話而沒接聽，後來被告致電PW4指是旺角警署打電話給他與PW4確認在2020年8月31日當晚他是否與被告一起食飯。PW4向被告表示當晚自己在家，沒有與被告一同食飯，知道被告請求自己幫忙比假口供。PW4心裏害怕，於是在旺角警署再次致電時請母親幫忙聽電話。 \n\n後來PW4在PW5（即PW4父親）陪同下一同錄口供，PW4當晚在家，沒有與被告一同食飯。被告在警誡下承認2020年831當晚自己是一個人在旺角食晚飯，因擔心被控及想盡快了結案件才聯絡PW4希望他向警察比假口供。PW4在事件發生後深感內疚，致電PW4向他道歉，並在2020年10月2日與PW4通訊，請他如實向警察指自己當晚在家。2020年10月5日被告詢問PW4比完口供未，並再次向他道歉。 ",
+  "verdict": "以$2000自簽保守行為12個月",
+  "verdictReason": "裁判官考慮被告年少，事發後亦知錯並向PW4道歉，批准被告以$2000自簽保守行為12個月，控方撤回控罪。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

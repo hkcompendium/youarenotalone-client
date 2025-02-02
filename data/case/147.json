@@ -1,0 +1,64 @@
+{
+  "id": "147",
+  "caseNo": null,
+  "incident": "1102中環",
+  "defendants": [
+    {
+      "id": "171",
+      "name": "黃",
+      "age": 17,
+      "charges": [
+        {
+          "id": "238",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": " 管有物品意圖損壞財產，違反 《刑事罪行條例》(第200章) 第62 (a) 條 "
+        },
+        {
+          "id": "239",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有攻擊性武器，違反《公安條例》(第245章)  第33條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "噴漆",
+    "雷射筆"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2020-09-09",
+  "sentenceDate": null,
+  "magistrate": "何俊堯",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年11月2日在中環雲咸街一帶，管有一支噴漆(控罪一) 及一個能發出雷射光束的裝置(控罪二)\n",
+  "verdict": "罪名不成立",
+  "verdictReason": "控方依賴2名證人證供。控方證人一指出，被告有揮手等動作示意現場人士離開，所以截停被告。但現場人士在警車到達後已經作鳥獸散，被告又何需留在原地呼叫正在離開的人離開呢？另外，證人亦同意被告本身的行為並無違法，既然如此，控方證人一為何不鎖定在場手執鐵通的人呢？\n\n控方第一證人在庭上作供時曾提及截停被告時有表露身份，被告在截停有反抗，表示被告行為構成阻差辦公。裁判官質疑證人於紀錄冊及口供並沒有相關紀錄，到作供才首次提及，其真確性成疑。\n\n綜合而言，法庭對控方第一證人有否將實情坦白交代有保留；即使他想交代細節，但由於事隔多月又缺乏記錄，可靠性成疑。因此法庭不會接納他的證供。\n\n控罪的證據只剩下在被告背包內搜出的噴漆，而噴漆是普通不過的物品，可以有合法用途亦可以損壞財產。在缺乏環境證供下，控方未能排除被告會用噴漆用於合法用途的可能性。\n\n就控罪(2)而言，控方同意雷射筆本質上不是攻擊性武器，因此必須證明被告有傷害他人的意圖。在排除控方第一證人後，無法得知當日環境、被告的行為及反應。\n\n即使雷射筆被專家證人評為3B級別，但證人測試時使用了另一充滿電的電池，因此證人未能準確指出原本檢獲的電池 (證物P3) 配合雷射筆 (證物P2) 可否/會造成甚麼傷害。考慮到雷射筆可以有合法用途，而控方未能排除，因此被告使用雷射筆作傷人意圖並非唯一合理推論。\n\n疑點利益歸於被告，控罪(1)(2)罪名不成立\n",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

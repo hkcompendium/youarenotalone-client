@@ -1,0 +1,55 @@
+{
+  "id": "567",
+  "caseNo": null,
+  "incident": "0907旺角",
+  "defendants": [
+    {
+      "id": "738",
+      "name": "梁",
+      "age": 20,
+      "charges": [
+        {
+          "id": "1043",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "在公眾地方管有攻擊性武器"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-03-25",
+  "sentenceDate": "2020-04-17",
+  "magistrate": "羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案情指，被告於2019年9月7日21:00，在旺角洗衣街行人天橋近MOKO新世紀廣場的公眾地方，無合法權限或合理辯解而管有攻擊性武器，即一個自製汽油彈。\n\n",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "被判入更生中心",
+  "sentenceReason": "裁判官考慮到被告年輕，加上本案並非必須判處監禁，判被告入更生中心。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

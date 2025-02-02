@@ -1,0 +1,55 @@
+{
+  "id": "309",
+  "caseNo": null,
+  "incident": "1112灣仔",
+  "defendants": [
+    {
+      "id": "388",
+      "name": "鄭",
+      "age": 21,
+      "charges": [
+        {
+          "id": "547",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖損壞財產，違反 《刑事罪行條例》(第200章) 第62 (a) 條 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": "2020-06-23",
+  "trialDateTo": "2020-06-24",
+  "trialLength": 2,
+  "verdictDate": "2020-07-03",
+  "sentenceDate": "2020-07-03",
+  "magistrate": "香淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年11月12日，在灣仔堅拿道西24號外，管有一樽懷疑為410毫升機油的黑色液體，內含有少量汽油，意圖用以摧毀或損壞屬於另一人的財產",
+  "verdict": "罪名成立",
+  "verdictReason": "香官指出，事發時被告鄭欣雪管有該油漆，卻沒有帶同髹油工具，而盛裝油漆的黃色瓶顯然非原裝器皿。加上當時瓶蓋有液體浸出，在她身上檢獲的手套被驗出沾上相同物質，顯示她有意圖使用該工具。\n\n另外，事發當天早上，她在灣仔交通匯點手持該油漆，處於準備使用的狀態。當時她四處張望，更在見到警車駛近時馬上調頭跑，顯示她明知自己管有該漆，並意圖用以損毀他人財產。香官續指，任何物品一旦沾上油漆，至少會損害該物品的外貌，須清洗才會回復原狀。",
+  "sentence": "罰款$5000",
+  "sentenceReason": "辯方求情時指，被告並無案底，現時任職夜班侍應，打算官司結束後報讀香港知專設計學院繼續升學。本案性質輕微，沒有實質發生任何事，希望法庭能判處非監禁式刑罰。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

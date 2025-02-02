@@ -1,0 +1,61 @@
+{
+  "id": "528",
+  "caseNo": null,
+  "incident": "0921屯門",
+  "defendants": [
+    {
+      "id": "783",
+      "name": "鄧",
+      "age": 21,
+      "charges": [
+        {
+          "id": "1114",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "侮辱國旗"
+        },
+        {
+          "id": "1115",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": "管有適合作非法用途的工具並意圖作非法用途使用"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2020-01-09",
+  "sentenceDate": "2020-01-29",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "於2019年9月21日，在屯門大會堂外與不知名人士侮辱國旗，以及在元朗鳳琴街管有一個士巴拿、七條六角匙、一支火槍及一罐白電油等。",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "240小時社會服務令，上訴後改判入獄五星期",
+  "sentenceReason": "考慮被告同意案情並坦白認罪，承諾不會再犯，無刑事定罪記錄。老闆及前中學老師都在求情信中表示被告勤奮好學、盡責，是一名好員工，好學生。\n\n相信被告一時衝動犯下本案，接納感化官建議，判處240小時社會服務令，希望被告能深切反省。\n\n-----\n\n裁判官認同沒有就案中加刑因素給予足夠比重，指案發時有數十人圍觀，被告在公眾面前與他人一同侮辱國旗，行為可能鼓動在場人士。他又以多種手法侮辱國旗，且明知屬公物仍作毀壞，其行為顯示他對國旗的輕蔑及藐視，嚴重貶損代表國家的尊嚴。\n\n裁判官認同判處社會服務令明顯不足及原則上犯錯，遂把原本的240小時社會服務令的判刑擱置，在考慮了被告已履行了部分社會服務令等，最後將改判他監禁五星期。",
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": "律政司認為判刑過輕提出覆核",
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

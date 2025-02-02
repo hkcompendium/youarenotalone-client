@@ -1,0 +1,57 @@
+{
+  "id": "110",
+  "caseNo": null,
+  "incident": "1221元朗",
+  "defendants": [
+    {
+      "id": "123",
+      "name": "陳",
+      "age": 19,
+      "charges": [
+        {
+          "id": "173",
+          "verdict": "撤銷控罪",
+          "plea": "簽保守行為",
+          "charge": "管有物品意圖摧毀或損壞財產"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1221元朗"
+  ],
+  "trialDateFrom": "2020-06-19",
+  "trialDateTo": "2020-08-14",
+  "trialLength": 2,
+  "verdictDate": "2020-08-14",
+  "sentenceDate": null,
+  "magistrate": "葉啓亮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "控方案情指，2019年 12 月 21 日，大批黑衣人聚集在元朗形點商場，傍晚有人衝入「喜茶」店舖，用油漆塗鴉「奶共」及「光復香港」，遭商場閉路鏡頭拍下。警方接報到場，期間在元朗形點一期 1 樓  1110 - 1111 號舖外截停被告。他當時身穿黑色衣物、背著黑色背包，警方從他背包搜出25 厘米長的扳手、 45 厘米長的磨刀器、頭盔、手套及生理鹽水。被告警誡下保持沉默。被控意圖在無合法辯解的情況下使用該物品，以摧毀或損壞屬於另一人的財產。 ",
+  "verdict": "自簽1000元，守行為12月，控方撤回控罪，另外須付500元堂費。",
+  "verdictReason": "控方今接納辯方提議，以簽保守行為方式處理。葉啓亮裁判官批准被告自簽1000元，守行為12月，控方撤回控罪，另外須付500元堂費。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "$500現金保釋，每週警署報到１次。",
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

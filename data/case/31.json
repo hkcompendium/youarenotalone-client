@@ -1,0 +1,72 @@
+{
+  "id": "31",
+  "caseNo": null,
+  "incident": "20200501大水坑",
+  "defendants": [
+    {
+      "id": "33",
+      "name": "關",
+      "age": 22,
+      "charges": [
+        {
+          "id": "37",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毀壞，違反《刑事罪行條例》(第200章) 第60條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "20200501大水坑"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 2,
+  "verdictDate": null,
+  "sentenceDate": "2020-11-12",
+  "magistrate": "溫紹明",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2020年5月1日，在大水坑站以噴漆損壞屬於港鐵的牆壁「今日 1930 新城市（1/5）和你 Sing」，被警員當場拘捕，他早前已向政府賠償 2,000 元。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "12個月感化令，期間需在感化主任指定的地址居住及參與有助改過自身的活動。",
+  "sentenceReason": "感化及社會服務令報告內容正面，辯方求情指被告不滿警方處理手法，明白到要用合法途徑表達意見，對今次事件深感愧疚。\n\n裁判官指控罪嚴重，但並非同類案件中最嚴重，案件不涉及暴力，只是被告用不合法方法表達意見，然而受到損壞的物品價值不高，被告亦已向港鐵賠償，考慮到被告認罪表達真誠悔意，過往沒有刑事紀錄，亦有家庭充足支持。\n\n裁判官接納感化主任的建議，判處被告12個月感化令，期間需在感化主任指定的地址居住及參與有助改過自身的活動。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": 0,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": [
+      {
+        "id": "5634",
+        "content": "#沙田裁判法院第七庭\n#溫紹明署理主任裁判官\n#判刑\n#20200501大水坑\n\n關\n\n控罪：刑事損壞\n被控於2020年5月1日，在大水坑站以噴漆損壞屬於港鐵的牆壁\n\n__________\n\n感化及社會服務令報告內容正面，辯方求情指被告不滿警方處理手法，明白到要用合法途徑表達意見，對今次事件深感愧疚。\n\n署理主任裁判官溫紹明指控罪嚴重，但並非同類案件中最嚴重，案件不涉及暴力，只是被告用不合法方法表達意見，然而受到損壞的物品價值不高，被告亦已向港鐵賠償，考慮到被告認罪表達真誠悔意，過往沒有刑事紀錄，亦有家庭充足支持。\n\n溫官接納感化主任的建議，判處被告12個月感化令，期間需在感化主任指定的地址居住及參與有助改過自身的活動。",
+        "url": "https://t.me/youarenotalonehk_live/11247",
+        "source": "法庭文字直播台",
+        "datetime": "2020-11-12T06:48:41.000Z"
+      },
+      {
+        "id": "5208",
+        "content": "#沙田裁判法院第一庭\n#溫紹明署理主任裁判官\n#20200501大水坑 #答辯\n\n關\n\n控罪：刑事損壞\n被控於2020年5月1日，在大水坑站以噴漆損壞屬港鐵的牆壁\n\n‼️認罪‼️\n\n願意賠償2000元清潔費予路政署\n\n呈上母親及自己撰寫的求情信\n\n裁判官要求索取感化報告\n\n關在日本攻讀大學，為政治系二年級學生\n法庭特別提醒因為被告在海外讀書，要與感化官合作，討論感化條件，否則因此而違反感化令或會有更嚴厲罰則\n\n案件押後至11月12日1430沙田裁判法院判刑\n✅期間繼續保釋，有以下條件更改：\n· 毋須報到\n\n感謝臨時直播員",
+        "url": "https://t.me/youarenotalonehk_live/10589",
+        "source": "法庭文字直播台",
+        "datetime": "2020-10-22T07:16:38.000Z"
+      }
+    ]
+  }
+}

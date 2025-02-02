@@ -1,0 +1,55 @@
+{
+  "id": "258",
+  "caseNo": null,
+  "incident": "1112中環",
+  "defendants": [
+    {
+      "id": "385",
+      "name": "Nunan",
+      "age": 32,
+      "charges": [
+        {
+          "id": "544",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "襲擊/ 抗拒/ 故意阻撓在正當執行職務的警務人員"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": "2020-05-29",
+  "magistrate": "香淑嫻",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "2019 年 11 月 12 日，示威者在港島多區堵路示威。晚上 7 時 40 分，警方於中環驅散人群，有約 50 名警員在事發天橋下執行職務。其間，有人從天橋擲下磚頭，磚頭落在地面，沒有警員受傷。天橋上，兩名警員發現被告有份掟磚，隨即衝上前截停並質問她，被告以英文表示：「你（ 警方 ）是壞人！殺人兇手！（ You are a bad guy, a murderer ）」。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "判監3個月",
+  "sentenceReason": "求情理由：被告 7 歲起來港定居，視香港為家，她要照顧患癌症入院的母親，被告早前更不幸小產有情緒問題，被告當日行經案發地點遇到示威者，有人遞磚頭給她，她以為用來設路障，所以愚蠢地接過磚頭並投擲，不知道有警員在天橋下，事件非常後悔，希望法庭考慮判緩刑。\n\n裁判官香淑嫻指案件性質嚴重，幸好無人受傷否則後果嚴重，法庭必須保護正當執行職務的警員，判即時監禁三個月。\n\n",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

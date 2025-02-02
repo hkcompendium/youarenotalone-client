@@ -1,0 +1,65 @@
+{
+  "id": "576",
+  "caseNo": null,
+  "incident": "1031中環",
+  "defendants": [
+    {
+      "id": "770",
+      "name": "余",
+      "age": 19,
+      "charges": [
+        {
+          "id": "1091",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "在身處非法集結時使用蒙面物品"
+        },
+        {
+          "id": "1092",
+          "verdict": "成立",
+          "plea": "否認控罪",
+          "charge": "非法集結"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "非法集結",
+    "蒙面法",
+    "1031中環"
+  ],
+  "trialDateFrom": "2021-04-12",
+  "trialDateTo": "2021-04-12",
+  "trialLength": 1,
+  "verdictDate": "2021-05-13",
+  "sentenceDate": "2021-05-27",
+  "magistrate": "王證瑜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "(1) 2019年11月1日在香港島中環雲咸街與擺花街交界與其他身份不詳人士參與非法集結\n(2) 同日同地無合法權限或合理辯解下在非法集會中使用蒙面物品即一個口罩",
+  "verdict": "非法集結罪成；使用蒙面物品罪不成立",
+  "verdictReason": "王官逐一考慮非法集結的控罪元素，指被告必然與現場100人一同叫喊口號，又在警告下拒絕散去，亦有示威者用雷射筆照射警員，一同作出擾亂公眾秩序的行為。王官續指，被告攜有的物件與參與示威所用的一致，與在場其他人有足夠關連和共同目的。而示威者拒絕散去，亦可能引致非法暴力，及後有十名蒙面人士試圖搶走被警方制服的被告，亦印證了這點。被告與在場其他人無疑有一致行動和共同目的，裁定被告非法集結罪名成立。\n\n針對使用蒙面物件罪，王官指被告父親曾供稱女兒患有氣管過敏及長期哮喘，在多麈的地方需要戴口罩。基於被告有可能因健康理由使用口罩，王官裁定蒙面罪名不成立。",
+  "sentence": "即時監禁10星期",
+  "sentenceReason": "王官續指，法庭量刑時除要考慮判刑阻嚇性、懲罰性和更生需要外，也要考慮被告個人情況。雖然感化官建議被告入住更生中心，但被告已年近21歲，即將屆滿入住年齡，加上她沒有案底、獲家人及老師支持、正在大學修讀學士課程，相信更生中心對其作用不大。王官接納辯方建議，以監禁12周為量刑起點，因被告背景良好，酌情減刑兩周。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

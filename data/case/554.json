@@ -1,0 +1,57 @@
+{
+  "id": "554",
+  "caseNo": null,
+  "incident": "未知案發日期地點",
+  "defendants": [
+    {
+      "id": "720",
+      "name": "葉",
+      "age": 46,
+      "charges": [
+        {
+          "id": "1024",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "無牌管有無線電通訊器具，違反《電訊條例》(第106章) 第8條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "無線電"
+  ],
+  "trialDateFrom": "2021-03-17",
+  "trialDateTo": "2021-03-17",
+  "trialLength": 1,
+  "verdictDate": "2021-03-17",
+  "sentenceDate": "2021-03-17",
+  "magistrate": "張潔宜",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "案發於被告工作車房，事發當日警員入內搜查然後檢取。被告稱是維修師傅之間溝通之用，例如車外嘅師傅俾信號車內的人俾油",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "罰款10,000元",
+  "sentenceReason": "被告認罪",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": "找不到相關新聞",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

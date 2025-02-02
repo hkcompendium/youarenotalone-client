@@ -1,0 +1,59 @@
+{
+  "id": "648",
+  "caseNo": null,
+  "incident": "1026何文田",
+  "defendants": [
+    {
+      "id": "907",
+      "name": "麥",
+      "age": 19,
+      "charges": [
+        {
+          "id": "1332",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事毁壞"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "1026何文田",
+    "刑事毀壞",
+    "文宣"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": "2019-12-27",
+  "sentenceDate": "2020-01-17",
+  "magistrate": "嚴舜儀",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被指在2019年 10 月 26 日晚上，在何文田港鐵站A出口對出的行人天橋用噴漆在屬於路政署的路面寫上「罷搭」、「暴」、「動」、「罪」等字，一名途人經過，目睹蒙面的被告的行為後，便立即報警。",
+  "verdict": "罪名成立",
+  "verdictReason": "",
+  "sentence": "120小時社會服務令",
+  "sentenceReason": "裁判官拒絕辯方以罰款處理的提議，並索取感化和社會服務令報告，報告建議不需感化但可判80小時社會服務令，裁判官最終判處被告120小時社會服務令。",
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

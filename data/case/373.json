@@ -1,0 +1,57 @@
+{
+  "id": "373",
+  "caseNo": null,
+  "incident": "20200119旺角",
+  "defendants": [
+    {
+      "id": "462",
+      "name": "錢",
+      "age": 25,
+      "charges": [
+        {
+          "id": "653",
+          "verdict": "不成立",
+          "plea": "否認控罪",
+          "charge": "管有物品意圖摧毀或損壞財產，違反 《刑事罪行條例》(第200章) 第62 (a) 條"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "管有物品意圖損壞財產罪"
+  ],
+  "trialDateFrom": "2020-12-02",
+  "trialDateTo": "2020-12-02",
+  "trialLength": 1,
+  "verdictDate": "2020-12-02",
+  "sentenceDate": null,
+  "magistrate": "林子勤",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2020年1月19日，在旺角花園街19號地下外，無合法辯解而管有一罐噴漆，意圖損壞另一人的財產。2020年1月19日，民間集會團隊在遮打花園舉辦「港共受刑，天下制裁」集會，卻遭警方武力驅散。",
+  "verdict": "罪名不成立",
+  "verdictReason": "本案爭議點：\n1. 證物是否由被告身上撿取。\n2. 被告是否有損壞他人財產的意圖。\n\n口頭裁決：\n雖然被告選擇不答辯，但法庭須緊記，舉證責任全在於控方。由於被告沒有任何刑事定罪記錄，因此會給予其一定的比重。法庭不接納女警的口供，原因如下：PW1的作供於不同時間，有不同版本，並以被告當時與警車的距離及人群集結的情況等作為例子。PW1筆記簿上的文字記錄模糊、不清晰，如「隨身包、隨身袋」等，並指出正常情況下，應有詳細的描述，如顏色、牌子等。就記事簿上的補充口供一事，法庭認為女警的解釋─「印象深刻，所以當時沒有記錄」並不合理。新聞片段中見到，被告在22:50（撿取證物時間點）後，PW1及被告身上均沒有背囊，與PW1「一直保管證物」的供詞有矛盾，控方證人亦未能為此作出解釋。此外，背囊內沒有任何個人物品，未能確認該背囊及噴漆是何人管有。因此，控方未能在毫無合理疑點下證明噴漆及背囊等物品屬於被告。\n\n即使噴漆屬於被告，控方亦沒有證據證明被告有意圖損壞他人財產，原因如下：控方主要依賴新聞片段，指出當時有身穿黑衣的人群聚集。雖然當晚有很多人在旺角聚集，但並沒有任何人使用噴漆作刑事損毀。\n\n綜合以上所有元素，法庭裁定被告罪名不成立。",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": "保釋條件：\n3000港元現金\n期間不得離港\n晚上10時至翌日早上6時的宵禁令\n禁足案發現場一帶。",
+  "bailmentCondition": null,
+  "remarks": "申請訟費獲批",
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "188",
+  "caseNo": null,
+  "incident": "20200601太子",
+  "defendants": [
+    {
+      "id": "231",
+      "name": "劉鐵民",
+      "age": 75,
+      "charges": [
+        {
+          "id": "321",
+          "verdict": "成立",
+          "plea": "認罪",
+          "charge": "刑事損毀"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": 1,
+  "verdictDate": "2020-09-03",
+  "sentenceDate": "2020-09-03",
+  "magistrate": " 羅德泉",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被控於本年6月1日在港鐵太子站B1出口外，無合法辯解而損壞屬於香港鐵路有限公司的一面牆，意圖損壞該財產或罔顧該財產是否會被損壞（涉在太子站出口牆上寫上「沉冤待雪」）",
+  "verdict": "罪名成立",
+  "verdictReason": null,
+  "sentence": "判監兩星期、緩刑12個月，以及賠償港鐵1000元清潔費",
+  "sentenceReason": null,
+  "bailment": "批准",
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}

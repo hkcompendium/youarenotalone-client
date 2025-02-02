@@ -1,0 +1,57 @@
+{
+  "id": "273",
+  "caseNo": null,
+  "incident": "20200119 金鐘",
+  "defendants": [
+    {
+      "id": "332",
+      "name": "梁",
+      "age": 16,
+      "charges": [
+        {
+          "id": "464",
+          "verdict": "撤銷控罪",
+          "plea": "其他",
+          "charge": " 管有攻擊性武器並意圖作非法用途使用，違反《簡易程序治罪條例》(第228章) 第17條 "
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "tags": [
+    "撤回控罪"
+  ],
+  "trialDateFrom": null,
+  "trialDateTo": null,
+  "trialLength": null,
+  "verdictDate": null,
+  "sentenceDate": null,
+  "magistrate": "錢禮",
+  "prosecutionRep": null,
+  "defendantRep": null,
+  "summary": "被告被控於2020年1月19日，在金鐘樂禮街近金鐘地鐵站D出口，管有鎅刀、面罩、護目鏡、手套及雨傘",
+  "verdict": null,
+  "verdictReason": "控方分析cctv片段後，未能鎖定被告人，難以證明被告有意圖使用工具作非法用途。因證據不足，故撒回\n",
+  "sentence": null,
+  "sentenceReason": null,
+  "bailment": null,
+  "bailmentRemarks": null,
+  "bailmentCondition": null,
+  "remarks": null,
+  "internalRemarks": null,
+  "charges": [
+    ""
+  ],
+  "custodyLength": null,
+  "appeal": null,
+  "appealJudgementUrl": null,
+  "bailmentAppeal": null,
+  "complaints": null,
+  "publicPerception": null,
+  "mediaUrls": [],
+  "assigneeId": null,
+  "editStatus": "reviewed",
+  "references": {
+    "nodes": []
+  }
+}
